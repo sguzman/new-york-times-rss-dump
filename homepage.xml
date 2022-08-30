@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 15:24:29 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 15:21:44 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 15:50:38 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 15:45:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -188,7 +188,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/us/mississippi-jackson-water.html" rel="standout"></atom:link>
       <description>In Jackson, residents have long contended with boil-water notices and service disruptions. But now, officials say, the system has been pushed to the brink.</description>
       <dc:creator>Rick Rojas</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 15:21:44 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 15:45:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson (Miss)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reeves, Tate (1974- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
@@ -334,7 +334,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/opinion/student-loan-debt-relief-biden.html" rel="standout"></atom:link>
       <description>Our current system of student loans and college funding is at odds with what we hope to achieve by encouraging people to go to college.</description>
       <dc:creator>Susan Dynarski</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 09:47:32 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 15:44:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -616,68 +616,89 @@
       <media:description>Xi Jinping at the last Communist Party congress in Beijing, in 2017. </media:description>
     </item>
     <item>
-      <title>Burnout vs Depression: How to Tell the Difference and Find Relief</title>
-      <link>https://www.nytimes.com/2022/08/23/well/mind/burnout-depression-symptoms-treatment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/well/mind/burnout-depression-symptoms-treatment.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/23/well/mind/burnout-depression-symptoms-treatment.html" rel="standout"></atom:link>
-      <description>Clinicians and researchers offer advice on how to tell the difference, and what to do about both.</description>
-      <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Tue, 23 Aug 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/ASKWELL-BURNOUT-DEPRESSION1/ASKWELL-BURNOUT-DEPRESSION1-moth.jpg" width="151"></media:content>
-      <media:credit>Eric Helgas for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>What Is Quiet Quitting and Who Is It For?</title>
-      <link>https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html" rel="standout"></atom:link>
-      <description>For those not ready to make a grand exit, a softer approach may work.</description>
-      <dc:creator>Alyson Krueger</dc:creator>
-      <pubDate>Wed, 24 Aug 2022 15:56:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/fashion/22QUIET-QUITTING-1/22QUIET-QUITTING-1-moth.jpg" width="151"></media:content>
-      <media:credit>Anthony Redpath &amp;ndash; Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Work Burnout: How to Spot Symptoms and What to Do</title>
-      <link>https://www.nytimes.com/2022/02/15/well/live/burnout-work-stress.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/well/live/burnout-work-stress.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/02/15/well/live/burnout-work-stress.html" rel="standout"></atom:link>
-      <description>Here’s how to recognize the physical symptoms of work-related stress — and what to do about them.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 13 May 2022 21:17:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/01/well/00well-body-burnout/00well-body-burnout-moth.jpg" width="151"></media:content>
-      <media:credit>Alva Skog</media:credit>
-    </item>
-    <item>
-      <title>How to Beat Burnout — Without Quitting Your Job</title>
-      <link>https://www.nytimes.com/2021/04/30/well/workplace-burnout-advice.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/04/30/well/workplace-burnout-advice.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/04/30/well/workplace-burnout-advice.html" rel="standout"></atom:link>
-      <description>We’re all feeling a little fried at work and home. But there are ways to stay sharp and recharge.</description>
-      <dc:creator>Catherine Zuckerman</dc:creator>
-      <pubDate>Fri, 30 Apr 2021 19:35:11 +0000</pubDate>
+      <title>More Children Are Swallowing Batteries and Landing in the E.R.</title>
+      <link>https://www.nytimes.com/2022/08/29/well/family/button-batteries-children-danger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/well/family/button-batteries-children-danger.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/29/well/family/button-batteries-children-danger.html" rel="standout"></atom:link>
+      <description>Twice as many kids needed treatment after putting button batteries in their mouths, noses and ears compared with the previous decade, a new study says. Here’s how to prevent it, and what to do if it happens.</description>
+      <dc:creator>Catherine Pearson</dc:creator>
+      <pubDate>Mon, 29 Aug 2022 15:52:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="">burnout</category>
-      <category domain="">Languishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/27/well/27WELL-WORKPLACE-BURNOUT-ADVICE/27WELL-WORKPLACE-BURNOUT-ADVICE-moth.jpg" width="151"></media:content>
-      <media:credit>Tim Peacock</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/well/29-WELL-BATTERY-INGESTION1/29-WELL-BATTERY-INGESTION1-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Why Chosen Families are Important for L.G.B.T.Q. People</title>
+      <link>https://www.nytimes.com/2022/06/25/well/lgbtq-chosen-families.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/25/well/lgbtq-chosen-families.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/25/well/lgbtq-chosen-families.html" rel="standout"></atom:link>
+      <description>For L.G.B.T.Q. people, the bonds between friends can be liberating and transformative. Five of these close-knit communities tell their stories.</description>
+      <dc:creator>Dani Blum</dc:creator>
+      <pubDate>Mon, 27 Jun 2022 13:01:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+    </item>
+    <item>
+      <title>Covid Vaccines for Kids Are  Dividing Divorced Parents</title>
+      <link>https://www.nytimes.com/2022/04/04/well/covid-vaccine-divorced-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/04/well/covid-vaccine-divorced-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/04/well/covid-vaccine-divorced-parents.html" rel="standout"></atom:link>
+      <description>For some parents who share custody, the Covid vaccine has created a minefield of issues that initial divorce decrees could not have anticipated.</description>
+      <dc:creator>Debra Kamin</dc:creator>
+      <pubDate>Mon, 04 Apr 2022 14:13:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Custody and Support</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Courts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/05/well/16Vaccine-Custody/16Vaccine-Custody-moth.jpg" width="151"></media:content>
+      <media:credit>Charlotte Fu</media:credit>
+    </item>
+    <item>
+      <title>Feeling Ambivalent About Motherhood Is Normal</title>
+      <link>https://www.nytimes.com/2022/05/07/well/family/motherhood-psychiatrist-mental-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/07/well/family/motherhood-psychiatrist-mental-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/07/well/family/motherhood-psychiatrist-mental-health.html" rel="standout"></atom:link>
+      <description>After years of engaging with parenthood from a distance, it’s time for a psychiatrist specializing in women’s mental health to take her own advice.</description>
+      <dc:creator>Pooja Lakshmin, M.D.</dc:creator>
+      <pubDate>Sat, 07 May 2022 18:43:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">In Vitro Fertilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Miscarriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/05/well/05-LAKSHMIN-MOTHERSDAY/05-LAKSHMIN-MOTHERSDAY-moth.jpg" width="151"></media:content>
+      <media:credit>Lilli Carré</media:credit>
+    </item>
+    <item>
+      <title>Kids Are Using Social Media More Than Ever, Study Finds</title>
+      <link>https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/03/24/well/family/child-social-media-use.html" rel="standout"></atom:link>
+      <description>The report highlights a 17 percent increase in screen use among teens and tweens in the last two years — more than in the four years prior.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Thu, 24 Mar 2022 17:26:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="">being13</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/24/well/24well-child-media2/24well-child-media2-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
     </item>
     <item>
       <title>Exploring Spain’s Arab Influence</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 11:49:52 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 11:40:08 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 12:53:41 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 12:48:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/us/navy-seal-training-death.html" rel="standout"></atom:link>
       <description>The elite force’s selection course is so punishing that few make it through, and many of those who do resort to illicit tactics.</description>
       <dc:creator>Dave Philipps</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 10:27:15 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 12:27:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Navy Seals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -34,8 +34,45 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coronado (Calif)</category>
       <category domain="">Swimming-Induced Pulmonary Edema (SIPE)</category>
       <category domain="">Basic Underwater Demolition/SEAL training (BUD/S)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caserta, Brandon (Navy seaman, d. 2018)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caserta, Brandon (d 2018)</category>
+    </item>
+    <item>
+      <title>Ukrainian Soldiers Trade Tanks and Artillery on the Front Line</title>
+      <link>https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html" rel="standout"></atom:link>
+      <description>Most of the bartering involves items captured from Russian troops, which are exchanged for urgently needed supplies. “Let’s just call it a simplification of bureaucracy,” one soldier said.</description>
+      <pubDate>Tue, 30 Aug 2022 12:35:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00ukraine-barter-promo/00ukraine-barter-new-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Repairing a captured Russian armored personnel carrier in the Donetsk region of Ukraine last week.</media:description>
+    </item>
+    <item>
+      <title>U.N. Nuclear Inspectors Are in Ukraine to Visit the Zaporizhzhia Plant </title>
+      <link>https://www.nytimes.com/2022/08/30/world/europe/zaporizhzhia-nuclear-power-plant-iaea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/zaporizhzhia-nuclear-power-plant-iaea.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/zaporizhzhia-nuclear-power-plant-iaea.html" rel="standout"></atom:link>
+      <description>As artillery strikes continued near the complex, the inspectors could reach the nuclear plant as soon as Wednesday</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 11:57:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/multimedia/29ukraine-briefing-Inspectionsbenefitsandrisks-Plant/29ukraine-briefing-Inspectionsbenefitsandrisks-Plant-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>The Zaporizhzhia Nuclear Power Plant was shrouded in smoke on Monday, as fires burned amid the sounds of near-constant shelling.</media:description>
     </item>
     <item>
       <title>How German Companies Are Staring Down Putin’s Threat to Cut Off Gas</title>
@@ -58,55 +95,13 @@
       <media:description>A power plant burning coal in Wilhelmshaven, Germany. Coal-fired plants, many of which were destined to be shut down, have been revived by manufacturers seeking an alternative to expensive Russian natural gas. </media:description>
     </item>
     <item>
-      <title>Gov. Kathy Hochul Seeks Donations From Cuomo Appointees</title>
-      <link>https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html" rel="standout"></atom:link>
-      <description>Gov. Kathy Hochul’s campaign says contributions from board and commission members and their families are fair game because she did not appoint them.</description>
-      <dc:creator>Jay Root</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 07:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Authorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/multimedia/00hochul-board/00hochul-board-moth.jpg" width="151"></media:content>
-      <media:credit>Jeenah Moon for The New York Times</media:credit>
-      <media:description>Gov. Kathy Hochul’s willingness to raise money from appointees runs counter to her pledge that her administration would represent a clean break from her predecessor’s.</media:description>
-    </item>
-    <item>
-      <title>Trump Request for Special Master Could Open Door for Delays to Investigation</title>
-      <link>https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html" rel="standout"></atom:link>
-      <description>The former president, who used the slow pace of litigation to run out the clock on congressional oversight, is seeking intervention that could lead to appeals and slow the documents inquiry.</description>
-      <dc:creator>Charlie Savage, Glenn Thrush and Alan Feuer</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 00:54:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/us/politics/29dc-investigate/29dc-investigate-moth.jpg" width="151"></media:content>
-      <media:credit>Leigh Vogel for The New York Times</media:credit>
-      <media:description>The Justice Department said in a court filing that it had completed a detailed analysis of all the documents retrieved from former President Donald J. Trump’s Florida residence, Mar-a-Lago.</media:description>
-    </item>
-    <item>
       <title>The Animal Translators</title>
       <link>https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html" rel="standout"></atom:link>
       <description>Scientists are using machine learning to eavesdrop on naked mole rats, fruit bats, crows and whales — and to communicate back.</description>
       <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 08:41:29 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 12:40:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -131,6 +126,48 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/science/00sci-animal-translation1/00sci-animal-translation1-moth.jpg" width="151"></media:content>
       <media:credit>Felix Schmitt for The New York Times</media:credit>
       <media:description>Naked mole rats live in large, underground colonies and have an elaborate vocal repertoire.</media:description>
+    </item>
+    <item>
+      <title>Trump Request for Special Master Could Open Door for Delays to Investigation</title>
+      <link>https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html" rel="standout"></atom:link>
+      <description>The former president, who used the slow pace of litigation to run out the clock on congressional oversight, is seeking intervention that could lead to appeals and slow the documents inquiry.</description>
+      <dc:creator>Charlie Savage, Glenn Thrush and Alan Feuer</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 00:54:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/us/politics/29dc-investigate/29dc-investigate-moth.jpg" width="151"></media:content>
+      <media:credit>Leigh Vogel for The New York Times</media:credit>
+      <media:description>The Justice Department said in a court filing that it had completed a detailed analysis of all the documents retrieved from former President Donald J. Trump’s Florida residence, Mar-a-Lago.</media:description>
+    </item>
+    <item>
+      <title>Gov. Kathy Hochul Seeks Donations From Cuomo Appointees</title>
+      <link>https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/nyregion/kathy-hochul-donors-money-ethics.html" rel="standout"></atom:link>
+      <description>Gov. Kathy Hochul’s campaign says contributions from board and commission members and their families are fair game because she did not appoint them.</description>
+      <dc:creator>Jay Root</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Authorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/multimedia/00hochul-board/00hochul-board-moth.jpg" width="151"></media:content>
+      <media:credit>Jeenah Moon for The New York Times</media:credit>
+      <media:description>Gov. Kathy Hochul’s willingness to raise money from appointees runs counter to her pledge that her administration would represent a clean break from her predecessor’s.</media:description>
     </item>
     <item>
       <title>A Surprise Senate Race in Colorado: Michael Bennet and Joe O’Dea</title>
@@ -198,7 +235,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/business/economy/electric-cars-us-nickel-mine.html" rel="standout"></atom:link>
       <description>Hiding a thousand feet below the earth’s surface in this patch of northern Minnesota wetlands are ancient mineral deposits that some view as critical to fueling America’s clean energy future.</description>
       <dc:creator>Ana Swanson and Tim Gruber</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 09:00:28 +0000</pubDate>
+      <pubDate>Tue, 30 Aug 2022 12:48:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nickel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>

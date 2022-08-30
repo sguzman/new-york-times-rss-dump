@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 04:22:32 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 04:17:03 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2022 05:52:51 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Aug 2022 05:00:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -279,6 +279,25 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
+      <title>I’m a Ukrainian Soldier, and I’ve Accepted My Death</title>
+      <link>https://www.nytimes.com/2022/08/30/opinion/ukraine-soldier-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/opinion/ukraine-soldier-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/opinion/ukraine-soldier-war.html" rel="standout"></atom:link>
+      <description>So it must be for those who tread the path of war.</description>
+      <dc:creator>Artem Chekh</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 05:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernobyl (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/opinion/30chekh2/30chekh2-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>A mass burial in Bucha, Ukraine, this month.</media:description>
+    </item>
+    <item>
       <title>The Book That Explains Our Cultural Stagnation</title>
       <link>https://www.nytimes.com/2022/08/29/opinion/status-culture-book.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/opinion/status-culture-book.html</guid>
@@ -370,29 +389,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
     </item>
     <item>
-      <title>The Day Rosa Santana Got Her Big Break</title>
-      <link>https://www.nytimes.com/2022/08/29/opinion/rosa-santana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/opinion/rosa-santana.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/opinion/rosa-santana.html" rel="standout"></atom:link>
-      <description>The entrepreneur, originally from Mexico, owns a company that assembles truck beds for Toyota in San Antonio.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 20:45:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affirmative Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Employment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Minority Supplier Development Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dell Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson Controls Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kelly Services Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ryder System Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toyota Motor Corp</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/opinion/29coy-image/29coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by CSA Images via Getty </media:credit>
-    </item>
-    <item>
       <title>Billie Jean King: How Serena Williams Elevated Tennis</title>
       <link>https://www.nytimes.com/2022/08/29/opinion/serena-williams-us-open.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/opinion/serena-williams-us-open.html</guid>
@@ -414,16 +410,17 @@
       <media:credit>Ben Solomon for The New York Times</media:credit>
     </item>
     <item>
-      <title>Your Monday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/08/29/briefing/nasa-moon-rocket-serena-williams.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/briefing/nasa-moon-rocket-serena-williams.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/briefing/nasa-moon-rocket-serena-williams.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 21:45:17 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/multimedia/29evening-briefing-03a/29evening-briefing-03a-moth.jpg" width="151"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>Two brothers and their families waited today at a Ukrainian-controlled checkpoint on the outskirts of Zaporizhzhia after fleeing a Russian-occupied village in the Kherson region.</media:description>
+      <title>How Will the Student Loan Forgiveness Plan Affect You?</title>
+      <link>https://www.nytimes.com/2022/08/26/business/student-debt-reader-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/26/business/student-debt-reader-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/26/business/student-debt-reader-response.html" rel="standout"></atom:link>
+      <description>We want to hear about what President Biden’s debt cancellation plan means for your life and finances.</description>
+      <dc:creator>Lora Kelley</dc:creator>
+      <pubDate>Mon, 29 Aug 2022 10:42:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/multimedia/00Debt-Callout/00Debt-Callout-moth.jpg" width="151"></media:content>
+      <media:credit>Kendrick Brinson for The New York Times</media:credit>
     </item>
     <item>
       <title>Rage Against the Machine, Roaring On</title>

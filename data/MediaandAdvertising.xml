@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 13:45:04 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 13:22:48 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 14:01:29 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 14:00:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Business &gt; Media</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business/media</link>
     </image>
+    <item>
+      <title>Zach Sang, the Ryan Seacrest of the Youth, Wants to Save Radio</title>
+      <link>https://www.nytimes.com/2022/08/31/arts/music/zach-sang-radio-amazon-amp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/arts/music/zach-sang-radio-amazon-amp.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/arts/music/zach-sang-radio-amazon-amp.html" rel="standout"></atom:link>
+      <description>The former syndication star and top-flight interviewer is rebuilding his daily show on Amazon’s new app, Amp.</description>
+      <dc:creator>Jon Caramanica</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 14:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zach Sang</category>
+      <category domain="">Amp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Zach Sang Show (Radio Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/arts/04zach-sang2/04zach-sang2-moth.jpg" width="151"></media:content>
+      <media:credit>Maggie Shannon for The New York Times</media:credit>
+      <media:description>Sang is an uncommonly gifted interviewer. He treats interview subjects not as famous people, but rather people who happen to be famous.</media:description>
+    </item>
     <item>
       <title>Snap Cuts 20% of Employees and Restructures</title>
       <link>https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html</link>
@@ -376,27 +395,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/arts/23live-styles1/23live-styles1-moth.jpg" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
       <media:description>Harry Styles onstage at Madison Square Garden on Saturday night, the opening show of his 15-concert residency at the New York arena.</media:description>
-    </item>
-    <item>
-      <title>Lachlan Murdoch Sues Australian News Site Crikey</title>
-      <link>https://www.nytimes.com/2022/08/23/business/media/lachlan-murdoch-crikey-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/business/media/lachlan-murdoch-crikey-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/23/business/media/lachlan-murdoch-crikey-lawsuit.html" rel="standout"></atom:link>
-      <description>The news outlet Crikey challenged the younger Murdoch in an open letter, saying it wanted to make the dispute a test case for Australia’s strict defamation laws.</description>
-      <dc:creator>Yan Zhuang and Katie Robertson</dc:creator>
-      <pubDate>Wed, 24 Aug 2022 07:31:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdoch, Lachlan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Private Media Pty Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crikey (Private Media Pty Ltd)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/world/23murdoch-suit-1/23murdoch-suit-1-moth.jpg" width="151"></media:content>
-      <media:credit>Drew Angerer/Getty Images</media:credit>
-      <media:description>Rupert Murdoch and his son Lachlan in 2017.</media:description>
     </item>
   </channel>
 </rss>

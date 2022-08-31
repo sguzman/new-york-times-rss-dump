@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 13:47:25 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 13:42:51 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 14:00:29 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 13:48:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Style</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -71,18 +71,6 @@
       <media:description>Mari Trombley relishes making eye-catching changes to her hair, including the bold jellyfish cut she gave herself this summer.</media:description>
     </item>
     <item>
-      <title>Who Is Quiet Quitting For?</title>
-      <link>https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html" rel="standout"></atom:link>
-      <description>For those not ready to make a grand exit, a softer approach may work.</description>
-      <pubDate>Wed, 24 Aug 2022 15:56:23 +0000</pubDate>
-      <category domain="">Labor and Jobs</category>
-      <category domain="">Social Media</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/fashion/22QUIET-QUITTING-1/22QUIET-QUITTING-1-moth.jpg" width="151"></media:content>
-      <media:credit>Anthony Redpath &amp;ndash; Getty Images</media:credit>
-    </item>
-    <item>
       <title>Don’t Get Dressed Without Reading This Book</title>
       <link>https://www.nytimes.com/2022/08/31/style/claire-mccardell-what-shall-i-wear.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/style/claire-mccardell-what-shall-i-wear.html</guid>
@@ -95,6 +83,18 @@
       <category domain="">your-feed-fashion</category>
       <category domain="">McCardell, Claire</category>
       <category domain="">What Shall I Wear? (Book)</category>
+    </item>
+    <item>
+      <title>Who Is Quiet Quitting For?</title>
+      <link>https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/23/style/quiet-quitting-tiktok.html" rel="standout"></atom:link>
+      <description>For those not ready to make a grand exit, a softer approach may work.</description>
+      <pubDate>Wed, 24 Aug 2022 15:56:23 +0000</pubDate>
+      <category domain="">Labor and Jobs</category>
+      <category domain="">Social Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/fashion/22QUIET-QUITTING-1/22QUIET-QUITTING-1-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Redpath &amp;ndash; Getty Images</media:credit>
     </item>
     <item>
       <title>Talking Jewelry on TikTok</title>
@@ -239,6 +239,7 @@
       <dc:creator>Philip Galanes</dc:creator>
       <pubDate>Wed, 31 Aug 2022 13:00:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs, Etiquette and Manners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-moth.jpg" width="151"></media:content>
       <media:credit>Miguel Porlan</media:credit>
@@ -739,25 +740,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-    </item>
-    <item>
-      <title>RM, BTS Leader, Embraces New Role: Art Patron</title>
-      <link>https://www.nytimes.com/2022/08/24/arts/design/rm-bts-band-art-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/24/arts/design/rm-bts-band-art-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/24/arts/design/rm-bts-band-art-korea.html" rel="standout"></atom:link>
-      <description>The BTS leader has been championing canonical artists from his native South Korea — studying their work, buying it and sometimes talking to it. “I feel like they’re watching me,” he said.</description>
-      <dc:creator>Andrew Russeth</dc:creator>
-      <pubDate>Sun, 28 Aug 2022 18:07:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Nam-joon (RM) (Rapper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/arts/28rm-bts-art1/28rm-bts-art1-moth.jpg" width="151"></media:content>
-      <media:credit>Dasom Han for The New York Times</media:credit>
-      <media:description>“I think that there’s something that I can offer as an outsider of the art industry,” RM said.</media:description>
     </item>
   </channel>
 </rss>

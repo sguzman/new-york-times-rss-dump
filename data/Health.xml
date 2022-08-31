@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 13:47:26 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 13:10:08 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:58:25 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 13:55:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -198,6 +198,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/science/23TEEN-SURVEY/23TEEN-SURVEY-moth.jpg" width="151"></media:content>
       <media:credit>Peter Morgan/Associated Press</media:credit>
       <media:description>The annual survey of drug use indicated that daily consumption of marijuana among young adults nearly doubled over the previous decade. </media:description>
+    </item>
+    <item>
+      <title>F.D.A. Authorizes Updated Covid Booster Shots, Targeting Omicron Subvariants</title>
+      <link>https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html" rel="standout"></atom:link>
+      <description>The agency cleared booster doses targeting Omicron subvariants, hoping to curtail a fall or winter surge.</description>
+      <dc:creator>Noah Weiland and Sharon LaFraniere</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 13:55:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/politics/31dc-booster/merlin_209109879_aaf3e099-949f-495e-bf04-c3fd66c49b6c-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Rourke/Associated Press</media:credit>
+      <media:description>Vaccinations remain the cornerstone of its Covid strategy, even with tests and treatments widely available.</media:description>
     </item>
     <item>
       <title>US Life Expectancy Falls Again in ‘Historic’ Setback</title>
@@ -391,27 +404,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/us/politics/23dc-boosters/23dc-boosters-moth.jpg" width="151"></media:content>
       <media:credit>Kenny Holston for The New York Times</media:credit>
       <media:description>Assuming the redesigned doses clear regulatory hurdles, officials plan to offer the Pfizer shot to people 12 and older while limiting the Moderna shot to adults.</media:description>
-    </item>
-    <item>
-      <title>Your Doppelgänger Is Out There and You Probably Share DNA With Them</title>
-      <link>https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html" rel="standout"></atom:link>
-      <description>That person who looks just like you is not your twin, but if scientists compared your genomes, they might find a lot in common.</description>
-      <dc:creator>Kate Golembiewski and François Brunelle</dc:creator>
-      <pubDate>Tue, 23 Aug 2022 15:47:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Face</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Twins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cell Reports (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brunelle, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
     </item>
   </channel>
 </rss>

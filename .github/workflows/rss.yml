@@ -1,7 +1,6 @@
 name: Scrape latest RSS Feeds
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '*/5 * * * *'

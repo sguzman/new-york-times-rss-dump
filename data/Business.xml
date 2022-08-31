@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 07:49:00 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 07:47:46 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 07:55:39 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 06:04:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -203,26 +203,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/business/00California-Disinfo/00California-Disinfo-moth.jpg" width="151"></media:content>
       <media:credit>Jim Wilson/The New York Times</media:credit>
       <media:description>California’s Legislature approved a bill that would allow regulators to punish doctors for spreading false information about Covid-19 vaccinations and treatments.</media:description>
-    </item>
-    <item>
-      <title>Russia halts natural gas flows to Germany again.</title>
-      <link>https://www.nytimes.com/live/2022/08/31/world/ukraine-russia-war-news/russia-natural-gas-germany</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/08/31/world/ukraine-russia-war-news/russia-natural-gas-germany</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/08/31/world/ukraine-russia-war-news/russia-natural-gas-germany" rel="standout"></atom:link>
-      <description>Gazprom said the Nord Stream 1 pipeline would undergo three days of maintenance, raising worries about a complete shutdown of Russian gas deliveries to Germany.</description>
-      <dc:creator>Stanley Reed</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 06:14:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uniper SE</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gazprom1/30gazprom1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Annegret Hilse/Reuters</media:credit>
-      <media:description>Part of the Nord Stream 1 pipeline in Lubmin, Germany.</media:description>
     </item>
     <item>
       <title>Job Openings Picked Up in July, Showing the Labor Market Remains Hot</title>
@@ -1128,6 +1108,27 @@
       <pubDate>Fri, 26 Aug 2022 14:08:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/business/-26vid-powell-live/-26vid-powell-live-moth.jpg" width="151"></media:content>
       <media:credit>Elizabeth Frantz/Reuters</media:credit>
+    </item>
+    <item>
+      <title>How to Get Heart Patients to Take Their Pills? Give Them Just One.</title>
+      <link>https://www.nytimes.com/2022/08/26/health/polypill-heart-disease.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/26/health/polypill-heart-disease.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/26/health/polypill-heart-disease.html" rel="standout"></atom:link>
+      <description>Patients given a combination “polypill” after a heart attack were more likely to stick to their regimens, researchers reported.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Fri, 26 Aug 2022 13:45:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aspirin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Pressure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/science/26-polypill-heart/26-polypill-heart-moth.jpg" width="151"></media:content>
+      <media:credit>Georgia Kirkos/McMaster University, via Associated Press</media:credit>
+      <media:description>People who were given a three-in-one polypill within six months of a heart attack were more likely to stick to their drug regimens and had fewer cardiovascular events than those receiving the usual assortment of pills.</media:description>
     </item>
   </channel>
 </rss>

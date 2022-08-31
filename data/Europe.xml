@@ -3,17 +3,48 @@
   <channel>
     <title>NYT &gt; World &gt; Europe</title>
     <link>https://www.nytimes.com/section/world/europe</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/europe.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 00:52:41 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 00:06:23 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 03:41:57 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 03:32:37 +0000</pubDate>
     <image>
       <title>NYT &gt; World &gt; Europe</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world/europe</link>
     </image>
+    <item>
+      <title>How Gorbachev’s Legacy of Perestroika Vanished</title>
+      <link>https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html" rel="standout"></atom:link>
+      <description>Mr. Gorbachev’s vision of a “common European home” stretching from Vladivostok to Lisbon has been replaced by a Russia increasingly isolated from the rest of Europe.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 01:40:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-perestroika-02/30gorbachev-death-perestroika-02-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Avery/Associated Press</media:credit>
+      <media:description>When Mikhail S. Gorbachev visited Beijing in May 1989, student protesters in Tiananmen Square hailed him as a hero. Their hope for reform, in China as well as in Russia, faded.</media:description>
+    </item>
+    <item>
+      <title>How Reagan and Bush Overcame Skepticism to Collaborate With Gorbachev</title>
+      <link>https://www.nytimes.com/2022/08/30/world/europe/gorbachev-us-presidents-reagan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/gorbachev-us-presidents-reagan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/gorbachev-us-presidents-reagan.html" rel="standout"></atom:link>
+      <description>Mr. Gorbachev was charming and presented himself as a reformer, but neither Ronald Reagan nor George Bush was convinced he was for real. They would both be proved wrong.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 02:39:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-us-presidents-1988/30gorbachev-death-us-presidents-1988-moth.jpg" width="151"></media:content>
+      <media:credit>Mike Sargent/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mikhail S. Gorbachev with President Ronald Reagan and President-elect George Bush in 1988.</media:description>
+    </item>
     <item>
       <title>Putin Sees the War as Part of His Battle to Undo Gorbachev’s Legacy</title>
       <link>https://www.nytimes.com/2022/08/30/world/europe/putin-gorbachev-ukraine-russia.html</link>
@@ -21,7 +52,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/putin-gorbachev-ukraine-russia.html" rel="standout"></atom:link>
       <description>For Mr. Putin, the end of the Soviet Union was the “greatest geopolitical catastrophe of the century,” caused by the weak nerves of a leader too willing to appease the treacherous West.</description>
       <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 23:56:35 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 00:58:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-analysis-01/30gorbachev-death-analysis-01-moth.jpg" width="151"></media:content>
@@ -55,7 +86,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/ukraine-russia-zaporizhzhia-plant.html" rel="standout"></atom:link>
       <description>A senior adviser to Ukraine’s president said that key aspects of the negotiations between the international team, Ukraine and Russia were in question, including a safe route to the plant itself.</description>
       <dc:creator>Andrew E. Kramer and Marc Santora</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 23:00:07 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 03:19:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -74,7 +105,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/soviet-union-gorbachev-remembrance.html" rel="standout"></atom:link>
       <description>Anatoly Kurmanaev, a New York Times reporter, recalls a childhood forever changed by a man with a distinctive birthmark.</description>
       <dc:creator>Anatoly Kurmanaev</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 00:06:23 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 02:23:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -376,42 +407,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/29xp-wastewater1/29xp-wastewater1-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Holt/Construction Photography/Avalon/Getty Images</media:credit>
       <media:description>A sewage treatment plant in Rickmansworth, England. Toilet-to-tap recycling is “perfectly safe and healthy, but not something many people fancy,” the head of Britain’s Environment Agency wrote this week.</media:description>
-    </item>
-    <item>
-      <title>Air France Under Scrutiny Over Safety Incidents</title>
-      <link>https://www.nytimes.com/2022/08/29/world/europe/air-france-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/world/europe/air-france-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/world/europe/air-france-safety.html" rel="standout"></atom:link>
-      <description>Two pilots have recently been suspended after a cockpit fight, bringing to light new concerns over poorly observed safety protocols at the French airline.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 15:13:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Air France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/world/29france-pilots-print/29france-pilots-moth.jpg" width="151"></media:content>
-      <media:credit>Ramon Van Flymen/EPA, via Shutterstock</media:credit>
-      <media:description>News of the altercation between two pilots while they were airborne has brought to light broader safety issues at Air France.</media:description>
-    </item>
-    <item>
-      <title>As Rome Burns (or at Least Its Garbage), a Mayor Dares to Dream</title>
-      <link>https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html" rel="standout"></atom:link>
-      <description>Could a solution to Rome’s perpetual trash crisis really be in sight? Mayor Roberto Gualtieri would like to think so.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 15:51:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gualtieri, Roberto (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/29rome-garbage-new/29rome-garbage-new-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Penso for The New York Times</media:credit>
-      <media:description>A worker at a junkyard in Rome searched for his dog, which had been missing since the lot caught fire last month, one of a rash of such blazes across the city.</media:description>
     </item>
   </channel>
 </rss>

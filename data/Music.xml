@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 08:53:45 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 04:02:00 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 09:05:38 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 09:00:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Arts &gt; Music</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -85,6 +85,32 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/obituaries/26Branch1/26Branch1-moth.jpg" width="151"></media:content>
       <media:credit>Mark Abramson for The New York Times</media:credit>
       <media:description>The trumpeter Jaimie Branch in performance at Le Poisson Rouge in New York City in 2016, with Jason Ajemian on bass.</media:description>
+    </item>
+    <item>
+      <title>John Adams, an American Master at 75</title>
+      <link>https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html" rel="standout"></atom:link>
+      <description>Adams, arguably our greatest living composer, has done operas inspired by recent history. In “Antony and Cleopatra,” he turns to Shakespeare.</description>
+      <dc:creator>Joshua Barone</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 09:00:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nonesuch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Francisco Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John (1947- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Waart, Edo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Finley, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hurwitz, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Eun Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Muhly, Nico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulitzer, Elkhanah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattingly, Dylan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Gabriella (Composer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Antony and Cleopatra (Opera)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/arts/04ADAMS1a/04ADAMS1a-moth.jpg" width="151"></media:content>
+      <media:credit>Marissa Leshnov for The New York Times</media:credit>
+      <media:description>John Adams’s 75th year is being celebrated not only with the premiere of a new opera, but also with a 40-disc retrospective box set on the Nonesuch label.</media:description>
     </item>
     <item>
       <title>Daniel Barenboim, Star Conductor, Withdraws from ‘Ring’ Cycle in Berlin</title>
@@ -389,19 +415,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/arts/24mclain1/24mclain1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Peter Fisher for The New York Times</media:credit>
       <media:description>“I got stagnated,” Tommy McLain said. “But I still have the desire to be creative.”</media:description>
-    </item>
-    <item>
-      <title>Karaoke Singers Live the Dream at the Illinois State Fair</title>
-      <link>https://www.nytimes.com/2022/08/24/style/karaoke-singers-live-the-dream-at-the-illinois-state-fair.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/24/style/karaoke-singers-live-the-dream-at-the-illinois-state-fair.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/24/style/karaoke-singers-live-the-dream-at-the-illinois-state-fair.html" rel="standout"></atom:link>
-      <description>Near the 500-pound Butter Cow, 16 contestants performed songs by Whitney Houston, Billy Joel, Jamey Johnson and Shania Twain in a bid to win $500 and appear on the Grandstand Stage.</description>
-      <dc:creator>George Gurley and Adam Jason Cohen</dc:creator>
-      <pubDate>Sat, 27 Aug 2022 13:54:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Karaoke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State and County Fairs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Springfield (Ill)</category>
     </item>
   </channel>
 </rss>

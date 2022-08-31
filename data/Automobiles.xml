@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 08:55:47 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 14:38:16 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 09:10:15 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 09:00:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Automobiles</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -286,6 +286,23 @@
       <media:description>Ford has stopped taking orders for Lightning electric pickups, with a theoretical starting price of about $40,000, because it can’t make them fast enough.</media:description>
     </item>
     <item>
+      <title>Some Carmakers Say Recycling Car Parts Is the Future. But Is It Realistic?</title>
+      <link>https://www.nytimes.com/2022/08/31/business/cars-recycling-circular-manufacturing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/business/cars-recycling-circular-manufacturing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/business/cars-recycling-circular-manufacturing.html" rel="standout"></atom:link>
+      <description>“Circular manufacturing” has the promise to reduce waste by reusing parts to make new cars. There are glimmers of hope, but they are currently outweighed by challenges.</description>
+      <dc:creator>Roy Furchgott</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recycling of Waste Materials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="">future of transportation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31transportation-circular/31transportation-circular-moth.jpg" width="151"></media:content>
+      <media:credit>&#x9;Matt Williams</media:credit>
+    </item>
+    <item>
       <title>This Remote Mine Could Foretell the Future of America’s Electric Car Industry</title>
       <link>https://www.nytimes.com/2022/08/30/business/economy/electric-cars-us-nickel-mine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/business/economy/electric-cars-us-nickel-mine.html</guid>
@@ -415,28 +432,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/25/multimedia/25economy-briefing-doe-batteries/25economy-briefing-doe-batteries-moth.jpg" width="151"></media:content>
       <media:credit>Peter Hoffman for The New York Times</media:credit>
       <media:description>A battery pack at the General Motors Estes Engineering lab in Warren, Mich.</media:description>
-    </item>
-    <item>
-      <title>Tesla will spend more to increase production at two new factories.</title>
-      <link>https://www.nytimes.com/2022/07/25/business/tesla-spending-production-factories.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/07/25/business/tesla-spending-production-factories.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/07/25/business/tesla-spending-production-factories.html" rel="standout"></atom:link>
-      <description>Tesla said it expected capital expenditures to be $6 billion to $8 billion in 2022, up from an April forecast of $5 billion to $7 billion.</description>
-      <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Mon, 25 Jul 2022 17:48:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/25/business/25economy-briefing-tesla/25economy-briefing-tesla-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Christian Marquardt</media:credit>
-      <media:description>A Tesla vehicle during the opening day of the Tesla “Gigafactory” in Germany.</media:description>
     </item>
   </channel>
 </rss>

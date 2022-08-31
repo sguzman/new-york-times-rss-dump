@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 15:48:03 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 14:33:10 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 15:55:33 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 15:52:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Most Popular</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -184,14 +184,16 @@
       <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html" rel="standout"></atom:link>
       <description>The filing by the Justice Department paints the clearest picture to date of its efforts to retrieve documents from the former president’s Mar-a-Lago estate in Florida.</description>
       <dc:creator>Glenn Thrush, Charlie Savage, Alan Feuer and Maggie Haberman</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 13:29:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Merrick B</category>
+      <pubDate>Wed, 31 Aug 2022 13:29:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Palm Beach (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Merrick B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Archives and Records Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/30dc-investigate-3/30dc-investigate-3-moth.jpg" width="151"></media:content>
       <media:credit>Department of Justice</media:credit>
       <media:description>The Justice Department included a photo of documents seized from former President Donald J. Trump’s Florida home in its court filing.</media:description>
@@ -215,6 +217,25 @@
       <media:credit>Travis Dove for The New York Times</media:credit>
     </item>
     <item>
+      <title>West Point Has K.K.K. Plaque Mounted Above Entrance to Science Hall</title>
+      <link>https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html" rel="standout"></atom:link>
+      <description>A special congressional commission that recommends the removal of Confederate symbols at U.S. military sites flagged the bronze plaque in a new report.</description>
+      <dc:creator>Hurubie Meko</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 15:52:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ku Klux Klan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Military Academy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/nyregion/30west-point-1-copy/30west-point-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mykhaylo Palinchak, via Associated Press</media:credit>
+      <media:description>The U.S. Military Academy at West Point. A congressional panel flagged a plaque mounted at the entrance of Bartlett Hall Science Center that includes an image of a hooded figure and the words “Ku Klux Klan.”</media:description>
+    </item>
+    <item>
       <title>Trump Request for Special Master Could Open Door for Delays to Investigation</title>
       <link>https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/us/politics/trump-documents-doj.html</guid>
@@ -233,25 +254,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/us/politics/29dc-investigate/29dc-investigate-moth.jpg" width="151"></media:content>
       <media:credit>Leigh Vogel for The New York Times</media:credit>
       <media:description>The Justice Department said in a court filing that it had completed a detailed analysis of all the documents retrieved from former President Donald J. Trump’s Florida residence, Mar-a-Lago.</media:description>
-    </item>
-    <item>
-      <title>West Point Has K.K.K. Plaque Mounted Above Entrance to Science Hall</title>
-      <link>https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html" rel="standout"></atom:link>
-      <description>A special congressional commission that recommends the removal of Confederate symbols at U.S. military sites flagged the bronze plaque in a new report.</description>
-      <dc:creator>Hurubie Meko</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 14:33:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ku Klux Klan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Military Academy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/nyregion/30west-point-1-copy/30west-point-1-moth.jpg" width="151"></media:content>
-      <media:credit>Mykhaylo Palinchak, via Associated Press</media:credit>
-      <media:description>The U.S. Military Academy at West Point. A congressional panel flagged a plaque mounted at the entrance of Bartlett Hall Science Center that includes an image of a hooded figure and the words “Ku Klux Klan.”</media:description>
     </item>
     <item>
       <title>Daniel Vogelbach Gives the Mets Big Hits and Big Laughs</title>
@@ -350,6 +352,24 @@
       <media:description>The Arizona Supreme Court affirmed a lower court judge’s earlier decision to reject more than 238,000 signatures from the petition to place the measure on the ballot.</media:description>
     </item>
     <item>
+      <title>‘Bama Rush’: The Sorority Drama Circling the University of Alabama </title>
+      <link>https://www.nytimes.com/2022/08/12/style/bama-rush.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/12/style/bama-rush.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/12/style/bama-rush.html" rel="standout"></atom:link>
+      <description>Fears about TikTok and rumors of a secret documentary swirl around sorority rush week at the University of Alabama.</description>
+      <dc:creator>Madison Malone Kircher</dc:creator>
+      <pubDate>Fri, 12 Aug 2022 22:09:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/fashion/11BAMA-RUSH-AGAIN7/11BAMA-RUSH-AGAIN7-moth.jpg" width="151"></media:content>
+      <media:credit>Jill Frank for The New York Times</media:credit>
+      <media:description>After the sorority rush at the University of Alabama went viral on TikTok last year, the week has taken on new tension.</media:description>
+    </item>
+    <item>
       <title>Bill Barr Made the Decision to Clear Trump, and That Should Still Frighten Us</title>
       <link>https://www.nytimes.com/2022/08/30/opinion/trump-barr-justice-department.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/opinion/trump-barr-justice-department.html</guid>
@@ -367,24 +387,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/opinion/30katyal/30katyal-moth.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Donald Trump and Attorney General Bill Barr in 2019.</media:description>
-    </item>
-    <item>
-      <title>‘Bama Rush’: The Sorority Drama Circling the University of Alabama </title>
-      <link>https://www.nytimes.com/2022/08/12/style/bama-rush.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/12/style/bama-rush.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/12/style/bama-rush.html" rel="standout"></atom:link>
-      <description>Fears about TikTok and rumors of a secret documentary swirl around sorority rush week at the University of Alabama.</description>
-      <dc:creator>Madison Malone Kircher</dc:creator>
-      <pubDate>Fri, 12 Aug 2022 22:09:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Alabama</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/fashion/11BAMA-RUSH-AGAIN7/11BAMA-RUSH-AGAIN7-moth.jpg" width="151"></media:content>
-      <media:credit>Jill Frank for The New York Times</media:credit>
-      <media:description>After the sorority rush at the University of Alabama went viral on TikTok last year, the week has taken on new tension.</media:description>
     </item>
     <item>
       <title>Lockdowns in China, and North Korea, Deal Double Blow to Bridge City</title>

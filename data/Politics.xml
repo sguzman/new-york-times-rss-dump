@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 14:22:53 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 14:17:41 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 14:32:39 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 14:27:05 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. &gt; Politics</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,6 +33,24 @@
       <media:description>A monkeypox vaccination in Tucson, Ariz., this month. A new program the White House announced Tuesday is aimed at increasing access to the shots.</media:description>
     </item>
     <item>
+      <title>Documents at Mar-a-Lago Were Moved and Hidden as U.S. Sought Them, Filing Suggests</title>
+      <link>https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html" rel="standout"></atom:link>
+      <description>The filing by the Justice Department paints the clearest picture to date of its efforts to retrieve documents from the former president’s Mar-a-Lago estate in Florida.</description>
+      <pubDate>Wed, 31 Aug 2022 13:29:21 +0000</pubDate>
+      <category domain="">Federal Bureau of Investigation</category>
+      <category domain="">Justice Department</category>
+      <category domain="">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="">Garland, Merrick B</category>
+      <category domain="">Trump, Donald J</category>
+      <category domain="">West Palm Beach (Fla)</category>
+      <category domain="">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/30dc-investigate-3/30dc-investigate-3-moth.jpg" width="151"></media:content>
+      <media:credit>Department of Justice</media:credit>
+      <media:description>The Justice Department included a photo of documents seized from former President Donald J. Trump’s Florida home in its court filing.</media:description>
+    </item>
+    <item>
       <title>Solomon Islands Suspends Visits by Foreign Military Ships, Raising Concerns in U.S.</title>
       <link>https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html</guid>
@@ -52,24 +70,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30dc-diplo-photo/30dc-diplo-photo-moth.jpg" width="151"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>The U.S. combat ship Oakland visited Honiara, the capital of the Solomon Islands, as part of a ceremony in early August marking the 80th anniversary of battles in World War II.</media:description>
-    </item>
-    <item>
-      <title>Documents at Mar-a-Lago Were Moved and Hidden as U.S. Sought Them, Filing Suggests</title>
-      <link>https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-mar-a-lago-documents.html" rel="standout"></atom:link>
-      <description>The filing by the Justice Department paints the clearest picture to date of its efforts to retrieve documents from the former president’s Mar-a-Lago estate in Florida.</description>
-      <pubDate>Wed, 31 Aug 2022 13:29:21 +0000</pubDate>
-      <category domain="">Federal Bureau of Investigation</category>
-      <category domain="">Justice Department</category>
-      <category domain="">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="">Garland, Merrick B</category>
-      <category domain="">Trump, Donald J</category>
-      <category domain="">West Palm Beach (Fla)</category>
-      <category domain="">Florida</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/30dc-investigate-3/30dc-investigate-3-moth.jpg" width="151"></media:content>
-      <media:credit>Department of Justice</media:credit>
-      <media:description>The Justice Department included a photo of documents seized from former President Donald J. Trump’s Florida home in its court filing.</media:description>
     </item>
     <item>
       <title>Russia’s Occupation of Nuclear Plant Gives Moscow a New Way to Intimidate</title>
@@ -98,13 +98,19 @@
       <link>https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html" rel="standout"></atom:link>
-      <description>The agency cleared booster doses targeting Omicron subvariants, hoping to curtail a fall or winter surge.</description>
+      <description>The agency cleared two options targeting subvariants that are currently dominant, hoping to curtail a fall or winter surge.</description>
       <dc:creator>Noah Weiland and Sharon LaFraniere</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 14:17:41 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 14:25:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/politics/31dc-booster/merlin_209109879_aaf3e099-949f-495e-bf04-c3fd66c49b6c-moth.jpg" width="151"></media:content>
       <media:credit>Matt Rourke/Associated Press</media:credit>
-      <media:description>Vaccinations remain the cornerstone of its Covid strategy, even with tests and treatments widely available.</media:description>
+      <media:description>Vaccinations remain the cornerstone of the government’s coronavirus strategy, even with tests and treatments widely available. </media:description>
     </item>
     <item>
       <title>Doug Mastriano’s Extremely Online Rise to Republicans’ Governor Nominee in Pa.</title>

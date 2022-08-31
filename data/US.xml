@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 15:13:53 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 15:11:31 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 15:34:44 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 15:34:36 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -99,7 +99,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/31/us/ap-african-american-studies.html" rel="standout"></atom:link>
       <description>The new course will undergo a pilot program in 60 schools, as the debate over how to teach history becomes ever more divisive.</description>
       <dc:creator>Anemona Hartocollis</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 14:58:26 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 15:34:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
@@ -538,8 +538,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/30DC-violence-1/30DC-violence-1-moth.jpg" width="151"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>Former President Donald J. Trump has often sought to demonize his adversaries.</media:description>
@@ -567,18 +569,18 @@
       <media:description>Christopher M. Kise, seen in 2005, is the former solicitor general of Florida.</media:description>
     </item>
     <item>
-      <title>After a Quiet August, Hurricane Forecasters Are Monitoring a Potential Storm</title>
+      <title>After a Quiet August, Hurricane Forecasters Are Watching Potential Storms</title>
       <link>https://www.nytimes.com/article/atlantic-hurricane-season.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/atlantic-hurricane-season.html</guid>
       <atom:link href="https://www.nytimes.com/article/atlantic-hurricane-season.html" rel="standout"></atom:link>
-      <description>The disturbance could develop into a tropical storm in the next five days, after the first August in 25 years without a named storm in the Atlantic.</description>
-      <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 12:23:24 +0000</pubDate>
+      <description>Meteorologists were monitoring three disturbances, after the first August in 25 years without a named storm in the Atlantic.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 15:26:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="">tropical storm danielle</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/lens/30xp-hurricanes2/30xp-hurricanes2-moth.jpg" width="151"></media:content>
       <media:credit>NOAA</media:credit>
-      <media:description>This month has been unusually quiet, with no named storms occurring so far. The last time there were no named storms in August was in 1997, and before that, it was 1961.</media:description>
+      <media:description>Meteorologists on Wednesday were monitoring several disturbances in the Atlantic, after an unusually quiet start to hurricane season.</media:description>
     </item>
   </channel>
 </rss>

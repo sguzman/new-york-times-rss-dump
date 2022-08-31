@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 12:20:21 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 10:53:13 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:05:51 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 12:58:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Obituaries</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -24,12 +24,17 @@
       <pubDate>Wed, 31 Aug 2022 09:11:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shevardnadze, Eduard A (1928-2014)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yeltsin, Boris N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shevardnadze, Eduard A (1928-2014)</category>
       <category domain="">Glasnost</category>
       <category domain="">Perestroika</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/01/14/obituaries/20130114Gorbachev-AdvObit-slide-TSXA/20130114Gorbachev-AdvObit-slide-TSXA-moth-v2.jpg" width="151"></media:content>
@@ -384,25 +389,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/obituaries/22rainey1/22rainey1-moth.jpg" width="151"></media:content>
       <media:credit>Ted S. Warren/Associated Press</media:credit>
       <media:description>Dorli Rainey in 2011 in Seattle, a week after police officers doused her with pepper spray while trying to clear a crowd of protesters.</media:description>
-    </item>
-    <item>
-      <title>Len Dawson, Who Took Kansas City to a Championship, Dies at 87</title>
-      <link>https://www.nytimes.com/2022/08/24/sports/football/len-dawson-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/24/sports/football/len-dawson-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/24/sports/football/len-dawson-dead.html" rel="standout"></atom:link>
-      <description>After seeing little action for five seasons, he emerged as a star of the fledgling A.F.L. and one of the best quarterbacks in pro football.</description>
-      <dc:creator>Richard Goldstein</dc:creator>
-      <pubDate>Fri, 26 Aug 2022 19:17:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dawson, Len (1935- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Super Bowl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Football League</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/obituaries/00dawson-toppix/00dawson-toppix-moth.jpg" width="151"></media:content>
-      <media:credit>Tony Tomsic, via Associated Press</media:credit>
-      <media:description>Len Dawson, the quarterback of the Kansas City Chiefs, in action during Super Bowl IV in 1970. The Chiefs defeated the Minnesota Vikings, 23-7, cementing the American Football League’s credibility.</media:description>
     </item>
   </channel>
 </rss>

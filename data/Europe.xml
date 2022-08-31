@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World &gt; Europe</title>
     <link>https://www.nytimes.com/section/world/europe</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/europe.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 12:17:01 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 11:23:00 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:04:59 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 12:58:45 +0000</pubDate>
     <image>
       <title>NYT &gt; World &gt; Europe</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -177,12 +177,17 @@
       <pubDate>Wed, 31 Aug 2022 09:11:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shevardnadze, Eduard A (1928-2014)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yeltsin, Boris N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shevardnadze, Eduard A (1928-2014)</category>
       <category domain="">Glasnost</category>
       <category domain="">Perestroika</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/01/14/obituaries/20130114Gorbachev-AdvObit-slide-TSXA/20130114Gorbachev-AdvObit-slide-TSXA-moth-v2.jpg" width="151"></media:content>
@@ -272,14 +277,13 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/ukrainian-soldiers-weapons-front-line.html" rel="standout"></atom:link>
       <description>Most of the bartering involves items captured from Russian troops, which are exchanged for urgently needed supplies. “Let’s just call it a simplification of bureaucracy,” one soldier said.</description>
-      <pubDate>Wed, 31 Aug 2022 09:36:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <pubDate>Wed, 31 Aug 2022 09:36:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Barter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00ukraine-barter-promo/00ukraine-barter-new-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>Repairing a captured Russian armored personnel carrier in the Donetsk region of Ukraine last week.</media:description>

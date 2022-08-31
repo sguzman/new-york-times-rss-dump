@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 14:12:06 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 14:09:03 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 14:35:44 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 14:33:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,13 +19,19 @@
       <link>https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html" rel="standout"></atom:link>
-      <description>The agency cleared booster doses targeting Omicron subvariants, hoping to curtail a fall or winter surge.</description>
+      <description>The agency cleared two options targeting subvariants that are currently dominant, hoping to curtail a fall or winter surge.</description>
       <dc:creator>Noah Weiland and Sharon LaFraniere</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 14:06:08 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 14:25:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/politics/31dc-booster/merlin_209109879_aaf3e099-949f-495e-bf04-c3fd66c49b6c-moth.jpg" width="151"></media:content>
       <media:credit>Matt Rourke/Associated Press</media:credit>
-      <media:description>Vaccinations remain the cornerstone of its Covid strategy, even with tests and treatments widely available.</media:description>
+      <media:description>Vaccinations remain the cornerstone of the government’s coronavirus strategy, even with tests and treatments widely available. </media:description>
     </item>
     <item>
       <title>US Life Expectancy Falls Again in ‘Historic’ Setback</title>
@@ -136,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/mikhail-gorbachev-dead.html" rel="standout"></atom:link>
       <description>Adopting principles of glasnost and perestroika, he weighed the legacy of seven decades of Communist rule and set a new course, presiding over the end of the Cold War and the dissolution of the U.S.S.R.</description>
       <dc:creator>Marilyn Berger</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 13:10:39 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 14:16:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -177,22 +183,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/31putin-gorbachev-1/31putin-gorbachev-1-moth.jpg" width="151"></media:content>
       <media:credit>Vladimir Rodionov/ITAR-TASS, via Associated Press</media:credit>
       <media:description>Mikhail S. Gorbachev with President Vladimir V. Putin of Russia in Moscow in 2000.</media:description>
-    </item>
-    <item>
-      <title>A Reporter’s Memories of Gorbachev, and That Pizza Hut Commercial</title>
-      <link>https://www.nytimes.com/2022/08/30/world/europe/soviet-union-gorbachev-remembrance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/soviet-union-gorbachev-remembrance.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/soviet-union-gorbachev-remembrance.html" rel="standout"></atom:link>
-      <description>Anatoly Kurmanaev, a New York Times reporter, recalls a childhood forever changed by a man with a distinctive birthmark.</description>
-      <dc:creator>Anatoly Kurmanaev</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 08:51:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30gorbachev-death-anatoly-promo3/30gorbachev-death-anatoly-promo3-moth.jpg" width="151"></media:content>
-      <media:credit>Vassili Korneyev/EPA, via Shutterstock</media:credit>
-      <media:description>Mikhail S. Gorbachev in Moscow in 1991.</media:description>
     </item>
     <item>
       <title>How an Afghan Soccer Player Escaped the Taliban and Began a New Life</title>
@@ -260,21 +250,20 @@
       <media:description>Although Doug Mastriano is perhaps better known for challenging the results of the 2020 presidential election, he built a loyal following with pandemic livestreams on Facebook.</media:description>
     </item>
     <item>
-      <title>Google Says Trump’s Truth Social Must Scrub Violent Content to Join Play Store</title>
-      <link>https://www.nytimes.com/2022/08/30/technology/google-trump-truth-social-violent-content.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/technology/google-trump-truth-social-violent-content.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/technology/google-trump-truth-social-violent-content.html" rel="standout"></atom:link>
-      <description>The social media app is not available on Google’s app store, and the former president’s company and Google are publicly disagreeing about why.</description>
-      <dc:creator>Nico Grant</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 21:41:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Truth Social (Social Network)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Play</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30google-truthsocial-2/30google-truthsocial-2-moth.jpg" width="151"></media:content>
-      <media:credit>Noah Berger/Agence France-Presse — Getty Images</media:credit>
+      <title>Many Developed Countries View Online Misinformation as ‘Major Threat’</title>
+      <link>https://www.nytimes.com/2022/08/31/technology/pew-misinformation-major-threat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/technology/pew-misinformation-major-threat.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/technology/pew-misinformation-major-threat.html" rel="standout"></atom:link>
+      <description>New research from the Pew Research Center shows nearly three-quarters of respondents are very concerned about the spread of false information online.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 14:13:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pew Research Center</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/technology/31disinfo-pew-promo/31disinfo-pew-promo-moth.png" width="151"></media:content>
     </item>
     <item>
       <title>Naomi Osaka, Serena Williams and One Last Shared U.S. Open</title>
@@ -292,23 +281,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31usopen-osaka-1/31usopen-osaka-1-moth.jpg" width="151"></media:content>
       <media:credit>Michelle V. Agins/The New York Times</media:credit>
       <media:description>Naomi Osaka lost her first-round match to Danielle Collins in straight sets.</media:description>
-    </item>
-    <item>
-      <title>For Venus and Serena Williams at the U.S. Open, Day and Night Experiences</title>
-      <link>https://www.nytimes.com/2022/08/31/sports/tennis/venus-williams-serena-us-open.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/tennis/venus-williams-serena-us-open.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/sports/tennis/venus-williams-serena-us-open.html" rel="standout"></atom:link>
-      <description>Unlike her sister, Venus was not prepared to deal with questions about her tennis future after a loss in the first round of the singles tournament. “I’m just focused on the doubles,” she said.</description>
-      <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Venus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ashe, Arthur, Stadium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Uytvanck, Alison (1994- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31usopen-venus2/31usopen-venus2-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Venus Williams lost in the first round to Alison Van Uytvanck of Belgium in straight sets.</media:description>
     </item>
     <item>
       <title>Serena Williams’s Next Opponent Is a Struggling Anett Kontaveit</title>
@@ -629,13 +601,13 @@
       <media:description>Helen Mayer became a stay-at-home parent to her twin boys, Arthur, left, and Andrew, during the pandemic. Her struggles to find child care inspired her to start Otter. </media:description>
     </item>
     <item>
-      <title>West Point Has a K.K.K. Plaque Mounted Above Entrance to Science Hall</title>
+      <title>West Point Has K.K.K. Plaque Mounted Above Entrance to Science Hall</title>
       <link>https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/30/nyregion/west-point-confederate-symbols-kkk.html" rel="standout"></atom:link>
       <description>A special congressional commission that recommends the removal of Confederate symbols at U.S. military sites flagged the bronze plaque in a new report.</description>
       <dc:creator>Hurubie Meko</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 23:15:04 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 14:33:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>

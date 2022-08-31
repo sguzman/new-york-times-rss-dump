@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 10:19:28 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 10:18:30 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 10:37:03 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 10:32:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -284,6 +284,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/29BRAZIL-DEATH/29BRAZIL-DEATH-moth.jpg" width="151"></media:content>
       <media:credit>Funai/EPA, via Shutterstock</media:credit>
       <media:description>A still image from a video provided by the Brazilian government showing one of the huts built by the “Man of the Hole” in Rondônia State in 2018.</media:description>
+    </item>
+    <item>
+      <title>Our Latest Covid Poll</title>
+      <link>https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html" rel="standout"></atom:link>
+      <description>Americans on the left end of the political spectrum have become less anxious about Covid.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 10:32:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John (1947- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31-THE-MORNING-NL-mask2/31-THE-MORNING-NL-mask2-moth.jpg" width="151"></media:content>
+      <media:credit>Gabby Jones for The New York Times</media:credit>
+      <media:description>Times Square in July.</media:description>
     </item>
     <item>
       <title>With War in Ukraine, Putin Tries to Unravel Gorbachev’s Legacy</title>
@@ -1124,26 +1143,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/multimedia/29ambriefing-promo-1/29ambriefing-promo-1-moth.jpg" width="151"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>More Vital Than Ever, Ukraine’s Trains Bind a Land Fractured by War</title>
-      <link>https://www.nytimes.com/2022/08/29/world/europe/ukraine-war-trains.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/world/europe/ukraine-war-trains.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/world/europe/ukraine-war-trains.html" rel="standout"></atom:link>
-      <description>With the skies and ports closed, Ukraine’s railroads have been crucial to efforts to flee, to return, to keep the country going or to simply reclaim some semblance of normal life.</description>
-      <dc:creator>Marc Santora and Lynsey Addario</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 07:33:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/world/00ukraine-train-dispatch/00ukraine-train-dispatch-moth.jpg" width="151"></media:content>
-      <media:description>Passengers rushed to board an 18-hour express train from Kyiv to Warsaw early this month.</media:description>
     </item>
   </channel>
 </rss>

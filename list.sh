@@ -1,4 +1,3 @@
-curl https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml > data/HomePage.xml &
 curl https://rss.nytimes.com/services/xml/rss/nyt/World.xml > data/World.xml &
 curl https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml > data/Africa.xml &
 curl https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml > data/AsiaPacific.xml &

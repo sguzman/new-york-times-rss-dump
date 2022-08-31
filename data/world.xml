@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 21:40:31 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 21:23:29 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 21:53:33 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 21:45:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -54,7 +54,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Europe</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31gorbachev-west-01/31gorbachev-west-01-moth.jpg" width="151"></media:content>
       <media:credit>Bill Foley/Getty Images</media:credit>
-      <media:description>Mikhail S. Gorbachev, when he led the Soviet Union, addressing the U.N. General Assembly in December 1988.</media:description>
+      <media:description>Mikhail Gorbachev, when he led the Soviet Union, addressing the U.N. General Assembly in December 1988.</media:description>
     </item>
     <item>
       <title>A Draft for Russia’s Army? Putin Opts for Domestic Stability Instead.</title>
@@ -103,6 +103,14 @@
       <description>The Israeli and German governments announced an agreement after the families said they would boycott a memorial observing the 1972 attack over what they called insufficient recompense.</description>
       <dc:creator>Christopher F. Schuetze and Ronen Bergman</dc:creator>
       <pubDate>Wed, 31 Aug 2022 19:48:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1972)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31germany-olympics-3/merlin_210708924_b3f38b45-0f30-47f1-9b06-07671cdd8f03-moth.jpg" width="151"></media:content>
       <media:credit>Maya Alleruzzo/Associated Press</media:credit>
       <media:description>Ankie Spitzer last month in Ramat Hasharon, Israel, with the bullet-scarred necklace her husband, Andrei Spitzer, was wearing at the time of his death at the 1972 Munich Olympics.</media:description>
@@ -280,6 +288,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/world/30CANADA-ANCHOR-1/30CANADA-ANCHOR-1-moth.jpg" width="151"></media:content>
       <media:credit>George Pimentel/The Canadian Press</media:credit>
       <media:description>Lisa LaFlamme after winning a Best News Anchor award in April.</media:description>
+    </item>
+    <item>
+      <title>Bitter Race to Lead U.K. Is Ending With Little to Offer for Economic Ills</title>
+      <link>https://www.nytimes.com/2022/08/31/world/europe/uk-prime-minister-truss-sunak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/europe/uk-prime-minister-truss-sunak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/world/europe/uk-prime-minister-truss-sunak.html" rel="standout"></atom:link>
+      <description>The contest to succeed Boris Johnson as Conservative Party leader and prime minister has often seemed divorced from Britain’s fast-growing problems.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 21:44:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31uk-tories1/31uk-tories1-moth.jpg" width="151"></media:content>
+      <media:credit>Susannah Ireland/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss, the foreign secretary and front-runner to replace Boris Johnson as prime minister, at Wembley Arena in London on Wednesday.</media:description>
     </item>
     <item>
       <title>Your Thursday Briefing: How Authoritarians See Mikhail Gorbachev</title>
@@ -1118,25 +1148,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/world/29france-pilots-print/29france-pilots-moth.jpg" width="151"></media:content>
       <media:credit>Ramon Van Flymen/EPA, via Shutterstock</media:credit>
       <media:description>News of the altercation between two pilots while they were airborne has brought to light broader safety issues at Air France.</media:description>
-    </item>
-    <item>
-      <title>As Rome Burns (or at Least Its Garbage), a Mayor Dares to Dream</title>
-      <link>https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/world/europe/rome-garbage-fires.html" rel="standout"></atom:link>
-      <description>Could a solution to Rome’s perpetual trash crisis really be in sight? Mayor Roberto Gualtieri would like to think so.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 15:51:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gualtieri, Roberto (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/29rome-garbage-new/29rome-garbage-new-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Penso for The New York Times</media:credit>
-      <media:description>A worker at a junkyard in Rome searched for his dog, which had been missing since the lot caught fire last month, one of a rash of such blazes across the city.</media:description>
     </item>
   </channel>
 </rss>

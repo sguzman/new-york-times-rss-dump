@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 09:54:59 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 09:00:47 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 10:18:23 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 10:00:13 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -178,6 +178,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/27/multimedia/27ny-lifeguards-6/27ny-lifeguards-6-moth.jpg" width="151"></media:content>
       <media:credit>Caitlin Ochs for The New York Times</media:credit>
       <media:description>Public pools across New York City have been limiting their capacity as the city struggles to hire enough lifeguards.</media:description>
+    </item>
+    <item>
+      <title>Bedford, N.Y.: History, Horse Farms and Sprawling Estates</title>
+      <link>https://www.nytimes.com/2022/08/31/realestate/bedford-new-york-living.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/realestate/bedford-new-york-living.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/realestate/bedford-new-york-living.html" rel="standout"></atom:link>
+      <description>The wealthy Westchester town has a rural feel, with old stone walls, more than 30 miles of dirt roads and occasionally spotty cellphone service.</description>
+      <dc:creator>Susan Hodara</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 10:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedford (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/realestate/31LIVING-BEDFORDNY-slide-889N/31LIVING-BEDFORDNY-slide-889N-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
     </item>
     <item>
       <title>Pain, Fear, Stigma: What People Who Survived Monkeypox Want You to Know</title>
@@ -390,30 +403,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/arts/30byrne-item/30byrne-item-moth.jpg" width="151"></media:content>
       <media:credit>Ste Murray</media:credit>
       <media:description>Gabriel Byrne, whose play “Walking With Ghosts” is coming to Broadway.</media:description>
-    </item>
-    <item>
-      <title>From Red Lobster to Running Some of New York’s Marquee Restaurants</title>
-      <link>https://www.nytimes.com/2022/08/30/dining/chip-wade-union-square-hospitality-group.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/dining/chip-wade-union-square-hospitality-group.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/dining/chip-wade-union-square-hospitality-group.html" rel="standout"></atom:link>
-      <description>Chip Wade takes over Danny Meyer’s role in running Union Square Hospitality Group, a move that signals a growing conversation between two sides of the industry.</description>
-      <dc:creator>Kim Severson</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 22:40:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ci Siamo (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Provisions (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cucina Alba (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gramercy Tavern (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Olive Garden Italian Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Red Lobster Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ruby Tuesday Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shake Shack Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Union Square Hospitality Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyer, Danny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wade, Chip</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/dining/31wade1/merlin_211707309_25a7f072-09ec-4618-a5c6-c5d406c6457a-moth.jpg" width="151"></media:content>
-      <media:credit>Timothy O&#39;Connell for The New York Times</media:credit>
-      <media:description>Chip Wade, the newly minted chief executive officer of the Union Square Hospitality Group, visits Marta, one of the company’s New York restaurants.</media:description>
     </item>
   </channel>
 </rss>

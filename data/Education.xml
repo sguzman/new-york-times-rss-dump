@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 09:54:55 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 09:00:10 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 10:18:47 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 10:00:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Education</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -304,6 +304,25 @@
       <media:description>Lucy Calkins, an education professor, created a popular curriculum called “Units of Study,” built on a vision of children as natural readers and writers.</media:description>
     </item>
     <item>
+      <title>The Parkland Students, Four Years Later</title>
+      <link>https://www.nytimes.com/2022/08/31/podcasts/the-daily/parkland-shooting-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/podcasts/the-daily/parkland-shooting-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/podcasts/the-daily/parkland-shooting-trial.html" rel="standout"></atom:link>
+      <description>We look back at conversations with some of the survivors of the 2018 shooting at Marjory Stoneman Douglas High School.</description>
+      <dc:creator>Clare Toeniskoetter, Sydney Harper, Lisa Tobin, Anita Badejo and Chris Wood</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 10:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parkland, Fla, Shooting (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/podcasts/31daily-1/31DAILY-parkland-rerun-audio-app-moth.jpg" width="151"></media:content>
+      <media:credit>Saul Martinez for The New York Times</media:credit>
+      <media:description>Stones placed on a memorial garden at Marjory Stoneman Douglas High School to honor victims of the Parkland shooting.</media:description>
+    </item>
+    <item>
       <title>Ron DeSantis Is a Test Case</title>
       <link>https://www.nytimes.com/2022/08/31/opinion/ron-desantis-re-election-florida.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/opinion/ron-desantis-re-election-florida.html</guid>
@@ -400,26 +419,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/us/00kentucky-schools/00kentucky-schools-moth.jpg" width="151"></media:content>
       <media:credit>Jared Hamilton for The New York Times</media:credit>
       <media:description>A.B. Combs Elementary School in Perry County, Ky. Once abandoned, it will now serve teachers and students from two schools wrecked by the floods.</media:description>
-    </item>
-    <item>
-      <title>As DeSantis Campaigns on Education, Crist Picks Teacher as Running Mate</title>
-      <link>https://www.nytimes.com/2022/08/27/us/charlie-crist-karla-hernandez-mats-florida-gov.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/27/us/charlie-crist-karla-hernandez-mats-florida-gov.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/27/us/charlie-crist-karla-hernandez-mats-florida-gov.html" rel="standout"></atom:link>
-      <description>Karla Hernández-Mats, head of the largest teachers union in the region, criticized the Republican governor for attacking educators. “This is what dictators do,” she said.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Sat, 27 Aug 2022 15:52:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez-Mats, Karla</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crist, Charlie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/27/multimedia/27CRIST-01/27CRIST-01-moth.jpg" width="151"></media:content>
-      <media:credit>Zack Wittman for The New York Times</media:credit>
-      <media:description>By selecting a teachers union leader as his running mate in the Florida governor’s race, Charlie Crist has ensured that the campaign will remain at least partly focused on education. </media:description>
     </item>
   </channel>
 </rss>

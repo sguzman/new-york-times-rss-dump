@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 11:30:39 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 11:30:35 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:39:42 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 11:37:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/08/31/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Shelling has raised concerns of a nuclear disaster at the Zaporizhzhia facility, which is controlled by Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 11:30:35 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 11:37:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31ukraine-briefing-header/31ukraine-briefing-promo-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>U.N. nuclear experts preparing to leave Kyiv for the Zaporizhzhia nuclear power plant on Wednesday.</media:description>
@@ -169,6 +169,17 @@
       <media:description>A gay bar in Singapore on Thursday, after the government announced it would repeal a law banning consensual sex between men.</media:description>
     </item>
     <item>
+      <title>Putin Issues Brief Condolences as World Reacts to Gorbachev’s Death</title>
+      <link>https://www.nytimes.com/live/2022/08/30/world/gorbachev-dead</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/08/30/world/gorbachev-dead</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/08/30/world/gorbachev-dead" rel="standout"></atom:link>
+      <description>People reflected on the death of Mikhail Gorbachev, the last Soviet leader, who was lionized abroad as a hero of liberalism, but castigated by many in Russia for bringing about the end of the Soviet empire.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 11:37:07 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-briefing-promo-6pm/30gorbachev-briefing-promo-6pm-moth.jpg" width="151"></media:content>
+      <media:credit>Sergei Karpukhin/Reuters</media:credit>
+    </item>
+    <item>
       <title>U.N. Race Panel Sounds the Alarm on Abortion Access in the U.S.</title>
       <link>https://www.nytimes.com/2022/08/30/world/europe/un-race-abortion-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/un-race-abortion-biden.html</guid>
@@ -247,26 +258,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/arts/00RATMANSKY1/00RATMANSKY1-moth.jpg" width="151"></media:content>
       <media:credit>Melissa Schriek for The New York Times</media:credit>
       <media:description>Alexei Ratmansky at a rehearsal of “Giselle,” which is being danced by a newly formed company of Ukrainian dancers who have fled the war.</media:description>
-    </item>
-    <item>
-      <title>How German Companies Are Staring Down Putin’s Threat to Cut Off Gas</title>
-      <link>https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html" rel="standout"></atom:link>
-      <description>Industrial producers across Germany are coming up with unique ways to cut their dependence on natural gas as Russia’s war in Ukraine keeps prices high.</description>
-      <dc:creator>Melissa Eddy</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 09:00:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BASF SE</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Evonik Industries</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/business/30germany-alternatives-1/30germany-alternatives-1-moth.jpg" width="151"></media:content>
-      <media:credit>Patrick Junker for The New York Times</media:credit>
-      <media:description>A power plant burning coal in Wilhelmshaven, Germany. Coal-fired plants, many of which were destined to be shut down, have been revived by manufacturers seeking an alternative to expensive Russian natural gas. </media:description>
     </item>
     <item>
       <title>In Brazil, the Last Member of an Isolated Indigenous Tribe Dies</title>
@@ -735,6 +726,26 @@
       <media:description>Córdoba’s Mosque-Cathedral, or La Mezquita, was one of the first and grandest mosques in Europe.</media:description>
     </item>
     <item>
+      <title>How German Companies Are Staring Down Putin’s Threat to Cut Off Gas</title>
+      <link>https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/germany-russia-energy-gas.html" rel="standout"></atom:link>
+      <description>Industrial producers across Germany are coming up with unique ways to cut their dependence on natural gas as Russia’s war in Ukraine keeps prices high.</description>
+      <dc:creator>Melissa Eddy</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 09:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BASF SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Evonik Industries</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/business/30germany-alternatives-1/30germany-alternatives-1-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Junker for The New York Times</media:credit>
+      <media:description>A power plant burning coal in Wilhelmshaven, Germany. Coal-fired plants, many of which were destined to be shut down, have been revived by manufacturers seeking an alternative to expensive Russian natural gas. </media:description>
+    </item>
+    <item>
       <title>The Animal Translators</title>
       <link>https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/science/translators-animals-naked-mole-rats.html</guid>
@@ -1117,18 +1128,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/28algiers-macron-1/28algiers-macron-1-moth.jpg" width="151"></media:content>
       <media:credit>Anis Belghoul/Associated Press</media:credit>
       <media:description>President Emmanuel Macron of France visiting Saint Eugene Cemetery in Algiers, Algeria, on Friday.</media:description>
-    </item>
-    <item>
-      <title>U.N. Experts to Visit Zaporizhzhia Nuclear Plant in Ukraine</title>
-      <link>https://www.nytimes.com/2022/08/29/world/europe/un-zaporizhzhia-nuclear-plant-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/world/europe/un-zaporizhzhia-nuclear-plant-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/world/europe/un-zaporizhzhia-nuclear-plant-ukraine.html" rel="standout"></atom:link>
-      <description>Both Russia and Ukraine welcomed the news, even as they repeated accusations that the other side was responsible for shelling the area around the plant.</description>
-      <dc:creator>Dan Bilefsky, Austin Ramzy, Andrew E. Kramer and Shashank Bengali</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 19:32:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/multimedia/29ukraine-briefing-IAEA-grid01/29ukraine-briefing-IAEA-grid01-moth.jpg" width="151"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

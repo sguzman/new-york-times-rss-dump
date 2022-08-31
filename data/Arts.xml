@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 10:56:21 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 09:00:47 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:05:04 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 10:56:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Arts</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -174,6 +174,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/arts/30byrne-item/30byrne-item-moth.jpg" width="151"></media:content>
       <media:credit>Ste Murray</media:credit>
       <media:description>Gabriel Byrne, whose play “Walking With Ghosts” is coming to Broadway.</media:description>
+    </item>
+    <item>
+      <title>An Orchestra Brings Harmony to a Region of Discord</title>
+      <link>https://www.nytimes.com/2022/08/31/arts/music/caucasus-youth-orchestra-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/arts/music/caucasus-youth-orchestra-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/arts/music/caucasus-youth-orchestra-ukraine.html" rel="standout"></atom:link>
+      <description>The Pan-Caucasian Youth Orchestra unites players from Armenia, Azerbaijan, Georgia, Kazakhstan, Russia, Turkey and Ukraine with a message of peace and dialogue.</description>
+      <dc:creator>David Belcher</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 10:56:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pan-Caucasian Youth Orchestra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tsinandali Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lyniv, Oksana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noseda, Gianandrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia (Georgian Republic)</category>
     </item>
     <item>
       <title>After a Long, Starring Run, Will Racism at Last Get the Hook?</title>
@@ -1031,23 +1048,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">genre-books-childrens</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shang, Wendy Wan-Long</category>
       <category domain=""></category>
-    </item>
-    <item>
-      <title>Review: “The Tryout” by Christina Soontornvat</title>
-      <link>https://www.nytimes.com/2022/08/26/books/review/christina-soontornvat-the-tryout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/26/books/review/christina-soontornvat-the-tryout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/26/books/review/christina-soontornvat-the-tryout.html" rel="standout"></atom:link>
-      <description>The Thai American heroine of Christina Soontornvat’s graphic novel wrestles with anti-Asian racism while auditioning for the cheerleading squad.</description>
-      <dc:creator>Jennifer Mathieu</dc:creator>
-      <pubDate>Fri, 26 Aug 2022 06:47:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graphic Novels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">genre-books-childrens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">genre-books-graphic-novels-comic-books</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soontornvat, Christina</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cacao, Joanna</category>
     </item>
   </channel>
 </rss>

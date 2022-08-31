@@ -1,10 +1,10 @@
-name: Scrape latest HomePage
+name: Scrape latest RSS Feeds
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '5 * * * *'
 
 jobs:
   scheduled:

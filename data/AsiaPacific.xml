@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 11:23:37 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 07:56:08 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:30:29 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 11:26:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World &gt; Asia Pacific</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world/asia</link>
     </image>
+    <item>
+      <title>Typhoon Hinnamnor Brings High Winds to Japanese Islands</title>
+      <link>https://www.nytimes.com/article/typhoon-hinnamnor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/typhoon-hinnamnor.html</guid>
+      <atom:link href="https://www.nytimes.com/article/typhoon-hinnamnor.html" rel="standout"></atom:link>
+      <description>Forecasters say the storm is the Northern Hemisphere’s strongest tropical cyclone of the year. It was expected to bypass Taiwan and head toward the Korean Peninsula later this week.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 11:26:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+    </item>
     <item>
       <title>Solomon Islands Suspends Visits by Foreign Navies, Raising Concerns Over China</title>
       <link>https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html</link>
@@ -342,24 +358,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/15/world/26ambriefing-asia-NL-aug-PROMO/merlin_206944770_75cd052d-d954-43ca-921a-e3146ef6ebe6-moth.jpg" width="151"></media:content>
       <media:credit>Mark Schiefelbein/Associated Press</media:credit>
       <media:description>A detention facility in Dabancheng, Xinjiang, last year. Former detainees have described physical abuse, mistreatment and hours of indoctrination in official Communist Party ideology.</media:description>
-    </item>
-    <item>
-      <title>U.N. Report on Xinjiang Human Rights May Be Delayed Again</title>
-      <link>https://www.nytimes.com/2022/08/25/world/asia/un-report-xinjiang-delay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/25/world/asia/un-report-xinjiang-delay.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/25/world/asia/un-report-xinjiang-delay.html" rel="standout"></atom:link>
-      <description>The high commissioner for human rights has repeatedly postponed its release, reinforcing perceptions that U.N. leadership is reluctant to stand up to China.</description>
-      <dc:creator>Nick Cumming-Bruce and Austin Ramzy</dc:creator>
-      <pubDate>Fri, 26 Aug 2022 13:52:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/15/world/25un-bachelet/merlin_206944770_75cd052d-d954-43ca-921a-e3146ef6ebe6-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
-      <media:description>A detention facility in Dabancheng, Xinjiang, last year. Former detainees have described physical abuse, mistreatment and hours of indoctrination in official Communist Party ideology. </media:description>
     </item>
   </channel>
 </rss>

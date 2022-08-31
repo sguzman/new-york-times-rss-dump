@@ -7,27 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 11:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:35:27 +0000</lastBuildDate>
     <pubDate>Wed, 31 Aug 2022 10:18:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Style</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/style</link>
     </image>
-    <item>
-      <title>Tiny Love Stories: ‘I Was the World’s Best Kisser’</title>
-      <link>https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html" rel="standout"></atom:link>
-      <description>Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.</description>
-      <pubDate>Tue, 30 Aug 2022 20:04:08 +0000</pubDate>
-      <category domain="">Love (Emotion)</category>
-      <category domain="">internal-sub-only</category>
-      <category domain="">Modern Love (Times Column)</category>
-      <category domain="">Dating and Relationships</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/style/00AUGUST-ML-TINYLOVE-05/00AUGUST-ML-TINYLOVE-05-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Brian Rea</media:credit>
-    </item>
     <item>
       <title>Ayo Edebiri and Her Dog Gromit Go to the Bookstore</title>
       <link>https://www.nytimes.com/2022/08/30/style/ayo-edebiri-the-bear.html</link>
@@ -43,6 +29,20 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/fashion/30ENCOUNTERS-EDEBIRI1/30ENCOUNTERS-EDEBIRI1-moth.jpg" width="151"></media:content>
       <media:credit>Gabriella Angotti-Jones for The New York Times</media:credit>
       <media:description>The writer, actress and comedian Ayo Edebiri at Skylight Books in Los Angeles.</media:description>
+    </item>
+    <item>
+      <title>Tiny Love Stories: ‘I Was the World’s Best Kisser’</title>
+      <link>https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/style/tiny-modern-love-stories-i-was-the-worlds-best-kisser.html" rel="standout"></atom:link>
+      <description>Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.</description>
+      <pubDate>Tue, 30 Aug 2022 20:04:08 +0000</pubDate>
+      <category domain="">Love (Emotion)</category>
+      <category domain="">internal-sub-only</category>
+      <category domain="">Modern Love (Times Column)</category>
+      <category domain="">Dating and Relationships</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/style/00AUGUST-ML-TINYLOVE-05/00AUGUST-ML-TINYLOVE-05-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
     </item>
     <item>
       <title>Should I Try to Hide My Large Bandage at Work?</title>
@@ -101,24 +101,6 @@
       <media:description>Prime Minister Sanna Marin of Finland.</media:description>
     </item>
     <item>
-      <title>She Went From Being a ‘Hermit’ Jeweler to a Museum Curator</title>
-      <link>https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html" rel="standout"></atom:link>
-      <description>Emefa Cole first exhibited her bold, sculptural jewelry at a craft fair. Now she’s taking on a new role at the Victoria &amp; Albert Museum in London.</description>
-      <pubDate>Mon, 29 Aug 2022 09:06:07 +0000</pubDate>
-      <category domain="">Cole, Emefa</category>
-      <category domain="">Jewels and Jewelry</category>
-      <category domain="">Museums</category>
-      <category domain="">Content Type: Personal Profile</category>
-      <category domain="">Victoria and Albert Museum</category>
-      <category domain="">London (England)</category>
-      <category domain="">your-feed-fashion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30sp-jewelry-cole-inyt-emefa/30sp-jewelry-cole-inyt-emefa-moth.jpg" width="151"></media:content>
-      <media:credit>Serena Brown for The New York Times</media:credit>
-      <media:description>Emefa Cole on the steps of the Victoria &amp; Albert Museum. She is the museum’s first curator of jewelry for the diaspora.</media:description>
-    </item>
-    <item>
       <title>Serena Williams’s Fashion Smash</title>
       <link>https://www.nytimes.com/2022/08/29/style/serena-williams-best-looks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/style/serena-williams-best-looks.html</guid>
@@ -138,6 +120,24 @@
       <category domain="">NIKE Inc</category>
       <category domain="">Williams, Serena</category>
       <category domain="">your-feed-fashion</category>
+    </item>
+    <item>
+      <title>She Went From Being a ‘Hermit’ Jeweler to a Museum Curator</title>
+      <link>https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/29/fashion/jewelry-victoria-albert-museum-curator-diaspora.html" rel="standout"></atom:link>
+      <description>Emefa Cole first exhibited her bold, sculptural jewelry at a craft fair. Now she’s taking on a new role at the Victoria &amp; Albert Museum in London.</description>
+      <pubDate>Mon, 29 Aug 2022 09:06:07 +0000</pubDate>
+      <category domain="">Cole, Emefa</category>
+      <category domain="">Jewels and Jewelry</category>
+      <category domain="">Museums</category>
+      <category domain="">Content Type: Personal Profile</category>
+      <category domain="">Victoria and Albert Museum</category>
+      <category domain="">London (England)</category>
+      <category domain="">your-feed-fashion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30sp-jewelry-cole-inyt-emefa/30sp-jewelry-cole-inyt-emefa-moth.jpg" width="151"></media:content>
+      <media:credit>Serena Brown for The New York Times</media:credit>
+      <media:description>Emefa Cole on the steps of the Victoria &amp; Albert Museum. She is the museum’s first curator of jewelry for the diaspora.</media:description>
     </item>
     <item>
       <title>Leaving Los Angeles</title>

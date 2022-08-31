@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 11:25:45 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 09:11:07 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 11:31:02 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 11:26:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -150,6 +150,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Typhoon Hinnamnor Brings High Winds to Japanese Islands</title>
+      <link>https://www.nytimes.com/article/typhoon-hinnamnor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/typhoon-hinnamnor.html</guid>
+      <atom:link href="https://www.nytimes.com/article/typhoon-hinnamnor.html" rel="standout"></atom:link>
+      <description>Forecasters say the storm is the Northern Hemisphere’s strongest tropical cyclone of the year. It was expected to bypass Taiwan and head toward the Korean Peninsula later this week.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 11:26:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
     </item>
     <item>
       <title>Heat, Water, Fire: How Climate Change Is Transforming the Pacific Crest Trail</title>
@@ -1133,36 +1149,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/19/multimedia/19xp-explosion/19xp-explosion-moth.jpg" width="151"></media:content>
       <media:credit>Zack Wittman for The New York Times</media:credit>
       <media:description>Big Bend Station in Apollo Beach, Fla.</media:description>
-    </item>
-    <item>
-      <title>Biden Prepares Actions to Cut Emissions After Signing Climate Bill</title>
-      <link>https://www.nytimes.com/2022/08/19/us/politics/biden-climate-bill-emissions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/19/us/politics/biden-climate-bill-emissions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/19/us/politics/biden-climate-bill-emissions.html" rel="standout"></atom:link>
-      <description>Regulations from the E.P.A. and elsewhere will help the president meet his aggressive climate goals, administration officials say.</description>
-      <dc:creator>Lisa Friedman and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 19 Aug 2022 23:14:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Methane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Gina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/19/us/politics/19dc-Biden-climate-1/merlin_211562226_89fa5dc5-9fb1-48a4-8b7f-6a0062056538-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden may deploy a series of regulatory measures, including new regulations on emissions from a variety of industries, even after signing the Inflation Reduction Act.</media:description>
     </item>
   </channel>
 </rss>

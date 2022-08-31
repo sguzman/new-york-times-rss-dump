@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 18:24:33 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 18:23:52 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 18:46:32 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 18:40:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -72,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/08/30/world/gorbachev-dead" rel="standout"></atom:link>
       <description>People reflected on the death of Mikhail Gorbachev, the last Soviet leader, who was lionized abroad as a hero of liberalism, but castigated by many in Russia for bringing about the end of the Soviet empire.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 18:14:33 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 18:26:28 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-briefing-promo-6pm/30gorbachev-briefing-promo-6pm-moth.jpg" width="151"></media:content>
       <media:credit>Sergei Karpukhin/Reuters</media:credit>
     </item>
@@ -279,6 +279,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/world/00singapore-lgbt2/00singapore-lgbt2-moth.jpg" width="151"></media:content>
       <media:credit>Ore Huiying for The New York Times</media:credit>
       <media:description>A gay bar in Singapore on Thursday, after the government announced it would repeal a law banning consensual sex between men.</media:description>
+    </item>
+    <item>
+      <title>Families of Israelis Killed at Munich Olympics Reach Compensation Deal</title>
+      <link>https://www.nytimes.com/2022/08/31/world/europe/munich-olympics-compensation-israel-germany.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/europe/munich-olympics-compensation-israel-germany.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/world/europe/munich-olympics-compensation-israel-germany.html" rel="standout"></atom:link>
+      <description>The Israeli and German governments announced an agreement after the families said they would boycott a memorial observing the 1972 attack over what called insufficient recompense.</description>
+      <dc:creator>Christopher F. Schuetze and Ronen Bergman</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 18:40:35 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31germany-olympics-3/merlin_210708924_b3f38b45-0f30-47f1-9b06-07671cdd8f03-moth.jpg" width="151"></media:content>
+      <media:credit>Maya Alleruzzo/Associated Press</media:credit>
+      <media:description>Ankie Spitzer last month in Ramat Hasharon, Israel, with the bullet-scarred necklace her husband, Andrei Spitzer, was wearing at the time of his death at the 1972 Munich Olympics.</media:description>
     </item>
     <item>
       <title>E.U. Moves to Restrict Russian Visas, But Does Not Ban Them</title>
@@ -1103,16 +1115,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/29Iraq-Sadr-new1/merlin_212105085_8ac7f153-28b9-4c9c-b0f3-9b0b23d2c588-moth.jpg" width="151"></media:content>
       <media:credit>Ahmad Al-Rubaye/Agence France-Presse — Getty Images</media:credit>
       <media:description>Supporters of Mr. Sadr and the police in Baghdad’s Green Zone on Monday. Security forces closed roads south of the capital to prevent more protesters from arriving.</media:description>
-    </item>
-    <item>
-      <title>Americans Who Stutter</title>
-      <link>https://www.nytimes.com/2022/08/29/briefing/stuttering-stigma-biden-disability.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/briefing/stuttering-stigma-biden-disability.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/29/briefing/stuttering-stigma-biden-disability.html" rel="standout"></atom:link>
-      <description>President Biden’s approach to his own stutter highlights the stigma that the condition still brings.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 16:06:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
     </item>
   </channel>
 </rss>

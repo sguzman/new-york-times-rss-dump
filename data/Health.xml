@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 03:38:27 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Aug 2022 22:27:57 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 05:14:00 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 04:24:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -200,6 +200,33 @@
       <media:description>The annual survey of drug use indicated that daily consumption of marijuana among young adults nearly doubled over the previous decade. </media:description>
     </item>
     <item>
+      <title>US Life Expectancy Falls Again in ‘Historic’ Setback</title>
+      <link>https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html" rel="standout"></atom:link>
+      <description>The decline during the pandemic is the sharpest in nearly 100 years, hitting American Indian and Native Alaskan communities particularly hard.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alaska Natives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Center for Health Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/science/31life-expectancy1/31life-expectancy1-moth.jpg" width="151"></media:content>
+      <media:credit>Shannon Stapleton/Reuters</media:credit>
+      <media:description>A patient who died of Covid was removed from an I.C.U. in Cleveland, Ohio.</media:description>
+    </item>
+    <item>
       <title>California Approves Bill to Punish Doctors Who Spread False Information</title>
       <link>https://www.nytimes.com/2022/08/29/technology/california-doctors-covid-misinformation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/29/technology/california-doctors-covid-misinformation.html</guid>
@@ -387,23 +414,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cell Reports (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brunelle, Francois</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-    </item>
-    <item>
-      <title>Four Decades of Dr. Fauci</title>
-      <link>https://www.nytimes.com/2022/08/22/us/politics/dr-fauci-career.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/22/us/politics/dr-fauci-career.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/22/us/politics/dr-fauci-career.html" rel="standout"></atom:link>
-      <description>Anthony Fauci did not set out to become a political lightning rod. But, as Sheryl Gay Stolberg explains, he couldn’t escape becoming a polarizing figure in Donald Trump’s Washington.</description>
-      <pubDate>Mon, 22 Aug 2022 23:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/22/us/politics/22OnPolitics-newsletter-PM1/22OnPolitics-newsletter-PM1-moth.jpg" width="151"></media:content>
-      <media:credit>Jason Andrew for The New York Times</media:credit>
-      <media:description>Over his 38 years in the federal government, Dr. Anthony Fauci has played a central role in addressing Covid as well as AIDS and other diseases.</media:description>
     </item>
   </channel>
 </rss>

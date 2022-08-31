@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 13:05:40 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 12:10:19 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:45:04 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 13:22:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Business &gt; DealBook</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -50,6 +50,25 @@
       <description>Highlights from our latest summit featuring top newsmakers in business, policy and culture.</description>
       <dc:creator>The New York Times</dc:creator>
       <pubDate>Wed, 31 Aug 2022 11:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snap Cuts 20% of Employees and Restructures</title>
+      <link>https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html" rel="standout"></atom:link>
+      <description>The maker of Snapchat discontinued some of its products and appointed a chief operating officer, amid financial struggles.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 13:15:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spiegel, Evan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31snap/31snap-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <media:description>Layoffs at Snap, which makes the Snapchat app, will affect close to 1,300 of its 6,400 workers.</media:description>
     </item>
     <item>
       <title>California Bill Bids for Tighter Rein on Fast-Food Chains</title>
@@ -345,23 +364,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/multimedia/23db-newsletter-twitter1/23db-newsletter-twitter1-moth.jpg" width="151"></media:content>
       <media:credit>Marco Bello/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jack Dorsey has tried to stay out of Twitter&#39;s battle with Elon Musk.</media:description>
-    </item>
-    <item>
-      <title>Ford to Cut 3,000 Jobs to Reduce Costs in Transition to Electric Vehicles</title>
-      <link>https://www.nytimes.com/2022/08/22/business/ford-motor-job-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/22/business/ford-motor-job-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/22/business/ford-motor-job-cuts.html" rel="standout"></atom:link>
-      <description>The automaker said the move was needed to be competitive and reallocate resources.</description>
-      <dc:creator>Neal E. Boudette</dc:creator>
-      <pubDate>Mon, 22 Aug 2022 22:44:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/22/business/22ford-cuts/22ford-cuts-moth.jpg" width="151"></media:content>
-      <media:credit>Sylvia Jarrus for The New York Times</media:credit>
-      <media:description>A Ford factory in Dearborn, Mich. The company is preparing to eliminate 3,000 white-collar jobs to cut costs amid the transition to electric vehicles.</media:description>
     </item>
   </channel>
 </rss>

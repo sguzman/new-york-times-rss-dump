@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 13:01:31 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 04:07:31 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 13:45:04 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 13:22:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Business &gt; Media</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business/media</link>
     </image>
+    <item>
+      <title>Snap Cuts 20% of Employees and Restructures</title>
+      <link>https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/technology/snap-layoffs-restructuring.html" rel="standout"></atom:link>
+      <description>The maker of Snapchat discontinued some of its products and appointed a chief operating officer, amid financial struggles.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 13:15:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spiegel, Evan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31snap/31snap-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <media:description>Layoffs at Snap, which makes the Snapchat app, will affect close to 1,300 of its 6,400 workers.</media:description>
+    </item>
     <item>
       <title>Washington Post’s Business Struggles as Frustrations Mount</title>
       <link>https://www.nytimes.com/2022/08/30/business/media/washington-post-jeff-bezos-revenue.html</link>
@@ -378,22 +397,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/world/23murdoch-suit-1/23murdoch-suit-1-moth.jpg" width="151"></media:content>
       <media:credit>Drew Angerer/Getty Images</media:credit>
       <media:description>Rupert Murdoch and his son Lachlan in 2017.</media:description>
-    </item>
-    <item>
-      <title>‘House of the Dragon’ Premiere Draws 10 Million Viewers, HBO Says.</title>
-      <link>https://www.nytimes.com/2022/08/22/business/media/house-of-the-dragon-viewers-ratings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/22/business/media/house-of-the-dragon-viewers-ratings.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/22/business/media/house-of-the-dragon-viewers-ratings.html" rel="standout"></atom:link>
-      <description>The network said viewership for the “Game of Thrones” spinoff was the biggest start for a series in its history.</description>
-      <dc:creator>John Koblin</dc:creator>
-      <pubDate>Mon, 22 Aug 2022 22:45:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ratings (Audience Measurement)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, George R R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HBO Max</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Box Office</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of the Dragon (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Game of Thrones (TV Program)</category>
     </item>
   </channel>
 </rss>

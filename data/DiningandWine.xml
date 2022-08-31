@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 14:57:52 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Aug 2022 13:56:03 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Aug 2022 15:10:21 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Aug 2022 15:00:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Food</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -254,6 +254,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bakeries and Baked Products</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/dining/31BurnerBake/29BurnerBake-moth.jpg" width="151"></media:content>
       <media:credit>Maryanne Florentino</media:credit>
+    </item>
+    <item>
+      <title>Cooking With the Three Sisters</title>
+      <link>https://www.nytimes.com/2022/08/31/dining/cooking-with-the-three-sisters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/dining/cooking-with-the-three-sisters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/dining/cooking-with-the-three-sisters.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Melissa Clark</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 15:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/dining/31GARDENSrex2-1/29GARDENSrex2-1-moth.jpg" width="151"></media:content>
+      <media:credit>David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.</media:credit>
     </item>
     <item>
       <title>Moosewood, the Beloved Vegetarian Restaurant, Prepares for Its Second Act</title>
@@ -518,19 +531,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/dining/24batali1/24batali1-moth.jpg" width="151"></media:content>
       <media:credit>Joseph Prezioso/Agence France-Presse — Getty Images</media:credit>
       <media:description>Mario Batali entered a Boston courtroom in 2019, where he was found not guilty of indecent assault and battery.</media:description>
-    </item>
-    <item>
-      <title>The Art of Kimjang</title>
-      <link>https://www.nytimes.com/2022/08/24/dining/the-art-of-kimjang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/24/dining/the-art-of-kimjang.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/24/dining/the-art-of-kimjang.html" rel="standout"></atom:link>
-      <description>Recipes for fermenting, 15-minute dinners and everything in between.</description>
-      <dc:creator>Melissa Clark</dc:creator>
-      <pubDate>Wed, 24 Aug 2022 15:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/dining/22KIMJANGREX1-kimchi/22KIMJANGREX1-kimchi-moth.jpg" width="151"></media:content>
-      <media:credit>David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.</media:credit>
     </item>
   </channel>
 </rss>

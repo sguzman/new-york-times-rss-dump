@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 17:51:24 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 17:50:30 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 18:16:27 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2022 18:12:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -286,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/theater/lea-michele-funny-girl-broadway.html" rel="standout"></atom:link>
       <description>She’s landed her dream role in “Funny Girl.” Now she’s tasked with rescuing the faltering Broadway show and proving that she is not the person she once was.</description>
       <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:00:47 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 17:51:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
@@ -491,18 +491,39 @@
       <link>https://www.nytimes.com/2022/09/01/us/politics/oath-keepers-lawyer-arrested.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/politics/oath-keepers-lawyer-arrested.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/01/us/politics/oath-keepers-lawyer-arrested.html" rel="standout"></atom:link>
-      <description>The lawyer, Kellye SoRelle, was charged with obstructing the certification of the 2020 election and tampering with evidence in the Justice Department’s investigation of the Capitol attack.</description>
+      <description>The lawyer, Kellye SoRelle, was charged with obstructing the certification of the 2020 election and tampering with evidence in the Justice Department’s investigation of the Capitol riot.</description>
       <dc:creator>Alan Feuer and Ken Bensinger</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 16:25:52 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 18:12:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kellye SoRelle</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oath Keepers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhodes, Stewart (1966- )</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/politics/01DC-OATHKEEPER/merlin_209959173_9c0223db-d957-4d36-a1bb-fd8da34107fb-moth.jpg" width="151"></media:content>
       <media:credit>House Select Committee, via Associated Press</media:credit>
-      <media:description>Kellye SoRelle, in a video released by the House committee investigating the Capitol riot on Jan. 6, was the latest member of the Oath Keepers to be indicted.</media:description>
+      <media:description>Kellye SoRelle in a video released by the House committee investigating the Capitol riot. She is the latest member of the Oath Keepers to be indicted.</media:description>
+    </item>
+    <item>
+      <title>Biden’s Student Loan Plan Could Face a Protracted Legal Fight</title>
+      <link>https://www.nytimes.com/2022/09/01/us/politics/biden-student-loan-plan-lawsuits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/politics/biden-student-loan-plan-lawsuits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/us/politics/biden-student-loan-plan-lawsuits.html" rel="standout"></atom:link>
+      <description>The White House’s use of emergency powers to enact widespread debt relief could be ripe for challenges.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 18:10:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/00dc-studentloanlegal/00dc-studentloanlegal-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Biden’s announcement to cancel some student loan debt fulfills a campaign promise to help graduates who are drowning in debt at a time of surging education costs.</media:description>
     </item>
     <item>
       <title>The Anglican Church’s ‘Kick in the Guts’ to Gay Parishioners</title>
@@ -541,28 +562,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/business/00applewatch-3/00applewatch-3-moth.jpg" width="151"></media:content>
       <media:credit>Chona Kasinger for The New York Times</media:credit>
       <media:description>Florian Fangohr with his son, Felix, who said he actually wanted a smartphone. “But the watch is still really, really nice,” the 8-year-old said.</media:description>
-    </item>
-    <item>
-      <title>How Reagan and Bush Overcame Their Skepticism of Gorbachev</title>
-      <link>https://www.nytimes.com/2022/08/31/us/politics/reagan-bush-gorbachev.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/reagan-bush-gorbachev.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/reagan-bush-gorbachev.html" rel="standout"></atom:link>
-      <description>Mr. Gorbachev was charming and presented himself as a modernizer, but neither Ronald Reagan nor George Bush was convinced he was for real. They would both be proved wrong.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 01:46:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Arms Reduction Treaty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/politics/31dc-gorbachev-1/31dc-gorbachev-1-moth.jpg" width="151"></media:content>
-      <media:credit>Paul Hosefros/The New York Times</media:credit>
-      <media:description>President Ronald Reagan and his successor, Vice President George Bush, with the Soviet leader Mikhail S. Gorbachev on Governors Island in December 1988.</media:description>
     </item>
     <item>
       <title>How Love Languages Became a Cultural Phenomenon</title>

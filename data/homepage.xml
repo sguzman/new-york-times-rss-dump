@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 01:11:57 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 00:51:58 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 03:40:55 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2022 03:38:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-justice-department-special-master.html" rel="standout"></atom:link>
       <description>A legal back-and-forth produced a straightforward narrative of how Mr. Trump and his lawyers repeatedly dodged the government’s attempts to recover sensitive documents for more than a year.</description>
       <dc:creator>Alan Feuer and Glenn Thrush</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 00:43:51 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 01:14:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
@@ -35,6 +35,45 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/politics/31dc-trump-legal-1/31dc-trump-legal-1-moth.jpg" width="151"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>The Justice Department used a routine court filing to disclose new evidence that former President Donald J. Trump and his legal team may have interfered with the inquiry.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Lawyers Renew Push for Special Master in Documents Inquiry</title>
+      <link>https://www.nytimes.com/2022/08/31/us/politics/trump-court-documents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/trump-court-documents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-court-documents.html" rel="standout"></atom:link>
+      <description>A filing claimed that the Justice Department was criminalizing the former president’s possession of “his own presidential records,” a stance at odds with the Presidential Records Act.</description>
+      <dc:creator>Charlie Savage, Alan Feuer and Maggie Haberman</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 02:43:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Archives and Records Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corcoran, M Evan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/us/politics/31dc-specialmaster/merlin_211635216_c0f6d511-dc2b-4ea3-a905-f0d0d76210a6-moth.jpg" width="151"></media:content>
+      <media:credit>Saul Martinez for The New York Times</media:credit>
+      <media:description>Supporters of former President Donald J. Trump outside the Federal District Court in West Palm Beach, Fla., where a hearing is scheduled for Thursday.</media:description>
+    </item>
+    <item>
+      <title>How the Photo of Top Secret Folders at Trump’s Home Came About</title>
+      <link>https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html" rel="standout"></atom:link>
+      <description>Federal agents arrayed classified materials on a floor at former President Donald J. Trump’s Florida residence for a photograph as a standard part of their evidence-gathering procedures.</description>
+      <dc:creator>Glenn Thrush and Adam Goldman</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 17:22:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/31dc-picture-1/30dc-investigate-3-moth.jpg" width="151"></media:content>
+      <media:credit>Department of Justice</media:credit>
+      <media:description>In its court filing, the Justice Department included a photograph of documents seized from Mar-a-Lago.</media:description>
     </item>
     <item>
       <title>Trump Lawyers May Become Witnesses or Targets in Documents Case</title>
@@ -62,53 +101,13 @@
       <media:description>Christina Bobb, one of former President Donald J. Trump’s lawyers, signed a statement attesting that all the sensitive material he took had been returned.</media:description>
     </item>
     <item>
-      <title>How the Photo of Top Secret Folders at Trump’s Home Came About</title>
-      <link>https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/trump-photo-classified-documents.html" rel="standout"></atom:link>
-      <description>Federal agents arrayed classified materials on a floor at former President Donald J. Trump’s Florida residence for a photograph as a standard part of their evidence-gathering procedures.</description>
-      <dc:creator>Glenn Thrush and Adam Goldman</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 17:22:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/us/politics/31dc-picture-1/30dc-investigate-3-moth.jpg" width="151"></media:content>
-      <media:credit>Department of Justice</media:credit>
-      <media:description>In its court filing, the Justice Department included a photograph of documents seized from Mar-a-Lago.</media:description>
-    </item>
-    <item>
-      <title>Conservative Lawyer a Likely Target in Atlanta Trump Investigation, His Lawyer Says</title>
-      <link>https://www.nytimes.com/2022/08/31/us/john-eastman-trump-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/john-eastman-trump-investigation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/us/john-eastman-trump-investigation.html" rel="standout"></atom:link>
-      <description>John Eastman, who developed strategies to block certification of the 2020 election, appeared before a grand jury in Atlanta on Wednesday and invoked his Fifth Amendment right against self-incrimination.</description>
-      <dc:creator>Richard Fausset and Danny Hakim</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 20:57:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racketeering and Racketeers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eastman, John C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/31eastman/merlin_208659768_38e186b7-b622-4ad5-8132-c10ea5239f6e-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>A video clip of John Eastman, left, invoking the Fifth Amendment during a deposition with the House committee investigating the Jan. 6 attack on the Capitol.</media:description>
-    </item>
-    <item>
       <title>F.D.A. Authorizes Updated Covid Booster Shots Targeting Omicron Subvariants</title>
       <link>https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/covid-booster-shots-variants.html" rel="standout"></atom:link>
       <description>The agency cleared two options aimed at subvariants that are now dominant, hoping to curtail a fall or winter surge.</description>
       <dc:creator>Noah Weiland and Sharon LaFraniere</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 00:19:57 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:19:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
@@ -148,22 +147,66 @@
       <media:description>Gathering for the funerals of Severiano Buck and Bace Wallace, brothers who died from Covid complications, at their family plot on the Navajo Nation in New Mexico last year.</media:description>
     </item>
     <item>
-      <title>China May Have Committed ‘Crimes Against Humanity’ in Xinjiang, U.N. Says</title>
-      <link>https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html" rel="standout"></atom:link>
-      <description>The organization’s human rights office delivered its much-delayed report minutes before Michelle Bachelet, the U.N. high commissioner for human rights, was to leave office.</description>
-      <dc:creator>Nick Cumming-Bruce and Austin Ramzy</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 00:51:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/world/00un-xinjiang1/00un-xinjiang1-moth.jpg" width="151"></media:content>
-      <media:credit>Ng Han Guan/Associated Press</media:credit>
-      <media:description>A security guard at a detention center in Yarkant County, Xinjiang, China, last year. Delays to the U.N. report about abuses in the region prompted fierce pushback from rights groups.</media:description>
+      <title>Serena Williams’s Magical Run at the US Open Isn’t Over Yet</title>
+      <link>https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-us-open-win.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-us-open-win.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-us-open-win.html" rel="standout"></atom:link>
+      <description>If two nights earlier was about posterity and sweet send-offs, Round 2 was about doing everything possible to win a tennis match, as Williams beat the world No. 2, Anett Kontaveit, in three sets.</description>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 03:20:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kontaveit, Anett (1995- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/sports/31serena-second-match-ledeall/merlin_212230023_695438d3-e23c-48e4-8f32-2e81ef923c74-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>It Was Anett Kontaveit Against Serena Williams, and the Crowd</title>
+      <link>https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-kontaveit-crowd-us-open.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-kontaveit-crowd-us-open.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/sports/tennis/serena-williams-kontaveit-crowd-us-open.html" rel="standout"></atom:link>
+      <description>Kontaveit was up for the challenge of facing Williams in front of fans who had little interest in her winning as they celebrate Williams’s career. She forced a third set, but the fans got what they wanted.</description>
+      <dc:creator>David Waldstein</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 02:39:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kontaveit, Anett (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/sports/31usopen-serena-sidebar1/31usopen-serena-sidebar1-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle V. Agins/The New York Times</media:credit>
+      <media:description>Anett Kontaveit rebounded after losing a first-set tiebreaker but could not recover enough to win the match.</media:description>
+    </item>
+    <item>
+      <title>Coco Gauff Warms Up the Court for Serena Williams, and Gets a Win</title>
+      <link>https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html" rel="standout"></atom:link>
+      <description>The 18-year-old American beat Elena-Gabriela Ruse of Romania, 6-2, 7-6 (4), to advance to the third round at the U.S. Open.</description>
+      <dc:creator>Kris Rhim</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 23:50:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gauff, Cori (2004- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/sports/31usopen-gauff/31usopen-gauff-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Coco Gauff will play Madison Keys, another American, in the third round.</media:description>
+    </item>
+    <item>
+      <title>Mary Peltola, a Democrat, Defeats Sarah Palin in Alaska’s Special House Election</title>
+      <link>https://www.nytimes.com/2022/08/31/us/politics/mary-peltola-alaska-special-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/us/politics/mary-peltola-alaska-special-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/us/politics/mary-peltola-alaska-special-election.html" rel="standout"></atom:link>
+      <description>Ms. Peltola notched a major upset against Ms. Palin and will finish the remaining four months of the term of Representative Don Young, who died in March.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 00:15:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palin, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31pol-alaska-special-hfo-Peltola-FINAL/31pol-alaska-special-hfo-Peltola-moth.jpg" width="151"></media:content>
+      <media:credit>Ash Adams for The New York Times</media:credit>
+      <media:description>Mary Peltola’s victory in Alaska adds to a series of recent wins for Democrats.</media:description>
     </item>
     <item>
       <title>Biden’s Message Shifts From Compromise to Combat Ahead of Midterms</title>
@@ -222,19 +265,22 @@
       <media:description>Adam Laxalt is running against Senator Catherine Cortez Masto in a Nevada race that Republicans see as one of their best chances to pick up a Senate seat.</media:description>
     </item>
     <item>
-      <title>Coco Gauff Warms Up the Court for Serena Williams, and Gets a Win</title>
-      <link>https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/sports/tennis/coco-gauff-us-open.html" rel="standout"></atom:link>
-      <description>The 18-year-old American beat Elena-Gabriela Ruse of Romania, 6-2, 7-6 (4), to advance to the third round at the U.S. Open.</description>
-      <dc:creator>Kris Rhim</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 23:50:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gauff, Cori (2004- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/sports/31usopen-gauff/31usopen-gauff-moth.jpg" width="151"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Coco Gauff will play Madison Keys, another American, in the third round.</media:description>
+      <title>China May Have Committed ‘Crimes Against Humanity’ in Xinjiang, U.N. Says</title>
+      <link>https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/world/asia/un-china-xinjiang-uyghurs.html" rel="standout"></atom:link>
+      <description>The organization’s human rights office delivered its much-delayed report minutes before Michelle Bachelet, the U.N. high commissioner for human rights, was to leave office.</description>
+      <dc:creator>Nick Cumming-Bruce and Austin Ramzy</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 03:29:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/world/00un-xinjiang1/00un-xinjiang1-moth.jpg" width="151"></media:content>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <media:description>A security guard at a detention center in Yarkant County, Xinjiang, China, last year. Delays to the U.N. report about abuses in the region prompted fierce pushback from rights groups.</media:description>
     </item>
     <item>
       <title>To Prevent a Martian Plague, NASA Needs to Build a Very Special Lab</title>
@@ -276,24 +322,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31ukraine-ledeall1/31ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>A convoy carrying the I.A.E.A. team en route to the Zaporizhzhia plant on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>As New York’s Gun Law Goes Into Effect, Demand for Permits Spikes</title>
-      <link>https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html" rel="standout"></atom:link>
-      <description>Those who want to carry concealed weapons will have to undertake 16 hours of classroom training and provide character references.</description>
-      <dc:creator>Jonah E. Bromwich, Hurubie Meko and Dan Higgins</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 23:58:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/nyregion/31pistol-permits-1/31pistol-permits-1-moth.jpg" width="151"></media:content>
-      <media:credit>Lauren Petracca for The New York Times</media:credit>
-      <media:description>People waiting to submit their pistol permit applications at the Niagara County Clerk’s Office in Lockport on Wednesday.</media:description>
     </item>
     <item>
       <title>How an Afghan Soccer Player Escaped the Taliban and Began a New Life</title>
@@ -429,7 +457,7 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/opinion/letters/harry-styles-queer-identity.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/31/opinion/letters/harry-styles-queer-identity.html" rel="standout"></atom:link>
       <description>Readers respond to a guest essay about the singer’s use of queer symbols. Also: Gorbachev’s death; filling empty theater seats.</description>
-      <pubDate>Wed, 31 Aug 2022 20:43:40 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2022 20:43:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Styles, Harry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
@@ -568,22 +596,22 @@
       <media:description>Mikhail Gorbachev, when he led the Soviet Union, addressing the U.N. General Assembly in December 1988.</media:description>
     </item>
     <item>
-      <title>Gateway Tunnel Project Under Hudson River Won’t Be Finished Until 2035</title>
-      <link>https://www.nytimes.com/2022/08/31/nyregion/gateway-tunnel-ny-nj-delay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/nyregion/gateway-tunnel-ny-nj-delay.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/nyregion/gateway-tunnel-ny-nj-delay.html" rel="standout"></atom:link>
-      <description>The crucial Gateway transit link from New Jersey to New York will now open three years later than expected and is likely to cost $2 billion more to construct.</description>
-      <dc:creator>Dana Rubinstein</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 23:10:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Sandy (2012)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hudson River Tunnels Project</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boardman, Joseph H</category>
+      <title>As New York’s Gun Law Goes Into Effect, Demand for Permits Spikes</title>
+      <link>https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/nyregion/ny-gun-law-pistol-permits.html" rel="standout"></atom:link>
+      <description>Those who want to carry concealed weapons will have to undertake 16 hours of classroom training and provide character references.</description>
+      <dc:creator>Jonah E. Bromwich, Hurubie Meko and Dan Higgins</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 02:45:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/nyregion/31gateway/merlin_145470699_997aea08-407f-4612-b04c-8dd05207cf02-moth.jpg" width="151"></media:content>
-      <media:credit>Victor J. Blue for The New York Times</media:credit>
-      <media:description>The South Tube tunnel between New York and New Jersey was damaged by Hurricane Sandy.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/nyregion/31pistol-permits-1/31pistol-permits-1-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren Petracca for The New York Times</media:credit>
+      <media:description>People waiting to submit their pistol permit applications at the Niagara County Clerk’s Office in Lockport on Wednesday.</media:description>
     </item>
     <item>
       <title>Charlbi Dean, Star of ‘Triangle of Sadness,’ Dies at 32</title>

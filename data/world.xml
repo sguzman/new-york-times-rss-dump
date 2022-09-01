@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 13:55:11 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 13:53:55 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 14:20:34 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2022 14:17:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/01/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>The U.N. mission braved intensified shelling, as Russia and Ukraine accused each other of putting the team in danger.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 13:53:55 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 14:17:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01ukraine-briefing-header2/01ukraine-briefing-iaea-2-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>A convoy of armored SUVs transporting the I.A.E.A. delegation to the Zaporizhzhia nuclear power plant, on Thursday.</media:description>
@@ -128,10 +128,11 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html" rel="standout"></atom:link>
       <description>The drastic response to a rise in Covid cases adds to the pressures facing Sichuan Province, which already had been dealing with drought, heat and wildfires.</description>
       <dc:creator>Alexandra Stevenson and Zixu Wang</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 11:37:37 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 11:37:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01virus-china-sub1/01virus-china-sub1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>A testing site in Chengdu, where mass testing began on Thursday and is to continue through Sunday, officials said.</media:description>
@@ -554,6 +555,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/31putin-gorbachev-1/31putin-gorbachev-1-moth.jpg" width="151"></media:content>
       <media:credit>Vladimir Rodionov/ITAR-TASS, via Associated Press</media:credit>
       <media:description>Mikhail S. Gorbachev with President Vladimir V. Putin of Russia in Moscow in 2000.</media:description>

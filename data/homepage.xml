@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 21:46:18 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 21:44:11 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 22:09:10 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2022 22:06:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/climate/california-lawmakers-climate-legislation.html" rel="standout"></atom:link>
       <description>After lobbying by the governor, lawmakers adopted $54 billion in climate spending and voted to keep open the state’s last nuclear plant.</description>
       <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 20:04:35 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 22:06:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -133,12 +133,12 @@
     </item>
     <item>
       <title>In Speech, Biden Plans to Address Trump-Led Extremism </title>
-      <link>https://www.nytimes.com/2022/09/01/us/politics/biden-philadelphia-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/politics/biden-philadelphia-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/us/politics/biden-philadelphia-speech.html" rel="standout"></atom:link>
-      <description>The president’s prime-time speech in Philadelphia comes amid deep national divisions and is intended to deliver a dark message about threats to the fabric of American democracy.</description>
-      <dc:creator>Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 19:41:07 +0000</pubDate>
+      <link>https://www.nytimes.com/live/2022/09/01/us/biden-speech-philadelphia/biden-philadelphia-speech</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/01/us/biden-speech-philadelphia/biden-philadelphia-speech</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/01/us/biden-speech-philadelphia/biden-philadelphia-speech" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Zolan Kanno-Youngs and Michael D. Shear</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 22:02:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
@@ -149,9 +149,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/lens/01dcBiden-alt/01dcBiden-alt-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden in Wilkes-Barre, Pa., on Tuesday. His speech on Thursday will be his second visit to the swing state this week.</media:description>
     </item>
     <item>
       <title>Top Lawyer for Oath Keepers Is Arrested in Connection With Jan. 6 Attack</title>
@@ -171,6 +168,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/politics/01DC-OATHKEEPER/merlin_209959173_9c0223db-d957-4d36-a1bb-fd8da34107fb-moth.jpg" width="151"></media:content>
       <media:credit>House Select Committee, via Associated Press</media:credit>
       <media:description>Kellye SoRelle in a video released by the House committee investigating the Capitol riot. She is the latest member of the Oath Keepers to be indicted.</media:description>
+    </item>
+    <item>
+      <title>Updated Booster Shots Expected Within Days as C.D.C. Panel Signs Off</title>
+      <link>https://www.nytimes.com/2022/09/01/health/covid-omicron-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/health/covid-omicron-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/health/covid-omicron-vaccines.html" rel="standout"></atom:link>
+      <description>The debut of Omicron-specific vaccines raises a thorny question: How long should you wait between shots?</description>
+      <dc:creator>Benjamin Mueller</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 21:53:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/science/01virus-vaccines1/01virus-vaccines1-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <media:description>Epidemiologists predicted that having updated booster vaccines by next week, rather than mid-November, could save between 7,500 and 18,000 lives by the spring.</media:description>
     </item>
     <item>
       <title>Does This Fisherman Have the Right to Be in a Billionaire’s Backyard?</title>
@@ -253,31 +267,6 @@
       <media:description>President Vladimir Putin of Russia with Ravil Maganov, the chairman of the board of directors of the oil company Lukoil, in 2019.</media:description>
     </item>
     <item>
-      <title>The Pandemic Erased Two Decades of Progress in Math and Reading</title>
-      <link>https://www.nytimes.com/2022/09/01/us/national-test-scores-math-reading-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/national-test-scores-math-reading-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/us/national-test-scores-math-reading-pandemic.html" rel="standout"></atom:link>
-      <description>The results of a national test showed just how devastating the last two years have been for 9-year-old schoolchildren, especially the most vulnerable.</description>
-      <dc:creator>Sarah Mervosh</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 16:15:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Assessment of Educational Progress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Center for Education Statistics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/01REPORT-CARD-top/01REPORT-CARD-top-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>The declines in the national test scores spanned almost all races and income levels and were markedly worse for the lowest-performing students. </media:description>
-    </item>
-    <item>
       <title>In a Japanese Nursing Home, Some Workers Are Babies</title>
       <link>https://www.nytimes.com/2022/09/01/world/asia/japan-nursing-home-babies.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/asia/japan-nursing-home-babies.html</guid>
@@ -313,22 +302,20 @@
       <media:description>“I feel more ready than I ever have before, both personally and professionally,” said Lea Michele, who is set to make her first “Funny Girl” appearance on Tuesday.</media:description>
     </item>
     <item>
-      <title>Education in America: School Is for Hope</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html" rel="standout"></atom:link>
-      <description>Many migrant parents believe that American schools promise their children the opportunity for a better life.</description>
-      <dc:creator>Gabrielle Oliveira</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:08:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bilingual Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01Oliviera/01Oliviera-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; the New York Public Library, via Unsplash; and Mikus and NASA, via Wikimedia Commons</media:credit>
+      <title>A Farewell to Readers</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/farewell-to-readers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/farewell-to-readers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/farewell-to-readers.html" rel="standout"></atom:link>
+      <description>Binary thinking in politics, race and inequality has distracted us from processing everything else that takes place in the country.</description>
+      <dc:creator>Jay Caspian Kang</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Community Colleges</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01kang-image/01kang-image-moth.jpg" width="151"></media:content>
+      <media:credit>Alberto Miranda</media:credit>
     </item>
     <item>
       <title>Education in America: School Is for Making Citizens</title>

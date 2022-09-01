@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 22:09:10 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Sep 2022 22:06:07 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2022 22:29:12 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2022 22:14:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -81,6 +81,18 @@
       <media:description>The Route Fire burning alongside Interstate 5 in Castaic, Calif., on Wednesday.</media:description>
     </item>
     <item>
+      <title>Extreme Heat Pummels California as Crews Battle Wildfires  </title>
+      <link>https://www.nytimes.com/2022/08/01/us/wildfires-heat-wave-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/01/us/wildfires-heat-wave-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/01/us/wildfires-heat-wave-california.html" rel="standout"></atom:link>
+      <description>The heat, which has broken daily records in some places, is also stretching the state’s electricity supplies.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 21:37:09 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/01california-heat-2/01california-heat-2-moth.jpg" width="151"></media:content>
+      <media:credit>Gregory Bull/Associated Press</media:credit>
+      <media:description>Fire crews working a wildfire near Dulzura, Calif., on Thursday. California wildfires chewed through rural areas east of San Diego on Thursday, racing through bone-dry brush and prompting evacuations as the state sweltered under a heat wave that could last through Labor Day.</media:description>
+    </item>
+    <item>
       <title>A Solar Firm Plans to Build Off-Grid Neighborhoods in California</title>
       <link>https://www.nytimes.com/2022/09/01/business/energy-environment/sunnova-off-grid-neighborhoods.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/business/energy-environment/sunnova-off-grid-neighborhoods.html</guid>
@@ -110,26 +122,25 @@
       <media:description>If it gets approval, Sunnova Energy will work with developers to install solar panels and batteries as part of home construction in developments with fewer than 2,000 units.</media:description>
     </item>
     <item>
-      <title>Mississippi Crisis Highlights Climate Threat to Drinking Water Nationwide</title>
-      <link>https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html" rel="standout"></atom:link>
-      <description>Aging infrastructure and underinvestment have left many cities’ water systems in tatters. Now flooding and other climate shocks are pushing them to failure.</description>
-      <dc:creator>Christopher Flavelle, Rick Rojas, Jim Tankersley and Jack Healy</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 19:51:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson (Miss)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lumumba, Chokwe (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/01WATER-top1/01WATER-top1-moth.jpg" width="151"></media:content>
-      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
-      <media:description>Catherine Moore waiting for water to boil in Paulette McGee’s home in Jackson, Miss.</media:description>
+      <title>In California’s Housing Fight, It’s Newsom vs. NIMBY</title>
+      <link>https://www.nytimes.com/2022/09/01/business/economy/california-nimbys-housing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/business/economy/california-nimbys-housing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/business/economy/california-nimbys-housing.html" rel="standout"></atom:link>
+      <description>Laws to encourage more development and denser housing don’t do much good if no one enforces them. As the state political calculus shifts, Gavin Newsom is trying to change that.</description>
+      <dc:creator>Conor Dougherty and Soumya Karlamangla</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 21:05:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/01Newsom-sub/01Newsom-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Gov. Gavin Newsom, who is running for re-election, is taking an increasingly aggressive stance toward localities that ignore California housing laws.</media:description>
     </item>
     <item>
       <title>In Speech, Biden Plans to Address Trump-Led Extremism </title>
@@ -176,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/health/covid-omicron-vaccines.html" rel="standout"></atom:link>
       <description>The debut of Omicron-specific vaccines raises a thorny question: How long should you wait between shots?</description>
       <dc:creator>Benjamin Mueller</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 21:53:23 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 21:53:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
@@ -227,6 +238,18 @@
       <media:description>“Unfortunately, many of the very people responsible for losing the Senate last cycle are now trying to stop us from winning the majority this time by trash-talking our Republican candidates,” Senator Rick Scott wrote in an opinion piece on Thursday.</media:description>
     </item>
     <item>
+      <title>Politics updates: Ginni Thomas emailed Wisconsin lawmakers about 2020.</title>
+      <link>https://www.nytimes.com/live/2022/09/01/us/primary-elections-midterms/campaign-updates-fetterman-gives-a-tv-interview-cook-shifts-5-house-seats</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/01/us/primary-elections-midterms/campaign-updates-fetterman-gives-a-tv-interview-cook-shifts-5-house-seats</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/01/us/primary-elections-midterms/campaign-updates-fetterman-gives-a-tv-interview-cook-shifts-5-house-seats" rel="standout"></atom:link>
+      <description>In the Mich</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 22:10:35 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01midterm-briefing-campaign-updates-photo/01midterm-briefing-campaign-updates-photo-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Semansky/Associated Press</media:credit>
+      <media:description>Virginia Thomas sent form letters to Wisconsin state legislators urging them to overturn the 2020 presidential result.</media:description>
+    </item>
+    <item>
       <title>First Day of School in Ukraine, Upended by the Bleak Season of War</title>
       <link>https://www.nytimes.com/2022/09/01/world/europe/ukraine-schools-first-day.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/ukraine-schools-first-day.html</guid>
@@ -267,6 +290,28 @@
       <media:description>President Vladimir Putin of Russia with Ravil Maganov, the chairman of the board of directors of the oil company Lukoil, in 2019.</media:description>
     </item>
     <item>
+      <title>Mississippi Crisis Highlights Climate Threat to Drinking Water Nationwide</title>
+      <link>https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/us/mississippi-water-climate-change.html" rel="standout"></atom:link>
+      <description>Aging infrastructure and underinvestment have left many cities’ water systems in tatters. Now flooding and other climate shocks are pushing them to failure.</description>
+      <dc:creator>Christopher Flavelle, Rick Rojas, Jim Tankersley and Jack Healy</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:51:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson (Miss)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lumumba, Chokwe (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/01WATER-top1/01WATER-top1-moth.jpg" width="151"></media:content>
+      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
+      <media:description>Catherine Moore waiting for water to boil in Paulette McGee’s home in Jackson, Miss.</media:description>
+    </item>
+    <item>
       <title>In a Japanese Nursing Home, Some Workers Are Babies</title>
       <link>https://www.nytimes.com/2022/09/01/world/asia/japan-nursing-home-babies.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/asia/japan-nursing-home-babies.html</guid>
@@ -283,23 +328,47 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
     </item>
     <item>
-      <title>Lea Michele On ‘Funny Girl,’ ‘Glee,’ Her Career and Those Rumors</title>
-      <link>https://www.nytimes.com/2022/09/01/theater/lea-michele-funny-girl-broadway.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/theater/lea-michele-funny-girl-broadway.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/theater/lea-michele-funny-girl-broadway.html" rel="standout"></atom:link>
-      <description>She’s landed her dream role in “Funny Girl.” Now she’s tasked with rescuing the faltering Broadway show and proving that she is not the person she once was.</description>
-      <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 17:51:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michele, Lea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Funny Girl (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Glee (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/arts/04LEAMICHELE1/04LEAMICHELE1-moth.jpg" width="151"></media:content>
-      <media:credit>Gioncarlo Valentine for The New York Times</media:credit>
-      <media:description>“I feel more ready than I ever have before, both personally and professionally,” said Lea Michele, who is set to make her first “Funny Girl” appearance on Tuesday.</media:description>
+      <title>What Critics Are Saying About ‘The Lord of the Rings: The Rings of Power’</title>
+      <link>https://www.nytimes.com/2022/09/01/arts/television/lotr-the-rings-of-power-reviews.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/arts/television/lotr-the-rings-of-power-reviews.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/arts/television/lotr-the-rings-of-power-reviews.html" rel="standout"></atom:link>
+      <description>Amazon’s expensive fantasy saga finally debuts on Thursday night. What do the critics think? Read on.</description>
+      <dc:creator>Jennifer Vineyard</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:57:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tolkien, J R R</category>
+    </item>
+    <item>
+      <title>‘The Lord of the Rings: The Rings of Power’ Is Shiny but Not Yet Precious</title>
+      <link>https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html" rel="standout"></atom:link>
+      <description>Amazon’s pricey, gorgeous fantasy spectacle delivers what fans expect, but it could thrive by giving them what they don’t.</description>
+      <dc:creator>James Poniewozik</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tolkien, J R R</category>
+    </item>
+    <item>
+      <title>Ken Burns Explores America’s Inaction During the Holocaust</title>
+      <link>https://www.nytimes.com/2022/09/01/arts/television/ken-burns-the-us-and-the-holocaust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/arts/television/ken-burns-the-us-and-the-holocaust.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/arts/television/ken-burns-the-us-and-the-holocaust.html" rel="standout"></atom:link>
+      <description>“The U.S. and the Holocaust,” coming to PBS Sept. 18, examines the reasons behind the country’s inadequate response to Germany’s persecution of Jews.</description>
+      <dc:creator>Joseph Berger</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 16:56:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Novick, Lynn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mendelsohn, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ward, Geoffrey C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Broadcasting Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The US and the Holocaust (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Botstein, Sarah (1972- )</category>
     </item>
     <item>
       <title>A Farewell to Readers</title>
@@ -409,22 +478,30 @@
       <media:description>Morfydd Clark in Amazon Studios’ “The Lord of the Rings: The Rings of Power.” Not all stories are suited to being expanded and exploited by Hollywood. </media:description>
     </item>
     <item>
-      <title>Why NASA Wants to Go Back to the Moon</title>
-      <link>https://www.nytimes.com/2022/09/01/briefing/nasa-moon-mars-space-travel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/briefing/nasa-moon-mars-space-travel.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/briefing/nasa-moon-mars-space-travel.html" rel="standout"></atom:link>
-      <description>Why NASA wants to go back now.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 10:15:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/lens/01themorning-moon-and-beyond/merlin_212196810_ddba68d4-fa77-4be6-8aa0-c273c30361f8-moth.jpg" width="151"></media:content>
-      <media:credit>Bill Ingalls/NASA</media:credit>
-      <media:description>The rocket for the Artemis I mission, on launchpad at Kennedy Space Center.</media:description>
+      <title>Your Thursday Evening Briefing</title>
+      <link>https://www.nytimes.com/2022/09/01/briefing/biden-speech-california-climate-college-football.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/briefing/biden-speech-california-climate-college-football.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/briefing/biden-speech-california-climate-college-football.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 22:00:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/lens/01evening-briefing-03/01dcBiden-alt-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden is visiting Pennsylvania for the second time this week for his speech tonight.</media:description>
+    </item>
+    <item>
+      <title>What Is a ‘Fake’ Artist in 2022?</title>
+      <link>https://www.nytimes.com/2022/08/31/arts/music/popcast-fn-meka-fake-spotify-artists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/arts/music/popcast-fn-meka-fake-spotify-artists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/arts/music/popcast-fn-meka-fake-spotify-artists.html" rel="standout"></atom:link>
+      <description>Firestorms over the “virtual rapper” FN Meka and faceless artists on Spotify have sparked conversations about alienation and creative agency.</description>
+      <pubDate>Wed, 31 Aug 2022 19:29:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Augmented Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">FN Meka (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
     </item>
     <item>
       <title>How Gorbachev Changed the World</title>
@@ -446,43 +523,13 @@
       <media:description>Mr. Gorbachev’s leadership ushered in the end of the Cold War and transformed the map of Europe, changing the world. It is a world that Mr. Putin is now at war against.</media:description>
     </item>
     <item>
-      <title>Summer’s Last Gasp Has Arrived</title>
-      <link>https://www.nytimes.com/2022/08/31/nyregion/summers-last-gasp-has-arrived.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/nyregion/summers-last-gasp-has-arrived.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/nyregion/summers-last-gasp-has-arrived.html" rel="standout"></atom:link>
-      <description>Our last newsletter edition of the season focuses on summer missions accomplished and those still on the to-do list.</description>
-      <dc:creator>Michael Gold</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 12:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Hook (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orchard Beach (Bronx, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Governors Island (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Birria-Landia (Food Truck)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shakespeare in the Park</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shukette (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Trucks and Vendors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whitney Biennial</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">West Indian-American Day</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31sitc-web1/31sitc-web1-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>As the sun slowly sets on summer, it’s not too late to finish off those activities still on your checklist. </media:description>
-    </item>
-    <item>
-      <title>In Track and Field, Money Flows to the Flashy and Stylish</title>
-      <link>https://www.nytimes.com/2022/08/28/sports/track-and-field-style-money.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/28/sports/track-and-field-style-money.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/28/sports/track-and-field-style-money.html" rel="standout"></atom:link>
-      <description>Winning is important when it comes to making a living in the sport. But so is finishing in style.</description>
-      <dc:creator>Kris Rhim</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 15:02:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Track and Field</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolt, Usain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/sports/28sprinter-showmanship/28sprinter-showmanship-moth.jpg" width="151"></media:content>
-      <media:credit>Kai Pfaffenbach/Reuters</media:credit>
-      <media:description>Usain Bolt of Jamaica smiles while winning the 100-meter semifinal sprint at the 2016 Olympics in Rio de Janeiro.</media:description>
+      <title>“中国特供版”电影和美国的“觉醒文化”是一回事吗？</title>
+      <link>https://www.nytimes.com/zh-hans/2022/09/01/world/asia/china-censorship-us-wokeness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/zh-hans/2022/09/01/world/asia/china-censorship-us-wokeness.html</guid>
+      <atom:link href="https://www.nytimes.com/zh-hans/2022/09/01/world/asia/china-censorship-us-wokeness.html" rel="standout"></atom:link>
+      <description>《小黄人2》中国上映版本结局被改引发争议，有中国网友指出，美国同样存在对文艺作品的审查。真的如此吗？美国文艺界对经典作品的重新审视和反思究竟是怎么一回事？</description>
+      <dc:creator>Rong Xiaoqing</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 08:43:49 +0000</pubDate>
     </item>
     <item>
       <title>Serena Williams’s Magical Run at the US Open Isn’t Over Yet</title>
@@ -643,17 +690,24 @@
       <media:credit>James Kerr</media:credit>
     </item>
     <item>
-      <title>‘The Lord of the Rings: The Rings of Power’ Is Shiny but Not Yet Precious</title>
-      <link>https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/arts/television/the-rings-of-power-lotr-review.html" rel="standout"></atom:link>
-      <description>Amazon’s pricey, gorgeous fantasy spectacle delivers what fans expect, but it could thrive by giving them what they don’t.</description>
-      <dc:creator>James Poniewozik</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tolkien, J R R</category>
+      <title>What Does a Dancing Body Feel Like in Ukraine? ‘I Am a Gun.’</title>
+      <link>https://www.nytimes.com/2022/08/24/arts/dance/modern-dance-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/24/arts/dance/modern-dance-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/24/arts/dance/modern-dance-ukraine.html" rel="standout"></atom:link>
+      <description>The country’s experimental dance artists, independent and resilient, are using their skills in a new arena: war.</description>
+      <dc:creator>Gia Kourlas</dc:creator>
+      <pubDate>Mon, 29 Aug 2022 00:13:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lviv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shyshkarova, Krystyna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Totem Dance School (Kyiv, Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/arts/28ukraine-modern-totem4/28ukraine-modern-totem4-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Krystyna Shyshkarova, who has a dance school in Kyiv, is developing a system that she calls “tactical choreography,” which combines modern dance techniques and tactical training.</media:description>
     </item>
   </channel>
 </rss>

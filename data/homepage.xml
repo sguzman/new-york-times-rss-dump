@@ -7,13 +7,22 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 12:27:40 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 12:22:29 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 13:17:09 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 13:16:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Takeaways From the August Jobs Report</title>
+      <link>https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html" rel="standout"></atom:link>
+      <description>Hiring slowed last month but remained robust, in line with what many economists had been expecting.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 12:52:45 +0000</pubDate>
+    </item>
     <item>
       <title>The Flaw in Biden’s Pro-Labor Record: Uber Drivers Are Still Waiting for Help</title>
       <link>https://www.nytimes.com/2022/09/02/business/gig-workers-biden.html</link>
@@ -63,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/us/politics/biden-speech-trump-maga.html" rel="standout"></atom:link>
       <description>In a prime-time speech in Philadelphia, President Biden cast the midterm elections as a choice between his agenda and the extremism of “MAGA Republicans.”</description>
       <dc:creator>Zolan Kanno-Youngs and Michael D. Shear</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 05:26:36 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 12:54:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -126,13 +135,14 @@
       <dc:creator>Julian E. Barnes, Michael C. Bender and Maggie Haberman</dc:creator>
       <pubDate>Thu, 01 Sep 2022 23:59:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/us/politics/01dc-trump-intel1/01dc-trump-intel1-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker for The New York Times</media:credit>
       <media:description>President Donald J. Trump in the Oval Office. He would sometimes ask to keep material from classified briefings.</media:description>
@@ -166,7 +176,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/business/peleton-resale-inventory.html" rel="standout"></atom:link>
       <description>As its business slumps, Peloton is trying something new: selling its bikes to “value-minded” customers. It faces stiff competition.</description>
       <dc:creator>Lora Kelley</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:16 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 13:02:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peloton Interactive Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
@@ -179,13 +189,35 @@
       <media:credit>Anuj Shrestha</media:credit>
     </item>
     <item>
+      <title>Price Cap on Russian Oil Wins Backing of G7 Ministers</title>
+      <link>https://www.nytimes.com/2022/09/02/business/economy/g7-russian-oil-price-cap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/business/economy/g7-russian-oil-price-cap.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/business/economy/g7-russian-oil-price-cap.html" rel="standout"></atom:link>
+      <description>The proposal aims to stabilize unsettled energy markets in the wake of Russia’s invasion of Ukraine. But it faces considerable obstacles.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 12:56:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/business/02dc-oilpricecap/02dc-oilpricecap-moth.jpg" width="151"></media:content>
+      <media:credit>Gazprom Neft/Via Reuters</media:credit>
+      <media:description>An oil field in Russia. Energy analysts are skeptical that a proposal to corral the price of Russian oil would be successful.</media:description>
+    </item>
+    <item>
       <title>‘Condemned to Lead’ Europe, German Chancellor Struggles for Impact</title>
       <link>https://www.nytimes.com/2022/09/02/world/europe/germany-scholz-eu.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/europe/germany-scholz-eu.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/02/world/europe/germany-scholz-eu.html" rel="standout"></atom:link>
       <description>Facing its worst crisis since World War II, Europe is looking for leadership. Olaf Scholz is trying to take up the role, but faces a tepid response.</description>
       <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 06:31:12 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 06:31:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
@@ -224,7 +256,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/sports/tennis/us-open-serena-williams-doubles-singles.html" rel="standout"></atom:link>
       <description>Analytics, scouting first-time opponents, additional coaching input, new footwork drills and treating doubles like practice — so far it’s adding up to winning.</description>
       <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 07:00:05 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 13:11:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
@@ -243,7 +275,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/sex-ed-new-jersey-midterms.html" rel="standout"></atom:link>
       <description>New education standards that touch on gender identity have caused a stir in New Jersey. Some Republicans are trying to keep the conversation alive.</description>
       <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:15 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 13:15:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
@@ -281,7 +313,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">No Labels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
@@ -350,7 +381,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html" rel="standout"></atom:link>
       <description>I felt the power of the rush of readers who ran to the stage when Salman Rushdie was attacked. </description>
       <dc:creator>Henry Reese</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:19 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 12:35:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
@@ -458,22 +489,6 @@
       <media:credit>Illustration by Guillem Casasus; Photograph by Getty Images</media:credit>
     </item>
     <item>
-      <title>Argentina’s Vice President Unharmed After Assassination Attempt</title>
-      <link>https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html" rel="standout"></atom:link>
-      <description>A man tried to fire a gun inches from the head of Cristina Fernández de Kirchner, the country’s most prominent leader, but it did not go off.</description>
-      <dc:creator>Jack Nicas and Natalie Alcoba</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 06:14:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01argentina1/01argentina1-moth.jpg" width="151"></media:content>
-      <media:credit>Tomas Cuesta/Getty Images</media:credit>
-      <media:description>Police officers arrested a man who pointed a firearm at Vice President Cristina Fernández de Kirchner outside her home in Buenos Aires on Thursday.</media:description>
-    </item>
-    <item>
       <title>Chile Could Transform Indigenous Rights in Watershed Vote</title>
       <link>https://www.nytimes.com/2022/09/02/world/americas/chile-constitution-vote-indigenous.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/americas/chile-constitution-vote-indigenous.html</guid>
@@ -488,6 +503,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02CHILE-INDIGENOUS1/02CHILE-INDIGENOUS1-moth.jpg" width="151"></media:content>
       <media:credit>Tomas Munita for The New York Times</media:credit>
       <media:description>Dancing the traditional Mapuche “purrun” during a rally last week in support of the new constitution in Santiago, Chile.</media:description>
+    </item>
+    <item>
+      <title>Argentina’s Vice President Unharmed After Assassination Attempt</title>
+      <link>https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html" rel="standout"></atom:link>
+      <description>A man tried to fire a gun inches from the head of Cristina Fernández de Kirchner, the country’s most prominent leader, but it did not go off.</description>
+      <dc:creator>Jack Nicas and Natalie Alcoba</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 12:37:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01argentina1/01argentina1-moth.jpg" width="151"></media:content>
+      <media:credit>Tomas Cuesta/Getty Images</media:credit>
+      <media:description>Police officers arrested a man who pointed a firearm at Vice President Cristina Fernández de Kirchner outside her home in Buenos Aires on Thursday.</media:description>
     </item>
     <item>
       <title>With the PGA Tour Season Over, LIV Golf Looks to Strengthen Its Foothold</title>

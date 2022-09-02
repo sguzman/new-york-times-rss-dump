@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 20:47:52 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 20:45:13 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 21:07:56 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 21:06:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/business/economy/g7-russian-oil-price-cap.html" rel="standout"></atom:link>
       <description>The proposal aims to stabilize unsettled energy markets in the wake of Russia’s invasion of Ukraine. But it faces considerable obstacles.</description>
       <dc:creator>Alan Rappeport and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 20:39:39 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 21:06:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
@@ -119,10 +119,30 @@
       <media:description>President Donald J. Trump in the Oval Office. He would sometimes ask to keep material from classified briefings.</media:description>
     </item>
     <item>
+      <title>U.S. Job Growth Slowed in August</title>
+      <link>https://www.nytimes.com/2022/09/02/business/economy/august-jobs-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/business/economy/august-jobs-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/business/economy/august-jobs-report.html" rel="standout"></atom:link>
+      <description>The monthly employment report suggested that the Federal Reserve might be able to tame inflation without causing a recession.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 20:57:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/business/aug22jobs-placeholder-promo/aug22jobs-placeholder-promo-moth.png" width="151"></media:content>
+    </item>
+    <item>
       <title>Takeaways From the August Jobs Report</title>
-      <link>https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/business/jobs-report-takeaways.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/live/2022/09/02/business/jobs-report-august-economy/jobs-report-takeaways</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/02/business/jobs-report-august-economy/jobs-report-takeaways</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/02/business/jobs-report-august-economy/jobs-report-takeaways" rel="standout"></atom:link>
       <description>Hiring slowed last month but remained robust, in line with what many economists had been expecting.</description>
       <dc:creator>Ben Casselman</dc:creator>
       <pubDate>Fri, 02 Sep 2022 14:42:50 +0000</pubDate>
@@ -280,7 +300,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/sports/ncaafootball/college-football-playoff-expansion.html" rel="standout"></atom:link>
       <description>The change could take effect as soon as the 2024 season. It is expected no later than 2026.</description>
       <dc:creator>Alan Blinder</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 20:45:13 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 21:04:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">College Football Playoff National Championship</category>
@@ -324,42 +344,21 @@
       <media:description>Jason Allen’s A.I.-generated work, “Théâtre D’opéra Spatial,” took first place in the digital category at the Colorado State Fair.</media:description>
     </item>
     <item>
-      <title>If an Alternative Candidate Is Needed in 2024, These Folks Will Be Ready</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/third-presidential-candidate-2024.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/third-presidential-candidate-2024.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/third-presidential-candidate-2024.html" rel="standout"></atom:link>
-      <description>If the two parties go off to the edges, there’ll be a ticket running up the center.</description>
-      <dc:creator>David Brooks</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 18:13:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">No Labels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01brooks1/01brooks1-moth.jpg" width="151"></media:content>
-      <media:credit>Samuel Corum for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The Day Gorbachev Made D.C. Stand Still</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/gorbachev-white-house-reagan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/gorbachev-white-house-reagan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/gorbachev-white-house-reagan.html" rel="standout"></atom:link>
-      <description>The Adventures of Mikhail Sergeyevich: An astrologer, an anaconda and a backward motorcade.</description>
-      <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 23:28:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/01Dowd-2/01Dowd-2-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Howard McNamara, via Associated Press</media:credit>
-      <media:description>Mikhail Gorbachev in Washington, D.C., after he ordered his motorcade to stop on the way to the White House in 1987.</media:description>
+      <title>A Nation Seeks Better Rules for Better Results</title>
+      <link>https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html" rel="standout"></atom:link>
+      <description>Chileans are debating how to rewrite the nation’s Constitution to address their society’s most stubborn problems.</description>
+      <dc:creator>Binyamin Appelbaum</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 20:30:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/opinion/02appelbaum3/02appelbaum3-moth.jpg" width="151"></media:content>
+      <media:credit>Tamara Merino for The New York Times</media:credit>
+      <media:description>Erica Gonzalez leads a small group of women in Chile who advocate passage of a new constitution.</media:description>
     </item>
     <item>
       <title>Amazon Can’t Fix America’s Health Care Crisis</title>
@@ -381,21 +380,36 @@
       <media:credit>Sandro Rybak</media:credit>
     </item>
     <item>
-      <title>What Brittney Griner’s Income Says About Women’s Basketball</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html" rel="standout"></atom:link>
-      <description>As her attorneys appeal her conviction in a Russian court, questions remain about why she and other W.N.B.A. stars play abroad to supplement their incomes.</description>
-      <dc:creator>Mary Pilon</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 15:07:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Pilon/02Pilon-moth.jpg" width="151"></media:content>
-      <media:credit>Lan Truong</media:credit>
+      <title>Proving Racists Wrong Is Not a Trivial Pursuit</title>
+      <link>https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html" rel="standout"></atom:link>
+      <description>Underestimation should be countered with demonstration, not indignation.</description>
+      <dc:creator>John McWhorter</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 20:40:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prescod-Weinstein, Chanda</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02mcwhorter-image/02mcwhorter-image-moth.jpg" width="151"></media:content>
+      <media:credit>Delcan and Co</media:credit>
+    </item>
+    <item>
+      <title>Education in America: School Is for Connecting to Nature</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-nature.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-nature.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-nature.html" rel="standout"></atom:link>
+      <description>School is for nurturing children’s innate talents and helping them figure out where those gifts, necessarily diverse, fit in the whole. </description>
+      <dc:creator>Nicolette Sowder</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 09:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01Sowder-3/01Sowder-3-moth.jpg" width="151"></media:content>
+      <media:credit>Stacy Kranitz for The New York Times</media:credit>
+      <media:description>Nicolette Sowder home-schools her two daughters and two nieces at her family farm near Cedar Springs, Mich.</media:description>
     </item>
     <item>
       <title>Salman Rushdie and What It Means to Support Free Speech</title>
@@ -432,6 +446,22 @@
       <pubDate>Fri, 02 Sep 2022 09:00:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
+    </item>
+    <item>
+      <title>Education in America: School Is for Social Mobility</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html" rel="standout"></atom:link>
+      <description>If politics is the art of the possible, perhaps the biggest silver lining of these past two years has been to redefine what is possible.</description>
+      <dc:creator>John N. Friedman</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:02:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01friedman/01friedman-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; the Met Collection; Jordan Graff and Robo Wunderkind, via Unsplash; and Calsidyrose and Vacuumfan7072, via Wikimedia Commons</media:credit>
     </item>
     <item>
       <title>“The Rings of Power” on Amazon Can’t Do J.R.R. Tolkien Justice</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 16:18:32 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 16:17:01 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 16:53:37 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 16:51:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/us/politics/trump-fbi-folders-classified.html" rel="standout"></atom:link>
       <description>A detailed inventory of items seized in the F.B.I.’s search of Mar-a-Lago raised the question of whether the government had fully recovered the documents or any remained missing.</description>
       <dc:creator>Charlie Savage and Alan Feuer</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 16:17:01 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 16:25:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
@@ -153,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/us/politics/jan-6-congress.html" rel="standout"></atom:link>
       <description>A handful of Republicans who heeded President Donald J. Trump’s call to march to the Capitol are now vying to return to Washington, this time as lawmakers.</description>
       <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 15:12:11 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 16:21:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -332,7 +332,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/opinion/third-presidential-candidate-2024.html" rel="standout"></atom:link>
       <description>If the two parties go off to the edges, there’ll be a ticket running up the center.</description>
       <dc:creator>David Brooks</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 14:03:51 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 16:41:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -515,7 +515,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/01/well/live/motion-sickness-tips.html" rel="standout"></atom:link>
       <description>Experts say prevention is the best cure.</description>
       <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 00:20:27 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 16:21:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
@@ -523,140 +523,119 @@
       <media:credit>Illustration by Guillem Casasus; Photograph by Getty Images</media:credit>
     </item>
     <item>
-      <title>Sex Ed Emerges as Core Issue for N.J. Republicans as Midterms Approach</title>
-      <link>https://www.nytimes.com/2022/09/02/nyregion/sex-ed-new-jersey-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/sex-ed-new-jersey-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/sex-ed-new-jersey-midterms.html" rel="standout"></atom:link>
-      <description>New education standards that touch on gender identity have caused a stir in New Jersey. Some Republicans are trying to keep the conversation alive.</description>
-      <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 13:33:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malinowski, Tom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/nyregion/01nj-sex-ed-1/merlin_175725174_44008ec1-2ed6-47d7-809b-f00c9bc44466-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Mcdermid/Reuters</media:credit>
-      <media:description>New Jersey schools are set to implement new sex-education standards this school year.</media:description>
+      <title>Hungry for Cash, Zeldin Turns to Trump in N.Y. Governor’s Race</title>
+      <link>https://www.nytimes.com/2022/09/02/nyregion/zeldin-trump-fund-raiser.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/zeldin-trump-fund-raiser.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/zeldin-trump-fund-raiser.html" rel="standout"></atom:link>
+      <description>Representative Lee Zeldin is depending on Donald J. Trump’s stature to help him in a crucial race for cash, even though Mr. Trump is unpopular in New York.</description>
+      <dc:creator>Nicholas Fandos</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 15:42:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Governors Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/00zeldin-trump-1/00zeldin-trump-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jefferson Siegel for The New York Times</media:credit>
+      <media:description>For $100,000 a couple, attendees at Representative Lee Zeldin’s fund-raiser this weekend will get time with former President Trump.</media:description>
     </item>
     <item>
-      <title>Chile Could Transform Indigenous Rights in Watershed Vote</title>
-      <link>https://www.nytimes.com/2022/09/02/world/americas/chile-constitution-vote-indigenous.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/americas/chile-constitution-vote-indigenous.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/world/americas/chile-constitution-vote-indigenous.html" rel="standout"></atom:link>
-      <description>The proposed constitution would enshrine some of the world’s most extensive Indigenous rights. But those reforms have become the focal point of the campaign to reject the new text.</description>
-      <dc:creator>Ana Lankes</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 16:08:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santiago (Chile)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02CHILE-INDIGENOUS1/02CHILE-INDIGENOUS1-moth.jpg" width="151"></media:content>
-      <media:credit>Tomas Munita for The New York Times</media:credit>
-      <media:description>Dancing the traditional Mapuche “purrun” during a rally last week in support of the new constitution in Santiago, Chile.</media:description>
+      <title>Kenya Awaits Supreme Court Ruling on Presidential Election</title>
+      <link>https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html" rel="standout"></atom:link>
+      <description>The Supreme Court is expected to rule by Monday on whether the recent election of William Ruto as president, now mired in a welter of conflicting accusations, should stand.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 13:42:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02kenya-1/02kenya-1-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Karumba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kenya&#39;s Supreme Court hearing the day&#39;s submissions from counsel representing president-elect William Ruto, in Nairobi on Thursday.</media:description>
     </item>
     <item>
-      <title>What Urban Planners Can Learn From This Idealistic Coffee Shop</title>
-      <link>https://www.nytimes.com/2022/09/02/nyregion/gowanus-gentrification-brooklyn.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/gowanus-gentrification-brooklyn.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/gowanus-gentrification-brooklyn.html" rel="standout"></atom:link>
-      <description>Can a pay-what-you-want cafe exist in a gentrified Gowanus?</description>
-      <dc:creator>Ginia Bellafante</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coffeehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gowanus (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Principles GI Coffee House (Brooklyn, NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/nyregion/04Big-GOWANUS/merlin_211441059_df5f6dca-1ae2-4c84-891a-29682c3f0b8f-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle V. Agins/The New York Times</media:credit>
-      <media:description>Katie Bishop is the owner of Principles GI Coffee House, which was inspired by the egalitarian, antiwar coffeehouses that sprung up around military bases during the Vietnam War. </media:description>
+      <title>A Fair Auctioned a Beloved Goat. Its Owners Filed a Lawsuit.</title>
+      <link>https://www.nytimes.com/2022/09/02/us/goat-cedar-auction-shasta-county.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/us/goat-cedar-auction-shasta-county.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/us/goat-cedar-auction-shasta-county.html" rel="standout"></atom:link>
+      <description>A Northern California woman said her young daughter bonded with a goat named Cedar that she was caring for. Sheriff’s deputies hauled it away to slaughter.</description>
+      <dc:creator>Vimal Patel</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 14:28:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Goats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">4-H Clubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shasta County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01xp-goat/01xp-goat-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Advancing Law for Animals</media:credit>
+      <media:description>Cedar the goat before the Shasta District Fair livestock auction.</media:description>
     </item>
     <item>
-      <title>How Love Languages Became a Cultural Phenomenon</title>
-      <link>https://www.nytimes.com/2022/08/27/well/family/love-languages-author.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/27/well/family/love-languages-author.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/27/well/family/love-languages-author.html" rel="standout"></atom:link>
-      <description>The author of the seminal book on love languages is surprised that the concept has become a cultural phenomenon. But he still wants couples to heed his advice.</description>
-      <dc:creator>Alisha Haridasani Gupta and Luis Mazón</dc:creator>
-      <pubDate>Mon, 29 Aug 2022 16:17:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chapman, Gary (1938- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <title>What to Know About the New Covid Booster Shots</title>
+      <link>https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html" rel="standout"></atom:link>
+      <description>New shots targeting the latest version of the Omicron variant will be available soon. When should you get yours? Here’s what experts recommend.</description>
+      <dc:creator>Dani Blum</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 12:21:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/HFO-WELL-OMICRON-BOOSTER2/HFO-WELL-OMICRON-BOOSTER2-moth.jpg" width="151"></media:content>
+      <media:credit>Charity Rachelle for The New York Times</media:credit>
+      <media:description>The new shots target the Omicron subvariant BA.5, the dominant version of the virus.</media:description>
+    </item>
+    <item>
+      <title>The Unexpected Power of Random Acts of Kindness</title>
+      <link>https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html" rel="standout"></atom:link>
+      <description>New research shows small gestures matter even more than we may think.</description>
+      <dc:creator>Catherine Pearson</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 16:26:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/27/well/27Well-Love-Chapmans/27Well-Love-Chapmans-moth.jpg" width="151"></media:content>
-      <media:credit>via Dr. Gary Chapman</media:credit>
-      <media:description>Karolyn and Gary Chapman at their wedding reception in August 1961. The couple, who have been married for over 60 years, said they had a rocky start.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/well/02Well-Kindness/02Well-Kindness-moth.jpg" width="151"></media:content>
+      <media:credit>Shuhua Xiong</media:credit>
     </item>
     <item>
-      <title>My Marriage Has a Third Wheel: Our Child</title>
-      <link>https://www.nytimes.com/2020/04/15/parenting/only-child-marriage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/15/parenting/only-child-marriage.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/15/parenting/only-child-marriage.html" rel="standout"></atom:link>
-      <description>An only child can make the relationship between Mom and Dad uniquely complicated.</description>
-      <dc:creator>Jancee Dunn</dc:creator>
-      <pubDate>Thu, 13 Aug 2020 22:09:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-    </item>
-    <item>
-      <title>How to Spot a Love Addict</title>
-      <link>https://www.nytimes.com/2021/09/23/well/love-addiction-sex-toxic-relationships.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/23/well/love-addiction-sex-toxic-relationships.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/23/well/love-addiction-sex-toxic-relationships.html" rel="standout"></atom:link>
-      <description>Experts question whether we can describe a toxic relationship the way we talk about gambling or alcohol. But some have found that framework to be a helpful step in the road to freedom.</description>
-      <dc:creator>Kaila Yu</dc:creator>
-      <pubDate>Sun, 26 Sep 2021 16:35:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <title>How Online Dating Apps Can Lead to Burnout</title>
+      <link>https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html" rel="standout"></atom:link>
+      <description>Ten years after the launch of Tinder, some long-term online daters say endless swiping has been bad for their mental health.</description>
+      <dc:creator>Catherine Pearson</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 19:27:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/20/well/00well-love-addict/00well-love-addict-moth.jpg" width="151"></media:content>
-      <media:credit>Sophi Miyoko Gullbrants</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/well/31Well-DatingAppBurnout/31Well-DatingAppBurnout-moth.jpg" width="151"></media:content>
+      <media:credit>Max Guther</media:credit>
     </item>
     <item>
-      <title>Dealing With Interfering Grandparents</title>
-      <link>https://www.nytimes.com/2020/04/17/parenting/interfering-grandparents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/04/17/parenting/interfering-grandparents.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/04/17/parenting/interfering-grandparents.html" rel="standout"></atom:link>
-      <description>How to navigate a challenging relationship.</description>
-      <dc:creator>Carla Bruce-Eddings</dc:creator>
-      <pubDate>Fri, 17 Apr 2020 16:28:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grandparents</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
-    </item>
-    <item>
-      <title>Sometimes I Hate My Husband’s Peloton</title>
-      <link>https://www.nytimes.com/2021/09/08/well/live/peloton-bike-obsession.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/08/well/live/peloton-bike-obsession.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/08/well/live/peloton-bike-obsession.html" rel="standout"></atom:link>
-      <description>Yes, exercise is hugely beneficial. But can too much of a good thing cause tension in your relationship?</description>
-      <dc:creator>Holly Burns</dc:creator>
-      <pubDate>Wed, 08 Sep 2021 19:18:20 +0000</pubDate>
+      <title>5 Foam Rolling Exercises for Skeptics</title>
+      <link>https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html" rel="standout"></atom:link>
+      <description>Here’s what to know before adding a foam roller to your warm-up or cool down.</description>
+      <dc:creator>Ashley Abramson</dc:creator>
+      <pubDate>Wed, 13 Jul 2022 14:13:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/08/well/00well-peloton-relationships-vid-promo/00well-peloton-relationships-vid-promo-moth.jpg" width="151"></media:content>
-      <media:credit>James Kerr</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neck</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Massage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/26/well/13WELL-FOAM-ROLLERS-image/13WELL-FOAM-ROLLERS-image-moth.jpg" width="151"></media:content>
+      <media:credit>Monica Dzik for The New York Times</media:credit>
     </item>
     <item>
       <title>At Shakespeare’s Globe, a Nonbinary Joan of Arc Causes a Stir</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 22:41:52 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 22:21:09 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 22:52:56 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 22:48:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/02/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>The Nord Stream 1 pipeline had been expected to reopen Saturday after a three-day shutdown, but it has been postponed. A statement from the energy giant Gazprom raised fresh concerns about European energy supplies.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 22:21:09 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 22:48:47 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The United Nations’ nuclear watchdog agency said some members of its inspection team would keep working at the Zaporizhzhia plant into the weekend.</media:description>
@@ -273,6 +273,25 @@
       <media:description>Uyghur supporters at a 2019 rally in Washington calling for sanctions against China.</media:description>
     </item>
     <item>
+      <title>Argentina Reels From Assassination Attempt on Its Vice President</title>
+      <link>https://www.nytimes.com/2022/09/02/world/americas/argentina-assassination-attempt-kirchner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/americas/argentina-assassination-attempt-kirchner.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/world/americas/argentina-assassination-attempt-kirchner.html" rel="standout"></atom:link>
+      <description>The man who the authorities believe tried to shoot Cristina Fernández de Kirchner showed an interest in a mix of fringe ideologies, including the far right, his social media showed.</description>
+      <dc:creator>Jack Nicas, Leonardo Coelho and David Feliba</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 22:42:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02argentina-vp1/02argentina-vp1-moth.jpg" width="151"></media:content>
+      <media:credit>Luis Robayo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Argentina’s vice president, Cristina Fernandez de Kirchner, with her security detail outside her residence in Buenos Aires on Friday.</media:description>
+    </item>
+    <item>
       <title>Hawaii Closes Its Last Coal-Fired Power Plant</title>
       <link>https://www.nytimes.com/2022/09/02/climate/hawail-coal-plant-shuts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/climate/hawail-coal-plant-shuts.html</guid>
@@ -304,7 +323,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/world/europe/iaea-zaporizhzhia-plant-risk.html" rel="standout"></atom:link>
       <description>Rafael Mariano Grossi, the director general of the International Atomic Energy Agency, warned that increased fighting near the Russian-occupied nuclear plant could cause an accident.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 21:35:39 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 22:43:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
@@ -1149,38 +1168,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/world/31mexico-violence-PROMO/00mexico-violence-guard-moth.jpg" width="151"></media:content>
       <media:credit>Alejandro Cegarra for The New York Times</media:credit>
       <media:description>Members of the National Guard providing security at a crime scene in Celaya last week.</media:description>
-    </item>
-    <item>
-      <title>Read Your Way Through Mexico City</title>
-      <link>https://www.nytimes.com/2022/08/31/books/mexico-city-books.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/books/mexico-city-books.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/books/mexico-city-books.html" rel="standout"></atom:link>
-      <description>Juan Villoro, who spent over two decades perfecting one book about Mexico City, recommends reading on the city he loves. “Mexico is too complex,” a visitor said. “It needs to be read.”</description>
-      <dc:creator>Juan Villoro</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 09:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolano, Roberto</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, D H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Del Paso, Fernando</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melchor, Fernanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Theroux, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chiapas (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Mutations (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Story of My Teeth (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuernavaca (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Horizontal Vertigo: A City Called Mexico (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hurricane Season (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">On the Plain of Snakes: A Mexican Journey (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comensal, Jorge</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luiselli, Valeria (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Savage Detectives (Book)</category>
-      <category domain="">literaryguides</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/books/31LitGuide-MexicoCity/31LitGuide-MexicoCity-moth.jpg" width="151"></media:content>
-      <media:credit>Raphaelle Macaron</media:credit>
     </item>
   </channel>
 </rss>

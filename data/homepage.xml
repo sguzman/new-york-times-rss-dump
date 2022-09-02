@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 19:34:35 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 19:22:19 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 19:47:45 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 19:46:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/business/economy/g7-russian-oil-price-cap.html" rel="standout"></atom:link>
       <description>The proposal aims to stabilize unsettled energy markets in the wake of Russia’s invasion of Ukraine. But it faces considerable obstacles.</description>
       <dc:creator>Alan Rappeport and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 18:34:03 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 19:46:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
@@ -32,9 +32,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/business/02dc-oilpricecap/02dc-oilpricecap-moth.jpg" width="151"></media:content>
-      <media:credit>Gazprom Neft/Via Reuters</media:credit>
-      <media:description>An oil field in Russia. Energy analysts are skeptical that a proposal to corral the price of Russian oil would be successful.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/business/02dc-oilpricecap01/02dc-oilpricecap01-moth.jpg" width="151"></media:content>
+      <media:credit>Tatiana Meel/Reuters</media:credit>
+      <media:description>A crude oil terminal near the port city of Nakhodka, Russia. Energy analysts are skeptical that a proposal to corral the price of Russian oil would be successful.</media:description>
     </item>
     <item>
       <title>Against Fierce Resistance, Ukraine Makes Small Gains in the South</title>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/02/world/europe/ukraine-russia-south-kherson.html" rel="standout"></atom:link>
       <description>Stepping up an offensive in the region near Kherson, Ukraine has retaken small villages. But officials predict a brutal winter ahead.</description>
       <dc:creator>Thomas Gibbons-Neff</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 17:06:47 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 19:44:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
@@ -56,7 +56,7 @@
       <media:description>A Ukrainian soldier and his fellow tank crew members returning to their frontline position in July after completing a mission in Ukraine’s Kherson region.</media:description>
     </item>
     <item>
-      <title>Folders That Had Contained Classified Documents Were Found at Trump’s Home</title>
+      <title>FBI Found Empty Folders That Had Contained Classified Documents at Trump’s Home</title>
       <link>https://www.nytimes.com/2022/09/02/us/politics/trump-fbi-folders-classified.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/us/politics/trump-fbi-folders-classified.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/02/us/politics/trump-fbi-folders-classified.html" rel="standout"></atom:link>
@@ -293,6 +293,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">State and County Fairs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Midjourney Inc</category>
+      <category domain="">emergingtech</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/00roose-1/00roose-1-moth.jpg" width="151"></media:content>
       <media:credit>via Jason Allen</media:credit>
       <media:description>Jason Allen’s A.I.-generated work, “Théâtre D’opéra Spatial,” took first place in the digital category at the Colorado State Fair.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 14:22:28 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 14:22:22 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 14:40:51 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 14:39:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/02/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Russia and Ukraine appeared to be trying to frame a visit by the U.N. nuclear agency before inspectors present their findings.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 14:22:22 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 14:24:08 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The United Nations’ nuclear watchdog agency said some members of its inspection team would keep working at the Zaporizhzhia plant into the weekend.</media:description>
@@ -91,13 +91,13 @@
       <dc:creator>Sameer Yasir</dc:creator>
       <pubDate>Fri, 02 Sep 2022 09:00:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tulsi Gowind Gowda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gowda, Tulsi Gowind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karnataka (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/world/00india-gowda-profile10/00india-gowda-profile10-moth.jpg" width="151"></media:content>
       <media:credit>Priyadarshini Ravichandran for The New York Times</media:credit>
       <media:description>Tulsi Gowda has devoted her life to transforming barren land into dense forests in Karnataka, a state in southern India.</media:description>
@@ -984,7 +984,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/americas/mexico-cartels-violence.html</guid>
       <atom:link href="https://www.nytimes.com/2022/08/31/world/americas/mexico-cartels-violence.html" rel="standout"></atom:link>
       <description>The president disbanded the Federal Police and created the National Guard to tackle soaring violence, but three years later, criminal cartels have expanded their reach.</description>
-      <pubDate>Thu, 01 Sep 2022 03:37:58 +0000</pubDate>
+      <dc:creator>Maria Abi-Habib, Oscar Lopez and Alejandro Cegarra</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 14:24:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jalisco New Generation Cartel</category>

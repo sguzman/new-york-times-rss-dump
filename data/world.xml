@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 17:51:04 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 17:40:14 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 18:25:03 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 18:15:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/02/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>The Nord Stream 1 pipeline had been expected to reopen Saturday after a three-day shutdown. The statement raised fresh concerns about European energy supplies.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 17:40:14 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 18:06:51 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The United Nations’ nuclear watchdog agency said some members of its inspection team would keep working at the Zaporizhzhia plant into the weekend.</media:description>
@@ -268,6 +268,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+    </item>
+    <item>
+      <title>Iran Seizes, Then Releases Two U.S. Drones, Officials Say</title>
+      <link>https://www.nytimes.com/2022/09/02/us/politics/iran-navy-drones-seized.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/us/politics/iran-navy-drones-seized.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/us/politics/iran-navy-drones-seized.html" rel="standout"></atom:link>
+      <description>The Navy called a similar incident this week “flagrant” and “unwarranted.”</description>
+      <dc:creator>Helene Cooper</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 18:15:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arabian Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/us/politics/02dc-us-iran/02dc-us-iran-moth.jpg" width="151"></media:content>
+      <media:credit>Iranian State Television, via Associated Press</media:credit>
+      <media:description>An image from Iranian state television shows Iranian sailors throwing an American sea drone overboard in the Red Sea on Thursday.</media:description>
     </item>
     <item>
       <title>John Podesta to Oversee $370 Billion in U.S. Climate Spending</title>
@@ -1150,19 +1172,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/science/31life-expectancy1/31life-expectancy1-moth.jpg" width="151"></media:content>
       <media:credit>Shannon Stapleton/Reuters</media:credit>
       <media:description>A patient who died of Covid was removed from an I.C.U. in Cleveland, Ohio.</media:description>
-    </item>
-    <item>
-      <title>How Gorbachev’s Legacy of Perestroika Vanished</title>
-      <link>https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/gorbachev-perestroika.html" rel="standout"></atom:link>
-      <description>His vision of a “common European home” stretching from Vladivostok to Lisbon has been replaced by a Russia increasingly isolated from the rest of Europe.</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 09:01:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-perestroika-02/30gorbachev-death-perestroika-02-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Avery/Associated Press</media:credit>
-      <media:description>Mikhail S. Gorbachev and his wife, Raisa, visiting the Great Wall of China near Beijing in May 1989.</media:description>
     </item>
   </channel>
 </rss>

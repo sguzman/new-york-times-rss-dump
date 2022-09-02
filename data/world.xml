@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 18:47:30 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 18:30:45 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 19:16:41 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 19:08:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -268,6 +268,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+    </item>
+    <item>
+      <title>South African Villagers Win Suit to Halt Shell’s Oil Exploration</title>
+      <link>https://www.nytimes.com/2022/09/02/world/africa/south-africa-shell-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/africa/south-africa-shell-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/world/africa/south-africa-shell-oil.html" rel="standout"></atom:link>
+      <description>A judicial panel ruled the energy giant had not properly consulted local communities, possibly setting a broader precedent for challenges to offshore drilling activities.</description>
+      <dc:creator>Lynsey Chutel and Clifford Krauss</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 19:08:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenpeace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shell Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Cape Province (South Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02safrica-shell-3/02safrica-shell-3-moth.jpg" width="151"></media:content>
+      <media:credit>Rajesh Jantilal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Residents along South Africa’s Wild Coast, like these fishermen landing a catch of sardines, came together to halt Shell Global’s prospecting in the area.</media:description>
     </item>
     <item>
       <title>Iran Seizes, Then Releases Two U.S. Drones, Officials Say</title>
@@ -1147,31 +1166,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31ukraine-briefing-IAEA/merlin_212181147_cb19d3b2-1a32-4adf-b63d-c90b59c44b06-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Rafael Grossi, the director general of the International Atomic Energy Agency, speaking to reporters in Kyiv early Wednesday before heading to the Zaporizhzhia nuclear power plant.</media:description>
-    </item>
-    <item>
-      <title>US Life Expectancy Falls Again in ‘Historic’ Setback</title>
-      <link>https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html" rel="standout"></atom:link>
-      <description>The decline during the pandemic is the sharpest in nearly 100 years, hitting Native American and Alaska Native communities particularly hard.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 18:22:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alaska Natives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Center for Health Statistics</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/science/31life-expectancy1/31life-expectancy1-moth.jpg" width="151"></media:content>
-      <media:credit>Shannon Stapleton/Reuters</media:credit>
-      <media:description>A patient who died of Covid was removed from an I.C.U. in Cleveland, Ohio.</media:description>
     </item>
   </channel>
 </rss>

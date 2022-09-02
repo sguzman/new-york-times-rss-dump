@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 11:15:30 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 11:14:54 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 11:38:22 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 11:23:46 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -190,6 +190,30 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01srilankaHFO1/01srilankaHFO1-moth.jpg" width="151"></media:content>
       <media:credit>Atul Loke for The New York Times</media:credit>
       <media:description>A wholesale market in Colombo, Sri Lanka, in July. Inflation for food items reached nearly 94 percent in August.</media:description>
+    </item>
+    <item>
+      <title>Myanmar’s Daw Aung San Suu Kyi Gets More Prison Time</title>
+      <link>https://www.nytimes.com/2022/09/02/world/asia/myanmar-coup-trial-guilty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/asia/myanmar-coup-trial-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/world/asia/myanmar-coup-trial-guilty.html" rel="standout"></atom:link>
+      <description>Daw Aung San Suu Kyi, the politician and Nobel laureate, was found guilty of election fraud on Friday, a sign that the junta has no intention of easing its pressure on her.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 11:23:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02myanmar1/02myanmar1-moth.jpg" width="151"></media:content>
+      <media:credit>Ye Aung Thu/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Daw Aung San Suu Kyi in 2018. She was sentenced to three more years in prison on Friday, bringing her total prison term to 20 years so far. For the first time, she was sentenced to hard labor.</media:description>
     </item>
     <item>
       <title>The Serena Effect</title>
@@ -1049,20 +1073,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-us-presidents-1988/30gorbachev-death-us-presidents-1988-moth.jpg" width="151"></media:content>
       <media:credit>Mike Sargent/Agence France-Presse — Getty Images</media:credit>
       <media:description>Mikhail S. Gorbachev with President Ronald Reagan and President-elect George Bush in 1988.</media:description>
-    </item>
-    <item>
-      <title>Putin Sees the War as Part of His Battle to Undo Gorbachev’s Legacy</title>
-      <link>https://www.nytimes.com/2022/08/30/world/europe/putin-gorbachev-ukraine-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/world/europe/putin-gorbachev-ukraine-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/world/europe/putin-gorbachev-ukraine-russia.html" rel="standout"></atom:link>
-      <description>For Mr. Putin, the end of the Soviet Union was the “greatest geopolitical catastrophe of the century,” caused by the weak nerves of a leader too willing to appease the treacherous West.</description>
-      <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 08:07:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30gorbachev-death-analysis-01/30gorbachev-death-analysis-01-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Mikhail S. Gorbachev and President Vladimir V. Putin of Russia in Schleswig, Germany, in 2004.</media:description>
     </item>
   </channel>
 </rss>

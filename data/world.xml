@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 13:29:03 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 13:27:18 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 13:51:40 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 13:49:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/02/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Russia and Ukraine appeared to be trying to frame a visit by the U.N. nuclear agency before inspectors present their findings.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 13:21:00 +0000</pubDate>
+      <pubDate>Fri, 02 Sep 2022 13:49:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The United Nations’ nuclear watchdog agency said some members of its inspection team would keep working at the Zaporizhzhia plant into the weekend.</media:description>
@@ -63,6 +63,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02germany-scholz1/02germany-scholz1-moth.jpg" width="151"></media:content>
       <media:credit>Markus Schreiber/Associated Press</media:credit>
       <media:description>Chancellor Olaf Scholz in Berlin this week.</media:description>
+    </item>
+    <item>
+      <title>In Kenyan Elections, the People Decide First. Then Come the Judges.</title>
+      <link>https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/world/africa/kenya-election-supreme-court.html" rel="standout"></atom:link>
+      <description>The Supreme Court is expected to rule by Monday on whether the recent election of William Ruto as president, now mired in a welter of conflicting accusations, should stand.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 13:42:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02kenya-1/02kenya-1-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Karumba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kenya&#39;s Supreme Court hearing the day&#39;s submissions from counsel representing president-elect William Ruto, in Nairobi on Thursday.</media:description>
     </item>
     <item>
       <title>‘Magic in Her Hands.’ The Woman Bringing India’s Forests Back to Life</title>
@@ -251,33 +269,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01virus-china-sub1/01virus-china-sub1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>A testing site in Chengdu, where mass testing began on Thursday and is to continue through Sunday, officials said.</media:description>
-    </item>
-    <item>
-      <title>Will a Renewed Iran Nuclear Deal Cut Energy Prices?</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html" rel="standout"></atom:link>
-      <description>A successful deal to restrain Iran’s nuclear program would mean that Washington lifts tough sanctions on Iran’s oil and gas exports. But it may already be too late for that to help this winter.</description>
-      <dc:creator>Steven Erlanger and Stanley Reed</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:00:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31Iran-Energy-01/merlin_207564090_9f593e4c-2fe7-4949-94d0-9793d4f27ddd-moth.jpg" width="151"></media:content>
-      <media:credit>Costas Baltas/Reuters</media:credit>
-      <media:description>A Liberian-flagged tanker transferring crude oil from an Iranian-flagged tanker in Greek waters in May. Oil is easier to ship and disguise than natural gas.</media:description>
     </item>
     <item>
       <title>The Serena Effect</title>
@@ -538,6 +529,33 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/lens/01themorning-moon-and-beyond/merlin_212196810_ddba68d4-fa77-4be6-8aa0-c273c30361f8-moth.jpg" width="151"></media:content>
       <media:credit>Bill Ingalls/NASA</media:credit>
       <media:description>The rocket for the Artemis I mission, on launchpad at Kennedy Space Center.</media:description>
+    </item>
+    <item>
+      <title>Will a Renewed Iran Nuclear Deal Cut Energy Prices?</title>
+      <link>https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html" rel="standout"></atom:link>
+      <description>A successful deal to restrain Iran’s nuclear program would mean that Washington lifts tough sanctions on Iran’s oil and gas exports. But it may already be too late for that to help this winter.</description>
+      <dc:creator>Steven Erlanger and Stanley Reed</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 09:00:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31Iran-Energy-01/merlin_207564090_9f593e4c-2fe7-4949-94d0-9793d4f27ddd-moth.jpg" width="151"></media:content>
+      <media:credit>Costas Baltas/Reuters</media:credit>
+      <media:description>A Liberian-flagged tanker transferring crude oil from an Iranian-flagged tanker in Greek waters in May. Oil is easier to ship and disguise than natural gas.</media:description>
     </item>
     <item>
       <title>The Anglican Church’s ‘Kick in the Guts’ to Gay Parishioners</title>
@@ -1142,28 +1160,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/world/30ukraine-ledeall-1/30ukraine-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
       <media:description>Ukrainians fleeing Russian-occupied villages arriving in Zaporizhzhia on Tuesday. Shelling there fueled fears of a possible disaster at a nuclear power plant.</media:description>
-    </item>
-    <item>
-      <title>Solomon Islands Suspends Visits by Foreign Navies, Raising Concerns Over China</title>
-      <link>https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/us/politics/solomon-islands-us-military-china.html" rel="standout"></atom:link>
-      <description>The move comes after top U.S. officials visited the Pacific nation to bolster ties and deliver warnings over its new security agreement with China.</description>
-      <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 22:56:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sogavare, Manasseh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalcanal (Solomon Islands)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30dc-diplo-photo/30dc-diplo-photo-moth.jpg" width="151"></media:content>
-      <media:credit>Matthew Abbott for The New York Times</media:credit>
-      <media:description>The U.S. combat ship Oakland visited Honiara, the capital of the Solomon Islands, as part of a ceremony in early August marking the 80th anniversary of battles in World War II.</media:description>
     </item>
   </channel>
 </rss>

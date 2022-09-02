@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 02 Sep 2022 11:47:32 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Sep 2022 11:41:31 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2022 12:27:40 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2022 12:22:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,7 +65,6 @@
       <dc:creator>Zolan Kanno-Youngs and Michael D. Shear</dc:creator>
       <pubDate>Fri, 02 Sep 2022 05:26:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -214,7 +213,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ashe, Arthur, Stadium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Venus</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01serena-venus-doubles-ledeall/01serena-venus-doubles-ledeall-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01serena-venus-doubles-ledeall-sub/01serena-venus-doubles-ledeall-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Venus, left, and Serena Williams’s doubles stint lasted only one match.</media:description>
     </item>
@@ -311,6 +310,40 @@
       <media:description>Mikhail Gorbachev in Washington, D.C., after he ordered his motorcade to stop on the way to the White House in 1987.</media:description>
     </item>
     <item>
+      <title>Amazon Can’t Fix America’s Health Care Crisis</title>
+      <link>https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html" rel="standout"></atom:link>
+      <description>There is no technological miracle that will fix decades of bad policy.</description>
+      <dc:creator>Libby Watson</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 11:32:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="">Primary care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">One Medical (1Life Healthcare Inc)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Watson-image/02Watson-image-moth.png" width="151"></media:content>
+      <media:credit>Sandro Rybak</media:credit>
+    </item>
+    <item>
+      <title>What Brittney Griner’s Income Says About Women’s Basketball</title>
+      <link>https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html" rel="standout"></atom:link>
+      <description>As Brittney Griner’s attorneys appeal her conviction in a Russian court, questions remain about why Ms. Griner and other W.N.B.A. stars play abroad to supplement their incomes.</description>
+      <dc:creator>Mary Pilon</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Pilon/02Pilon-moth.jpg" width="151"></media:content>
+      <media:credit>Lan Truong</media:credit>
+    </item>
+    <item>
       <title>Salman Rushdie and What It Means to Support Free Speech</title>
       <link>https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html</guid>
@@ -334,40 +367,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN International</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Reese-image-2/02Reese-image-2-moth.jpg" width="151"></media:content>
       <media:credit>Matt Chase</media:credit>
-    </item>
-    <item>
-      <title>What Brittney Griner’s Income Says About Women’s Basketball</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/brittney-griner-russia-wnba.html" rel="standout"></atom:link>
-      <description>As Brittney Griner’s attorneys appeal her conviction in a Russian court, questions remain about why Ms. Griner and other W.N.B.A. stars play abroad to supplement their incomes.</description>
-      <dc:creator>Mary Pilon</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Pilon/02Pilon-moth.jpg" width="151"></media:content>
-      <media:credit>Lan Truong</media:credit>
-    </item>
-    <item>
-      <title>Amazon Can’t Fix America’s Health Care Crisis</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html" rel="standout"></atom:link>
-      <description>There is no technological miracle that will fix decades of bad policy.</description>
-      <dc:creator>Libby Watson</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 11:32:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="">Primary care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">One Medical (1Life Healthcare Inc)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Watson-image/02Watson-image-moth.png" width="151"></media:content>
-      <media:credit>Sandro Rybak</media:credit>
     </item>
     <item>
       <title>How to Have Fun Again</title>

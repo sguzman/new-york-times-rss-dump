@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 10:23:41 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 10:06:53 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 10:43:47 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 10:39:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -118,7 +118,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/03/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Russia and Ukraine have blamed each other for shelling at the Zaporizhzhia station, where some inspectors have been assessing damage and risks.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 09:42:58 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 10:39:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03ukraine-briefing-header/03ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>D. Candano Laris/IAEA Handout, via EPA, via Shutterstock</media:credit>
       <media:description>Members of the U.N. mission to inspect the Zaporizhzhia nuclear power plant in southern Ukraine on Thursday.</media:description>
@@ -261,6 +261,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerala (India)</category>
+    </item>
+    <item>
+      <title>Game On</title>
+      <link>https://www.nytimes.com/2022/09/03/briefing/pickleball-lesson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/briefing/pickleball-lesson.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/briefing/pickleball-lesson.html" rel="standout"></atom:link>
+      <description>It’s Labor Day weekend, the perfect time to try — you guessed it — pickleball.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 10:27:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pickleball (Sport)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sprains and Strains</category>
     </item>
     <item>
       <title>How Many Drinks a Week Are Safe? Canada Considers a Much Lower Limit</title>
@@ -1180,18 +1192,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31germany-olympics-3/merlin_210708924_b3f38b45-0f30-47f1-9b06-07671cdd8f03-moth.jpg" width="151"></media:content>
       <media:credit>Maya Alleruzzo/Associated Press</media:credit>
       <media:description>Ankie Spitzer last month in Ramat Hasharon, Israel, with the bullet-scarred necklace her husband, Andrei Spitzer, was wearing at the time of his death at the 1972 Munich Olympics.</media:description>
-    </item>
-    <item>
-      <title>Nuclear monitors aim to reach the Zaporizhzhia plant on Thursday.</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/nuclear-inspectors-must-cross-the-front-line-to-reach-the-zaporizhzhia-plant.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/nuclear-inspectors-must-cross-the-front-line-to-reach-the-zaporizhzhia-plant.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/nuclear-inspectors-must-cross-the-front-line-to-reach-the-zaporizhzhia-plant.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 06:00:23 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31ukraine-briefing-IAEA-body-sub/31ukraine-briefing-IAEA-body-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>Members of the I.A.E.A. delegation arrived at a hotel in Zaporizhzhia, Ukraine, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

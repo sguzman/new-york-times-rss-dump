@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 18:14:49 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 17:57:31 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 18:39:40 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 18:18:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -439,43 +439,40 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
     </item>
     <item>
-      <title>Britain’s Pubs Are Threatened by ‘Alarming’ Rise in Energy Bills</title>
-      <link>https://www.nytimes.com/2022/09/03/business/britain-pubs-energy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/business/britain-pubs-energy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/03/business/britain-pubs-energy.html" rel="standout"></atom:link>
-      <description>Businesses have fewer protections than residential users against higher electricity and gas costs, and industry groups warn of widespread closings this winter.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 17:14:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/business/03JPuk-pubs-print/03uk-pubs-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alice Zoo for The New York Times</media:credit>
-      <media:description>A pub on Carnaby Street in London. The industry has called for “swift and substantial” government intervention to help pubs deal with energy bills.</media:description>
+      <title>Chile Votes on Constitution That Would Enshrine Record Number of Rights</title>
+      <link>https://www.nytimes.com/2022/09/03/world/americas/chile-constitution-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/world/americas/chile-constitution-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/world/americas/chile-constitution-vote.html" rel="standout"></atom:link>
+      <description>In a single ballot on Sunday, Chileans will decide on abortion, universal health care, rights for nature and a record expansion of constitutional rights.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 18:18:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03chile-vote-top/03chile-vote-top-moth.jpg" width="151"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <media:description>Copies of the proposed constitution were handed out last week in Constitution Square, in front of La Moneda, where the president’s offices are housed.</media:description>
     </item>
     <item>
-      <title>Nine Migrants Drown as Dozens Are Swept Down Rio Grande</title>
-      <link>https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html" rel="standout"></atom:link>
-      <description>A large group attempting to cross into Texas was overcome by a fast-moving current, the authorities said.</description>
-      <dc:creator>David Montgomery and Miriam Jordan</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 14:20:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Del Rio (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eagle Pass (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/us/02migrant-deaths/merlin_207107463_a68cd6e5-3d87-4853-8074-94561cb6a167-moth.jpg" width="151"></media:content>
-      <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>Concertina wire along the Rio Grande in Eagle Pass, Texas.</media:description>
+      <title>As Britain Prepares for a New Leader, Tensions With Allies Loom</title>
+      <link>https://www.nytimes.com/2022/09/03/world/europe/britain-prime-minister-liz-truss-rishi-sunak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/world/europe/britain-prime-minister-liz-truss-rishi-sunak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/world/europe/britain-prime-minister-liz-truss-rishi-sunak.html" rel="standout"></atom:link>
+      <description>Comments from the front-runner for prime minister, Liz Truss, suggest bumpier relations with Europe and the U.S. if she wins, with Northern Ireland getting in the way of the “special relationship.”</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 09:09:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02UK-Politics-01/02UK-Politics-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
+      <media:description>Liz Truss addressed Conservative Party members last week in London. The outcome of the party’s vote for prime minister will be announced on Monday.</media:description>
     </item>
     <item>
       <title>Student Loan Forgiveness Is Complicated, Because This Is America </title>

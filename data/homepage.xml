@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 14:12:39 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 13:46:42 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 14:24:50 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 14:24:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,14 +39,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/03/world/europe/ukraine-bucha-massacre-victims.html" rel="standout"></atom:link>
       <description>No longer able to defer burial, Ukrainian investigators are photographing unclaimed and unidentified bodies, taking DNA samples and assigning them numbers, hoping that one day their families will claim them.</description>
       <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 04:01:08 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucha (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mykhailyna Skoryk-Shkarivska</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00ukraine-bucha-dispatch/00ukraine-bucha-dispatch-moth.jpg" width="151"></media:content>
       <media:credit>Laura Boushnak for The New York Times</media:credit>
       <media:description>Cemetery workers carrying the coffin of an unidentified victim during a funeral last month for 15 people who died in March during the Russian occupation.</media:description>
@@ -220,17 +221,16 @@
       <atom:link href="https://www.nytimes.com/2022/09/03/us/surfside-condo-collapse-judge.html" rel="standout"></atom:link>
       <description>A little over a year after the Champlain Towers South fell, the Surfside condo victims’ families are about to be compensated for their losses.</description>
       <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 07:00:09 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 07:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surfside, Fla, Building Collapse (2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feinberg, Kenneth R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Surfside (Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge Michael A. Hanzman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/us/SURFSIDE-hanzman/SURFSIDE-hanzman-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03SURFSIDE-SOCIAL-PROMO/03SURFSIDE-SOCIAL-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Alfonso Duran for The New York Times</media:credit>
-      <media:description>Judge Michael A. Hanzman in his chamber at the Miami-Dade County Courthouse in Miami, Fla.</media:description>
     </item>
     <item>
       <title>How Much Does That Oligarch’s Yacht Actually Cost?</title>
@@ -467,13 +467,13 @@
       <media:description>A pub on Carnaby Street in London. The industry has called for “swift and substantial” government intervention to help pubs deal with energy bills.</media:description>
     </item>
     <item>
-      <title>Eight Migrants Drown as Dozens Are Swept Down Rio Grande</title>
+      <title>Nine Migrants Drown as Dozens Are Swept Down Rio Grande</title>
       <link>https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/02/us/migrants-rio-grande-texas.html" rel="standout"></atom:link>
       <description>A large group attempting to cross into Texas was overcome by a fast-moving current, the authorities said.</description>
       <dc:creator>David Montgomery and Miriam Jordan</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 01:38:22 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 14:20:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>

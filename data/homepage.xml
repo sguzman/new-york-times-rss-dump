@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 14:47:48 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 14:36:37 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 15:12:55 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 15:10:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -210,9 +210,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00Shipping-Deception/00Shipping-Deception-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00Shipping-Deception/00Shipping-Deception-moth-v2.jpg" width="151"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>Reliable, left, a ship registered in Cyprus, taking on oil at a refinery in Venezuela. The oil tanker has transmitted fake location coordinates to circumvent international laws and sanctions. </media:description>
+      <media:description>Reliable, left, a ship registered in Cyprus, taking on oil at a refinery in Venezuela. The oil tanker has transmitted fake location coordinates to circumvent international laws and sanctions.</media:description>
     </item>
     <item>
       <title>Judge’s Handling of Surfside Condo Collapse Case Yields Rapid Payout for Victims</title>
@@ -247,21 +247,23 @@
       <media:description>Sailing Yacht A, owned by Andrey Melnichenko, in Monaco.</media:description>
     </item>
     <item>
-      <title>The Founders of a Nation Should Not Have the Last Word</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/chile-new-constitution-referendum.html" rel="standout"></atom:link>
-      <description>Chileans are debating how to rewrite the nation’s Constitution to address their society’s most stubborn problems.</description>
-      <dc:creator>Binyamin Appelbaum</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 01:03:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/opinion/02appelbaum3/02appelbaum3-moth.jpg" width="151"></media:content>
-      <media:credit>Photographs by Tamara Merino for The New York Times</media:credit>
-      <media:description>Erica Gonzalez leads a small group of women in Chile who advocate passage of a new Constitution.</media:description>
+      <title>Republicans Are Showing Contempt for the Rules</title>
+      <link>https://www.nytimes.com/2022/09/03/opinion/republican-rules-michigan-alaska.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/opinion/republican-rules-michigan-alaska.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/opinion/republican-rules-michigan-alaska.html" rel="standout"></atom:link>
+      <description>The party is turning against a political commitment to fairness.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 15:10:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palin, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/opinion/03bouie-newsletter-1/03bouie-newsletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Peterson for The New York Times</media:credit>
     </item>
     <item>
       <title>Education in America: School Is for Us</title>
@@ -297,19 +299,37 @@
       <media:credit>Mark Henley/Panos Pictures, via R​edux</media:credit>
     </item>
     <item>
-      <title>What if You Could Give Start-Up Money to People, Not Companies?</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/libermans-humanism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/libermans-humanism.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/libermans-humanism.html" rel="standout"></atom:link>
-      <description>The entrepreneurial Liberman siblings are testing out the concept — on themselves.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 01:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02coy-image/02coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; image by CSA Images, via Getty Images</media:credit>
+      <title>‘House of the Dragon’ Is Less Sexist and Racist. But Is it Good?</title>
+      <link>https://www.nytimes.com/2022/09/03/opinion/house-of-the-dragon-diversity-sexism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/opinion/house-of-the-dragon-diversity-sexism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/opinion/house-of-the-dragon-diversity-sexism.html" rel="standout"></atom:link>
+      <description>The showrunners say they’ve heard and responded to criticism of ‘Game of Thrones,” but some say that has made the new show boring.</description>
+      <dc:creator>Jeff Yang</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 15:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of the Dragon (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Game of Thrones (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Violence (Media and Entertainment)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nudism and Nudity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sapochnik, Miguel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, George R R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Box Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McKinsey &amp; Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Condal, Ryan (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Sandman (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bridgerton (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Great (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Wheel of Time (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
     </item>
     <item>
       <title>Education in America: School Is for Social Mobility</title>
@@ -361,29 +381,24 @@
       <media:description>Nicolette Sowder home-schools her two daughters and two nieces at her family farm near Cedar Springs, Mich.</media:description>
     </item>
     <item>
-      <title>Salman Rushdie and What It Means to Support Free Speech</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/salman-rushdie-free-speech-writers.html" rel="standout"></atom:link>
-      <description>I felt the power of the rush of readers who ran to the stage when Salman Rushdie was attacked. </description>
-      <dc:creator>Henry Reese</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 18:15:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rushdie, Salman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pittsburgh (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chautauqua Institution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amnesty International</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Committee to Protect Journalists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN International</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Reese-image-2/02Reese-image-2-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Chase</media:credit>
+      <title>What Is Owed to Pakistan, Now One-Third Underwater</title>
+      <link>https://www.nytimes.com/2022/09/03/opinion/environment/floods-in-pakistan-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/opinion/environment/floods-in-pakistan-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/opinion/environment/floods-in-pakistan-climate-change.html" rel="standout"></atom:link>
+      <description>The Global North can help Pakistan by taking responsibility for the losses and damages of extreme weather fueled in part by the burning of fossil fuels. </description>
+      <dc:creator>Fatima Bhutto</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 15:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Punjab (Pakistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/opinion/03bhutto-2/03bhutto-2-moth.jpg" width="151"></media:content>
+      <media:credit>Husnain Ali/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>A flooded residential area in the Dadu district of Sindh Province.</media:description>
     </item>
     <item>
       <title>Game On</title>
@@ -523,6 +538,22 @@
       <media:credit>Robert Neubecker</media:credit>
     </item>
     <item>
+      <title>Why Is Pickleball So Popular?</title>
+      <link>https://www.nytimes.com/2022/09/03/well/move/pickleball-popular-sport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/well/move/pickleball-popular-sport.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/well/move/pickleball-popular-sport.html" rel="standout"></atom:link>
+      <description>Everyone and their mother seems to be playing. What’s the draw — and is it really a workout?</description>
+      <dc:creator>Juno DeMelo</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pickleball (Sport)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Pressure</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/multimedia/26WNT-PICKLEBALL-WORKOUT1/26WNT-PICKLEBALL-WORKOUT1-moth.jpg" width="151"></media:content>
+      <media:credit>Caleb Thal for The New York Times</media:credit>
+    </item>
+    <item>
       <title>What to Know About the New Covid Booster Shots</title>
       <link>https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/well/covid-booster-shots-variants.html</guid>
@@ -538,49 +569,55 @@
       <media:description>The new shots target the Omicron subvariant BA.5, the dominant version of the virus.</media:description>
     </item>
     <item>
-      <title>The Unexpected Power of Random Acts of Kindness</title>
-      <link>https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/well/family/random-acts-of-kindness.html" rel="standout"></atom:link>
-      <description>New research shows small gestures matter even more than we may think.</description>
-      <dc:creator>Catherine Pearson</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 16:26:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/well/02Well-Kindness/02Well-Kindness-moth.jpg" width="151"></media:content>
-      <media:credit>Shuhua Xiong</media:credit>
+      <title>As Serena Williams Plays Her Final Matches, a Generation Is Inspired</title>
+      <link>https://www.nytimes.com/2022/09/02/well/serena-williams-women-fans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/well/serena-williams-women-fans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/well/serena-williams-women-fans.html" rel="standout"></atom:link>
+      <description>Women across the country have seen their own lives reflected in the triumphs and trials of the tennis superstar. Cue the swell of emotion.</description>
+      <dc:creator>Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 00:04:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02well-serena-win1/02well-serena-win1-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle V. Agins/The New York Times</media:credit>
     </item>
     <item>
-      <title>How Online Dating Apps Can Lead to Burnout</title>
-      <link>https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/well/mind/burnout-online-dating-apps.html" rel="standout"></atom:link>
-      <description>Ten years after the launch of Tinder, some long-term online daters say endless swiping has been bad for their mental health.</description>
-      <dc:creator>Catherine Pearson</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 19:27:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/well/31Well-DatingAppBurnout/31Well-DatingAppBurnout-moth.jpg" width="151"></media:content>
-      <media:credit>Max Guther</media:credit>
-    </item>
-    <item>
-      <title>5 Foam Rolling Exercises for Skeptics</title>
-      <link>https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/07/13/well/foam-rolling-exercises.html" rel="standout"></atom:link>
-      <description>Here’s what to know before adding a foam roller to your warm-up or cool down.</description>
-      <dc:creator>Ashley Abramson</dc:creator>
-      <pubDate>Wed, 13 Jul 2022 14:13:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
+      <title>Why We Get Motion Sick, and How to Stop It</title>
+      <link>https://www.nytimes.com/2022/09/01/well/live/motion-sickness-tips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/well/live/motion-sickness-tips.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/well/live/motion-sickness-tips.html" rel="standout"></atom:link>
+      <description>Experts say prevention is the best cure.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 16:21:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neck</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Massage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/26/well/13WELL-FOAM-ROLLERS-image/13WELL-FOAM-ROLLERS-image-moth.jpg" width="151"></media:content>
-      <media:credit>Monica Dzik for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/well/01Well-NL-MotionSickness/01Well-NL-MotionSickness-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Guillem Casasus; Photograph by Getty Images</media:credit>
+    </item>
+    <item>
+      <title>How to Stay Hydrated in a Heat Wave</title>
+      <link>https://www.nytimes.com/article/hydration-heat-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/hydration-heat-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/article/hydration-heat-wave.html" rel="standout"></atom:link>
+      <description>Many countries across the globe are facing dangerously high temperatures. Here’s what to do to stay safe.</description>
+      <dc:creator>Hannah Seo</dc:creator>
+      <pubDate>Tue, 19 Jul 2022 19:01:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dehydration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coffee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Caffeine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/15/well/15WELL-HYDRATION1/15WELL-HYDRATION1-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>Jenifer Lewis Is Back on Her Grind With a New Book and ‘I Love That for You’</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 12:59:16 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 12:45:41 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 13:34:33 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 13:01:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -178,7 +178,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/03/world/europe/mikhail-gorbachev-russia-funeral.html" rel="standout"></atom:link>
       <description>Mikhail S. Gorbachev, the last Soviet leader, was not accorded the honor of a grand state ceremony that characterized funerals of his Soviet predecessors.</description>
       <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 12:38:42 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 13:01:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -264,6 +264,39 @@
       <media:description>Erica Gonzalez leads a small group of women in Chile who advocate passage of a new Constitution.</media:description>
     </item>
     <item>
+      <title>Education in America: School Is for Us</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-high-school-oakland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-high-school-oakland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-high-school-oakland.html" rel="standout"></atom:link>
+      <description>What is school really for? Students at Oakland’s Fremont High answer this question with their cameras.</description>
+      <dc:creator>Fremont High School students</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 15:47:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+    </item>
+    <item>
+      <title>Wonking Out: The Nightmare After Gorbachev</title>
+      <link>https://www.nytimes.com/2022/09/02/opinion/russia-economy-mikhail-gorbachev.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/russia-economy-mikhail-gorbachev.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/russia-economy-mikhail-gorbachev.html" rel="standout"></atom:link>
+      <description>Why did Russia’s economy do so poorly?</description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 18:23:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02krugman-newsletter-1/02krugman-newsletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Henley/Panos Pictures, via R​edux</media:credit>
+    </item>
+    <item>
       <title>Amazon Can’t Fix America’s Health Care Crisis</title>
       <link>https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/amazon-health-care.html</guid>
@@ -283,19 +316,36 @@
       <media:credit>Sandro Rybak</media:credit>
     </item>
     <item>
-      <title>Proving Racists Wrong Is Not a Trivial Pursuit</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/countering-prejudice.html" rel="standout"></atom:link>
-      <description>Underestimation should be countered with demonstration, not indignation.</description>
-      <dc:creator>John McWhorter</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 01:09:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prescod-Weinstein, Chanda</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/opinion/02mcwhorter-image/02mcwhorter-image-moth.jpg" width="151"></media:content>
-      <media:credit>Delcan and Co</media:credit>
+      <title>Education in America: School Is for Social Mobility</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html" rel="standout"></atom:link>
+      <description>If politics is the art of the possible, perhaps the biggest silver lining of these past two years has been to redefine what is possible.</description>
+      <dc:creator>John N. Friedman</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:02:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01friedman/01friedman-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; the Met Collection; Jordan Graff and Robo Wunderkind, via Unsplash; and Calsidyrose and Vacuumfan7072, via Wikimedia Commons</media:credit>
+    </item>
+    <item>
+      <title>Women Are So Fired Up to Vote, I’ve Never Seen Anything Like It</title>
+      <link>https://www.nytimes.com/2022/09/03/opinion/women-voters-roe-abortion-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/opinion/women-voters-roe-abortion-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/opinion/women-voters-roe-abortion-midterms.html" rel="standout"></atom:link>
+      <description>Since Roe v. Wade was overturned, women have registered to vote in incredible numbers.</description>
+      <dc:creator>Tom Bonier</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 13:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dobbs v Jackson Women&#39;s Health Organization (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/opinion/03bonier/03bonier-moth.jpg" width="151"></media:content>
+      <media:credit>Dolly Faibyshev for The New York Times</media:credit>
     </item>
     <item>
       <title>Education in America: School Is for Connecting to Nature</title>
@@ -338,57 +388,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN International</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/opinion/02Reese-image-2/02Reese-image-2-moth.jpg" width="151"></media:content>
       <media:credit>Matt Chase</media:credit>
-    </item>
-    <item>
-      <title>“The Rings of Power” on Amazon Can’t Do J.R.R. Tolkien Justice</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/rings-of-power-amazon-tolkien.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/rings-of-power-amazon-tolkien.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/rings-of-power-amazon-tolkien.html" rel="standout"></atom:link>
-      <description>Amazon’s “The Rings of Power” will struggle to recreate the magic of Middle-earth, a world not fit for “cinematic universe” treatment.</description>
-      <dc:creator>Michael D.C. Drout</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tolkien, J R R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Star Wars (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Comics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Star Trek (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Entertainment</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01Drout1/01Drout1-moth.jpg" width="151"></media:content>
-      <media:credit>Amazon Studios, via Associated Press</media:credit>
-      <media:description>Morfydd Clark in Amazon Studios’ “The Lord of the Rings: The Rings of Power.” Not all stories are suited to being expanded and exploited by Hollywood. </media:description>
-    </item>
-    <item>
-      <title>How to Have Fun Again</title>
-      <link>https://www.nytimes.com/2022/09/02/opinion/how-to-have-fun.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/opinion/how-to-have-fun.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/opinion/how-to-have-fun.html" rel="standout"></atom:link>
-      <description>An illustrated guide to letting loose.</description>
-      <dc:creator>Wendy MacNaughton</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 09:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
-    </item>
-    <item>
-      <title>Education in America: School Is for Social Mobility</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-social-mobility.html" rel="standout"></atom:link>
-      <description>If politics is the art of the possible, perhaps the biggest silver lining of these past two years has been to redefine what is possible.</description>
-      <dc:creator>John N. Friedman</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 19:02:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01friedman/01friedman-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; the Met Collection; Jordan Graff and Robo Wunderkind, via Unsplash; and Calsidyrose and Vacuumfan7072, via Wikimedia Commons</media:credit>
     </item>
     <item>
       <title>Game On</title>

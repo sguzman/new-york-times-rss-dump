@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 13:46:25 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 13:43:35 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 14:16:11 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 14:14:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -63,14 +63,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/03/world/europe/ukraine-bucha-massacre-victims.html" rel="standout"></atom:link>
       <description>No longer able to defer burial, Ukrainian investigators are photographing unclaimed and unidentified bodies, taking DNA samples and assigning them numbers, hoping that one day their families will claim them.</description>
       <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 04:01:08 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucha (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mykhailyna Skoryk-Shkarivska</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00ukraine-bucha-dispatch/00ukraine-bucha-dispatch-moth.jpg" width="151"></media:content>
       <media:credit>Laura Boushnak for The New York Times</media:credit>
       <media:description>Cemetery workers carrying the coffin of an unidentified victim during a funeral last month for 15 people who died in March during the Russian occupation.</media:description>
@@ -118,7 +119,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/03/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Russia and Ukraine have blamed each other for shelling at the Zaporizhzhia station, where some inspectors have been assessing damage and risks.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 13:43:35 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 14:11:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03ukraine-briefing-header/03ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>D. Candano Laris/IAEA Handout, via EPA, via Shutterstock</media:credit>
       <media:description>Members of the U.N. mission to inspect the Zaporizhzhia nuclear power plant in southern Ukraine on Thursday.</media:description>
@@ -403,17 +404,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Podesta, John D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Gina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zaidi, Ali (1987- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for American Progress</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Gina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Podesta, John D</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/climate/02cli-podesta/02cli-podesta-moth.jpg" width="151"></media:content>
       <media:credit>Saul Loeb/Agence France-Presse — Getty Images</media:credit>
       <media:description>John Podesta was a top adviser to President Barack Obama, chief of staff to President Bill Clinton and campaign chairman for Hillary Clinton.</media:description>

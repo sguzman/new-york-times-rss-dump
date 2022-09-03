@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 20:41:51 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 20:35:38 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 20:52:05 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 20:48:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -152,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/03/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>The U.N. nuclear watchdog, whose monitors are currently at the Zaporizhzhia power plant, said the station was relying on a single reserve line.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 20:30:18 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 20:48:20 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/multimedia/03ukraine-briefing-carousel-1045am-1/03ukraine-briefing-promo-1030am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -259,6 +259,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerala (India)</category>
+    </item>
+    <item>
+      <title>Renewed Shelling Puts Ukraine’s Zaporizhzhia Nuclear Plant at Risk</title>
+      <link>https://www.nytimes.com/2022/09/03/world/europe/zaporizhzhia-ukraine-iaea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/world/europe/zaporizhzhia-ukraine-iaea.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/world/europe/zaporizhzhia-ukraine-iaea.html" rel="standout"></atom:link>
+      <description>The International Atomic Energy Agency was still cautiously optimistic that “permanently” stationing two experts at the Zaporizhzhia nuclear power plant would help avert disaster.</description>
+      <dc:creator>Marc Santora and Andrew E. Kramer</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 20:40:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03ukraine-ledeall1/03ukraine-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>A delegation from the International Atomic Energy Agency, returning from an inspection of the Zaporizhzhia nuclear power plant, at a Ukrainian-controlled checkpoint.</media:description>
     </item>
     <item>
       <title>E.U. Says It Can Endure Winter Without Russian Gas Supply</title>
@@ -1104,28 +1123,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/lens/31brazil-election-1/31brazil-election-1-moth.jpg" width="151"></media:content>
       <media:credit>Adriano Machado/Reuters</media:credit>
       <media:description>Military officials have said that they want certainty that there is no malicious software installed on Brazil’s voting machines because its voting system lacks paper backups for potential audits.</media:description>
-    </item>
-    <item>
-      <title>U.N. Experts Plan Perilous Visit to Ukrainian Nuclear Plant Thursday</title>
-      <link>https://www.nytimes.com/2022/08/31/world/europe/un-inspectors-zaporizhzhia-nuclear.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/world/europe/un-inspectors-zaporizhzhia-nuclear.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/world/europe/un-inspectors-zaporizhzhia-nuclear.html" rel="standout"></atom:link>
-      <description>The international team prepared to cross the front lines to inspect the embattled, Russian-held Zaporizhzhia plant, but it was not clear how long the Russians would let them stay.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 23:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31ukraine-ledeall1/31ukraine-ledeall1-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>A convoy carrying the I.A.E.A. team en route to the Zaporizhzhia plant on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

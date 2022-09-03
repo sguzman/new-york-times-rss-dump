@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 04:08:12 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Sep 2022 04:08:11 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2022 05:05:41 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2022 05:05:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/02/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>The Nord Stream 1 pipeline had been expected to reopen Saturday after a three-day shutdown, but it has been postponed. A statement from the energy giant Gazprom raised fresh concerns about European energy supplies.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 03:01:34 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 05:05:35 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The United Nations’ nuclear watchdog agency said some members of its inspection team would keep working at the Zaporizhzhia plant into the weekend.</media:description>
@@ -271,6 +271,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01un-uyghurs1/01un-uyghurs1-moth.jpg" width="151"></media:content>
       <media:credit>Gabriella Demczuk for The New York Times</media:credit>
       <media:description>Uyghur supporters at a 2019 rally in Washington calling for sanctions against China.</media:description>
+    </item>
+    <item>
+      <title>Sri Lanka’s Rajapaksa Returns Home, Just Weeks After Being Ousted</title>
+      <link>https://www.nytimes.com/2022/09/03/world/asia/sri-lanka-rajapaksa-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/world/asia/sri-lanka-rajapaksa-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/03/world/asia/sri-lanka-rajapaksa-return.html" rel="standout"></atom:link>
+      <description>The former president’s dramatic fall from grace had seemed to end a powerful dynasty, but his arrival in Colombo shows how deeply entrenched his family is.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 04:20:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Gotabaya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombo (Sri Lanka)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sri Lanka</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03srilanka-1/03srilanka-1-moth.jpg" width="151"></media:content>
+      <media:credit>Eranga Jayawardena/Associated Press</media:credit>
+      <media:description>A motorcade believed to be that of former President Gotabaya Rajapaksa of Sri Lanka in Colombo, the capital, early Saturday.</media:description>
     </item>
     <item>
       <title>Ukraine Struggles to Identify Bucha Massacre Victims, Five Months On</title>
@@ -1125,13 +1141,13 @@
       <media:description>Mahathir Mohamad, a former prime minister of Malaysia, at his office in Kuala Lumpur in August.</media:description>
     </item>
     <item>
-      <title>Taiwan and Japan Are Brushed by Typhoon Hinnamnor. Korea’s Next.</title>
+      <title>Typhoon Hinnamnor Churns Slowly North Toward South Korea</title>
       <link>https://www.nytimes.com/article/typhoon-hinnamnor.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/typhoon-hinnamnor.html</guid>
       <atom:link href="https://www.nytimes.com/article/typhoon-hinnamnor.html" rel="standout"></atom:link>
-      <description>The storm was the Northern Hemisphere’s strongest tropical cyclone of the year when it formed this week, but by Friday it had weakened slightly.</description>
+      <description>The storm, the Northern Hemisphere’s strongest tropical cyclone of the year when it formed, was expected to make landfall on Tuesday in a weaker state.</description>
       <dc:creator>Mike Ives</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 12:31:59 +0000</pubDate>
+      <pubDate>Sat, 03 Sep 2022 04:23:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
@@ -1139,25 +1155,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-    </item>
-    <item>
-      <title>Our Latest Covid Poll</title>
-      <link>https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/briefing/covid-poll-liberal-anxiety.html" rel="standout"></atom:link>
-      <description>Americans on the left end of the political spectrum have become less anxious about Covid.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 10:32:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John (1947- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/multimedia/31-THE-MORNING-NL-mask2/31-THE-MORNING-NL-mask2-moth.jpg" width="151"></media:content>
-      <media:credit>Gabby Jones for The New York Times</media:credit>
-      <media:description>Times Square in July.</media:description>
     </item>
   </channel>
 </rss>

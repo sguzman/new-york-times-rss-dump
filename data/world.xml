@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 19:15:42 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 19:13:12 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 19:38:06 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 19:34:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -137,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>An uptick in fighting in southern Ukraine has changed the calculus for both sides in the eastern Donetsk region. Germany unveiled its largest measures yet to help citizens deal with soaring energy costs.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 19:08:10 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 19:34:12 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>
@@ -284,6 +284,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04kosovo1/04kosovo1-moth.jpg" width="151"></media:content>
       <media:credit>Armend Nimani for The New York Times</media:credit>
       <media:description>The Serbian flag in the ethnically Serb northern part of Mitrovica, Kosovo. Violent ethnic animosity has largely subsided, but tensions are bubbling up again.</media:description>
+    </item>
+    <item>
+      <title>John Sullivan, the U.S. Ambassador to Russia, Leaves Moscow to Retire</title>
+      <link>https://www.nytimes.com/2022/09/04/world/europe/john-sullivan-us-ambassador-russia-retire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/europe/john-sullivan-us-ambassador-russia-retire.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/john-sullivan-us-ambassador-russia-retire.html" rel="standout"></atom:link>
+      <description>John Sullivan managed the U.S. embassy during its most difficult period in decades — when Moscow forced hundreds of employees to leave and after Russia invaded Ukraine.</description>
+      <dc:creator>Edward Wong</dc:creator>
+      <pubDate>Sun, 04 Sep 2022 18:19:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/multimedia/04ukraine-briefing-ambassador-sullivan-1/04ukraine-briefing-ambassador-sullivan-1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicholas Kamm/Agence France-Presse — Getty Images</media:credit>
+      <media:description>John J. Sullivan served as deputy secretary of state in the Trump administration before being appointed ambassador to Russia in December 2019.</media:description>
     </item>
     <item>
       <title>Germany Announces $65 Billion Relief Package Amid Soaring Inflation</title>
@@ -1109,26 +1121,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31Iran-Energy-01/merlin_207564090_9f593e4c-2fe7-4949-94d0-9793d4f27ddd-moth.jpg" width="151"></media:content>
       <media:credit>Costas Baltas/Reuters</media:credit>
       <media:description>A Liberian-flagged tanker transferring crude oil from an Iranian-flagged tanker in Greek waters in May. Oil is easier to ship and disguise than natural gas.</media:description>
-    </item>
-    <item>
-      <title>For Uyghurs, U.N. Report on China’s Abuses Is Long-Awaited Vindication</title>
-      <link>https://www.nytimes.com/2022/09/01/world/asia/china-xinjiang-uyghurs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/asia/china-xinjiang-uyghurs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/asia/china-xinjiang-uyghurs.html" rel="standout"></atom:link>
-      <description>The report’s assessment that China’s crackdown in Xinjiang could amount to “crimes against humanity” gives new momentum to a campaign to pressure Beijing.</description>
-      <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:23:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01un-uyghurs1/01un-uyghurs1-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
-      <media:description>Uyghur supporters at a 2019 rally in Washington calling for sanctions against China.</media:description>
     </item>
   </channel>
 </rss>

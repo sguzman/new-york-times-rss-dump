@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 13:15:07 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 13:06:23 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 13:45:56 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 13:37:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -117,11 +117,16 @@
       <dc:creator>Anatoly Kurmanaev</dc:creator>
       <pubDate>Sat, 03 Sep 2022 17:30:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Positioning System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Navigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00Shipping-Deception/00Shipping-Deception-moth-v2.jpg" width="151"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>Reliable, left, a ship registered in Cyprus, taking on oil at a refinery in Venezuela. The oil tanker has transmitted fake location coordinates to circumvent international laws and sanctions.</media:description>
@@ -133,7 +138,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>There are signs that Russia will send thousands of new troops to the Donbas region in its latest push.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 13:06:23 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 13:37:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>

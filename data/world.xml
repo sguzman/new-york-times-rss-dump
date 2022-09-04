@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 14:17:11 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 14:00:16 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 14:52:14 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 14:40:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -92,18 +92,17 @@
       <description>At the funeral of Mikhail S. Gorbachev, the last Soviet leader, the size of the crowds signaled the depth of the regret about the undoing of the freedoms that his tenure initiated.</description>
       <dc:creator>Valerie Hopkins and Ivan Nechepurenko</dc:creator>
       <pubDate>Sat, 03 Sep 2022 19:51:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03-russia-gorbachev-funeral-01/03-russia-gorbachev-funeral-01-moth.jpg" width="151"></media:content>
       <media:credit>Evgenia Novozhenina/Reuters</media:credit>
       <media:description>Honor guards standing next to the coffin of Mikhail S. Gorbachev on Saturday at the House of the Unions in Moscow.</media:description>
@@ -136,9 +135,9 @@
       <link>https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
-      <description>Germany unveiled its largest measures yet to help citizens deal with soaring energy costs, as E.U. nations adopt emergency steps before the winter.</description>
+      <description>Germany unveiled its largest measures yet to help citizens deal with soaring energy costs, as E.U. nations were adopting emergency steps before winter.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 14:00:16 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 14:35:40 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>
@@ -159,6 +158,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucha (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00ukraine-bucha-dispatch/00ukraine-bucha-dispatch-moth.jpg" width="151"></media:content>
       <media:credit>Laura Boushnak for The New York Times</media:credit>
       <media:description>Cemetery workers carrying the coffin of an unidentified victim during a funeral last month for 15 people who died in March during the Russian occupation.</media:description>

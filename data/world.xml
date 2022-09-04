@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 16:30:46 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 16:25:16 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 17:00:19 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 16:53:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -137,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>Germany unveiled its largest measures yet to help citizens deal with soaring energy costs, as E.U. nations were adopting emergency steps before winter.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 16:25:16 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 16:43:40 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>
@@ -289,7 +289,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/04/technology/russia-bioweapons-geneva.html" rel="standout"></atom:link>
       <description>Without providing evidence, the Kremlin is pressing allegations that the U.S. operates labs in Ukraine and beyond. This week, it has called an investigative session in Geneva.</description>
       <dc:creator>Steven Lee Myers</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 09:00:17 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 16:53:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -323,6 +323,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>A 9-year-old boy is killed in a rocket attack in southern Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/04/world/europe/boy-killed-rocket-attack-south-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/europe/boy-killed-rocket-attack-south-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/boy-killed-rocket-attack-south-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>James C. McKinley Jr.</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 21:17:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/multimedia/03ukraine-briefing-child-casualties-topart/03ukraine-briefing-carousel-1pm-1-moth.jpg" width="151"></media:content>
+      <media:credit>Vadim Belikov/Associated Press</media:credit>
+      <media:description>Trails left by Russian rockets could be seen from the northeastern Ukrainian city of Kharkiv on Saturday.</media:description>
     </item>
     <item>
       <title>Renewed Shelling Puts Ukraine’s Zaporizhzhia Nuclear Plant at Risk</title>
@@ -1101,22 +1114,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-    </item>
-    <item>
-      <title>The Anglican Church’s ‘Kick in the Guts’ to Gay Parishioners</title>
-      <link>https://www.nytimes.com/2022/09/01/world/australia/anglican-church-homosexuality-new-zealand.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/australia/anglican-church-homosexuality-new-zealand.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/australia/anglican-church-homosexuality-new-zealand.html" rel="standout"></atom:link>
-      <description>Divisions over the acceptance of homosexuality have proved intractable both on a global level and inside even liberal-leaning countries like New Zealand.</description>
-      <dc:creator>Pete McKenzie</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 01:22:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Episcopal Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/world/00nz-anglican1/merlin_211900401_0c11d418-ad26-41a0-9d27-68075b8d325a-moth.jpg" width="151"></media:content>
-      <media:credit>Gareth Fuller/Press Association, via Getty Images</media:credit>
-      <media:description>Justin Welby, center, the global leader of the Anglican Church, leading the opening service at Lambeth in Kent, England, on July 31.</media:description>
     </item>
   </channel>
 </rss>

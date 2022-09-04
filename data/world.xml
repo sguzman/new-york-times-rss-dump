@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 19:49:35 +0000</lastBuildDate>
-    <pubDate>Sun, 04 Sep 2022 19:49:34 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 20:23:18 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 20:21:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -137,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>An uptick in fighting in southern Ukraine has changed the calculus for both sides in the eastern Donetsk region. Germany unveiled its largest measures yet to help citizens deal with soaring energy costs.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 19:49:34 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 20:08:21 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>
@@ -265,6 +265,29 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/23/world/00india-gowda-profile10/00india-gowda-profile10-moth.jpg" width="151"></media:content>
       <media:credit>Priyadarshini Ravichandran for The New York Times</media:credit>
       <media:description>Tulsi Gowda has devoted her life to transforming barren land into dense forests in Karnataka, a state in southern India.</media:description>
+    </item>
+    <item>
+      <title>Europe’s Leaders Vow Economic Relief, Fearing Unrest</title>
+      <link>https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html" rel="standout"></atom:link>
+      <description>Germany, Sweden and the Czech Republic announced measures to populations feeling the bite of rising inflation and energy costs tied to war in Ukraine.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Sun, 04 Sep 2022 20:21:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-ledeall-top/04ukraine-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Plywood covering windows of an apartment building in Kyiv on Sunday. It had been hit by missiles.</media:description>
     </item>
     <item>
       <title>Blame, Hate and License Plates in a Divided Kosovo Town</title>
@@ -1094,33 +1117,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/lens/01themorning-moon-and-beyond/merlin_212196810_ddba68d4-fa77-4be6-8aa0-c273c30361f8-moth.jpg" width="151"></media:content>
       <media:credit>Bill Ingalls/NASA</media:credit>
       <media:description>The rocket for the Artemis I mission, on launchpad at Kennedy Space Center.</media:description>
-    </item>
-    <item>
-      <title>Will a Renewed Iran Nuclear Deal Cut Energy Prices?</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/iran-nuclear-deal-energy-prices.html" rel="standout"></atom:link>
-      <description>A successful deal to restrain Iran’s nuclear program would mean that Washington lifts tough sanctions on Iran’s oil and gas exports. But it may already be too late for that to help this winter.</description>
-      <dc:creator>Steven Erlanger and Stanley Reed</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 09:00:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/31Iran-Energy-01/merlin_207564090_9f593e4c-2fe7-4949-94d0-9793d4f27ddd-moth.jpg" width="151"></media:content>
-      <media:credit>Costas Baltas/Reuters</media:credit>
-      <media:description>A Liberian-flagged tanker transferring crude oil from an Iranian-flagged tanker in Greek waters in May. Oil is easier to ship and disguise than natural gas.</media:description>
     </item>
   </channel>
 </rss>

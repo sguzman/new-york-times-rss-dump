@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 09:48:09 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 09:00:23 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 10:11:16 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 10:05:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,29 +57,6 @@
       <media:description>Conservative Republicans in Congress are seeking to clear a path for a constitutional convention.</media:description>
     </item>
     <item>
-      <title>Europe’s Leaders Vow Economic Relief, Fearing Unrest</title>
-      <link>https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html" rel="standout"></atom:link>
-      <description>Germany, Sweden and the Czech Republic announced measures to populations feeling the bite of rising inflation and energy costs tied to war in Ukraine.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 05:45:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-ledeall-energy/04ukraine-ledeall-energy-moth.jpg" width="151"></media:content>
-      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
-      <media:description>A protest in Prague on Saturday against the Czech government and its response to the energy crisis.</media:description>
-    </item>
-    <item>
       <title>As Russia Chokes Europe’s Gas, France Enters Era of Energy ‘Sobriety’</title>
       <link>https://www.nytimes.com/2022/09/05/business/russia-gas-europe-france.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/business/russia-gas-europe-france.html</guid>
@@ -106,121 +83,151 @@
       <media:description>A Paris street. Some French cities plan to turn off streetlamps to conserve energy in winter.</media:description>
     </item>
     <item>
-      <title>Town After Town, Residents Are Fighting Affordable Housing in Connecticut</title>
-      <link>https://www.nytimes.com/2022/09/04/realestate/connecticut-affordable-housing-apartments.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/realestate/connecticut-affordable-housing-apartments.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/realestate/connecticut-affordable-housing-apartments.html" rel="standout"></atom:link>
-      <description>Local residents and elected officials are seeking to block large housing projects, warning that increased density could change the character of their towns.</description>
-      <dc:creator>Lisa Prevost</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 17:53:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <title>Europe’s Leaders Vow Economic Relief, Fearing Unrest</title>
+      <link>https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/europe-economy-ukraine-war.html" rel="standout"></atom:link>
+      <description>Germany, Sweden and the Czech Republic announced measures to populations feeling the bite of rising inflation and energy costs tied to war in Ukraine.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 05:45:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-ledeall-energy/04ukraine-ledeall-energy-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
+      <media:description>A protest in Prague on Saturday against the Czech government and its response to the energy crisis.</media:description>
+    </item>
+    <item>
+      <title>Ukrainians in Rural Ireland Piece Together New Lives, Step by Step</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/ukraine-refugees-rural-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/ukraine-refugees-rural-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/ukraine-refugees-rural-ireland.html" rel="standout"></atom:link>
+      <description>With 50,000 Ukrainians now finding sanctuary in Ireland, the largest number of refugees the country has ever accepted is merging with locals in homogeneous rural villages.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 09:05:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bundoran (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donegal (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01IrelandUkrainains01/01IrelandUkrainains01-moth.jpg" width="151"></media:content>
+      <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
+      <media:description>A Ukrainian woman minding a child at a hostel that hosts Ukrainian families on Arranmore Island, Ireland.</media:description>
+    </item>
+    <item>
+      <title>Climate Change Is Ravaging the Colorado River. There’s a Model to Avert the Worst.</title>
+      <link>https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html" rel="standout"></atom:link>
+      <description>Success in the Yakima River Basin in Washington holds lessons for the seven states at war over water in the American West.</description>
+      <dc:creator>Henry Fountain and Ruth Fremson</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yakama Indian Reservation (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+    </item>
+    <item>
+      <title>In Montauk, Big Money Moves In on a Surfers’ Paradise</title>
+      <link>https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html" rel="standout"></atom:link>
+      <description>The acres overlooking a prize stretch of Long Island’s East End were empty for years. Now they’ve been sold in multimillion-dollar deals. It’s been the talk of the beach all summer.</description>
+      <dc:creator>Steven Kurutz</dc:creator>
+      <pubDate>Sun, 04 Sep 2022 19:58:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montauk (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surfing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fairfield County (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fairfield (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenwich (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Canaan (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Woodbridge (Conn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/realestate/01housingwars-sign/01housingwars-sign-moth.jpg" width="151"></media:content>
-      <media:credit>Jane Beiles for The New York Times</media:credit>
-      <media:description>Homeowners have raised about $84,000 for a legal fund to fight a proposed apartment complex downtown on Weed Street in New Canaan, Conn. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alden Global Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Freeman, Heath (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smith Management</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/fashion/31MONTAUK1/31MONTAUK1-moth.jpg" width="151"></media:content>
+      <media:credit>Kenyon Anderson for The New York Times</media:credit>
+      <media:description>Surfers at Ditch Plains Beach, a part of Montauk known for its consistent waves.</media:description>
     </item>
     <item>
-      <title>Chile Voters Reject New, Left-Leaning Constitution</title>
-      <link>https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html" rel="standout"></atom:link>
-      <description>The rejected constitution would have legalized abortion, adopted universal health care and enshrined more than 100 constitutional rights, a global record.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 05:52:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04chile-vote-top/04chile-vote-top-moth.jpg" width="151"></media:content>
-      <media:credit>Tomas Munita for The New York Times</media:credit>
-      <media:description>Celebrating the rejection of the proposed constitution in Santiago, Chile, on Sunday.</media:description>
+      <title>How Justin Tucker Became the Greatest Kicker in N.F.L. History</title>
+      <link>https://www.nytimes.com/2022/08/31/magazine/justin-tucker-nfl-kicker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/magazine/justin-tucker-nfl-kicker.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/magazine/justin-tucker-nfl-kicker.html" rel="standout"></atom:link>
+      <description>The confidence, persistence, and all-out obsession required to play the least understood position on the field.</description>
+      <dc:creator>Wil S. Hylton</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 15:38:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tucker, Justin (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gostkowski, Stephen (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/magazine/04mag-tucker/04mag-tucker-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Montgomery for The New York Times</media:credit>
+      <media:description>Justin Tucker at a preseason game against the Tennessee Titans in Baltimore.</media:description>
     </item>
     <item>
-      <title>En Chile gana el ‘rechazo’ en el plebiscito por la Constitución</title>
-      <link>https://www.nytimes.com/es/2022/09/04/espanol/chile-plebiscito-rechazo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/es/2022/09/04/espanol/chile-plebiscito-rechazo.html</guid>
-      <atom:link href="https://www.nytimes.com/es/2022/09/04/espanol/chile-plebiscito-rechazo.html" rel="standout"></atom:link>
-      <description>El texto rechazado habría legalizado el aborto, adoptado la atención médica universal y consagrado más de 100 derechos constitucionales, un récord mundial.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 03:44:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04chile-reject-HFO-ESP-1/04chile-reject-HFO-moth.jpg" width="151"></media:content>
-      <media:credit>Rodrigo Garrido/Reuters</media:credit>
-      <media:description>La votación en Valparaíso, Chile, el domingo. La visión que planteaba la Constitución propuesta resultó ser demasiado drástica como transformación para la mayoría del país. </media:description>
+      <title>China Imposes More Covid Lockdowns, Stoking Anxiety</title>
+      <link>https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html" rel="standout"></atom:link>
+      <description>Nearly every province has recorded infections in recent days, leaving some 60 million residents locked down. Weariness is growing by the day as the restrictions go on seemingly without end.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 09:57:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Daqing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hainan Island (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sichuan Province (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05china-covid1/merlin_212316921_6c0205d1-8b6d-4e31-8754-d6e0ce8de5ad-moth.jpg" width="151"></media:content>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <media:description>A testing site in Chengdu, China, on Friday, during a lockdown. The city’s testing system collapsed over the weekend, leaving residents waiting in line for hours.</media:description>
     </item>
     <item>
-      <title>The Curious Hole in My Head</title>
-      <link>https://www.nytimes.com/2022/09/04/science/brain-language-research.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/science/brain-language-research.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/science/brain-language-research.html" rel="standout"></atom:link>
-      <description>Born without my left temporal lobe, a brain region thought to be critical for language, I’ve been a research subject for much of my life.</description>
-      <dc:creator>Helen Santoro</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/science/00SCI-BRAIN1/00SCI-BRAIN1-moth.jpg" width="151"></media:content>
-      <media:credit>Kayana Szymczak for The New York Times</media:credit>
-      <media:description>Helen Santoro, left, examining a scan of her brain with her mother at an M.I.T. lab in Cambridge, Mass., in July.</media:description>
-    </item>
-    <item>
-      <title>The Final Days of New York’s ‘Wild West’ Outdoor Dining Scene</title>
-      <link>https://www.nytimes.com/2022/09/04/nyregion/nyc-outdoor-dining-sheds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/nyregion/nyc-outdoor-dining-sheds.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/nyregion/nyc-outdoor-dining-sheds.html" rel="standout"></atom:link>
-      <description>The city has removed dozens of dining sheds and is considering more regulations for those that remain.</description>
-      <dc:creator>Dodai Stewart and Timothy Mulcare</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 17:32:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sidewalks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bushwick (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lower East Side (Manhattan, NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/nyregion/00dining-sheds-promo/00dining-sheds-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Timothy Mulcare for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Review: “The Godmother,” by Barbie Latza Nadeau.</title>
-      <link>https://www.nytimes.com/2022/09/04/books/review/the-godmother-barbie-lazza-nadeau.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/books/review/the-godmother-barbie-lazza-nadeau.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/books/review/the-godmother-barbie-lazza-nadeau.html" rel="standout"></atom:link>
-      <description>In Barbie Latza Nadeau’s “The Godmother,” we meet the women who have run the mob, and the new generation poised to take over.</description>
-      <dc:creator>Clyde Haberman</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cosa Nostra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Camorra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Godmother (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadeau, Barbie Latza</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/books/review/06Haberman/06Haberman-moth.jpg" width="151"></media:content>
-      <media:credit>Archive/EPA, via Shutterstock</media:credit>
+      <title>George Clooney and Julia Roberts on ‘Ticket to Paradise’</title>
+      <link>https://www.nytimes.com/2022/09/05/movies/george-clooney-julia-roberts-ticket-to-paradise.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/movies/george-clooney-julia-roberts-ticket-to-paradise.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/movies/george-clooney-julia-roberts-ticket-to-paradise.html" rel="standout"></atom:link>
+      <description>For their latest big-screen partnership, they play exes who take shots at each other. It’s not such a stretch to the fond insults they sling in real life.</description>
+      <dc:creator>Kyle Buchanan</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 09:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clooney, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, Julia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ticket to Paradise (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>Biden Shouldn’t Apologize to Republicans</title>
@@ -247,7 +254,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/05/opinion/abortion-trump-democrats.html" rel="standout"></atom:link>
       <description> This may be the year when politics gets flipped on its head.</description>
       <dc:creator>Michelle Cottle</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 09:00:23 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 09:00:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
@@ -442,54 +449,86 @@
       <media:credit>Photo illustration: The New York Times; Photo: Samuel Corum for The New York Times</media:credit>
     </item>
     <item>
-      <title>Transgender Youth Find the Magic of Summer Camp</title>
-      <link>https://www.nytimes.com/2022/09/04/us/transgender-children-summer-camp.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/us/transgender-children-summer-camp.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/us/transgender-children-summer-camp.html" rel="standout"></atom:link>
-      <description>Indigo Point was created as an oasis, one that organizers saw as all the more necessary after a barrage of conservative legislation focused on transgender young people.</description>
-      <dc:creator>Rick Rojas and Rachel Wisniewski</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/us/04transcamp-1-sub1/00transcamp-1-moth.jpg" width="151"></media:content>
-      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
-      <media:description>Bonding over cards at Camp Indigo Point in southern Illinois. </media:description>
+      <title>For Mark Spitz, Olympic Greatness Came Amid Tragedy</title>
+      <link>https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html" rel="standout"></atom:link>
+      <description>The former swimmer said it was “like an out-of-body experience” to win seven gold medals at the 1972 Munich Games and then learn that terrorists had attacked Israelis at the Olympic Village.</description>
+      <dc:creator>Jeré Longman</dc:creator>
+      <pubDate>Sun, 04 Sep 2022 21:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1972)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mark Spitz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Munich (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02munich-spitz/02munich-spitz-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hana Asano for The New York Times</media:credit>
     </item>
     <item>
-      <title>Nick Kyrgios Upsets No. 1 Daniil Medvedev at the U.S. Open</title>
-      <link>https://www.nytimes.com/2022/09/04/sports/tennis/us-open-kyrgios-medvedev.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/sports/tennis/us-open-kyrgios-medvedev.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/sports/tennis/us-open-kyrgios-medvedev.html" rel="standout"></atom:link>
-      <description>Medvedev grew frustrated in a four-set loss that ensured neither singles draws will have a repeat winner this year. Kyrgios will play another Russian, No. 27 Karen Khachanov, in the quarterfinals.</description>
-      <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 02:53:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Daniil (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyrgios, Nick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05usopen-kyrigos2/05usopen-kyrigos2-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
-      <media:description>Nick Kyrgios of Australia had the support of the crowd at Arthur Ashe Stadium in his match against Daniil Medvedev of Russia on Sunday.</media:description>
+      <title>Chile Voters Reject New, Left-Leaning Constitution</title>
+      <link>https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html" rel="standout"></atom:link>
+      <description>The rejected constitution would have legalized abortion, adopted universal health care and enshrined more than 100 constitutional rights, a global record.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 05:52:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04chile-vote-top/04chile-vote-top-moth.jpg" width="151"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <media:description>Celebrating the rejection of the proposed constitution in Santiago, Chile, on Sunday.</media:description>
     </item>
     <item>
-      <title>Vietnam’s Plan for Loudspeaker Broadcasts Meets Resistance</title>
-      <link>https://www.nytimes.com/2022/09/04/world/asia/vietnam-loudspeakers-propaganda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/asia/vietnam-loudspeakers-propaganda.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/world/asia/vietnam-loudspeakers-propaganda.html" rel="standout"></atom:link>
-      <description>The city of Hanoi may revive regular loudspeaker broadcasts, which were routine before most people had TVs or internet access. Residents are wary of bringing them back.</description>
-      <dc:creator>Chau Doan and Mike Ives</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 21:30:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hanoi (Vietnam)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speakers (Audio)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00xp-loudspeakers-top/00xp-loudspeakers-top-moth.jpg" width="151"></media:content>
-      <media:credit>Linh Pham for The New York Times</media:credit>
-      <media:description>Loudspeakers in front of shops in Hanoi, Vietnam, late last month.</media:description>
+      <title>What Is Labor Day? A History of the Workers’ Holiday.</title>
+      <link>https://www.nytimes.com/article/what-is-labor-day.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/what-is-labor-day.html</guid>
+      <atom:link href="https://www.nytimes.com/article/what-is-labor-day.html" rel="standout"></atom:link>
+      <description>President Grover Cleveland made it a national holiday in 1894, during a crisis over federal efforts to end a strike by railroad workers.</description>
+      <dc:creator>Karen Zraick</dc:creator>
+      <pubDate>Sat, 04 Sep 2021 14:24:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Working Hours</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cleveland, Grover</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Debs, Eugene Victor</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/09/01/us/01xp-laborday1/01xp-laborday1-moth.jpg" width="151"></media:content>
+      <media:credit>Library of Congress</media:credit>
+      <media:description>A Labor Day parade on Main Street in Buffalo in 1900. President Grover Cleveland made Labor Day a national holiday in June 1894, as he faced a crisis of railway workers striking in Chicago.</media:description>
+    </item>
+    <item>
+      <title>LIV Golf Continues to Try New Ways to Be Noticed</title>
+      <link>https://www.nytimes.com/2022/09/04/sports/golf/liv-golf-pga-tour-boston.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/sports/golf/liv-golf-pga-tour-boston.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/04/sports/golf/liv-golf-pga-tour-boston.html" rel="standout"></atom:link>
+      <description>Whether it’s the team concept or a decision to allow its golfers to play in shorts, the breakaway Saudi-backed series so far sees itself as the anti-PGA Tour.</description>
+      <dc:creator>Bill Pennington</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 05:06:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LIV Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PGA Tour Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mickelson, Phil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Sergio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Dustin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lahiri, Anirban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Matsuyama, Hideki</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monahan, Jay W (1970- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/multimedia/04golf-liv/04golf-liv-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Cashin/USA Today Sports, via Reuters</media:credit>
+      <media:description>Greg Norman landed by parachute during the first round of the LIV Golf tournament on Friday at The International in Bolton, Mass.</media:description>
     </item>
     <item>
       <title>Why Is Pickleball So Popular?</title>

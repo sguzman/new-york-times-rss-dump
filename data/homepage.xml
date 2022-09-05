@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 16:54:02 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 16:49:42 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 17:17:15 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 17:01:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,7 +28,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/us/politics/05dc-trump-order/merlin_212404653_9f1d1302-592f-4496-ad18-aab6a25bbdd4-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
-      <media:description>A federal judge said that a special master could evaluate the documents seized from former President Donald J. Trump estate.</media:description>
+      <media:description>A federal judge said that a special master could evaluate the documents seized from former President Donald J. Trump’s estate.</media:description>
     </item>
     <item>
       <title>As U.K. Prime Minister, Liz Truss Will Face Hard Times </title>
@@ -259,7 +259,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/05/sports/tennis/john-mcenroe-us-open.html" rel="standout"></atom:link>
       <description>While other stars fade, the notorious “Super Brat” has become a subject of fascination and a ubiquitous presence, inside tennis and outside it, too. You have a problem with that?</description>
       <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 09:00:23 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 17:01:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEnroe, John</category>
@@ -497,6 +497,32 @@
       <media:description>The site where Shireen Abu Akleh, a Palestinian-American journalist, was shot and killed in the West Bank town of Jenin.</media:description>
     </item>
     <item>
+      <title>Deadline Looms for Trump Media Merger</title>
+      <link>https://www.nytimes.com/2022/09/05/business/trump-media-merger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/business/trump-media-merger.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/business/trump-media-merger.html" rel="standout"></atom:link>
+      <description>The company seeking to acquire the social media site needs shareholder approval to extend the time to complete the deal. The results of the vote are to be announced on Tuesday.</description>
+      <dc:creator>Matthew Goldstein</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 16:34:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Purpose Acquisition Companies (SPAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Digital World Acquisition Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Media &amp; Technology Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Truth Social (Social Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orlando, Patrick F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/business/05trump-digitalworld-01/merlin_212404662_8f570328-2f96-4d79-8940-c1b14833bfcc-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Beier for The New York Times</media:credit>
+      <media:description>Former President Donald J. Trump at a rally in Wilkes-Barre, Pa., on Saturday.</media:description>
+    </item>
+    <item>
       <title>For Mark Spitz, Olympic Greatness Came Amid Tragedy</title>
       <link>https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</guid>
@@ -514,28 +540,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02munich-spitz/02munich-spitz-moth-v2.jpg" width="151"></media:content>
       <media:credit>Hana Asano for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>What Is Labor Day? A History of the Workers’ Holiday.</title>
-      <link>https://www.nytimes.com/article/what-is-labor-day.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/what-is-labor-day.html</guid>
-      <atom:link href="https://www.nytimes.com/article/what-is-labor-day.html" rel="standout"></atom:link>
-      <description>President Grover Cleveland made it a national holiday in 1894, during a crisis over federal efforts to end a strike by railroad workers.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Sat, 04 Sep 2021 14:24:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Working Hours</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor Day</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cleveland, Grover</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Debs, Eugene Victor</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/09/01/us/01xp-laborday1/01xp-laborday1-moth.jpg" width="151"></media:content>
-      <media:credit>Library of Congress</media:credit>
-      <media:description>A Labor Day parade on Main Street in Buffalo in 1900. President Grover Cleveland made Labor Day a national holiday in June 1894, as he faced a crisis of railway workers striking in Chicago.</media:description>
     </item>
     <item>
       <title>How to Cope With Fall Anxiety</title>
@@ -580,24 +584,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/HFO-WELL-OMICRON-BOOSTER2/HFO-WELL-OMICRON-BOOSTER2-moth.jpg" width="151"></media:content>
       <media:credit>Charity Rachelle for The New York Times</media:credit>
       <media:description>The new shots target the Omicron subvariant BA.5, the dominant version of the virus.</media:description>
-    </item>
-    <item>
-      <title>New York’s Communal Summer Ritual: Grilling</title>
-      <link>https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html" rel="standout"></atom:link>
-      <description>Throughout public parks in the city, families, friends and neighbors gather around smoking grates and celebrate the season.</description>
-      <dc:creator>Joshua Needelman and Sabrina Santiago for The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 20:05:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grilling (Cooking)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flushing Meadows-Corona Park (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">McCarren Park (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Randalls Island (Manhattan, NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02OURCITY-GRILLING19/02OURCITY-GRILLING19-moth.jpg" width="151"></media:content>
-      <media:credit>Sabrina Santiago for The New York Times</media:credit>
-      <media:description>A group of Tibetan Buddhists prepare for the Drupchoe Chenmo prayer celebration in Flushing Meadows-Corona Park in Queens.</media:description>
     </item>
   </channel>
 </rss>

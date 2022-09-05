@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 14:46:29 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 14:39:06 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 15:13:09 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 14:52:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -237,6 +237,26 @@
       <media:description>Susie Fawvor in her family home that was built in 1915. It has withstood every major hurricane since its construction but was damaged in Hurricane Laura and is still in need of repairs.</media:description>
     </item>
     <item>
+      <title>Northwest Georgia Hit by Severe Storms and Flash Flooding</title>
+      <link>https://www.nytimes.com/2022/09/05/us/georgia-flooding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/us/georgia-flooding.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/us/georgia-flooding.html" rel="standout"></atom:link>
+      <description>An estimated 12 inches of rain fell in Chattooga and Floyd Counties, where the governor declared a state of emergency.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 10:09:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chattooga County (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">floyd county</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05xp-georgia/05xp-georgia-moth.jpg" width="151"></media:content>
+      <media:credit>Olivia Ross/Chattanooga Times Free Press, via Associated Press</media:credit>
+      <media:description>A flooded street in Summerville, Ga., on Sunday.</media:description>
+    </item>
+    <item>
       <title>George Clooney and Julia Roberts on ‘Ticket to Paradise’</title>
       <link>https://www.nytimes.com/2022/09/05/movies/george-clooney-julia-roberts-ticket-to-paradise.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/movies/george-clooney-julia-roberts-ticket-to-paradise.html</guid>
@@ -457,6 +477,27 @@
       <media:description>A road in China’s Sichuan Province after an earthquake on Monday, in a photo from the Chinese news agency Xinhua.</media:description>
     </item>
     <item>
+      <title>Israel Says Shireen Abu Akleh Most Likely Shot by Israeli Soldier</title>
+      <link>https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html" rel="standout"></atom:link>
+      <description>The Israeli Army has concluded that Shireen Abu Akleh, a Palestinian-American broadcaster, was probably killed by one of its own soldiers — but stopped short of accepting definitive blame.</description>
+      <dc:creator>Hiba Yazbek and Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 14:30:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Akleh, Shireen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Israel Defense Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05Israel/05Israel-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
+      <media:description>The site where Shireen Abu Akleh, a Palestinian-American journalist, was shot and killed in the West Bank town of Jenin.</media:description>
+    </item>
+    <item>
       <title>For Mark Spitz, Olympic Greatness Came Amid Tragedy</title>
       <link>https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/sports/olympics/mark-spitz-olympics-munich-tragedy.html</guid>
@@ -474,25 +515,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02munich-spitz/02munich-spitz-moth-v2.jpg" width="151"></media:content>
       <media:credit>Hana Asano for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Chile Voters Reject New, Left-Leaning Constitution</title>
-      <link>https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html" rel="standout"></atom:link>
-      <description>The rejected constitution would have legalized abortion, adopted universal health care and enshrined more than 100 constitutional rights, a global record.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 05:52:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04chile-vote-top/04chile-vote-top-moth.jpg" width="151"></media:content>
-      <media:credit>Tomas Munita for The New York Times</media:credit>
-      <media:description>Celebrating the rejection of the proposed constitution in Santiago, Chile, on Sunday.</media:description>
     </item>
     <item>
       <title>What Is Labor Day? A History of the Workers’ Holiday.</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 10:43:57 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 10:38:03 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 11:15:35 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 11:13:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -262,6 +262,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
     </item>
     <item>
+      <title>Kenya’s Supreme Court Upholds Presidential Election Results</title>
+      <link>https://www.nytimes.com/2022/09/05/world/africa/kenya-election-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/africa/kenya-election-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/africa/kenya-election-supreme-court.html" rel="standout"></atom:link>
+      <description>In a sweeping rejection of claims that the Aug. 9 vote had been rigged, the court confirmed Vice President William Ruto as the country’s fifth president.</description>
+      <dc:creator>Abdi Latif Dahir and Declan Walsh</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 10:54:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/00kenya-election-1/00kenya-election-1-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Karumba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Justices on Kenya’s Supreme Court preparing for a hearing in Nairobi, the country’s capital, on Thursday.</media:description>
+    </item>
+    <item>
       <title>The Fall Dining Scene</title>
       <link>https://www.nytimes.com/2022/09/05/briefing/outdoor-dining-pandemic-new-york-city.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/briefing/outdoor-dining-pandemic-new-york-city.html</guid>
@@ -333,6 +351,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/books/05Zamora1/05Zamora1-moth.jpg" width="151"></media:content>
       <media:credit>Cassidy Araiza for The New York Times</media:credit>
       <media:description>“I don’t expect the people who are in the book to read it. But my dream scenario is that they open it,” Zamora said, “and see that there is this book out there thanking them.”</media:description>
+    </item>
+    <item>
+      <title>How Was Britain’s Prime Minister Chosen?</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/less-than-1-percent-of-britains-people-voted-on-the-new-prime-minister-heres-why.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/less-than-1-percent-of-britains-people-voted-on-the-new-prime-minister-heres-why.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/less-than-1-percent-of-britains-people-voted-on-the-new-prime-minister-heres-why.html" rel="standout"></atom:link>
+      <description>Around 160,000 people had the final say in choosing the leader of the Conservative Party, and therefore the next prime minister.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 10:55:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05uk-briefing-voters-explainer/05uk-briefing-voters-explainer-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
+      <media:description>10 Downing Street, the prime minister’s official residence in London.</media:description>
     </item>
     <item>
       <title>Climate Change Is Ravaging the Colorado River. There’s a Model to Avert the Worst.</title>
@@ -1114,44 +1152,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/02germany-scholz1/02germany-scholz1-moth.jpg" width="151"></media:content>
       <media:credit>Markus Schreiber/Associated Press</media:credit>
       <media:description>Chancellor Olaf Scholz in Berlin this week.</media:description>
-    </item>
-    <item>
-      <title>Argentina’s Vice President Unharmed After Assassination Attempt</title>
-      <link>https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/americas/cristina-kirchner-attack.html" rel="standout"></atom:link>
-      <description>A man tried to fire a gun inches from the head of Cristina Fernández de Kirchner, the country’s most prominent leader, but it did not go off.</description>
-      <dc:creator>Jack Nicas and Natalie Alcoba</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 15:39:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01argentina1/01argentina1-moth.jpg" width="151"></media:content>
-      <media:credit>Tomas Cuesta/Getty Images</media:credit>
-      <media:description>Police officers arrested a man who pointed a firearm at Vice President Cristina Fernández de Kirchner outside her home in Buenos Aires on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Experts Brave Shelling to Reach Imperiled Ukrainian Nuclear Plant at Last</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/iaea-visit-zaporizhzhia-nuclear.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/iaea-visit-zaporizhzhia-nuclear.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/iaea-visit-zaporizhzhia-nuclear.html" rel="standout"></atom:link>
-      <description>The team from the United Nations’ nuclear watchdog reached the Russian-occupied Zaporizhzhia plant for the first time since the war began, despite fresh shelling each side blamed on the other.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 01:22:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01ukraine-ledeall1/merlin_212263425_61e63851-bb01-4c2e-be86-9f5a28acb6d3-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>Vehicles carrying International Atomic Energy Agency inspectors return to Ukrainian-held territory after visiting the Zaporizhzhia nuclear power plant on Thursday. </media:description>
     </item>
   </channel>
 </rss>

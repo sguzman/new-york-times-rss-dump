@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 10:50:38 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 10:38:03 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 11:09:27 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 11:04:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -305,81 +305,55 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
     </item>
     <item>
-      <title>Student Journalists Reveal a Changing World. Let Them.</title>
-      <link>https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html" rel="standout"></atom:link>
-      <description>The shutdown of a high school newspaper in Nebraska is only the latest episode in efforts to censor student publications across red states.</description>
-      <dc:creator>Margaret Renkl</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 09:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <title>Education in America: School Is for Everyone</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-history.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-history.html" rel="standout"></atom:link>
+      <description>Our democracy sprouts in the nursery of public schools — where students grapple, together, with our messy history and learn to negotiate differences.</description>
+      <dc:creator>Anya Kamenetz</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 21:15:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Critical Race Theory</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01Kamenetz/01Kamenetz-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; Ansel Adams, Esther Bubley, Warren K. Leffler and Russell Lee, via Library of Congress; Museums Victoria, Muhammad Haikal Sjurki, Note Thanun and New York Public Library, via Unsplash; and Mikus, via Wikimedia Commons</media:credit>
     </item>
     <item>
-      <title>Education in America: School Is for Care</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-care.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-care.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-care.html" rel="standout"></atom:link>
-      <description>It can be a safe haven for our most vulnerable children.</description>
-      <dc:creator>Jessica Grose</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 22:03:22 +0000</pubDate>
+      <title>Education in America: School Is for Merit</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-merit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-merit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-merit.html" rel="standout"></atom:link>
+      <description>Merit demands excellence and rigor. It is not, as its critics often insist, an elitist, classist or racist value.</description>
+      <dc:creator>Asra Q. Nomani</dc:creator>
+      <pubDate>Sun, 04 Sep 2022 17:04:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Magnet Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomas Jefferson High School for Science and Technology (Fairfax, Va)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/01Nomani/01Nomani-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; photos-public-domain.com; Sam Samannejad and Gabriela Testa, via Unsplash; and Calsidyrose, via Wikimedia Commons</media:credit>
+    </item>
+    <item>
+      <title>Education in America: School Is for Hope</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-immigrant-children.html" rel="standout"></atom:link>
+      <description>Many migrant parents believe that American schools promise their children the opportunity for a better life.</description>
+      <dc:creator>Gabrielle Oliveira</dc:creator>
+      <pubDate>Sat, 03 Sep 2022 01:21:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01grose/01grose-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; Jordan Rowland and the New York Public Library, via Unsplash; and Mikus, via Wikimedia Commons</media:credit>
-    </item>
-    <item>
-      <title>How Cesar Chavez’s Union Lost Its Way</title>
-      <link>https://www.nytimes.com/2022/09/04/opinion/united-farm-workers-california.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/opinion/united-farm-workers-california.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/opinion/united-farm-workers-california.html" rel="standout"></atom:link>
-      <description>Workers have to be persuaded that to join a union is worth the risk. </description>
-      <dc:creator>Miriam Pawel</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 23:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Farm Workers of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Cesar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/opinion/04pawel/04pawel-moth.jpg" width="151"></media:content>
-      <media:credit>Patrick T. Fallon/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>A statue of Cesar Chavez in San Fernando, Calif.</media:description>
-    </item>
-    <item>
-      <title>The Way You Get Around New York City by Bus and Train Is About to Change</title>
-      <link>https://www.nytimes.com/2022/09/04/opinion/new-york-trains.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/opinion/new-york-trains.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/opinion/new-york-trains.html" rel="standout"></atom:link>
-      <description>The city’s crumbling infrastructure is finally getting some upgrades.</description>
-      <dc:creator>Mara Gay and Timothy Mulcare</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 22:06:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Avenue Subway (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Jersey Transit</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Westchester County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro-North Commuter Railroad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grand Central Terminal (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Port Authority Bus Terminal (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania Station (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bilingual Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01Oliviera/01Oliviera-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; the New York Public Library, via Unsplash; and Mikus and NASA, via Wikimedia Commons</media:credit>
     </item>
     <item>
       <title>The Fall Dining Scene</title>
@@ -611,28 +585,22 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>How an Afghan Soccer Player Escaped the Taliban and Began a New Life</title>
-      <link>https://www.nytimes.com/2022/08/31/sports/soccer/afghanistan-soccer-escape.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/sports/soccer/afghanistan-soccer-escape.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/31/sports/soccer/afghanistan-soccer-escape.html" rel="standout"></atom:link>
-      <description>How an Afghan soccer player and her teammates fled their homes, outran a murderous regime and forged the uncertain beginnings of a new life.</description>
-      <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 04:57:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghanistan Football Federation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kabul International Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dodd, Moya (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Popal, Khalida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/15/sports/soccer/00keeper-draft-slide-D70J/00keeper-draft-slide-D70J-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <title>New York’s Communal Summer Ritual: Grilling</title>
+      <link>https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/grilling-new-york-summer-parks.html" rel="standout"></atom:link>
+      <description>Throughout public parks in the city, families, friends and neighbors gather around smoking grates and celebrate the season.</description>
+      <dc:creator>Joshua Needelman and Sabrina Santiago for The New York Times</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 20:05:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grilling (Cooking)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flushing Meadows-Corona Park (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">McCarren Park (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Randalls Island (Manhattan, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/02OURCITY-GRILLING19/02OURCITY-GRILLING19-moth.jpg" width="151"></media:content>
+      <media:credit>Sabrina Santiago for The New York Times</media:credit>
+      <media:description>A group of Tibetan Buddhists prepare for the Drupchoe Chenmo prayer celebration in Flushing Meadows-Corona Park in Queens.</media:description>
     </item>
   </channel>
 </rss>

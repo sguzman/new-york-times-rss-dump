@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 15:37:10 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 15:02:56 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 15:52:12 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 15:43:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -237,20 +237,22 @@
       <media:description>Susie Fawvor in her family home that was built in 1915. It has withstood every major hurricane since its construction but was damaged in Hurricane Laura and is still in need of repairs.</media:description>
     </item>
     <item>
-      <title>Hurricane Danielle Weakening as It Meanders Across the Atlantic</title>
-      <link>https://www.nytimes.com/article/tropical-storm-danielle-hurricane.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-danielle-hurricane.html</guid>
-      <atom:link href="https://www.nytimes.com/article/tropical-storm-danielle-hurricane.html" rel="standout"></atom:link>
-      <description>Danielle, the first hurricane of this year’s Atlantic season, has seen a decrease in maximum sustained winds and is expected to turn east-northeast, forecasters said.</description>
+      <title>Tropical Storm Earl Brings Rain and Winds to Eastern Caribbean</title>
+      <link>https://www.nytimes.com/article/tropical-storm-earl-hurricane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-earl-hurricane.html</guid>
+      <atom:link href="https://www.nytimes.com/article/tropical-storm-earl-hurricane.html" rel="standout"></atom:link>
+      <description>The storm was expected to strengthen and could become a hurricane this week, forecasters said. Rain and gusty winds were in the forecast for the Leeward Islands, the U.S. and British Virgin Islands and Puerto Rico.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 15:02:56 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 15:32:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="">hurricane danielle</category>
-      <category domain="">tropical storm danielle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Ocean</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/lens/01xp-danielle-sat-update/01xp-danielle-sat-update-moth.png" width="151"></media:content>
-      <media:credit>CIRA/NOAA</media:credit>
-      <media:description>Hurricane Danielle was briefly downgraded to a tropical storm over the weekend before regaining strength on Sunday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virgin Islands (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virgin Islands (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/multimedia/02xp-earl-2/02xp-earl-2-moth.jpg" width="151"></media:content>
+      <media:credit>NOAA</media:credit>
+      <media:description>Tropical Storm Earl is the second named storm to form in the Atlantic in the past week.</media:description>
     </item>
     <item>
       <title>Northwest Georgia Hit by Severe Storms and Flash Flooding</title>
@@ -482,9 +484,9 @@
       <link>https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html" rel="standout"></atom:link>
-      <description>State media said at least 21 people were killed, but communications in the landslide-prone area were disrupted and the full damage was unclear.</description>
+      <description>State media said more than 30 people were killed, but communications in the landslide-prone area were disrupted and the full damage was unclear.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 13:45:23 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 15:43:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sichuan Province (China)</category>

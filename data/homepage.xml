@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 22:12:47 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 22:02:34 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 22:30:43 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 22:27:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/05/us/politics/trump-special-master.html" rel="standout"></atom:link>
       <description>The ruling also effectively barred federal prosecutors from using key pieces of evidence as they continue to investigate whether Mr. Trump illegally retained national defense documents at his estate.</description>
       <dc:creator>Alan Feuer, Glenn Thrush and Charlie Savage</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 22:02:34 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 22:27:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
@@ -67,6 +67,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05truss-profile-sub/05truss-profile-sub-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>Liz Truss in London on Monday after it was announced she had won the contest to become Britain’s next prime minister. Colleagues speak of her nerve, drive and appetite for disruptive politics.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Nuclear Plant Disconnected From Grid After Shelling</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html" rel="standout"></atom:link>
+      <description>A fire caused by shelling forced the staff of Europe’s largest nuclear plant to disconnect from the nation’s power grid, showing that risks remained at the plant despite the presence of U.N. experts.</description>
+      <dc:creator>Marc Santora, Ivan Nechepurenko and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 21:50:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05ukraine-ledeall-1/00ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>A motorcade transporting the International Atomic Energy Agency expert mission arriving at the Zaporizhzhia power plant last week.</media:description>
     </item>
     <item>
       <title>Breaking Taboo, Germany Extends Life of 2 Nuclear Reactors</title>
@@ -123,27 +144,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
     </item>
     <item>
-      <title>In Montauk, Big Money Moves In on a Surfers’ Paradise</title>
-      <link>https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/style/in-montauk-big-money-moves-in-on-a-surfers-paradise.html" rel="standout"></atom:link>
-      <description>The acres overlooking a prize stretch of Long Island’s East End were empty for years. Now they’ve been sold in multimillion-dollar deals. It’s been the talk of the beach all summer.</description>
-      <dc:creator>Steven Kurutz</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 14:02:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montauk (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surfing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alden Global Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Freeman, Heath (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smith Management</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/fashion/31MONTAUK1/31MONTAUK1-moth.jpg" width="151"></media:content>
-      <media:credit>Kenyon Anderson for The New York Times</media:credit>
-      <media:description>Surfers at Ditch Plains Beach, a part of Montauk known for its consistent waves.</media:description>
+      <title>Rafael Nadal Defeated at U.S. Open by an American, Frances Tiafoe</title>
+      <link>https://www.nytimes.com/2022/09/05/sports/tennis/us-open-nadal-tiafoe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/sports/tennis/us-open-nadal-tiafoe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/sports/tennis/us-open-nadal-tiafoe.html" rel="standout"></atom:link>
+      <description>The next generation of top American players has struggled heavily against Nadal, Novak Djokovic and Roger Federer in Grand Slams. Tiafoe broke through with a 6-4, 4-6, 6-4, 6-3 win over Nadal.</description>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 22:13:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wimbledon Tennis Tournament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tiafoe, Frances (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadal, Rafael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/tiafoe2/tiafoe2-moth.jpg" width="151"></media:content>
+      <media:credit>Julia Nikhinson/Associated Press</media:credit>
+      <media:description>Frances Tiafoe celebrates after winning a point against Rafael Nadal.</media:description>
     </item>
     <item>
       <title>With Voters From Both Parties Energized, Campaigns Begin Fall Sprint</title>

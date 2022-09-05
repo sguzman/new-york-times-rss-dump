@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 06:51:01 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 06:49:35 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 07:30:10 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 07:25:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -191,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/04/world/ukraine-russia-war-news" rel="standout"></atom:link>
       <description>An uptick in fighting in southern Ukraine has changed the calculus for both sides in the eastern Donetsk region. Germany unveiled its largest measures yet to help citizens deal with soaring energy costs.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 05:08:36 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 07:25:14 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-briefing-header-3am/04ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Ammar Awad/Reuters</media:credit>
       <media:description>A destroyed market after a Russian strike in Kramatorsk, in the Donetsk region of Ukraine, on Saturday.</media:description>
@@ -262,13 +262,58 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
     </item>
     <item>
+      <title>Climate Change Is Ravaging the Colorado River. There’s a Model to Avert the Worst.</title>
+      <link>https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/climate/colorado-river-yakima-lessons-climate.html" rel="standout"></atom:link>
+      <description>Success in the Yakima River Basin in Washington holds lessons for the seven states at war over water in the American West.</description>
+      <dc:creator>Henry Fountain and Ruth Fremson</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yakama Indian Reservation (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+    </item>
+    <item>
+      <title>Shakespeare or Bieber? This Canadian City Draws Devotees of Both</title>
+      <link>https://www.nytimes.com/2022/09/05/world/canada/bieber-shakespeare-stratford-ontario.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/canada/bieber-shakespeare-stratford-ontario.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/canada/bieber-shakespeare-stratford-ontario.html" rel="standout"></atom:link>
+      <description>For nearly 70 years, Stratford, Ontario, has attracted legions of theater fanatics to its Shakespeare festival. About a dozen years ago, a very different type of pilgrim began arriving: Beliebers.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bieber, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stratford (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stratford Shakespeare Festival</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/00Canada-stratford-dispatch-biebs/00Canada-stratford-dispatch-biebs-moth.jpg" width="151"></media:content>
+      <media:credit>Brett Gundlock for The New York Times</media:credit>
+      <media:description>A cutout of Justin Bieber in the Stratford Perth Museum. The setting is meant to replicate the steps of the city’s Avon Theater. </media:description>
+    </item>
+    <item>
       <title>Typhoon Hinnamnor: South Korea Braces for Storm’s Arrival</title>
       <link>https://www.nytimes.com/2022/09/05/world/asia/typhoon-hinnamnor-south-korea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/typhoon-hinnamnor-south-korea.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/typhoon-hinnamnor-south-korea.html" rel="standout"></atom:link>
       <description>The storm, expected to make landfall on Tuesday, could be the strongest in the country’s recorded history. Japan and China were also making preparations.</description>
       <dc:creator>Jin Yu Young and Mike Ives</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 06:49:35 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 07:22:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jeju Island (South Korea)</category>
@@ -358,7 +403,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/04/world/europe/scholz-germany-inflation-energy.html" rel="standout"></atom:link>
       <description>Berlin aims to ease the burden on citizens facing soaring inflation and surging energy costs that have worsened with Russia’s invasion of Ukraine.</description>
       <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 00:32:17 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 07:09:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/world/04ukraine-germany-energy/04ukraine-germany-energy-moth.jpg" width="151"></media:content>
@@ -1100,27 +1145,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/world/02ambriefing-asia-nl-sept-PROMO/00un-xinjiang1-moth.jpg" width="151"></media:content>
       <media:credit>Ng Han Guan/Associated Press</media:credit>
       <media:description>A security guard at a detention center in Yarkant County, Xinjiang, China, last year. Delays to the U.N. report about abuses in the region prompted fierce pushback from rights groups.</media:description>
-    </item>
-    <item>
-      <title>For China’s Xi and Other Strongmen, Gorbachev Showed Exactly What Not to Do</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/china-xi-gorbachev-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/china-xi-gorbachev-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/china-xi-gorbachev-russia.html" rel="standout"></atom:link>
-      <description>Though Mikhail Gorbachev’s reforms were praised in the West, the collapse of the Soviet Union schooled a generation of authoritarian rulers in the dangers of tolerating any signs of dissent or democratic yearnings.</description>
-      <dc:creator>Hannah Beech</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 19:50:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01gorbachev-xi-new/01gorbachev-xi-new-moth.jpg" width="151"></media:content>
-      <media:credit>Boris Yurchenko/Associated Press</media:credit>
-      <media:description>The Soviet leader Mikhail Gorbachev, right, talking with the Chinese leader Deng Xiaoping during their meeting in May 1989 at Beijing’s Great Hall of the People.</media:description>
     </item>
   </channel>
 </rss>

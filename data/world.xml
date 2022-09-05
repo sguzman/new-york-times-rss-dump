@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 10:22:50 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 10:09:06 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 10:43:57 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 10:38:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -260,6 +260,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petro, Gustavo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+    </item>
+    <item>
+      <title>The Fall Dining Scene</title>
+      <link>https://www.nytimes.com/2022/09/05/briefing/outdoor-dining-pandemic-new-york-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/briefing/outdoor-dining-pandemic-new-york-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/briefing/outdoor-dining-pandemic-new-york-city.html" rel="standout"></atom:link>
+      <description>Diners are returning from their summer vacations and heading back into restaurants.</description>
+      <dc:creator>Priya Krishna</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 10:38:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tables</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/03/dining/06TheMorning-resturant-changes/restaurant-changes-promo-moth-v2.png" width="151"></media:content>
+      <media:credit>Alexei Vella</media:credit>
     </item>
     <item>
       <title>China Imposes More Covid Lockdowns, Stoking Anxiety</title>
@@ -1135,18 +1152,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01ukraine-ledeall1/merlin_212263425_61e63851-bb01-4c2e-be86-9f5a28acb6d3-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Vehicles carrying International Atomic Energy Agency inspectors return to Ukrainian-held territory after visiting the Zaporizhzhia nuclear power plant on Thursday. </media:description>
-    </item>
-    <item>
-      <title>Zelensky says Russia prevented independent journalists from observing the I.A.E.A. mission.</title>
-      <link>https://www.nytimes.com/2022/09/01/world/europe/zelensky-says-russia-prevented-independent-journalists-from-observing-the-iaea-mission.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/europe/zelensky-says-russia-prevented-independent-journalists-from-observing-the-iaea-mission.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/europe/zelensky-says-russia-prevented-independent-journalists-from-observing-the-iaea-mission.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Ron DePasquale</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 02:36:50 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01-ukraine-blog-IAEA/01-ukraine-blog-IAEA-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>The director general of the I.A.E.A., Rafael M. Grossi, center, with the Ukrainian energy minister and the head of Energoatom, Ukraine’s nuclear energy agency, on Thursday after visiting the Zaporizhzhia Nuclear Plant.</media:description>
     </item>
   </channel>
 </rss>

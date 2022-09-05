@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 09:51:55 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 09:05:53 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 10:22:50 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 10:09:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -260,6 +260,50 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petro, Gustavo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+    </item>
+    <item>
+      <title>China Imposes More Covid Lockdowns, Stoking Anxiety</title>
+      <link>https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html" rel="standout"></atom:link>
+      <description>Nearly every province has recorded infections in recent days, leaving some 60 million residents locked down. Weariness is growing by the day as the restrictions go on seemingly without end.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 09:57:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Daqing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hainan Island (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sichuan Province (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05china-covid1/merlin_212316921_6c0205d1-8b6d-4e31-8754-d6e0ce8de5ad-moth.jpg" width="151"></media:content>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <media:description>A testing site in Chengdu, China, on Friday, during a lockdown. The city’s testing system collapsed over the weekend, leaving residents waiting in line for hours.</media:description>
+    </item>
+    <item>
+      <title>Trial Over 2016 Terror Attack in Nice Opens Today in Paris</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/france-nice-trial-terrorist-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/france-nice-trial-terrorist-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/france-nice-trial-terrorist-attack.html" rel="standout"></atom:link>
+      <description>A self-radicalized Tunisian man plowed a truck through crowds celebrating Bastille Day, killing 86. The proceedings, against eight defendants, are scheduled to last until December.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 10:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nice, France, Attack (July 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lahouaiej Bouhlel, Mohamed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nice (France)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05france-trial1/05france-trial1-moth.jpg" width="151"></media:content>
+      <media:credit>Sasha Goldsmith, via Associated Press</media:credit>
+      <media:description>The truck used in the 2016 attack in Nice, France. The driver was killed by the police. Those facing trial are accused of being indirect accomplices.</media:description>
     </item>
     <item>
       <title>Javier Zamora Carried a Heavy Load. He Laid it to Rest on the Page.</title>
@@ -1103,48 +1147,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/multimedia/01-ukraine-blog-IAEA/01-ukraine-blog-IAEA-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The director general of the I.A.E.A., Rafael M. Grossi, center, with the Ukrainian energy minister and the head of Energoatom, Ukraine’s nuclear energy agency, on Thursday after visiting the Zaporizhzhia Nuclear Plant.</media:description>
-    </item>
-    <item>
-      <title>What’s Behind the Pileup of Sex Abuse Scandals?</title>
-      <link>https://www.nytimes.com/2022/09/01/world/americas/whats-behind-the-pileup-of-sex-abuse-scandals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/americas/whats-behind-the-pileup-of-sex-abuse-scandals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/americas/whats-behind-the-pileup-of-sex-abuse-scandals.html" rel="standout"></atom:link>
-      <description>Sociologists see a pattern that goes beyond the culture of specific schools, churches and industries: an ingrained resistance to self-policing or defying a community’s hierarchy.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 21:58:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Herlufsholm</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southern Baptist Convention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mormons (Church of Jesus Christ of Latter-Day Saints)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boy Scouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania State University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandusky, Jerry</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/31/world/Interpreter-nl-Aug312022-1/Interpreter-nl-Aug312022-1-moth.jpg" width="151"></media:content>
-      <media:credit>Rick Bowmer/Associated Press</media:credit>
-      <media:description>The Temple of The Church of Jesus Christ of Latter-day Saints in Salt Lake City, Utah.</media:description>
-    </item>
-    <item>
-      <title>Teenagers Died of Asphyxiation in South Africa Tavern, Parents Are Told</title>
-      <link>https://www.nytimes.com/2022/09/01/world/africa/south-africa-tavern-deaths-teenagers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/world/africa/south-africa-tavern-deaths-teenagers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/world/africa/south-africa-tavern-deaths-teenagers.html" rel="standout"></atom:link>
-      <description>Health officials met with families that had waited more than two months to learn why 21 teenagers died one June night in an overcrowded bar.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 21:38:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East London (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01safrica-tavern-1new/01safrica-tavern-1new-moth.jpg" width="151"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>The entrance to Enyobeni Tavern in Scenery Park, East London, South Africa. The deaths of the 21 teenagers have been called a national tragedy.</media:description>
     </item>
   </channel>
 </rss>

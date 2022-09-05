@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 04:06:04 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Sep 2022 03:45:53 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 05:39:28 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 05:23:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/04/us/politics/constitutional-convention-republican-states.html" rel="standout"></atom:link>
       <description>A new book by a former Democratic senator warns of the risks of allowing states to call for a convention. Some in the G.O.P. see it as the only way to rein in the federal government.</description>
       <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 21:34:24 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 21:34:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feingold, Russell D</category>
@@ -80,21 +80,30 @@
       <media:description>A protest in Prague on Saturday against the Czech government and its response to the energy crisis.</media:description>
     </item>
     <item>
-      <title>How Russia Relies on Old Tech in  Weapons Aimed at Ukraine</title>
-      <link>https://www.nytimes.com/2022/09/04/us/politics/russia-missiles-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/us/politics/russia-missiles-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/us/politics/russia-missiles-ukraine.html" rel="standout"></atom:link>
-      <description>Investigators who examined the electronics in Russia’s newest cruise missiles and attack helicopters were surprised to find decades-old technology reused from earlier models.</description>
-      <dc:creator>John Ismay</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 07:00:11 +0000</pubDate>
+      <title>As Russia Chokes Europe’s Gas, France Enters Era of Energy ‘Sobriety’</title>
+      <link>https://www.nytimes.com/2022/09/05/business/russia-gas-europe-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/business/russia-gas-europe-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/business/russia-gas-europe-france.html" rel="standout"></atom:link>
+      <description>The government is helping residents with soaring gas and electric costs, but some businesses are already shutting down amid fears of rationing and blackouts.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 04:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Electricite de France (EDF)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borne, Elisabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conflict Armament Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/business/00france-energy8/00france-energy8-moth.jpg" width="151"></media:content>
+      <media:credit>Filip Singer/European Pressphoto Agency</media:credit>
+      <media:description>A Paris street. Some French cities plan to turn off streetlamps to conserve energy in winter.</media:description>
     </item>
     <item>
       <title>Town After Town, Residents Are Fighting Affordable Housing in Connecticut</title>
@@ -119,13 +128,13 @@
       <media:description>Homeowners have raised about $84,000 for a legal fund to fight a proposed apartment complex downtown on Weed Street in New Canaan, Conn. </media:description>
     </item>
     <item>
-      <title>Chile Rejects Left-Leaning Constitution </title>
+      <title>Chile Voters Reject New, Left-Leaning Constitution</title>
       <link>https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/04/world/americas/chile-constitution-no.html" rel="standout"></atom:link>
-      <description>The rejected Constitution would have legalized abortion, adopted universal health care and enshrined more than 100 constitutional rights, a global record.</description>
+      <description>The rejected constitution would have legalized abortion, adopted universal health care and enshrined more than 100 constitutional rights, a global record.</description>
       <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 03:39:00 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 04:42:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
@@ -547,7 +556,7 @@
       <atom:link href="https://www.nytimes.com/2022/08/31/sports/soccer/afghanistan-soccer-escape.html" rel="standout"></atom:link>
       <description>How an Afghan soccer player and her teammates fled their homes, outran a murderous regime and forged the uncertain beginnings of a new life.</description>
       <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Wed, 31 Aug 2022 12:31:20 +0000</pubDate>
+      <pubDate>Mon, 05 Sep 2022 04:57:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>

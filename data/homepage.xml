@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 22:35:03 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 22:26:39 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 22:49:46 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 22:43:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,25 +95,6 @@
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
     </item>
     <item>
-      <title>Russia Is Buying North Korean Artillery, According to U.S. Intelligence</title>
-      <link>https://www.nytimes.com/2022/09/05/us/politics/russia-north-korea-artillery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/us/politics/russia-north-korea-artillery.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/us/politics/russia-north-korea-artillery.html" rel="standout"></atom:link>
-      <description>Moscow’s purchase of millions of shells and rockets from North Korea is a sign that global sanctions have hampered the Russian military’s supply lines.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 02:01:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/05dc-intel/05dc-intel-moth.jpg" width="151"></media:content>
-      <media:credit>Yuri Kochetkov/EPA, via Shutterstock</media:credit>
-      <media:description>Russian rockets fired during exercises this month. A shortage of artillery could be a sign of restricted supply lines for the Russian military.</media:description>
-    </item>
-    <item>
       <title>Liz Truss Takes Over as Prime Minister and Promises Action on Energy</title>
       <link>https://www.nytimes.com/2022/09/06/world/liz-truss-uk-prime-minister-cabinet.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/liz-truss-uk-prime-minister-cabinet.html</guid>
@@ -140,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html" rel="standout"></atom:link>
       <description>Apple is taking small steps toward India. But the production of its latest phone, set for introduction on Wednesday, shows how difficult it will be to make big changes.</description>
       <dc:creator>Tripp Mickle</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 22:26:39 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 22:43:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -152,6 +133,30 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/00iphone-china-1/00iphone-china-1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
       <media:description>Chinese engineers are playing a greater role in the creation of iPhones, even as Apple takes baby steps toward production outside the country.</media:description>
+    </item>
+    <item>
+      <title>Tech Companies Slowly Shift Production Away From China</title>
+      <link>https://www.nytimes.com/2022/09/01/business/tech-companies-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/business/tech-companies-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/business/tech-companies-china.html" rel="standout"></atom:link>
+      <description>Worried about geopolitical tensions and stung by pandemic shutdowns, Google, Apple and others are moving some work to nearby countries.</description>
+      <dc:creator>Daisuke Wakabayashi and Tripp Mickle</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 09:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foxconn Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/business/00china-manufacturing-1/00china-manufacturing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Linh Pham for The New York Times</media:credit>
+      <media:description>The Quang Chau Industrial Park, which includes Foxconn factories, in Bac Giang Province, Vietnam. </media:description>
     </item>
     <item>
       <title>It Was War. Then, a Rancher’s Truce With Some Pesky Beavers Paid Off.</title>
@@ -173,44 +178,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
     </item>
     <item>
-      <title>Before Midterms, Election Officials Increase Security Over Threats </title>
-      <link>https://www.nytimes.com/2022/09/06/us/politics/midterms-elections-threats-security.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/us/politics/midterms-elections-threats-security.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/us/politics/midterms-elections-threats-security.html" rel="standout"></atom:link>
-      <description>With violent rhetoric from the right intensifying, some election officials are bolstering their defenses. Others are quitting.</description>
-      <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 20:48:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Election Assistance Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griswold, Jena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maricopa County (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benson, Jocelyn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Wis)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/multimedia/00pol-electionsecurity-arizona02/00pol-electionsecurity-arizona02-moth.jpg" width="151"></media:content>
-      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
-      <media:description>Election workers at the Maricopa County Recorder’s Office in Phoenix in August. The county has built up its election security measures since 2020.</media:description>
-    </item>
-    <item>
       <title>After Uvalde, Texas State Police Revise Training for Mass Shootings</title>
       <link>https://www.nytimes.com/2022/09/06/us/texas-mass-shootings.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/us/texas-mass-shootings.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/06/us/texas-mass-shootings.html" rel="standout"></atom:link>
       <description>Five Department of Public Safety officers have been referred for formal investigation over their response to the May 24 school shooting.</description>
       <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 22:03:05 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 22:39:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Uvalde, Tex, Shooting (May 24, 2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
@@ -411,64 +385,76 @@
       <media:credit>Andrew Grossardt</media:credit>
     </item>
     <item>
-      <title>A Good Issue for Democrats</title>
-      <link>https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html" rel="standout"></atom:link>
-      <description>Despite the large partisan gaps on many aspects of Covid, Americans give Democrats higher marks for pandemic management than Republicans.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 11:20:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <title>Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2022/09/06/briefing/ukraine-plant-heatwave-beavers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/ukraine-plant-heatwave-beavers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/ukraine-plant-heatwave-beavers.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Nancy Wartik and Daniel E. Slotnik</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 22:26:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uvalde, Tex, Shooting (May 24, 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infant Formulas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juul Labs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffin, Couy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tiafoe, Frances (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of the Dragon (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The White Lotus (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/07pmbriefing-us-ukraine-plant/06ukraine-briefing-iaea-report-new-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Rafael Mariano Grossi, director general of the International Atomic Energy Agency, in Kyiv, Ukraine, last week.</media:description>
     </item>
     <item>
-      <title>A User’s Guide to the Midterm Elections</title>
-      <link>https://www.nytimes.com/2022/09/06/podcasts/the-daily/midterms-election-biden-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/podcasts/the-daily/midterms-election-biden-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/podcasts/the-daily/midterms-election-biden-trump.html" rel="standout"></atom:link>
-      <description>What happens in November won’t just be about who wins and who loses. Astead W. Herndon, the host of “The Run-Up,” explains why the stakes are so high.</description>
-      <dc:creator>Michael Barbaro, Rachel Quester, Nina Feldman, Jessica Cheung, Eric Krupke, Lisa Tobin, Paige Cowett, Marion Lozano, Rowan Niemisto, Dan Powell and Chris Wood</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 10:00:05 +0000</pubDate>
+      <title>The Run-Up: The Stakes of the 2022 Midterm Elections </title>
+      <link>https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html" rel="standout"></atom:link>
+      <description>This November, Americans will head to the polls for the first major political test since Jan. 6.</description>
+      <pubDate>Tue, 06 Sep 2022 19:00:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/podcasts/the-run-up-promo-art/the-run-up-promo-art-moth-v4.png" width="151"></media:content>
       <media:credit>Photo illustration: The New York Times; Photo: Samuel Corum for The New York Times</media:credit>
     </item>
     <item>
-      <title>How Many Drinks a Week Are Safe? Canada Considers a Much Lower Limit</title>
-      <link>https://www.nytimes.com/2022/09/03/world/canada/alcohol-health-risk-guidelines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/03/world/canada/alcohol-health-risk-guidelines.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/03/world/canada/alcohol-health-risk-guidelines.html" rel="standout"></atom:link>
-      <description>Research to update Canada’s drinking guideline has found that there are no health benefits, only dangers, from alcohol.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 03 Sep 2022 10:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/03/world/03canadaletter-beer/03canadaletter-beer-moth.jpg" width="151"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>Research has found that consuming more than six drinks per week greatly increases health risks.</media:description>
+      <title>Apple, the Ad Critic, Now Embraces Ads</title>
+      <link>https://www.nytimes.com/2022/09/06/technology/apple-ads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/technology/apple-ads.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/technology/apple-ads.html" rel="standout"></atom:link>
+      <description>Apple has long supported privacy and shunned those intrusive ads. What happens when it sells more ads, too?</description>
+      <dc:creator>Shira Ovide</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 17:20:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
     </item>
     <item>
-      <title>What Are Your Lessons From Remote Work?</title>
-      <link>https://www.nytimes.com/2022/09/02/nyregion/what-are-your-lessons-from-remote-work.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/02/nyregion/what-are-your-lessons-from-remote-work.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/02/nyregion/what-are-your-lessons-from-remote-work.html" rel="standout"></atom:link>
-      <description>We’re looking for advice.</description>
+      <title>Are You in a Moral Quandary?</title>
+      <link>https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html" rel="standout"></atom:link>
+      <description>We’d like to discuss it with you, live on Twitter Spaces, with the magazine’s Ethicist columnist, Kwame Anthony Appiah. Let us know below what’s troubling you.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 02 Sep 2022 17:48:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <pubDate>Tue, 06 Sep 2022 16:36:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
     </item>
     <item>
       <title>How Abbott Kept Sick Babies From Becoming a Scandal</title>
@@ -514,7 +500,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/06/books/peter-straub-dead.html" rel="standout"></atom:link>
       <description>A fan of Henry James and John Ashbery, he brought a poet’s sensibility to stories about ghosts, demons and other things that go bump in the night.</description>
       <dc:creator>Clay Risen</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 21:20:18 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 22:43:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Straub, Peter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>

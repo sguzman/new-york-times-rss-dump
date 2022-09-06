@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 14:39:12 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 14:36:48 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 14:53:06 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 14:52:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/06/world/uk-prime-minister" rel="standout"></atom:link>
       <description>Ms. Truss is expected to address the nation on Tuesday afternoon. She takes office amid a cost-of-living crisis marked by soaring energy prices, ballooning inflation and a looming recession.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 14:36:48 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 14:52:22 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-truss-queen/06uk-blog-truss-queen-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Jane Barlow</media:credit>
       <media:description>Queen Elizabeth II welcomed Liz Truss at Balmoral Castle in Scotland on Tuesday.</media:description>
@@ -84,9 +84,10 @@
       <dc:creator>Ian Austen, Amber Bracken and Dan Bilefsky</dc:creator>
       <pubDate>Tue, 06 Sep 2022 00:59:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Damien (September 4, 2022 Murder)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Myles (September 4, 2022 Murder)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-ledeall-1/05canada-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>Two officers investigating a home on Monday in Weldon, Saskatchewan, where an older man who was believed to be a victim of the mass killing lived. </media:description>
@@ -657,13 +658,14 @@
       <description>Coming to power during the worst economic crisis since the Thatcher era, Liz Truss will need all her ideological dexterity — some call it opportunism — to succeed.</description>
       <dc:creator>Mark Landler</dc:creator>
       <pubDate>Mon, 05 Sep 2022 21:55:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Leeds (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05truss-profile-sub/05truss-profile-sub-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>Liz Truss in London on Monday after it was announced she had won the contest to become Britain’s next prime minister. Colleagues speak of her nerve, drive and appetite for disruptive politics.</media:description>

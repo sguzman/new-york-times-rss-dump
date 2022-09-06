@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 08:51:59 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 08:42:16 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 09:19:23 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 09:13:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -37,19 +37,19 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/05/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Zaporizhzhia plant is now using one of its own reactors to power critical cooling systems. The Moscow-backed authorities in the southern Ukrainian region of Kherson offered conflicting statements about whether a vote on joining Russia would be held as planned.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 07:31:29 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 09:10:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05ukraine-briefing-header/05ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>A man reviewing damage outside a clinic in Mykolaiv, Ukraine, on Monday after an overnight rocket attack.</media:description>
     </item>
     <item>
-      <title>Typhoon Live Updates: South Korea Dodges Major Destruction From Hinnamnor</title>
+      <title>South Korea Dodges Major Destruction From Typhoon Hinnamnor</title>
       <link>https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor" rel="standout"></atom:link>
-      <description>The worst of the storm had passed, leaving severe, if isolated, flooding and damage in its wake. At least two people were killed and 10 were missing.</description>
+      <description>The worst of the storm passed, leaving severe, if isolated, flooding and damage in its wake. At least two people were killed and 10 were missing.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 08:42:16 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 09:13:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05typhoon-hinnamnor-header-1030pm/merlin_212511552_5338d0bb-276c-49b2-9ec2-00e1556229c9-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Road and farms under water in Gyeongju city on Tuesday.</media:description>
@@ -61,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/05/world/uk-prime-minister" rel="standout"></atom:link>
       <description>Britain’s Conservative Party members chose Ms. Truss, the hawkish foreign secretary, over Rishi Sunak, the former chancellor of the Exchequer. She takes over a country in serious economic crisis.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 08:28:28 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 09:10:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05uk-truss-wins-promo/05uk-truss-wins-promo-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
     </item>
@@ -251,13 +251,31 @@
       <media:description>The executions were the first reported in Gaza in a half-decade and occurred amid anxiety within Hamas.</media:description>
     </item>
     <item>
+      <title>How One Couple Uprooted Their Life to Open an Inn in the Catskills</title>
+      <link>https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html" rel="standout"></atom:link>
+      <description>In early 2020, Maureen McNamara and her wife, Jennifer Stark, traded in their popular restaurant in Michigan for an inn nestled in the Catskill Mountains of New York. The inn opened just days before the pandemic was declared.</description>
+      <dc:creator>Alix Strauss</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 09:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catskill Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenicia (NY)</category>
+      <category domain="">Phoenicia Lodge</category>
+      <category domain="">nevertoolate2021</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/multimedia/06nevertoolate-inkeepers-2/06nevertoolate-inkeepers-2-moth.jpg" width="151"></media:content>
+      <media:credit>Jasmine Clarke for The New York Times</media:credit>
+      <media:description>Jennifer Stark, left, and Maureen McNamara took a leap of faith and opened the Phoenicia Lodge in the Catskill Mountains of New York in early 2020.</media:description>
+    </item>
+    <item>
       <title>Scenes from the Aftermath of Typhoon Hinnamnor</title>
       <link>https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html" rel="standout"></atom:link>
       <description>The storm swept past South Korea’s southeastern corner, causing at least two deaths, sparking a fire at a steel plant and leaving tens of thousands without power.</description>
       <dc:creator>Chang W. Lee and Victoria Kim</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 08:12:19 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 08:59:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
@@ -545,6 +563,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05afghanistan-russia/05afghanistan-russia-moth.jpg" width="151"></media:content>
       <media:credit>Ali Khara/Reuters</media:credit>
       <media:description>A Taliban fighter outside the Russian Embassy in Kabul, Afghanistan, after the attack on Monday. The blast was the latest in a steady drumbeat of suicide bombings in the country in recent months.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss Is Expected to Increase Britain’s Support of Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/liz-truss-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/liz-truss-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/liz-truss-ukraine.html" rel="standout"></atom:link>
+      <description>As foreign secretary, Ms. Truss back in March said “Putin must lose,” using language that went beyond that of the U.S. and other Western allies.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 09:09:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05uk-briefing-truss-foreign-HFO-1/05uk-briefing-truss-foreign-HFO-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jakub Stezycki/Reuters</media:credit>
+      <media:description>Liz Truss with Ukraine’s foreign minister, Dmytro Kuleba, in Warsaw in April.</media:description>
     </item>
     <item>
       <title>Museums in the U.S. and Europe Are in Blockbuster Mode</title>
@@ -850,47 +883,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/world/00xp-loudspeakers-top/00xp-loudspeakers-top-moth.jpg" width="151"></media:content>
       <media:credit>Linh Pham for The New York Times</media:credit>
       <media:description>Loudspeakers in front of shops in Hanoi, Vietnam, late last month.</media:description>
-    </item>
-    <item>
-      <title>Your Monday Briefing: Europe’s Energy Protections</title>
-      <link>https://www.nytimes.com/2022/09/04/briefing/europe-energy-protest-ukraine-asia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/briefing/europe-energy-protest-ukraine-asia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/briefing/europe-energy-protest-ukraine-asia.html" rel="standout"></atom:link>
-      <description>Plus Chileans vote on a new constitution and rickshaws lead India’s electric vehicle transition.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Sun, 04 Sep 2022 21:28:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karnataka (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shein (Fashion Label)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/080522ambriefing-asia-promo1/080522ambriefing-asia-promo1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Hannibal Hanschke/Reuters</media:credit>
-      <media:description>Pipes at the landfall facilities of the ‘Nord Stream 1’ gas pipeline in Lubmin, Germany, in March.</media:description>
-    </item>
-    <item>
-      <title>Thirteen ships carrying grain set sail, the largest convoy so far.</title>
-      <link>https://www.nytimes.com/2022/09/04/world/thirteen-ships-carrying-grain-set-sail-the-largest-convoy-so-far.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/04/world/thirteen-ships-carrying-grain-set-sail-the-largest-convoy-so-far.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/04/world/thirteen-ships-carrying-grain-set-sail-the-largest-convoy-so-far.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Carly Olson</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 07:25:13 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04ukraine-briefing-convoy-new/04ukraine-briefing-convoy-new-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>The port of Odesa on the Black Sea in Ukraine on Monday. </media:description>
     </item>
   </channel>
 </rss>

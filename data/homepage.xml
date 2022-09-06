@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 07:36:08 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 07:28:27 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 07:56:10 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 07:51:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -147,6 +147,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
     </item>
     <item>
+      <title>Biden Administration Releases Plan for $50 Billion Investment in Chips</title>
+      <link>https://www.nytimes.com/2022/09/06/business/economy/biden-tech-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/business/economy/biden-tech-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/business/economy/biden-tech-chips.html" rel="standout"></atom:link>
+      <description>The Department of Commerce issued guidelines for companies angling to receive federal funding aimed at bolstering the domestic semiconductor industry.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/business/00dc-chips/00dc-chips-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>The Commerce Department has said its goal is to encourage the production of leading-edge semiconductors and shore up the supply of chips currently in use.</media:description>
+    </item>
+    <item>
       <title>Rafael Nadal Defeated at U.S. Open by an American, Frances Tiafoe</title>
       <link>https://www.nytimes.com/2022/09/05/sports/tennis/us-open-nadal-tiafoe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/sports/tennis/us-open-nadal-tiafoe.html</guid>
@@ -184,16 +203,33 @@
       <media:description>Sandrine Rousseau, a member of parliament from the Greens, has thrust barbecue to the center of French debate.</media:description>
     </item>
     <item>
-      <title>Typhoon Live Updates: South Korea Dodges Major Destruction From Hinnamnor</title>
+      <title>South Korea Dodges Major Destruction From Typhoon Hinnamnor</title>
       <link>https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/05/world/typhoon-hinnamnor" rel="standout"></atom:link>
-      <description>The worst of the storm had passed on Tuesday, after severe wind and rain lashed the country overnight. There were reports of isolated flooding, but damage appeared to be limited.</description>
+      <description>The worst had passed on Tuesday morning, after severe wind and rain lashed the country overnight. Besides isolated flooding, damage appeared to be limited.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 07:28:27 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 07:47:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05typhoon-hinnamnor-header-1030pm/merlin_212511552_5338d0bb-276c-49b2-9ec2-00e1556229c9-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Road and farms under water in Gyeongju city on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Scenes from the Aftermath of Typhoon Hinnamnor</title>
+      <link>https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/asia/scenes-from-the-aftermath-of-typhoon-hinnamnor.html" rel="standout"></atom:link>
+      <description>The storm swept past South Korea’s southeastern corner, causing at least one death, sparking a fire at a steel plant and leaving tens of thousands without power.</description>
+      <dc:creator>Chang W. Lee and Victoria Kim</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 07:51:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05typhoon-hinnamnor-lede-01/05typhoon-hinnamnor-lede-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Flooding in Gyeongju, South Korea, on Tuesday in the wake of Typhoon Hinnamnor.</media:description>
     </item>
     <item>
       <title>Zach Sang, the Ryan Seacrest of the Youth, Wants to Save Radio</title>

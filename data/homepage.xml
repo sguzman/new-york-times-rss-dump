@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Sep 2022 22:09:59 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Sep 2022 22:09:15 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2022 22:35:03 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2022 22:26:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -140,7 +140,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html" rel="standout"></atom:link>
       <description>Apple is taking small steps toward India. But the production of its latest phone, set for introduction on Wednesday, shows how difficult it will be to make big changes.</description>
       <dc:creator>Tripp Mickle</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 19:41:30 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 22:26:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -289,7 +289,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/opinion/06krugman-newsletter2-1/06krugman-newsletter2-1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/opinion/06krugman-newsletter2-1/06krugman-newsletter2-1-moth.jpg" width="151"></media:content>
       <media:credit>Megan Jelinger/Reuters</media:credit>
     </item>
     <item>
@@ -352,20 +352,25 @@
       <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
     </item>
     <item>
-      <title>Student Journalists Reveal a Changing World. Let Them.</title>
-      <link>https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/opinion/nebraska-high-school-newspaper-shutdown.html" rel="standout"></atom:link>
-      <description>The shutdown of a high school newspaper in Nebraska is only the latest episode in efforts to censor student publications across red states.</description>
-      <dc:creator>Margaret Renkl</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <title>Education in America: School Is for Wasting Time and Money</title>
+      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html" rel="standout"></atom:link>
+      <description>I have deep doubts about the intellectual and social value of schooling. </description>
+      <dc:creator>Bryan Caplan</dc:creator>
+      <pubDate>Thu, 01 Sep 2022 19:02:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illiteracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vouchers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01Caplan/01Caplan-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; Warren K. Leffler, via Library of Congress; photos-public-domain.com; and Charles Deluvio and Subhash Nusetti, via Unsplash</media:credit>
     </item>
     <item>
       <title>Education in America: School Is for Making Citizens</title>
@@ -387,25 +392,23 @@
       <media:credit>Illustration by Chloe Scheffe; photographs by Library of Congress; AlexMSchool, Calsidyrose and Mikus, via Wikimedia Commons; and Mika Baumeister and Dima Shishkov, via Unsplash.</media:credit>
     </item>
     <item>
-      <title>Education in America: School Is for Wasting Time and Money</title>
-      <link>https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/01/opinion/us-school-knowledge.html" rel="standout"></atom:link>
-      <description>I have deep doubts about the intellectual and social value of schooling. </description>
-      <dc:creator>Bryan Caplan</dc:creator>
-      <pubDate>Thu, 01 Sep 2022 19:02:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illiteracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vouchers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/opinion/01Caplan/01Caplan-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; Warren K. Leffler, via Library of Congress; photos-public-domain.com; and Charles Deluvio and Subhash Nusetti, via Unsplash</media:credit>
+      <title>The Subtle Art of Appreciating ‘Difficult Beauty’</title>
+      <link>https://www.nytimes.com/2022/09/06/opinion/ezra-klein-podcast-chloe-cooper-jones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/opinion/ezra-klein-podcast-chloe-cooper-jones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/opinion/ezra-klein-podcast-chloe-cooper-jones.html" rel="standout"></atom:link>
+      <description>The writer Chloé Cooper Jones talks about bodies, disability and how searching for beauty can change our lives.</description>
+      <dc:creator>‘The Ezra Klein Show’</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 17:03:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Chloe Cooper</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMillan Cottom, Tressie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty (Concept)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Easy Beauty (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/opinion/06eks-jones-image/06eks-jones-image-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Grossardt</media:credit>
     </item>
     <item>
       <title>A Good Issue for Democrats</title>

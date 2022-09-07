@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 10:54:04 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 10:43:33 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 11:07:54 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 11:04:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -225,7 +225,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/us/head-start-masks-toddlers.html" rel="standout"></atom:link>
       <description>Some of the nation’s poorest pre-K students are the last still under mask mandates, affecting enrollment.</description>
       <dc:creator>Dana Goldstein</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 09:00:43 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 11:03:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Head Start Program</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
@@ -282,7 +282,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/sports/tennis/kyrgios-khachanov-us-open-quarterfinals.html" rel="standout"></atom:link>
       <description>Karen Khachanov of Russia needed five sets to put Kyrgios away, 7-5, 4-6, 7-5, 6-7, 6-4. He will play Casper Ruud of Norway in the semifinals on Friday.</description>
       <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 10:43:33 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 11:04:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyrgios, Nick</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khachanov, Karen (1996- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
@@ -483,6 +483,40 @@
       <media:credit>Ben Hickey</media:credit>
     </item>
     <item>
+      <title>A Summer of Climate Disasters</title>
+      <link>https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html" rel="standout"></atom:link>
+      <description>Climate change has made extreme weather increasingly normal.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 10:41:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/climate/07-the-morning-floods/merlin_212101257_0c04101e-4382-40c0-8697-9e95c7027569-moth.jpg" width="151"></media:content>
+      <media:credit>Bilawal Arbab/EPA, via Shutterstock</media:credit>
+      <media:description>Flooding in northwestern Pakistan.</media:description>
+    </item>
+    <item>
+      <title>A Nuclear Power Plant on Ukraine’s Front Lines</title>
+      <link>https://www.nytimes.com/2022/09/07/podcasts/the-daily/ukraine-war-zaporizhzhia-nuclear-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/podcasts/the-daily/ukraine-war-zaporizhzhia-nuclear-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/podcasts/the-daily/ukraine-war-zaporizhzhia-nuclear-plant.html" rel="standout"></atom:link>
+      <description>Fighting at the Zaporizhzhia facility has become a critical flash point in the war, setting off a race to prevent disaster.</description>
+      <dc:creator>Sabrina Tavernise, Lynsea Garrison, Luke Vander Ploeg, Nina Feldman, Will Reid, M.J. Davis Lin, Rachel Quester, Dan Powell, Elisheba Ittoop, Marion Lozano and Chris Wood</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/podcasts/07DAILY-ukraine-photo/07DAILY-Zaporizhzhia-audio-app-moth-v5.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>Experts from the International Atomic Energy Agency, the United Nations’ nuclear watchdog, arriving at the Zaporizhzhia plant this month.</media:description>
+    </item>
+    <item>
       <title>Chile’s Constitutional Fight Over Climate Change</title>
       <link>https://www.nytimes.com/2022/09/06/climate/chile-constitution-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/climate/chile-constitution-climate.html</guid>
@@ -499,46 +533,19 @@
       <media:description>Chileans voted to reject a new constitution on Sunday.</media:description>
     </item>
     <item>
-      <title>The Run-Up: The Stakes of the 2022 Midterm Elections </title>
-      <link>https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/podcasts/run-up-midterm-elections-trump-biden.html" rel="standout"></atom:link>
-      <description>This November, Americans will head to the polls for the first major political test since Jan. 6.</description>
-      <pubDate>Tue, 06 Sep 2022 19:00:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/podcasts/the-run-up-promo-art/the-run-up-promo-art-moth-v4.png" width="151"></media:content>
-      <media:credit>Photo illustration: The New York Times; Photo: Samuel Corum for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Apple, the Ad Critic, Now Embraces Ads</title>
-      <link>https://www.nytimes.com/2022/09/06/technology/apple-ads.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/technology/apple-ads.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/technology/apple-ads.html" rel="standout"></atom:link>
-      <description>Apple has long supported privacy and shunned those intrusive ads. What happens when it sells more ads, too?</description>
-      <dc:creator>Shira Ovide</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 17:20:50 +0000</pubDate>
+      <title>Breakfast With Grandma</title>
+      <link>https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html" rel="standout"></atom:link>
+      <description>A new New Yorker tucks into the West Village’s offerings with her Abueti, a longtime Manhattanite.</description>
+      <dc:creator>Tanya Sichynsky</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 02:47:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-    </item>
-    <item>
-      <title>Are You in a Moral Quandary?</title>
-      <link>https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/magazine/are-you-in-a-moral-quandary.html" rel="standout"></atom:link>
-      <description>We’d like to discuss it with you, live on Twitter Spaces, with the magazine’s Ethicist columnist, Kwame Anthony Appiah. Let us know below what’s troubling you.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 16:36:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/dining/06WTE-grandmabreakfast1/06WTE-grandmabreakfast1-moth.jpg" width="151"></media:content>
+      <media:credit>Moriah Sawtelle</media:credit>
+      <media:description>If you need a more portable breakfast, St. Jardim’s egg sandwich with smoked bacon, tomato jam and greens always satisfies.</media:description>
     </item>
     <item>
       <title>Canada Stabbing Suspect Remains at Large After Manhunt in Saskatchewan</title>
@@ -685,21 +692,22 @@
       <media:credit>Dominic Kesterton</media:credit>
     </item>
     <item>
-      <title>Javier Zamora Carried a Heavy Load. He Laid It to Rest on the Page.</title>
-      <link>https://www.nytimes.com/2022/09/05/books/javier-zamora-solito-migration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/books/javier-zamora-solito-migration.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/books/javier-zamora-solito-migration.html" rel="standout"></atom:link>
-      <description>Decades after traveling without his parents from El Salvador to the U.S. as a 9-year-old — a journey that almost killed him — Zamora describes the experience in a memoir.</description>
-      <dc:creator>Benjamin P. Russell</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 23:04:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zamora, Javier (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Solito: A Memoir (Book)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/books/05Zamora1/05Zamora1-moth.jpg" width="151"></media:content>
-      <media:credit>Cassidy Araiza for The New York Times</media:credit>
-      <media:description>“I don’t expect the people who are in the book to read it. But my dream scenario is that they open it,” Zamora said, “and see that there is this book out there thanking them.”</media:description>
+      <title>John Adams, an American Master at 75</title>
+      <link>https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/31/arts/music/john-adams-antony-and-cleopatra-opera.html" rel="standout"></atom:link>
+      <description>Adams, arguably our greatest living composer, has done operas inspired by recent history. In “Antony and Cleopatra,” he turns to Shakespeare.</description>
+      <dc:creator>Joshua Barone</dc:creator>
+      <pubDate>Wed, 31 Aug 2022 09:00:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John (1947- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Antony and Cleopatra (Opera)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Francisco Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/04/arts/04ADAMS1a/04ADAMS1a-moth.jpg" width="151"></media:content>
+      <media:credit>Marissa Leshnov for The New York Times</media:credit>
+      <media:description>John Adams’s 75th year is being celebrated not only with the premiere of a new opera, but also with a 40-disc retrospective box set on the Nonesuch label.</media:description>
     </item>
   </channel>
 </rss>

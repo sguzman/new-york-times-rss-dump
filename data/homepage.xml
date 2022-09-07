@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 22:49:31 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 22:43:36 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 23:12:24 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 22:58:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
       <description>After a four-day manhunt, the police captured Myles Sanderson, one of two men suspected in a stabbing rampage that left 10 dead in a western Canadian province.</description>
       <dc:creator>Ian Austen, Vjosa Isai and Dan Bilefsky</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 22:31:32 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 22:57:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -141,7 +141,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/us/politics/fbi-trump-aide-william-russell.html" rel="standout"></atom:link>
       <description>Agents investigating the events leading up to the Jan. 6 attack on the Capitol tried to question William Russell, who served as a special assistant to the former president.</description>
       <dc:creator>Adam Goldman and Maggie Haberman</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 22:43:36 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 22:53:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
@@ -193,6 +193,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/nyregion/07BK-DISMISSALS1/07BK-DISMISSALS1-moth.jpg" width="151"></media:content>
       <media:credit>Jefferson Siegel for The New York Times</media:credit>
       <media:description>Eric Gonzalez, right, the Brooklyn district attorney, in 2020.</media:description>
+    </item>
+    <item>
+      <title>California Leaders Credit Cellphone Alert for Sudden Conservation</title>
+      <link>https://www.nytimes.com/2022/09/07/us/california-power-grid-cellphone-alert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/california-power-grid-cellphone-alert.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/us/california-power-grid-cellphone-alert.html" rel="standout"></atom:link>
+      <description>The jarring message warned millions of residents that blackouts could occur without immediate action.</description>
+      <dc:creator>Jill Cowan, Shawn Hubler and Ivan Penn</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 22:44:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/us/07california-newsom2/merlin_212580126_46269115-952f-44c9-a5fa-54c2093c6b1f-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <media:description>Power lines in Cathedral City, Calif., during the heat wave on Tuesday.</media:description>
     </item>
     <item>
       <title>Official Obama Portraits Are Finally Unveiled at the White House</title>
@@ -256,29 +268,6 @@
       <media:description>From left, a new Apple Watch 8, Apple Watch Ultra and Apple Watch SE on display at Apple headquarters on Wednesday.</media:description>
     </item>
     <item>
-      <title>China’s ‘Zero Covid’ Bind: No Easy Way Out Despite the Cost</title>
-      <link>https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html" rel="standout"></atom:link>
-      <description>From vaccines to propaganda, Beijing has prioritized politics over science, creating conditions that make it difficult for China to join other countries in adapting to life with the coronavirus.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 14:30:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cai Xia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Daqing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guiyang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sichuan Province (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07china-covid/merlin_212307567_3d7ca33b-d9f7-463e-8fbd-59c0a3c8e0bc-moth.jpg" width="151"></media:content>
-      <media:credit>Wu Hao/EPA, via Shutterstock</media:credit>
-      <media:description>Covid testing in Chengdu, China, last week. The government locked down the 21 million residents of the city, one of country’s biggest and most economically important, this month. </media:description>
-    </item>
-    <item>
       <title>Frances Tiafoe Reaches US Open Semifinals With Win Over Rublev</title>
       <link>https://www.nytimes.com/2022/09/07/sports/tennis/tiafoe-rublev-us-open.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/sports/tennis/tiafoe-rublev-us-open.html</guid>
@@ -293,28 +282,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/sports/07usopen-tiafoe-rublev/07usopen-tiafoe-rublev-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Frances Tiafoe took command during tiebreakers in the first two sets.</media:description>
-    </item>
-    <item>
-      <title>The Great U.S. Open Ball Debate of 2022</title>
-      <link>https://www.nytimes.com/2022/09/06/sports/tennis/us-open-balls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/sports/tennis/us-open-balls.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/sports/tennis/us-open-balls.html" rel="standout"></atom:link>
-      <description>The Open is the only Grand Slam tournament where women use different balls than men, and the Wilson ‘regular-duty’ ball has gotten into some players’ heads.</description>
-      <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 19:35:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sporting Goods and Equipment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wilson Sporting Goods Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Badosa, Paula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allaster, Stacey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swiatek, Iga (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pegula, Jessica (1994- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gauff, Cori (2004- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barty, Ashleigh</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/sports/06usopen-balls1-print/06usopen-balls-top-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
-      <media:description>The tennis balls used by women at the U.S. Open have played faster than those used by the men.</media:description>
     </item>
     <item>
       <title>5 Minutes That Will Make You Love Alice Coltrane</title>

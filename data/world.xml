@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 21:19:42 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 21:19:01 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 21:44:17 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 21:33:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>In a characteristically defiant speech, Vladimir Putin appeared to whitewash the toll of the war, which U.S. officials estimate has killed or wounded 80,000 Russian soldiers. He also said he planned to meet with President Xi Jinping of China next week.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 21:18:44 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 21:29:14 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07ukraine-briefing-carousel-1115am-4/07ukraine-briefing-promo-1045am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
       <description>All but one of the victims of the killings in the western province of Saskatchewan lived on an Indigenous reservation. One suspect remains on the run.</description>
       <dc:creator>Ian Austen and Dan Bilefsky</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 21:19:01 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 21:33:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -418,13 +418,18 @@
       <media:description>Flooding in northwestern Pakistan.</media:description>
     </item>
     <item>
-      <title>Putin Says Russia Will Fulfill Its ‘Duty’ in Ukraine, Brushing Off War’s Cost</title>
+      <title>Putin Says Russia Has Not Lost ‘Anything’ in Ukraine War</title>
       <link>https://www.nytimes.com/2022/09/07/world/europe/putin-russia-ukraine-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/putin-russia-ukraine-war.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/putin-russia-ukraine-war.html" rel="standout"></atom:link>
-      <description>The Russian president said his country had not lost “anything” in the invasion that began in February.</description>
+      <description>“We have not lost anything and will not lose anything,” Mr. Putin said of a conflict that has killed or wounded 80,000 Russian soldiers, according to U.S. estimates.</description>
       <dc:creator>Ivan Nechepurenko and Victoria Kim</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 21:05:50 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 21:23:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-putin/07ukraine-briefing-putin-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Sergei Bobelyv</media:credit>
       <media:description>President Vladimir V. Putin of Russia speaking on Wednesday at the Eastern Economic Forum in Vladivostok, Russia.</media:description>

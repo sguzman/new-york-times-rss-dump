@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 16:30:02 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 16:29:45 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 17:15:12 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 17:12:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>In a characteristically defiant speech, Vladimir Putin appeared to whitewash the toll of the war, which U.S. officials estimate has killed or wounded 80,000 Russian soldiers and tens of thousands of Ukrainians.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 16:29:45 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 16:59:44 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07ukraine-briefing-carousel-1115am-4/07ukraine-briefing-promo-1045am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -45,6 +45,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06UkraineReconstruction01/06UkraineReconstruction01-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Berehulak for The New York Times</media:credit>
       <media:description>A bombed bridge across the Irpin River near Kyiv in April. A report from the German Marshall Fund envisages a total of some $100 billion to rebuild Ukraine’s infrastructure.</media:description>
+    </item>
+    <item>
+      <title>Details Emerge About the Victims of the Mass Stabbing in Canada</title>
+      <link>https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
+      <description>All but one of the victims of the killings in the western province of Saskatchewan lived on an Indigenous reservation. One suspect remains on the run.</description>
+      <dc:creator>Ian Austen and Dan Bilefsky</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 16:05:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Myles (September 4, 2022 Murder)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07canada-stabbing/07canada-stabbing-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Darryl Burns with a photo of his sister, Gloria Burns, 61, who was among the victims of Sunday’s mass killing in Saskatchewan.</media:description>
     </item>
     <item>
       <title>Blackpool Shows Challenges for New U.K. Leader Liz Truss</title>
@@ -117,7 +135,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/business/india-economy.html" rel="standout"></atom:link>
       <description>The Indian government expects growth to exceed 7 percent this year, though that pace may be hard to sustain as the global economy continues to slow.</description>
       <dc:creator>Mujib Mashal and Suhasini Raj</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 11:58:26 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 11:58:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
@@ -236,38 +254,23 @@
       <media:description>The Scottish Parliament. Scotland was the first country to adopt a law requiring universal free access to period products.</media:description>
     </item>
     <item>
-      <title>Israel Recalls Envoy to Morocco After Harassment Claims</title>
-      <link>https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html" rel="standout"></atom:link>
-      <description>Israel is investigating accusations against David Govrin over his conduct in Rabat, the Moroccan capital. The two countries sealed formal ties in 2020 as part of a wider regional realignment.</description>
-      <dc:creator>Aida Alami and Patrick Kingsley</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 18:22:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govrin, David</category>
-    </item>
-    <item>
-      <title>Details Emerge About the Victims of the Mass Stabbing in Canada</title>
-      <link>https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
-      <description>All but one of the victims of the killings in the western province of Saskatchewan lived on an Indigenous reservation. One suspect remains on the run.</description>
-      <dc:creator>Ian Austen and Dan Bilefsky</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 16:05:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Myles (September 4, 2022 Murder)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07canada-stabbing/07canada-stabbing-moth.jpg" width="151"></media:content>
-      <media:credit>Amber Bracken for The New York Times</media:credit>
-      <media:description>Darryl Burns with a photo of his sister, Gloria Burns, 61, who was among the victims of Sunday’s mass killing in Saskatchewan.</media:description>
+      <title>How to Save a Forest by Burning It</title>
+      <link>https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html" rel="standout"></atom:link>
+      <description>Prescribed burns are key to reducing the risk of catastrophic wildfires. Scientists are using high-tech tools to ensure they can be done safely in a warming world.</description>
+      <dc:creator>Raymond Zhong and Andri Tambunan</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 16:53:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/climate/07cli-firescience-promo/07cli-firescience-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Andri Tambunan for The New York Times</media:credit>
     </item>
     <item>
       <title>EU Leaders Say Putin’s Gas Power Is Weakening</title>
@@ -408,6 +411,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-truss-1/06uk-truss-1-moth.jpg" width="151"></media:content>
       <media:credit>Carl Court/Getty Images</media:credit>
       <media:description>Britain’s new prime minister, Liz Truss, with her husband, Hugh O’Leary, after giving her first speech, at Downing Street on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Israel Recalls Envoy to Morocco After Harassment Claims</title>
+      <link>https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html" rel="standout"></atom:link>
+      <description>Israel is investigating accusations against David Govrin over his conduct in Rabat, the Moroccan capital. The two countries sealed formal ties in 2020 as part of a wider regional realignment.</description>
+      <dc:creator>Aida Alami and Patrick Kingsley</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 18:22:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govrin, David</category>
     </item>
     <item>
       <title>Who Will Liz Truss Appoint to Her Cabinet?</title>
@@ -871,26 +890,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05france-barbeque-1/05france-barbeque-1-moth.jpg" width="151"></media:content>
       <media:credit>Benoit Tessier/Reuters</media:credit>
       <media:description>Sandrine Rousseau, a member of parliament from the Greens, has thrust barbecue to the center of French debate.</media:description>
-    </item>
-    <item>
-      <title>Israel Says Shireen Abu Akleh Most Likely Shot by Israeli Soldier</title>
-      <link>https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html" rel="standout"></atom:link>
-      <description>The Israeli Army has concluded that Shireen Abu Akleh, a Palestinian-American broadcaster, was probably killed by one of its own soldiers — but stopped short of accepting definitive blame.</description>
-      <dc:creator>Hiba Yazbek and Patrick Kingsley</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 14:30:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Akleh, Shireen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05Israel/05Israel-moth.jpg" width="151"></media:content>
-      <media:credit>Samar Hazboun for The New York Times</media:credit>
-      <media:description>The site where Shireen Abu Akleh, a Palestinian-American journalist, was shot and killed in the West Bank town of Jenin.</media:description>
     </item>
   </channel>
 </rss>

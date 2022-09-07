@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 19:39:15 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 19:38:54 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 19:49:26 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 19:49:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>In a characteristically defiant speech, Vladimir Putin appeared to whitewash the toll of the war, which U.S. officials estimate has killed or wounded 80,000 Russian soldiers and tens of thousands of Ukrainians.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 19:38:54 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 19:49:21 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07ukraine-briefing-carousel-1115am-4/07ukraine-briefing-promo-1045am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -274,6 +274,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/00germany-speed/00germany-speed-moth.jpg" width="151"></media:content>
       <media:credit>Focke Strangmann/EPA, via Shutterstock</media:credit>
       <media:description>Many of Germany’s autobahns have no speed limits. The German Environment Ministry found that adding restrictions could save 2.1 billion liters of fuel each year.</media:description>
+    </item>
+    <item>
+      <title>A Chimpanzee Escaped From a Ukrainian Zoo. She Returned on a Bicycle.</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/chimpanzee-escape-ukraine-zoo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/chimpanzee-escape-ukraine-zoo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/chimpanzee-escape-ukraine-zoo.html" rel="standout"></atom:link>
+      <description>The adventures of Chichi the chimpanzee were shared widely on social media, delighting residents of Kharkiv, a city that has faced ceaseless bombardment by Russian forces.</description>
+      <dc:creator>Lauren McCarthy</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 19:42:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
     </item>
     <item>
       <title>How to Save a Forest by Burning It</title>
@@ -921,24 +934,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05germany-olympics-1/05germany-olympics-1-moth.jpg" width="151"></media:content>
       <media:credit>Ronald Wittek/EPA, via Shutterstock</media:credit>
       <media:description>Pictures of the victims of the massacre at the 1972 Olympics in Munich at a ceremony on Monday to commemorate the 50th anniversary of the attack, which left 11 Israeli athletes and a German policeman dead. </media:description>
-    </item>
-    <item>
-      <title>Horror grips a bucolic farming region after the killing spree.</title>
-      <link>https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html" rel="standout"></atom:link>
-      <description>Police searches and the roar of helicopters disrupt the routine in a rural stretch of Saskatchewan.</description>
-      <dc:creator>Dan Bilefsky and Vjosa Isai</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 22:13:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-attack-Saskachewanexplainer1/05canada-attack-Saskachewanexplainer1-moth.jpg" width="151"></media:content>
-      <media:credit>Heywood Yu/The Canadian Press, via Associated Press</media:credit>
-      <media:description>An investigator in protective equipment worked at a crime scene in Weldon, Saskatchewan, on Sunday.</media:description>
     </item>
   </channel>
 </rss>

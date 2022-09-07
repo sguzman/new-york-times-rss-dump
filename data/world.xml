@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 04:44:23 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 04:01:06 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 06:04:46 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 05:10:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/06/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The nuclear watchdog agency, which will later brief the U.N. Security Council, said that shelling around the Zaporizhzhia complex should be “stopped immediately.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 01:15:35 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 05:10:34 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Remnants of Russian military equipment in Kyiv, Ukraine, on Monday.</media:description>
@@ -168,6 +168,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/business/06JPchina-metoo-print/06china-metoo-sub-moth.jpg" width="151"></media:content>
       <media:credit>Noel Celis/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>Zhou Xiaoxuan in August lost her appeal against a famous TV anchor she had accused of sexual assault.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html" rel="standout"></atom:link>
+      <description>A report on the Zaporizhzhia nuclear complex.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 04:45:23 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/07ambriefing-europe-nl-promo-sept/07themorning-ukraine-ledeall--moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Kelly/Reuters</media:credit>
+      <media:description>IAEA Director General Rafael Mariano Grossi addresses a meeting by the United Nations Security Council on Tuesday.</media:description>
     </item>
     <item>
       <title>How Will Ukraine Rebuild (and Who Should Pay)?</title>
@@ -754,24 +766,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pasolini, Pier Paolo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Cubism and the Trompe l&#39;Oeil Tradition (Exhibit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Bartolome Esteban (1617-82)</category>
-    </item>
-    <item>
-      <title>Rising Energy Prices and High Inflation: The Economic Issues Facing Liz Truss</title>
-      <link>https://www.nytimes.com/2022/09/05/world/europe/liz-truss-energy-inflation-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/liz-truss-energy-inflation-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/liz-truss-energy-inflation-economy.html" rel="standout"></atom:link>
-      <description>Consumer prices in Britain are rising at their fastest pace in decades, as the inflation rate exceeds 10 percent and is expected to keep climbing.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 15:50:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05uk-briefing-economy-1/05uk-briefing-economy-1-moth.jpg" width="151"></media:content>
-      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
-      <media:description>The Bank of England is forecasting a long recession to begin later this year as wages lag and household budgets are squeezed.</media:description>
     </item>
   </channel>
 </rss>

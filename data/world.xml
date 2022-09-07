@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 11:53:18 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 11:21:46 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 12:45:20 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 12:27:46 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>In a characteristically defiant speech in Russia’s far east, Vladimir Putin argued that the West had failed in its “economic, financial and technological aggression” against Moscow.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 11:21:46 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 12:27:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-header-1am/07ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Workers from the Kyiv Region Emergency Services department extinguishing a peat fire in Katyuzhanka, Ukraine on Tuesday.</media:description>
@@ -177,6 +177,45 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govrin, David</category>
+    </item>
+    <item>
+      <title>E.U. Weighs Russian Gas Price Cap Amid ‘Astronomic’ Energy Prices</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html" rel="standout"></atom:link>
+      <description>The bloc is also considering mandatory cuts in electricity use and taxes on oil and gas companies.</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 12:27:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-europe-gas/07ukraine-briefing-europe-gas-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Manzyuk/Reuters</media:credit>
+      <media:description>A Gazprom processing plant in the Orenburg region of Russia on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>France Expels Imam Accused of Hate Speech, Reviving a Thorny Debate</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html" rel="standout"></atom:link>
+      <description>The government presented the deportation of Hassan Iquioussen as part of efforts to crack down on “Islamist separatism.” Critics called it a political stunt that infringed on civil liberties.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 12:17:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Imams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07france-imam1/07france-imam1-moth.jpg" width="151"></media:content>
+      <media:credit>Francois Lo Presti/Agence France-Presse — Getty Images</media:credit>
+      <media:description>By the time the police moved to deport Hassan Iquioussen, an imam, from Lourches, northern France, he had left the country and could not be found.</media:description>
     </item>
     <item>
       <title>A Summer of Climate Disasters</title>
@@ -764,21 +803,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05Israel/05Israel-moth.jpg" width="151"></media:content>
       <media:credit>Samar Hazboun for The New York Times</media:credit>
       <media:description>The site where Shireen Abu Akleh, a Palestinian-American journalist, was shot and killed in the West Bank town of Jenin.</media:description>
-    </item>
-    <item>
-      <title>Strong Earthquake Shakes China’s Sichuan Province, Killing 65</title>
-      <link>https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/strong-earthquake-china.html" rel="standout"></atom:link>
-      <description>Government agencies said at least 65 people had died, but communications in the landslide-prone area were disrupted and the full extent of the damage was unclear.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 08:03:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sichuan Province (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05china-earthquake/05china-earthquake-moth.jpg" width="151"></media:content>
-      <media:credit>Xinhua, via Associated Press</media:credit>
-      <media:description>A road in China’s Sichuan Province after an earthquake on Monday, in a photo from the Chinese news agency Xinhua.</media:description>
     </item>
   </channel>
 </rss>

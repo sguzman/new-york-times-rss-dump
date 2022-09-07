@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 10:22:48 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 10:18:05 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 10:45:09 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 10:41:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -177,6 +177,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govrin, David</category>
+    </item>
+    <item>
+      <title>A Summer of Climate Disasters</title>
+      <link>https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html" rel="standout"></atom:link>
+      <description>Climate change has made extreme weather increasingly normal.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 10:41:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/climate/07-the-morning-floods/merlin_212101257_0c04101e-4382-40c0-8697-9e95c7027569-moth.jpg" width="151"></media:content>
+      <media:credit>Bilawal Arbab/EPA, via Shutterstock</media:credit>
+      <media:description>Flooding in northwestern Pakistan.</media:description>
     </item>
     <item>
       <title>China’s Youth Try on the Communist Cadre Look</title>
@@ -761,25 +779,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05china-earthquake/05china-earthquake-moth.jpg" width="151"></media:content>
       <media:credit>Xinhua, via Associated Press</media:credit>
       <media:description>A road in China’s Sichuan Province after an earthquake on Monday, in a photo from the Chinese news agency Xinhua.</media:description>
-    </item>
-    <item>
-      <title>Suicide Attack Hits Russian Embassy in Afghanistan, Killing 2 Employees</title>
-      <link>https://www.nytimes.com/2022/09/05/world/asia/kabul-russian-embassy-suicide-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/asia/kabul-russian-embassy-suicide-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/asia/kabul-russian-embassy-suicide-attack.html" rel="standout"></atom:link>
-      <description>The bombing in Kabul, which also left 4 Afghan civilians dead, was the first strike on a diplomatic mission since the Taliban regained control.</description>
-      <dc:creator>Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 05 Sep 2022 18:36:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05afghanistan-russia/05afghanistan-russia-moth.jpg" width="151"></media:content>
-      <media:credit>Ali Khara/Reuters</media:credit>
-      <media:description>A Taliban fighter outside the Russian Embassy in Kabul, Afghanistan, after the attack on Monday. The blast was the latest in a steady drumbeat of suicide bombings in the country in recent months.</media:description>
     </item>
   </channel>
 </rss>

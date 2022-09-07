@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 15:35:57 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Sep 2022 15:29:49 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 15:51:14 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 15:43:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -110,15 +110,19 @@
       <description>Surveillance video from rural Coffee County, Ga., raised new questions about the extent to which election data was improperly shared with pro-Trump figures challenging the 2020 election results.</description>
       <dc:creator>Richard Fausset and Sean Keenan</dc:creator>
       <pubDate>Wed, 07 Sep 2022 03:09:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coffee County (Ga)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fulton County (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Sidney (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coffee County (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/us/06GEORGIA-VOTE/06GEORGIA-VOTE-moth.png" width="151"></media:content>
       <media:credit>Coffee County Elections Office</media:credit>
       <media:description>In footage from Jan. 7, 2021, obtained by The Times, Cathy Latham, bottom, at the time the chair of the Coffee County Republican Party, welcomes a team of SullivanStrickler data scientists.</media:description>
@@ -150,7 +154,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/theater/tom-stoppard-leopoldstadt-broadway.html" rel="standout"></atom:link>
       <description>After years of living “as if without history,” the playwright belatedly reckons with his Jewish roots, and his guilt, in “Leopoldstadt,” his most autobiographical play.</description>
       <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 09:00:45 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 15:42:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoppard, Tom</category>
@@ -587,7 +591,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/uk-truss-blackpool-conservative-party.html" rel="standout"></atom:link>
       <description>Blackpool contains one of the most deprived areas to turn to the Conservatives in Britain’s last general election. But with costs rising, there are already signs of cracks in that support.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 13:32:04 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2022 15:36:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>

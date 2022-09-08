@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 04:25:57 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 04:06:15 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 05:44:27 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 04:47:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -98,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
       <description>After a four-day manhunt, the police arrested Myles Sanderson, a suspect in a stabbing rampage that left 10 dead in the Canadian province. He was pronounced dead at a hospital after going into “medical distress,” the police said.</description>
       <dc:creator>Ian Austen, Vjosa Isai and Dan Bilefsky</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 03:49:03 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 04:40:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -129,6 +129,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>In Ukraine, a Beekeeper Hunkers Down With His ‘Frontline Bees’</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/ukraine-war-bees-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/ukraine-war-bees-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/ukraine-war-bees-russia.html" rel="standout"></atom:link>
+      <description>With nearby sunflower fields unplanted and rockets overhead, a Ukrainian’s bees ventured toward the battlefront and returned with a bumper crop.</description>
+      <dc:creator>Thomas Gibbons-Neff and Natalia Yermak</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 04:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07UkraineBees01/07UkraineBees01-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Even as the war encroached, Petro Fedorovych, a beekeeper, stayed in his small village of Bohdanivka. “I built this house with my hands,” he said. “I will never leave.”</media:description>
     </item>
     <item>
       <title>Biden Tries to Condemn Trumpism, Without Writing Off the G.O.P.</title>
@@ -451,37 +471,24 @@
       <media:credit>Illustration by The New York Times; photographs by Willie B. Thomas, Westend61 and Vergeles Andrey, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Your Wednesday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/09/07/briefing/voter-fraud-putin-speech-wakanda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/voter-fraud-putin-speech-wakanda.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/voter-fraud-putin-speech-wakanda.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Nancy Wartik and Daniel E. Slotnik</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 21:55:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Watches and Clocks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buffalo Bills</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Denver Broncos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abrams, Stacey Y</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boseman, Chadwick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Healey, Maura (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nyong&#39;o, Lupita</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
+      <title>Many Subway Riders Gave Up on the Mask Mandate Before Hochul Did</title>
+      <link>https://www.nytimes.com/2022/09/08/nyregion/many-subway-riders-gave-up-on-the-mask-mandate-before-hochul-did.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/nyregion/many-subway-riders-gave-up-on-the-mask-mandate-before-hochul-did.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/nyregion/many-subway-riders-gave-up-on-the-mask-mandate-before-hochul-did.html" rel="standout"></atom:link>
+      <description>As the governor lifted the requirement for mass transit, passengers said they were already making their own personal risk assessments.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 04:07:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Black Panther (Movie)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/lens/07Evening-briefing-NL10voterFraud/07Evening-briefing-NL10-moth.jpg" width="151"></media:content>
-      <media:credit>Saul Martinez for The New York Times</media:credit>
-      <media:description>Ballots were prepared for machine-counting in Riviera Beach, Fla., in 2020.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">We Build the Wall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
     </item>
     <item>
       <title>David Sedaris’s Diaries</title>
@@ -517,18 +524,18 @@
       <pubDate>Thu, 01 Sep 2022 19:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>Memphis Police Capture Suspect in a 5-Hour String of Shootings</title>
+      <title>Shootings and Manhunt Paralyze Memphis as City Is Urged to Shelter</title>
       <link>https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/07/us/memphis-shooter.html" rel="standout"></atom:link>
-      <description>The authorities urged residents to stay off the streets into the evening as they searched for an “armed and dangerous” 19-year-old who they said had carried out multiple shootings.</description>
+      <description>The authorities told residents to stay off the streets into the evening before police captured a 19-year-old who they said had carried out multiple shootings.</description>
       <dc:creator>McKenna Oxenden</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 03:20:34 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 04:46:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Memphis, Tenn)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07xp-memphis-ukz2/07xp-memphis-ukz2-moth.jpg" width="151"></media:content>
       <media:credit>Brad Vest/Getty Images</media:credit>
-      <media:description>Police investigate the scene of a reported carjacking reportedly connected to a series of shootings in Memphis, Tennessee on Wednesday.</media:description>
+      <media:description>The police investigated at the scene of a reported carjacking during a series of shootings in Memphis on Wednesday.</media:description>
     </item>
     <item>
       <title>Texas Judge’s Ruling Puts Free Preventive Care in Jeopardy</title>

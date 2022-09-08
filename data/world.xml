@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 04:40:04 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 04:20:59 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 05:46:03 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 05:36:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html" rel="standout"></atom:link>
       <description>After a four-day manhunt, the police arrested Myles Sanderson, a suspect in a stabbing rampage that left 10 dead in the Canadian province. He was pronounced dead at a hospital after going into “medical distress,” the police said.</description>
       <dc:creator>Ian Austen, Vjosa Isai and Dan Bilefsky</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 03:49:03 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 04:40:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -75,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/uk-liz-truss-cabinet.html" rel="standout"></atom:link>
       <description>Britain’s new prime minister, Liz Truss, has recruited cabinet members from diverse backgrounds, though her inner circle retains a hard Conservative edge.</description>
       <dc:creator>Stephen Castle and Mark Landler</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 23:47:47 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 05:08:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
@@ -241,7 +241,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>In a characteristically defiant speech, Vladimir Putin appeared to whitewash the toll of the war, which U.S. officials estimate has killed or wounded 80,000 Russian soldiers. He also said he planned to meet with President Xi Jinping of China next week.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 04:20:59 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 05:13:26 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07ukraine-briefing-carousel-1115am-4/07ukraine-briefing-promo-1045am-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -263,6 +263,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/00germany-speed/00germany-speed-moth.jpg" width="151"></media:content>
       <media:credit>Focke Strangmann/EPA, via Shutterstock</media:credit>
       <media:description>Many of Germany’s autobahns have no speed limits. The German Environment Ministry found that adding restrictions could save 2.1 billion liters of fuel each year.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/08/briefing/putin-energy-russia-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/briefing/putin-energy-russia-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/briefing/putin-energy-russia-liz-truss.html" rel="standout"></atom:link>
+      <description>Vladimir Putin’s energy influence in Europe.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 05:15:00 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/08ambriefing-europe-nl-ukz-putin/08ambriefing-europe-nl-ukz-putin-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alexei Druzhinin</media:credit>
+      <media:description>Vladimir Putin said he would meet in person with Xi Jinping in Uzbekistan next week.</media:description>
     </item>
     <item>
       <title>In Ukraine, a Beekeeper Hunkers Down With His ‘Frontline Bees’</title>
@@ -959,27 +971,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-ledeall-1/05canada-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>Two officers investigating a home on Monday in Weldon, Saskatchewan, where an older man who was believed to be a victim of the mass killing lived. </media:description>
-    </item>
-    <item>
-      <title>Ukraine Nuclear Plant Disconnected From Grid After Shelling</title>
-      <link>https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html" rel="standout"></atom:link>
-      <description>A fire caused by shelling forced the staff of Europe’s largest nuclear plant to disconnect from the nation’s power grid, showing that risks remained at the plant despite the presence of U.N. experts.</description>
-      <dc:creator>Marc Santora, Ivan Nechepurenko and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 01:23:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05ukraine-ledeall-1/00ukraine-ledeall-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>A motorcade transporting the International Atomic Energy Agency expert mission arriving at the Zaporizhzhia power plant last week.</media:description>
     </item>
   </channel>
 </rss>

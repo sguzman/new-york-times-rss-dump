@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 19:45:15 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 19:44:26 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 20:15:21 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 20:15:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
       <description>She ruled for seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
       <dc:creator>Alan Cowell</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 19:31:28 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 20:03:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -37,9 +37,9 @@
       <link>https://www.nytimes.com/2022/09/08/world/europe/charles-king-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/charles-king-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/charles-king-uk.html" rel="standout"></atom:link>
-      <description>Once an awkward, self-doubting young man, he takes the throne, at 73, as a self-assured, gray-haired eminence.</description>
+      <description>Once an awkward, self-doubting young man, he comes to the throne, at 73, as a self-assured, gray-haired eminence.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 18:53:24 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 19:48:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -49,8 +49,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00UK-CHARLES-HFO-HFO/merlin_206662737_2dbe2c01-8ce1-4265-803f-ec2c8ffefed8-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Wpa</media:credit>
-      <media:description>As heir to the throne, Prince Charles had taken on several of the queen’s duties in recent years. In May, he delivered the Queen’s Speech during the state opening of Parliament.</media:description>
+      <media:credit>Pool photo by WPA</media:credit>
+      <media:description>As heir to the throne, Charles had taken on several of the queen’s duties in recent years. In May, he delivered the Queen’s Speech during the state opening of Parliament.</media:description>
     </item>
     <item>
       <title>Queen Elizabeth II: A Life in Photos</title>
@@ -85,13 +85,30 @@
       <media:description>Queen Elizabeth II waved from the balcony of Buckingham Palace in 1953 after her coronation. She was Britain’s longest-reigning monarch.</media:description>
     </item>
     <item>
+      <title>An Inscrutable Monarch, Endlessly Scrutinized Onstage and Onscreen</title>
+      <link>https://www.nytimes.com/2022/09/08/arts/onscreen-queen-elizabeth-movies-tv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/arts/onscreen-queen-elizabeth-movies-tv.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/arts/onscreen-queen-elizabeth-movies-tv.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II was portrayed in plays and highbrow films, in made-for-TV movies and broad comedies and, of course, in “The Crown.” Many sought to answer the question: What was she like?</description>
+      <dc:creator>Sarah Lyall</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 18:06:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+    </item>
+    <item>
       <title>World leaders express condolences over the queen’s death.</title>
       <link>https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth/world-leaders-express-condolences-for-the-queen</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth/world-leaders-express-condolences-for-the-queen</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth/world-leaders-express-condolences-for-the-queen" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Ben Shpigel</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 19:28:38 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 20:02:32 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/08queen-elizabeth-world-reaction-topart/08queen-elizabeth-world-reaction-topart-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Jack Hill</media:credit>
       <media:description>Queen Elizabeth II and President Emmanuel Macron of France during the 2021 G7 Summit in England.</media:description>
@@ -103,7 +120,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/style/queen-elizabeth-style.html" rel="standout"></atom:link>
       <description>The longest-serving British monarch let her clothes do the talking for her.</description>
       <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 19:37:21 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 20:15:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -570,7 +587,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/us/vegas-reporter-german-telles.html" rel="standout"></atom:link>
       <description>The Las Vegas Review-Journal said its slain reporter, Jeff German, had been “pursuing a potential follow-up story” about a politician who has now been accused of killing him.</description>
       <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 19:25:28 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 19:56:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 06:39:43 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 06:37:51 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 07:17:03 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 07:13:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -92,6 +92,24 @@
       <media:description>Stephen K. Bannon will be the first recipient of a presidential pardon to be prosecuted in New York since a 2019 law allowing such charges. </media:description>
     </item>
     <item>
+      <title>Shooting Spree Leaves 4 Dead in Memphis and Paralyzes City</title>
+      <link>https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/us/memphis-shooter.html" rel="standout"></atom:link>
+      <description>The authorities told residents to stay off the streets into the evening before police captured a 19-year-old who they said had killed four and wounded three others in a daylong spree.</description>
+      <dc:creator>McKenna Oxenden</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 07:11:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Memphis, Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Memphis (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ezekiel Kelly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07xp-memphis-06/07xp-memphis-06-moth.jpg" width="151"></media:content>
+      <media:credit>Houston Cofield for The New York Times</media:credit>
+      <media:description>The police in Memphis flooded the city on Wednesday in pursuit of a gunman who killed four people.</media:description>
+    </item>
+    <item>
       <title>Myles Sanderson, Suspect in Canada Stabbings, Is Dead</title>
       <link>https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/canada/saskatchewan-canada-stabbings-victims.html</guid>
@@ -168,24 +186,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/us/politics/07dc-biden-1/07dc-biden-1-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>“I want to be very clear up front: Not every Republican is a MAGA Republican. Not every Republican embraces that extreme ideology,” President Biden said on Monday.</media:description>
-    </item>
-    <item>
-      <title>Brooklyn Prosecutors Seek to Throw Out Scores of Convictions</title>
-      <link>https://www.nytimes.com/2022/09/07/nyregion/brooklyn-prosecutors-convictions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/nyregion/brooklyn-prosecutors-convictions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/nyregion/brooklyn-prosecutors-convictions.html" rel="standout"></atom:link>
-      <description>The 378 cases — mostly low-level drug and traffic offenses — relied on the work of 13 police officers who were later convicted of crimes.</description>
-      <dc:creator>Rebecca Davis O’Brien and Troy Closson</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 21:39:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franco, Joseph E</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Melinda R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Legal Aid Society</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/nyregion/07BK-DISMISSALS1/07BK-DISMISSALS1-moth.jpg" width="151"></media:content>
-      <media:credit>Jefferson Siegel for The New York Times</media:credit>
-      <media:description>Eric Gonzalez, right, the Brooklyn district attorney, in 2020.</media:description>
     </item>
     <item>
       <title>California Leaders Credit Cellphone Alert for Sudden Conservation</title>
@@ -524,18 +524,23 @@
       <pubDate>Thu, 01 Sep 2022 19:24:54 +0000</pubDate>
     </item>
     <item>
-      <title>Shooting Spree Leaves 4 Dead in Memphis and Paralyzes City</title>
-      <link>https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/memphis-shooter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/us/memphis-shooter.html" rel="standout"></atom:link>
-      <description>The authorities told residents to stay off the streets into the evening before police captured a 19-year-old who they said had killed four and wounded three others in a daylong spree.</description>
-      <dc:creator>McKenna Oxenden</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 06:37:51 +0000</pubDate>
+      <title>Politician Arrested in Las Vegas Reporter’s Stabbing Death, Prosecutor Says</title>
+      <link>https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html" rel="standout"></atom:link>
+      <description>Robert Telles, the Clark County public administrator, was taken into custody in the killing of Jeff German, a reporter at The Las Vegas Review-Journal, the district attorney said.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 03:20:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Memphis, Tenn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/07xp-memphis-ukz2/07xp-memphis-ukz2-moth.jpg" width="151"></media:content>
-      <media:credit>Brad Vest/Getty Images</media:credit>
-      <media:description>The police investigated at the scene of a carjacking during a series of shootings in Memphis on Wednesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
     </item>
     <item>
       <title>Texas Judge’s Ruling Puts Free Preventive Care in Jeopardy</title>
@@ -557,23 +562,19 @@
       <media:description>A ruling in Texas could jeopardize millions of Americans’ access to preventive services, including cancer screenings and drugs that prevent H.I.V. infection. </media:description>
     </item>
     <item>
-      <title>Politician Arrested in Las Vegas Reporter’s Stabbing Death, Prosecutor Says</title>
-      <link>https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html" rel="standout"></atom:link>
-      <description>Robert Telles, the Clark County public administrator, was taken into custody in the killing of Jeff German, a reporter at The Las Vegas Review-Journal, the district attorney said.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 03:20:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <title>Solomon Islands’ Leader, a Friend of China, Gets an Election Delayed</title>
+      <link>https://www.nytimes.com/2022/09/08/world/asia/solomon-islands-election-delay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/asia/solomon-islands-election-delay.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/asia/solomon-islands-election-delay.html" rel="standout"></atom:link>
+      <description>The prime minister claims the country can’t afford to hold national elections next year. His opponents see a power grab linked to Beijing’s influence.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 07:05:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08solomons1/08solomons1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
+      <media:description>Prime Minister Manasseh Sogavare of the Solomon Islands in 2019. He said the postponement of national elections “does not in any way inhibit or prohibit the right to vote.”</media:description>
     </item>
     <item>
       <title>Anne Garrels, Fearless NPR Correspondent, Dies at 71</title>

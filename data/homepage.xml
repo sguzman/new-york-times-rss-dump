@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 10:52:25 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 10:41:10 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 11:13:32 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 11:09:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,28 +46,25 @@
       <media:description>The Brandenburg Gate in Berlin last Thursday, the first day a new German energy conservation law went into effect. Under the law, monuments may no longer be illuminated at night.</media:description>
     </item>
     <item>
-      <title>Climate Change Could Worsen Supply Chain Turmoil</title>
-      <link>https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html" rel="standout"></atom:link>
-      <description>A drought that has crippled economic activity in southwestern China hints at the kind of disruption that climate change could wreak on global supply chains.</description>
-      <dc:creator>Ana Swanson and Keith Bradsher</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Okonjo-Iweala, Ngozi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yangtze River (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/00dc-climatetrade01/00dc-climatetrade01-moth.jpg" width="151"></media:content>
-      <media:credit>Thomas Peter/Reuters</media:credit>
-      <media:description>A drought in China has had ripple effects for businesses around the globe.</media:description>
+      <title>Liz Truss, New U.K. Leader, Lays Out Energy Price Cap Plan</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/uk-truss-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/uk-truss-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/uk-truss-energy.html" rel="standout"></atom:link>
+      <description>Facing severe economic headwinds, the prime minister, on her third day in office, announced emergency measures to freeze gas and electricity rates.</description>
+      <dc:creator>Mark Landler and Eshe Nelson</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 11:01:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08UKTrussEnergy02/08UKTrussEnergy02-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Liz Truss campaigned on a message of tax cuts and deregulation, which made the price freeze a striking ideological reversal.</media:description>
     </item>
     <item>
       <title>The Days of Energy Deregulation Are Over in Europe</title>
@@ -301,6 +298,30 @@
       <media:credit>Andri Tambunan for The New York Times</media:credit>
     </item>
     <item>
+      <title>Climate Change Could Worsen Supply Chain Turmoil</title>
+      <link>https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/business/economy/climate-change-supply-chain.html" rel="standout"></atom:link>
+      <description>A drought that has crippled economic activity in southwestern China hints at the kind of disruption that climate change could wreak on global supply chains.</description>
+      <dc:creator>Ana Swanson and Keith Bradsher</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 09:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Okonjo-Iweala, Ngozi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yangtze River (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/business/00dc-climatetrade01/00dc-climatetrade01-moth.jpg" width="151"></media:content>
+      <media:credit>Thomas Peter/Reuters</media:credit>
+      <media:description>A drought in China has had ripple effects for businesses around the globe.</media:description>
+    </item>
+    <item>
       <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
       <link>https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</guid>
@@ -413,7 +434,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/opinion/travel-childhood-homes.html" rel="standout"></atom:link>
       <description>A childhood home may hold a nearly undimmed set of early memories, as if its walls formed a time capsule we sealed behind us as we left.</description>
       <dc:creator>Mark Vanhoenacker</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 11:09:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
@@ -606,7 +627,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/business/soho-china-entrepreneurs.html" rel="standout"></atom:link>
       <description>Two of China’s best-known entrepreneurs, Pan Shiyi and Zhang Xin, stepped down from their top jobs at the real estate development company they built.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:18:33 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 11:05:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
@@ -727,16 +748,20 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>No Flower Headbands at This Music Festival</title>
-      <link>https://www.nytimes.com/2022/09/07/style/no-flower-headbands-at-this-music-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/style/no-flower-headbands-at-this-music-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/style/no-flower-headbands-at-this-music-festival.html" rel="standout"></atom:link>
-      <description>Ravers donned their flimsiest finery for the Electric Zoo music festival in New York.</description>
-      <dc:creator>Shane O’Neill and Jutharat Pinyodoonyachet</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 13:54:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Zoo Festival (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Randalls Island (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <title>In the Hamptons, the Rich Got Their Labor Day. The Workers Kept Working.</title>
+      <link>https://www.nytimes.com/2022/09/07/nyregion/tumbleweed-tuesday-hamptons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/nyregion/tumbleweed-tuesday-hamptons.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/nyregion/tumbleweed-tuesday-hamptons.html" rel="standout"></atom:link>
+      <description>Tumbleweed Tuesday, the unofficial holiday for the tourism industry in Long Island’s East End, is in jeopardy.</description>
+      <dc:creator>Alyson Krueger</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 16:09:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Service Industries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/nyregion/11tumbleweed-tuesday/07tumbleweed-tuesday-moth.jpg" width="151"></media:content>
+      <media:credit>Johnny Milano for The New York Times</media:credit>
+      <media:description>Calissa, a restaurant in Water Mill, New York, threw a barbecue party for its workers in honor of Tumbleweed Tuesday.</media:description>
     </item>
   </channel>
 </rss>

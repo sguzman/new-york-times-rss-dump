@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 11:40:06 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 11:26:51 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 11:49:45 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 11:48:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/08/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Secretary of State Antony Blinken said the U.S. intended to send another $2 billion in long-term support to Ukraine and other countries in the region.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 11:18:37 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 11:43:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08ukraine-briefing-header/08ukraine-briefing-header-moth-v2.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>The casket is carried out of St. Michael’s Golden-Domed Monastery during the funeral of a Ukrainian soldier Vyacheslav Nalyvayko, on Wednesday.</media:description>
@@ -256,6 +256,36 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07france-imam1/07france-imam1-moth.jpg" width="151"></media:content>
       <media:credit>Francois Lo Presti/Agence France-Presse — Getty Images</media:credit>
       <media:description>By the time the police moved to deport Hassan Iquioussen, an imam, from Lourches, northern France, he had left the country and could not be found.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth II Under Medical Supervision as Health Concerns Grow</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ill-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ill-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ill-health.html" rel="standout"></atom:link>
+      <description>The queen, who is 96, has not been hospitalized and remains at Balmoral Castle, her estate in the Scottish Highlands, Buckingham Palace said in a statement.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 11:48:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08Queen01/merlin_212614821_95e08dc3-bf53-459a-a98c-30a9441469ae-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Jane Barlow</media:credit>
+      <media:description>Queen Elizabeth II at Balmoral Castle in Scotland before receiving Liz Truss, Britain’s new prime minister, for an audience on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Captured U.K. Aid Worker Paul Urey’s Body Shows Signs of Torture, Ukraine Says</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/uk-aid-worker-paul-urey-torture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/uk-aid-worker-paul-urey-torture.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/uk-aid-worker-paul-urey-torture.html" rel="standout"></atom:link>
+      <description>Paul Urey was charged with mercenary activities by a pro-Russian separatist group, which claimed he died in July from illness and stress.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 11:42:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/29/world/08ukraine-briefing-uk-aid-worker/29ukraine-blog-aid-workers-paul-urey-moth.jpg" width="151"></media:content>
+      <media:description>Paul Urey, a British aid worker, was detained by pro-Russian forces in April at a checkpoint near Zaporizhzhia while working to evacuate civilians.</media:description>
     </item>
     <item>
       <title>Liz Truss, New U.K. Leader, Lays Out Energy Price Cap Plan</title>
@@ -1037,24 +1067,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05uk-briefing-balmoral-1/05uk-briefing-balmoral-1-moth-v3.jpg" width="151"></media:content>
       <media:credit>Andrew Milligan/Reuters </media:credit>
       <media:description>Balmoral Castle was built for Queen Victoria in the 1850s, and has remained a summer retreat for royals ever since.</media:description>
-    </item>
-    <item>
-      <title>In Farewell Speech, Boris Johnson Pledges to Support Liz Truss</title>
-      <link>https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html" rel="standout"></atom:link>
-      <description>The outgoing prime minister defended his three-year tenure but appealed to his party to unite around his successor.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 13:04:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-morning-lede-boris/06uk-blog-morning-lede-boris-moth.jpg" width="151"></media:content>
-      <media:credit>Toby Melville/Reuters</media:credit>
-      <media:description>Boris Johnson speaking outside Downing Street in London on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

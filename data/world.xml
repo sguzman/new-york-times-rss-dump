@@ -7,13 +7,36 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 17:16:59 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 17:16:43 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 17:50:07 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 17:50:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Updates: Queen Elizabeth II, Britain’s Beacon of Stability, Dies</title>
+      <link>https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth" rel="standout"></atom:link>
+      <description>Doctors had placed the queen, who was 96, under medical supervision at Balmoral Castle, her estate in the Scottish Highlands. Prince Charles traveled to Balmoral to be at his mother’s side.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:50:06 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/10/multimedia/08queen-elizabeth-header-145pm/08queen-elizabeth-header-145pm-moth.jpg" width="151"></media:content>
+      <media:credit>Chris Jackson Collection, via Getty Images</media:credit>
+      <media:description>Queen Elizabeth II died on Thursday at Balmoral Castle in Scotland.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth II: A Life in Photos</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ii-photos-young.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ii-photos-young.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-ii-photos-young.html" rel="standout"></atom:link>
+      <description>Elizabeth took her first steps in a world we recognize only from sepia photographs, and became Britain’s longest-reigning monarch. Here are a selection of images from her life.</description>
+      <dc:creator>Stephen Castle and Mona Boshnaq</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:43:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
     <item>
       <title>Blinken Visits Kyiv and Announces More Military Aid for Ukraine</title>
       <link>https://www.nytimes.com/live/2022/09/08/world/ukraine-russia-war</link>
@@ -21,22 +44,10 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/08/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Secretary of State Antony Blinken said the U.S. intended to send another $2 billion in long-term support to Ukraine and other countries in the region.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 16:47:31 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 17:48:39 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08ukraine-briefing-header/08ukraine-briefing-header-moth-v2.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>The casket is carried out of St. Michael’s Golden-Domed Monastery during the funeral of a Ukrainian soldier Vyacheslav Nalyvayko, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Live Updates: U.K. Royal Family Gathers at Balmoral as Queen’s Health Concerns Grow</title>
-      <link>https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth" rel="standout"></atom:link>
-      <description>Doctors placed Queen Elizabeth II, who is 96, under medical supervision at Balmoral Castle, her estate in the Scottish Highlands. Prince Charles traveled to Balmoral and will be at his mother’s side, the BBC reported.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 17:16:43 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08live-blog-20220908-queen-elizabeth-header/08live-blog-20220908-queen-elizabeth-header-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Jane Barlow</media:credit>
-      <media:description>Queen Elizabeth in the drawing room at Balmoral in Aberdeenshire, Scotland, on Tuesday.</media:description>
     </item>
     <item>
       <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
@@ -227,32 +238,68 @@
       <media:description>A fatal fire started on the second floor of An Phu Karaoke in Binh Duong Province, Vietnam.</media:description>
     </item>
     <item>
-      <title>Twilight of Entrepreneurs in China as More Leave the Country</title>
-      <link>https://www.nytimes.com/2022/09/08/business/soho-china-entrepreneurs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/business/soho-china-entrepreneurs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/business/soho-china-entrepreneurs.html" rel="standout"></atom:link>
-      <description>Two of China’s best-known entrepreneurs, Pan Shiyi and Zhang Xin, stepped down from their top jobs at the real estate development company they built.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 11:05:38 +0000</pubDate>
+      <title>Queen Elizabeth II and the Shape of 20th-Century Power Dressing</title>
+      <link>https://www.nytimes.com/2022/09/08/style/queen-elizabeth-style.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/style/queen-elizabeth-style.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/style/queen-elizabeth-style.html" rel="standout"></atom:link>
+      <description>The longest-serving British monarch let her clothes do the talking for her.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:46:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SOHO China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08CHINA-ENTREPRENEURS-01/08CHINA-ENTREPRENEURS-01-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Visual China Group via Getty Images</media:credit>
-      <media:description>The Chinese entrepreneurs Pan Shiyi, left, and Zhang Xin quit this week as chairman and chief executive, respectively, of their real estate empire, Soho China.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/23/fashion/00QUEEN-STYLE-scotland/00QUEEN-STYLE-scotland-moth.jpg" width="151"></media:content>
+      <media:credit>Anwar Hussein/Getty Images</media:credit>
+      <media:description>Queen Elizabeth II inspecting a guard of honor during her Silver Jubilee visit to Scotland in 1977.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth II Dies at 96; Was World’s Longest-Reigning Monarch</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
+      <description>She ruled over Britain for nearly seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
+      <dc:creator>Alan Cowell</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:49:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
+      <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Queen Elizabeth II in 2012.</media:description>
+    </item>
+    <item>
+      <title>Macron Aims for a National Dialogue in France, but Faces No-Shows</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html" rel="standout"></atom:link>
+      <description>The inaugural meeting of a council to examine France’s most pressing problems had an issue of its own: boycotts.</description>
+      <dc:creator>Catherine Porter and Constant Méheut</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:35:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08france-macron-1/08france-macron-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Michel Euler</media:credit>
+      <media:description>President Emmanuel Macron of France waxed poetic on a rugby field where Thursday’s meeting took place, saying the new committee would change the country in a profound way.</media:description>
     </item>
     <item>
       <title>Where Is Balmoral Castle?</title>
       <link>https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>Queen Elizabeth is “the most happy” at the sprawling estate, her primary summer residence and a fixture in the royal family for 170 years.</description>
+      <description>Her family says Queen Elizabeth is happiest at the sprawling estate, her primary summer residence.</description>
       <dc:creator>Ben Shpigel</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 17:07:09 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 17:28:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08queen-photos38/08queen-photos38-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Milligan/Press Association, via Associated Press</media:credit>
@@ -292,19 +339,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/08queen-elizabeth-prince-charles-succession-topart/08queen-elizabeth-prince-charles-succession-topart-moth.jpg" width="151"></media:content>
       <media:credit>Dan Kitwood/Getty Images</media:credit>
       <media:description>Prince Charles delivered a speech on behalf of Queen Elizabeth II for the opening of Parliament in May.</media:description>
-    </item>
-    <item>
-      <title>‘London Bridge Is Down’: The Plan in Place for the Queen’s Death</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-death-london-bridge-what-happens.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-death-london-bridge-what-happens.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-death-london-bridge-what-happens.html" rel="standout"></atom:link>
-      <description>The plan includes guidance on major logistical issues, and smaller details like the protocol for lowering flags.</description>
-      <dc:creator>Daniel Victor and Megan Specia</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 15:49:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/lens/08queen-elizabeth-london-bridge-plan1/08queen-elizabeth-london-bridge-plan1-moth.jpg" width="151"></media:content>
-      <media:credit>Toby Melville/Reuters</media:credit>
-      <media:description>The scene at Buckingham Palace in London following a statement from the Palace over concerns for Queen Elizabeth’s health.</media:description>
     </item>
     <item>
       <title>Captured UK Aid Worker Paul Urey’s Body Shows Signs of Torture, Ukraine Says</title>
@@ -990,55 +1024,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06skorea-typhoon1/06skorea-typhoon1-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Firefighters surveying the water level at a flooded underground parking lot in Pohang where seven people went missing after Typhoon Hinnamnor hit.</media:description>
-    </item>
-    <item>
-      <title>Bomb Attack in Burkina Faso Kills Dozens of Civilians</title>
-      <link>https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html" rel="standout"></atom:link>
-      <description>At least 35 people were killed and dozens of others wounded when a roadside blast struck a convoy. The country has been devastated by growing violence driven by extremist groups.</description>
-      <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 11:02:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Refugee Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
-    </item>
-    <item>
-      <title>A Good Issue for Democrats</title>
-      <link>https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html" rel="standout"></atom:link>
-      <description>Despite the large partisan gaps on many aspects of Covid, Americans give Democrats higher marks for pandemic management than Republicans.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 11:20:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-    </item>
-    <item>
-      <title>Larry the Cat Will Stay at No. 10 Downing Street</title>
-      <link>https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html" rel="standout"></atom:link>
-      <description>The chief mouser to the Cabinet Office will remain in 10 Downing Street even after Britain welcomes Liz Truss as prime minister.</description>
-      <dc:creator>Mark Landler and Euan Ward</dc:creator>
-      <pubDate>Tue, 06 Sep 2022 10:29:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="">Larry the Cat</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-larry-landler/06uk-blog-larry-landler-moth.jpg" width="151"></media:content>
-      <media:credit>Toby Melville/Reuters</media:credit>
-      <media:description>Larry the Cat outside of Downing Street, after Boris Johnson departed on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

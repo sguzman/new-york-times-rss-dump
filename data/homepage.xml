@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Sep 2022 14:44:13 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Sep 2022 14:38:37 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2022 15:14:15 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2022 15:02:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -52,14 +52,16 @@
       <atom:link href="https://www.nytimes.com/2022/09/07/us/politics/garland-trump-special-master.html" rel="standout"></atom:link>
       <description>As the department decides whether to appeal the ruling on a special master, it is balancing a desire to speedily resolve the inquiry with the need to limit an expansive view of executive power.</description>
       <dc:creator>Glenn Thrush and Alan Feuer</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 13:02:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Merrick B</category>
+      <pubDate>Thu, 08 Sep 2022 15:02:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Merrick B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/us/07dc-investigate_1/07dc-investigate_1-moth.jpg" width="151"></media:content>
       <media:credit>Drew Angerer/Getty Images</media:credit>
       <media:description>Until the ruling, Attorney General Merrick B. Garland and his top officials had controlled the public narrative surrounding the inquiry.</media:description>
@@ -87,25 +89,6 @@
       <media:description>William Russell, who served as a special assistant and the deputy director of advance under President Donald J. Trump, continued to work for him as a personal aide after he left office.</media:description>
     </item>
     <item>
-      <title>Bannon Surrenders to Face New York Indictment in Wall Case</title>
-      <link>https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html" rel="standout"></atom:link>
-      <description>Stephen K. Bannon, whom former President Donald J. Trump pardoned, has been entangled in what prosecutors have said was a crowdfunding fraud scheme.</description>
-      <dc:creator>Chelsia Rose Marcius</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 14:00:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Double Jeopardy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">We Build the Wall</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/nyregion/08bannon-charged1/08bannon-charged1-moth.jpg" width="151"></media:content>
-      <media:credit>Sarah Blesener for The New York Times</media:credit>
-      <media:description>The charges against Stephen Bannon are believed to involve an effort to build a border wall.</media:description>
-    </item>
-    <item>
       <title>Ex-U.S. Attorney’s Book Addresses Pressure to Help Trump Causes</title>
       <link>https://www.nytimes.com/2022/09/08/nyregion/geoffrey-berman-trump-book.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/nyregion/geoffrey-berman-trump-book.html</guid>
@@ -129,6 +112,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/nyregion/00Jury-selection1/00Jury-selection1-moth.jpg" width="151"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>President Trump’s tweets set off pressure on prosecutors, according to the former top prosecutor’s book.</media:description>
+    </item>
+    <item>
+      <title>Bannon Surrenders to Face New York Indictment in Wall Case</title>
+      <link>https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/nyregion/bannon-indictment-new-york.html" rel="standout"></atom:link>
+      <description>Stephen K. Bannon, whom former President Donald J. Trump pardoned, has been entangled in what prosecutors have said was a crowdfunding fraud scheme.</description>
+      <dc:creator>Chelsia Rose Marcius</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 14:56:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Double Jeopardy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">We Build the Wall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/nyregion/08bannon-charged1/08bannon-charged1-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Blesener for The New York Times</media:credit>
+      <media:description>The charges against Stephen Bannon are believed to involve an effort to build a border wall.</media:description>
     </item>
     <item>
       <title>Memphis Shooting Spree Leaves 4 Dead</title>
@@ -275,24 +277,6 @@
       <media:description>A drought in China has had ripple effects for businesses around the globe.</media:description>
     </item>
     <item>
-      <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
-      <link>https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html" rel="standout"></atom:link>
-      <description>Politicians have failed to form a new government nearly a year after the last elections. Baghdad just saw its worst militia clashes in years. And despite vast oil wealth, the state can’t provide basic services.</description>
-      <dc:creator>Jane Arraf and Emily Garthwaite</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07iraq-failed-state-top/07iraq-failed-state-top-moth.jpg" width="151"></media:content>
-      <media:description>The Central Bank of Iraq, designed by the renowned Iraqi-born architect Zaha Hadid, under construction on the banks of the Tigris River in Baghdad.</media:description>
-    </item>
-    <item>
       <title>Alcaraz Beats Sinner in Late, Late U.S. Open Match</title>
       <link>https://www.nytimes.com/2022/09/08/sports/tennis/alcarez-sinner-tiafoe-us-open.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/sports/tennis/alcarez-sinner-tiafoe-us-open.html</guid>
@@ -359,13 +343,13 @@
       <media:credit>Neal Santos for The New York Times</media:credit>
     </item>
     <item>
-      <title>Do You Think Your Newfound Popularity Has Something to Do With Politics?</title>
+      <title>Who Will Control the Senate? The Answer Could Be in an Email.</title>
       <link>https://www.nytimes.com/2022/09/07/opinion/midterms-senate-democrats.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/opinion/midterms-senate-democrats.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/07/opinion/midterms-senate-democrats.html" rel="standout"></atom:link>
-      <description>Everybody wants to be your email pal.</description>
+      <description>Do you think your newfound popularity has something to do with politics?</description>
       <dc:creator>Gail Collins</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 07:47:12 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 14:56:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -395,13 +379,13 @@
       <media:credit>Marine Buffard</media:credit>
     </item>
     <item>
-      <title>Pat Buchanan Didn’t Plan on It, but He Paved the Way for Trump</title>
+      <title>The Man Who Won the Republican Party Before Trump Did</title>
       <link>https://www.nytimes.com/2022/09/08/opinion/pat-buchanan-donald-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/opinion/pat-buchanan-donald-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/08/opinion/pat-buchanan-donald-trump.html" rel="standout"></atom:link>
-      <description>Both men tried to make good on Buchanan’s central insight, that “the greatest vacuum in American politics is to the right of Ronald Reagan.”</description>
+      <description>Pat Buchanan knew that “the greatest vacuum in American politics is to the right of Ronald Reagan.”</description>
       <dc:creator>Nicole Hemmer</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:14 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 14:54:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
@@ -579,6 +563,24 @@
       <media:description>The Royal Canadian Mounted Police took Myles Sanderson, who had been driving the white pickup truck, into custody Wednesday afternoon in Saskatchewan.</media:description>
     </item>
     <item>
+      <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
+      <link>https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html" rel="standout"></atom:link>
+      <description>Politicians have failed to form a new government nearly a year after the last elections. Baghdad just saw its worst militia clashes in years. And despite vast oil wealth, the state can’t provide basic services.</description>
+      <dc:creator>Jane Arraf and Emily Garthwaite</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 09:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07iraq-failed-state-top/07iraq-failed-state-top-moth.jpg" width="151"></media:content>
+      <media:description>The Central Bank of Iraq, designed by the renowned Iraqi-born architect Zaha Hadid, under construction on the banks of the Tigris River in Baghdad.</media:description>
+    </item>
+    <item>
       <title>NYC Schools Reopen With Focus on Recovery From Pandemic Losses</title>
       <link>https://www.nytimes.com/2022/09/08/nyregion/nyc-back-to-school.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/nyregion/nyc-back-to-school.html</guid>
@@ -615,25 +617,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/26/business/00misinfo-education-01/merlin_211814184_da60ddc2-c045-4591-98a5-d4ba524263f3-moth.jpg" width="151"></media:content>
       <media:credit>Stephen Speranza for The New York Times</media:credit>
       <media:description>Paul Blakesley has spent years teaching high school students in Colorado how to identify bias and misinformation. </media:description>
-    </item>
-    <item>
-      <title>Politician Arrested in Las Vegas Reporter’s Stabbing Death, Prosecutor Says</title>
-      <link>https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/us/journalist-stabbing-las-vegas.html" rel="standout"></atom:link>
-      <description>Robert Telles, the Clark County public administrator, was taken into custody in the killing of Jeff German, a reporter at The Las Vegas Review-Journal, the district attorney said.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 03:20:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
     </item>
     <item>
       <title>Are Vasectomies Reversible?</title>

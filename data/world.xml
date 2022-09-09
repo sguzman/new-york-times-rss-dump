@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 20:45:22 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 20:45:20 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 21:20:06 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 21:07:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/queen-elizabeth" rel="standout"></atom:link>
       <description>His remarks capped a solemn day of remembrance after the death of his mother, Queen Elizabeth II. The country now enters a mourning period that continues until after her funeral.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 20:39:42 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 21:07:51 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-promo-1am/09queen-elizabeth-carousel-add2-moth.jpg" width="151"></media:content>
       <media:credit>Leon Neal/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -67,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Secretary of State Antony J. Blinken said Washington would stand with European allies as Russia seeks to “weaponize” energy supplies.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 20:45:20 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 20:59:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09ukraine-briefing-header-4am-ET/09ukraine-briefing-header-4am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Waiting for food distribution at a destroyed apartment complex in Chernihiv, northern Ukraine, on Thursday.</media:description>
@@ -223,6 +223,43 @@
       <media:description>Volker Türk, 57, is not widely known outside the United Nations, but he was seen as the front-runner in a field of 13 candidates interviewed for the role.</media:description>
     </item>
     <item>
+      <title>William and Kate Become Prince and Princess of Wales</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html" rel="standout"></atom:link>
+      <description>In a palace statement, they indicated they would honor William’s late mother while still forging their own path.</description>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 21:07:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Duchess of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diana, Princess of Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/lens/09queen-elizabeth-william-and-kate1/09queen-elizabeth-william-and-kate1-moth.jpg" width="151"></media:content>
+      <media:credit>Ashley Crowden/Press Association, via Associated Press</media:credit>
+      <media:description>Now prince and princess of Wales, Kate and William said they “are focused on deepening the trust and respect of the people of Wales over time.”</media:description>
+    </item>
+    <item>
+      <title>Russia Holds First Elections Since Ukraine Invasion</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/russia-elections-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/russia-elections-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/russia-elections-putin.html" rel="standout"></atom:link>
+      <description>Voters are choosing local and regional governments, but the ranks of opposition candidates have been severely depleted by jail and exile.</description>
+      <dc:creator>Valerie Hopkins, Anton Troianovski and Alina Lobzina</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 20:51:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09Russia-election-2/09Russia-election-2-moth.jpg" width="151"></media:content>
+      <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
+      <media:description>Ballot boxes at a polling station in Moscow, on Friday.</media:description>
+    </item>
+    <item>
       <title>In His First Speech, King Charles III Pledges Service to Britain </title>
       <link>https://www.nytimes.com/2022/09/09/world/king-charles-speech-queen-elizabeth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/king-charles-speech-queen-elizabeth.html</guid>
@@ -292,6 +329,20 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09QueenScene01/09QueenScene01-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>A portrait of Queen Elizabeth is displayed at Victoria Station in London.</media:description>
+    </item>
+    <item>
+      <title>King Charles III Will Be Announced  in His New Role on Saturday</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html" rel="standout"></atom:link>
+      <description>The ceremony will be televised for the first time, the royal family confirmed to the Press Association.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 20:53:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-ascension-council/09queen-elizabeth-ascension-council-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
+      <media:description>King Charles III, at Buckingham Palace on Friday, became Britain’s new monarch immediately after his mother’s death. But his new role will be formally recognized on Saturday. </media:description>
     </item>
     <item>
       <title>What Will Happen to Queen Elizabeth’s Corgis?</title>
@@ -918,36 +969,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00QUEEN-OBIT-PHOTOSTACK-PROMO/00QUEEN-OBIT-PHOTOSTACK-PROMO-moth-v2.jpg" width="151"></media:content>
       <media:credit>Max Mumby/Indigo/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Macron Aims for a National Dialogue in France, but Faces No-Shows</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/france-macron-national-council-for-reconstruction.html" rel="standout"></atom:link>
-      <description>The inaugural meeting of a council to examine France’s most pressing problems had an issue of its own: boycotts.</description>
-      <dc:creator>Catherine Porter and Constant Méheut</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 17:35:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08france-macron-1/08france-macron-1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Michel Euler</media:credit>
-      <media:description>President Emmanuel Macron of France waxed poetic on a rugby field where Thursday’s meeting took place, saying the new committee would change the country in a profound way.</media:description>
-    </item>
-    <item>
-      <title>Where Is Balmoral Castle?</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/balmoral-castle-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>Her family says Queen Elizabeth is happiest at the sprawling estate, her primary summer residence.</description>
-      <dc:creator>Ben Shpigel</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 18:06:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08queen-photos38/08queen-photos38-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Milligan/Press Association, via Associated Press</media:credit>
-      <media:description>Balmoral Castle in Aberdeenshire, Scotland, about 100 miles north of Edinburgh.</media:description>
     </item>
   </channel>
 </rss>

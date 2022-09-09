@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 10:13:58 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 09:39:40 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 10:41:05 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 10:35:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -340,7 +340,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/opinion/europe-russia-energy.html" rel="standout"></atom:link>
       <description>Sometimes rationing and price controls are unavoidable.</description>
       <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 23:00:06 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 10:15:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -447,19 +447,52 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
     <item>
-      <title>Why Can’t I Stand the Sound of Chewing? Misophonia, Explained</title>
-      <link>https://www.nytimes.com/2022/09/08/well/misophonia-chewing-noise-treatment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/well/misophonia-chewing-noise-treatment.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/well/misophonia-chewing-noise-treatment.html" rel="standout"></atom:link>
-      <description>Misophonia, a little-known syndrome, is characterized by strong negative emotional reactions to certain sounds or visual cues.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 00:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Senses and Sensation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/well/08Well-NL-Misophonia/08Well-NL-Misophonia-moth.png" width="151"></media:content>
-      <media:credit>Guillem Casasús</media:credit>
+      <title>An Era Ends</title>
+      <link>https://www.nytimes.com/2022/09/09/briefing/queen-elizabeth-reign-life-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/briefing/queen-elizabeth-reign-life-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/briefing/queen-elizabeth-reign-life-death.html" rel="standout"></atom:link>
+      <description>After 70 years, the reign of Queen Elizabeth II is over.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 10:31:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King Charles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/world/europe/09-the-morning-queen-1/queen-elizabeth-obituary-slide-DGS9-moth.jpg" width="151"></media:content>
+      <media:credit>Sean Gallup/Getty Images</media:credit>
+      <media:description>The queen on a visit to Germany in 2015.</media:description>
+    </item>
+    <item>
+      <title>How Queen Elizabeth II Saved the Monarchy</title>
+      <link>https://www.nytimes.com/2022/09/09/podcasts/the-daily/queen-elizabeth-monarchy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/podcasts/the-daily/queen-elizabeth-monarchy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/podcasts/the-daily/queen-elizabeth-monarchy.html" rel="standout"></atom:link>
+      <description>A look back at the life of Britain’s longest-reigning monarch, who led her country and the royal family through moments of enormous upheaval.</description>
+      <dc:creator>Sabrina Tavernise, Rachelle Bonja, Stella Tan, Mooj Zadie, Jessica Cheung, Lynsea Garrison, Rachel Quester, Asthaa Chaturvedi, Mike Benoist, Lisa Chow, Paige Cowett, Dan Powell, Marion Lozano, Rowan Niemisto and Chris Wood</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 10:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/podcasts/09DAILY-queen-image/09DAILY-qeII-charles-audio-app-moth-v7.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Victoria Jones</media:credit>
+      <media:description>Queen Elizabeth and her eldest son, Charles, at the State Opening of Parliament in 2019. He will now be known as King Charles III.</media:description>
+    </item>
+    <item>
+      <title>When There’s Nothing in the Fridge</title>
+      <link>https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html" rel="standout"></atom:link>
+      <description>Pasta, beans and more pantry cooking saves the day.</description>
+      <dc:creator>Tejal Rao</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 17:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/03/25/magazine/25mag-eat1-copy-copy/25mag-eat1-moth.jpg" width="151"></media:content>
+      <media:credit>Gentl and Hyers for The New York Times</media:credit>
     </item>
     <item>
       <title>A Goodbye to Readers and a Reflection</title>
@@ -474,18 +507,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newsletters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-    </item>
-    <item>
-      <title>当外企选择离开，中国用什么制衡西方？</title>
-      <link>https://www.nytimes.com/zh-hans/2022/09/08/world/asia/china-foreign-business.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/zh-hans/2022/09/08/world/asia/china-foreign-business.html</guid>
-      <atom:link href="https://www.nytimes.com/zh-hans/2022/09/08/world/asia/china-foreign-business.html" rel="standout"></atom:link>
-      <description>随着地缘政治和疫情封锁导致供应链中断带来的担忧与日俱增，跨国企业正逐步将供应链转移出中国、调整市场布局。这令中国在与西方的角力中面临新的挑战。</description>
-      <dc:creator>Rong Xiaoqing</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 08:51:29 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/business/c00china-manufacturing-2-copy/00china-manufacturing-2-moth.jpg" width="151"></media:content>
-      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>上海的一家苹果专卖店。小部分苹果最新款iPhone将在印度制造。</media:description>
     </item>
     <item>
       <title>With Drought, ‘Spanish Stonehenge’ Emerges Once Again</title>
@@ -649,7 +670,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/style/venice-film-festival-best-dressed.html" rel="standout"></atom:link>
       <description>Including a new group of fashion superstars.</description>
       <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:32 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 10:35:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venice International Film Festival</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>

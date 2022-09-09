@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 07:02:03 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 07:00:05 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 07:37:43 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 07:32:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/08/world/queen-elizabeth" rel="standout"></atom:link>
       <description>Buckingham Palace said the queen, who was 96, died peacefully at Balmoral Castle, her estate in the Scottish Highlands. Her son became Britain’s new monarch, King Charles III.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 05:24:25 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 07:32:42 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/10/multimedia/08queen-elizabeth-header-145pm/08queen-elizabeth-header-145pm-moth.jpg" width="151"></media:content>
       <media:credit>Chris Jackson Collection, via Getty Images</media:credit>
       <media:description>Queen Elizabeth II died on Thursday at Balmoral Castle in Scotland.</media:description>
@@ -260,13 +260,37 @@
       <media:description>Former President Rodrigo Duterte, who left office in June, faced broad accusations of brutality in his war on drugs. </media:description>
     </item>
     <item>
+      <title>Kim Jong-un Says North Korea Will ‘Never Give Up’ Its Nuclear Weapons</title>
+      <link>https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html" rel="standout"></atom:link>
+      <description>The law authorizes a nuclear strike if an enemy tries to remove Kim Jong-un from power, the North’s state media reported.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 07:09:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Korean Central News Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09nkorea-01/09nkorea-01-moth.jpg" width="151"></media:content>
+      <media:credit>Korean Central News Agency, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kim Jong-un, North Korea’s leader, said Thursday that there would “no longer be any bargaining over our nuclear power,” according to state media, which released this photo. </media:description>
+    </item>
+    <item>
       <title>Queen Elizabeth II: The One Constant in an Inconstant World</title>
       <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html" rel="standout"></atom:link>
       <description>From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she was always there.” What will Britain, and the world, do without her?</description>
       <dc:creator>Sarah Lyall</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 07:00:05 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 07:12:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -1045,26 +1069,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-europe-gas/07ukraine-briefing-europe-gas-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Manzyuk/Reuters</media:credit>
       <media:description>A Gazprom processing plant in the Orenburg region of Russia on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>France Expels Imam Accused of Hate Speech, Reviving a Thorny Debate</title>
-      <link>https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html" rel="standout"></atom:link>
-      <description>The government presented the deportation of Hassan Iquioussen as part of efforts to crack down on “Islamist separatism.” Critics called it a political stunt that infringed on civil liberties.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 12:17:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Imams</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07france-imam1/07france-imam1-moth.jpg" width="151"></media:content>
-      <media:credit>Francois Lo Presti/Agence France-Presse — Getty Images</media:credit>
-      <media:description>By the time the police moved to deport Hassan Iquioussen, an imam, from Lourches, northern France, he had left the country and could not be found.</media:description>
     </item>
   </channel>
 </rss>

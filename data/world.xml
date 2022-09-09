@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 13:47:56 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 13:43:27 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 14:22:23 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 14:16:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/queen-elizabeth" rel="standout"></atom:link>
       <description>After the death of his mother, Queen Elizabeth II, Charles will address the nation on Friday afternoon. The country now enters a mourning period that continues until after her funeral.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 13:43:15 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:14:20 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-promo-1am/09queen-elizabeth-carousel-add2-moth.jpg" width="151"></media:content>
       <media:credit>Leon Neal/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
       <description>She ruled for seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
       <dc:creator>Alan Cowell</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 04:05:35 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:07:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -51,11 +51,11 @@
       <description>Once an awkward, self-doubting young man, he comes to the throne, at 73, as a self-assured, gray-haired eminence.</description>
       <dc:creator>Mark Landler</dc:creator>
       <pubDate>Fri, 09 Sep 2022 03:10:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diana, Princess of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowles, Camilla Parker</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -70,7 +70,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky says Kyiv has “liberated” more than a thousand square kilometers of territory this month.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 13:09:44 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:16:59 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09ukraine-briefing-header-4am-ET/09ukraine-briefing-header-4am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Waiting for food distribution at a destroyed apartment complex in Chernihiv, northern Ukraine, on Thursday.</media:description>
@@ -83,9 +83,10 @@
       <description>There is no analogous British figure who will be mourned as deeply, or whose death will provoke a greater reckoning with the identity and future of the country.</description>
       <dc:creator>Mark Landler</dc:creator>
       <pubDate>Fri, 09 Sep 2022 10:47:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08uk-queen-ledeall-6/08uk-queen-ledeall-6-moth.jpg" width="151"></media:content>
       <media:credit>Tim Ireland/Associated Press</media:credit>
       <media:description>Queen Elizabeth II in 2018.</media:description>
@@ -97,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/london-bridge-what-happens-next-queen.html" rel="standout"></atom:link>
       <description>The death of Queen Elizabeth II has set in motion a meticulously choreographed process — known as Operation London Bridge — that the palace, and the nation, has spent decades planning.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 23:32:35 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:05:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
@@ -140,7 +141,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html" rel="standout"></atom:link>
       <description>From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she was always there.” What will Britain, and the world, do without her?</description>
       <dc:creator>Sarah Lyall</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 08:03:42 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:06:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -235,24 +236,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08canada-1/08canada-1-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>A vigil in Prince Albert, Saskatchewan, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
-      <link>https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html" rel="standout"></atom:link>
-      <description>Politicians have failed to form a new government nearly a year after the last elections. Baghdad just saw its worst militia clashes in years. And despite vast oil wealth, the state can’t provide basic services.</description>
-      <dc:creator>Jane Arraf and Emily Garthwaite</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 09:00:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07iraq-failed-state-top/07iraq-failed-state-top-moth.jpg" width="151"></media:content>
-      <media:description>The Central Bank of Iraq, designed by the renowned Iraqi-born architect Zaha Hadid, under construction on the banks of the Tigris River in Baghdad.</media:description>
     </item>
     <item>
       <title>Harry Leaves Balmoral Castle, With Uncertain Plans Ahead</title>
@@ -718,7 +701,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/style/queen-elizabeth-style.html" rel="standout"></atom:link>
       <description>The longest-serving British monarch let her clothes do the talking for her.</description>
       <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 23:32:57 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 13:50:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -866,6 +849,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08china-covid-explainer-01/08china-covid-explainer-01-moth.jpg" width="151"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>Coronavirus testing in Beijing last month. Others may debate whether China’s approach to controlling the virus goes too far, but its leaders are staying with it.</media:description>
+    </item>
+    <item>
+      <title>Iraq’s Instability Deepens Amid Political Paralysis and Clashes</title>
+      <link>https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/middleeast/iraq-failed-state-militias.html" rel="standout"></atom:link>
+      <description>Politicians have failed to form a new government nearly a year after the last elections. Baghdad just saw its worst militia clashes in years. And despite vast oil wealth, the state can’t provide basic services.</description>
+      <dc:creator>Jane Arraf and Emily Garthwaite</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 09:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07iraq-failed-state-top/07iraq-failed-state-top-moth.jpg" width="151"></media:content>
+      <media:description>The Central Bank of Iraq, designed by the renowned Iraqi-born architect Zaha Hadid, under construction on the banks of the Tigris River in Baghdad.</media:description>
     </item>
     <item>
       <title>Climate Change Could Worsen Supply Chain Turmoil</title>

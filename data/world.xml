@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 08:56:25 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 08:52:46 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 09:29:01 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 09:28:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/queen-elizabeth" rel="standout"></atom:link>
       <description>King Charles III will return to London and address the nation on Friday afternoon. The country now enters a mourning period that continues until after her funeral.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 08:52:46 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 09:28:09 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-promo-1am/09queen-elizabeth-carousel-add2-moth.jpg" width="151"></media:content>
       <media:credit>Leon Neal/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -157,7 +157,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky says Kyiv has “liberated” more than a thousand square kilometers of territory this month.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 08:50:10 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 09:15:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09ukraine-briefing-header-4am-ET/09ukraine-briefing-header-4am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Waiting for food distribution at a destroyed apartment complex in Chernihiv, northern Ukraine, on Thursday.</media:description>
@@ -259,6 +259,19 @@
       <media:description>Former President Rodrigo Duterte, who left office in June, faced broad accusations of brutality in his war on drugs. </media:description>
     </item>
     <item>
+      <title>Filthy Plane Videos Ignite Debate About Airline Cleanliness</title>
+      <link>https://www.nytimes.com/2022/09/09/travel/dirty-planes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/travel/dirty-planes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/travel/dirty-planes.html" rel="standout"></atom:link>
+      <description>Recent social media posts suggest that the days of clean flights may be going the way of masks. And they’ve ignited a debate about who bears responsibility.</description>
+      <dc:creator>Heather Murphy</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+    </item>
+    <item>
       <title>Kim Jong-un Says North Korea Will ‘Never Give Up’ Its Nuclear Weapons</title>
       <link>https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</guid>
@@ -316,7 +329,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/energy-prices-europe-austerity.html" rel="standout"></atom:link>
       <description>The standoff with Russia over Ukraine and rising energy prices are rapidly overturning European economic orthodoxy, with barely a peep of dissent.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 04:01:09 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 09:15:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
@@ -334,6 +347,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09eu-energy-2/09eu-energy-2-moth.jpg" width="151"></media:content>
       <media:credit>Andreas Rentz/Getty Images</media:credit>
       <media:description>Chancellor Olaf Scholz of Germany, center, at a Siemens Energy plant in Muelheim an der Ruhr, last month.</media:description>
+    </item>
+    <item>
+      <title>Meghan and Harry’s children could now inherit royal titles.</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/archie-lilibet-titles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/archie-lilibet-titles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/archie-lilibet-titles.html" rel="standout"></atom:link>
+      <description>Now that their grandfather is king — and if the royal family adheres to convention — the children of the Duke and Duchess of Sussex should become Prince Archie and Princess Lilibet.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 09:18:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mountbatten-Windsor, Lilibet Diana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Archie, Earl of Dumbarton</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/08queen-elizabeth-archie-lilibet-01/08queen-elizabeth-archie-lilibet-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Matt Dunham</media:credit>
+      <media:description>Prince Harry and his wife, Meghan, the Duchess of Sussex, during the queen’s Platinum Jubilee celebrations in London in June.</media:description>
     </item>
     <item>
       <title>In a Divided Britain, Near Unity in Admiration of the Queen</title>
@@ -1028,46 +1059,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-    </item>
-    <item>
-      <title>China’s ‘Zero Covid’ Bind: No Easy Way Out Despite the Cost</title>
-      <link>https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/world/asia/china-covid-lockdown.html" rel="standout"></atom:link>
-      <description>From vaccines to propaganda, Beijing has prioritized politics over science, creating conditions that make it difficult for China to join other countries in adapting to life with the coronavirus.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 14:30:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07china-covid/merlin_212307567_3d7ca33b-d9f7-463e-8fbd-59c0a3c8e0bc-moth.jpg" width="151"></media:content>
-      <media:credit>Wu Hao/EPA, via Shutterstock</media:credit>
-      <media:description>Covid testing in Chengdu, China, last week. The government locked down the 21 million residents of the city, one of country’s biggest and most economically important, this month. </media:description>
-    </item>
-    <item>
-      <title>E.U. Weighs Russian Gas Price Cap Amid ‘Astronomic’ Energy Prices</title>
-      <link>https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/eu-russia-gas-price-cap.html" rel="standout"></atom:link>
-      <description>The bloc is also considering mandatory cuts in electricity use and taxes on oil and gas companies.</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Wed, 07 Sep 2022 15:04:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-europe-gas/07ukraine-briefing-europe-gas-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Manzyuk/Reuters</media:credit>
-      <media:description>A Gazprom processing plant in the Orenburg region of Russia on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

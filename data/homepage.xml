@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 15:14:57 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 15:03:52 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 15:45:01 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 15:44:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -66,7 +66,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war/ukraine-says-it-has-regained-ground-in-the-kharkiv-region" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said Ukrainian forces have ‘liberated’ more than a thousand square kilometers of territory this month.</description>
       <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 11:46:29 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 15:36:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milley, Mark A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro (Ukraine)</category>
@@ -112,13 +112,16 @@
       <description>The Justice Department asked a judge to hold off on enacting key parts of her order, including a temporary ban on its ability to use files seized from former President Donald J. Trump in its inquiry.</description>
       <dc:creator>Glenn Thrush, Alan Feuer and Charlie Savage</dc:creator>
       <pubDate>Fri, 09 Sep 2022 01:17:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/us/politics/08dc-investigate/08dc-investigate-moth.jpg" width="151"></media:content>
       <media:credit>Josh Ritchie for The New York Times</media:credit>
       <media:description>The Justice Department is barred for now from using a trove of documents seized in a search of former President Donald J. Trump’s Mar-a-Lago residence and club in Florida.</media:description>
@@ -304,11 +307,11 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/sports/tennis/jabeur-swiatek-us-open-finals.html" rel="standout"></atom:link>
       <description>Top-ranked Swiatek will play for her third Grand Slam title. Jabeur, who lost this year’s Wimbledon final, will get another chance to win her first major title.</description>
       <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 12:28:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swiatek, Iga (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jabeur, Ons</category>
+      <pubDate>Fri, 09 Sep 2022 15:27:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jabeur, Ons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swiatek, Iga (2001- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Caroline (1993- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sabalenka, Aryna</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/multimedia/09usopen-swiatek2/09usopen-swiatek2-moth.jpg" width="151"></media:content>
@@ -434,7 +437,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/opinion/plasma-donation-poverty.html" rel="standout"></atom:link>
       <description>The world’s blood banks are filled with “donations” from America’s poor.</description>
       <dc:creator>Vanessa Veselka</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 09:00:09 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 15:34:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Donation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Minimum Wage</category>
@@ -559,7 +562,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/science/09SCI-SPAINHENGE1/09SCI-SPAINHENGE1-moth.jpg" width="151"></media:content>
-      <media:credit>Pierre-Philippe Marcou/Agence France-Presse — Getty Images</media:credit>
+      <media:credit>Pierre-Philippe Marcou/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>The Dolmen of Guadalperal, a megalithic archaeological site exposed by drought at the Valdecañas reservoir in western Spain.</media:description>
     </item>
     <item>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 14:03:26 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Sep 2022 13:53:09 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2022 14:34:47 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2022 14:32:24 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html" rel="standout"></atom:link>
       <description>From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she was always there.” What will Britain, and the world, do without her?</description>
       <dc:creator>Sarah Lyall</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 08:03:42 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:06:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -36,13 +36,12 @@
       <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
       <description>She ruled for seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
       <dc:creator>Alan Cowell</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 04:05:35 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:08:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
       <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
       <media:description>Queen Elizabeth II in 2012.</media:description>
@@ -114,11 +113,15 @@
       <dc:creator>Alan Feuer, Maggie Haberman, Adam Goldman and Kenneth P. Vogel</dc:creator>
       <pubDate>Fri, 09 Sep 2022 04:52:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Save America PAC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/us/politics/08dc-jan6/08dc-jan6-moth.jpg" width="151"></media:content>
@@ -212,7 +215,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/business/china-covid-zero-xi-jinping.html" rel="standout"></atom:link>
       <description>Because of Xi Jinping’s unrelenting policy, the Chinese people put up with a precarious existence filled with lockdowns, quarantines and mass testing.</description>
       <dc:creator>Li Yuan</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 09:18:36 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 14:10:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
@@ -220,9 +223,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/business/09newworld-1/09newworld-1-moth.jpg" width="151"></media:content>
-      <media:credit>Wu Hao/EPA, via Shutterstock</media:credit>
-      <media:description>A line to be tested for the coronavirus in Chongqing, China, last week.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/business/09newworld-illo/09newworld-illo-moth.jpg" width="151"></media:content>
+      <media:credit>Xinmei Liu</media:credit>
     </item>
     <item>
       <title>China’s Zero-Covid Approach Explained as Chengdu Lockdown Is Extended</title>
@@ -323,15 +325,10 @@
       <dc:creator>Serge Schmemann</dc:creator>
       <pubDate>Thu, 08 Sep 2022 21:26:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>Mourn the Queen, Not Her Empire</title>
@@ -569,7 +566,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/business/09strategies-01sub/merlin_207550710_7ba4881d-6d43-4765-8d99-645e3bdc9040-moth.jpg" width="151"></media:content>
       <media:credit>Ann Wang/Reuters</media:credit>
-      <media:description>Two wafers containing hundreds of silicon chips at the Taiwan Semiconductor Research Institute in Hsinchu. Taiwan is a colossus in the global market for semiconductors, the brains of modern electronics.</media:description>
+      <media:description>Two wafers containing silicon chips at the Taiwan Semiconductor Research Institute in Hsinchu. Taiwan is a colossus in the global market for semiconductors, the brains of modern electronics.</media:description>
     </item>
     <item>
       <title>After Long Brawl, South Carolina Senate Approves More Abortion Restrictions</title>

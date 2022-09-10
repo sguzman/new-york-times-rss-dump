@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 15:52:38 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 15:43:54 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 16:15:35 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 16:14:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/10/us/trump-lawyers-legal-exposure.html" rel="standout"></atom:link>
       <description>The many lawyers who have helped the former president avoid removal from office and indictment have drawn legal problems of their own.</description>
       <dc:creator>Michael S. Schmidt and Luke Broadwater</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 14:54:06 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 15:59:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -212,7 +212,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/10/business/economy/guaranteed-income.html" rel="standout"></atom:link>
       <description>Since 2020, four dozen pilot programs have started, with Los Angeles running one of the largest to provide cash assistance.</description>
       <dc:creator>Kurtis Lee</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 07:00:09 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 07:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockton (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tubbs, Michael</category>
@@ -290,22 +290,20 @@
       <media:description>Bragg Memorial Stadium in Tallahassee, Fla., is the home of Florida A&amp;M football.</media:description>
     </item>
     <item>
-      <title>The Disappearing World of Wolfgang Tillmans</title>
-      <link>https://www.nytimes.com/2022/09/08/arts/design/moma-wolfgang-tillmans-review.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/arts/design/moma-wolfgang-tillmans-review.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/arts/design/moma-wolfgang-tillmans-review.html" rel="standout"></atom:link>
-      <description>His informal, generous pictures were some of the most moving art of the 1990s. Now, at MoMA, time catches up with the German photographer.</description>
-      <dc:creator>Jason Farago</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 19:55:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillmans, Wolfgang</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of Modern Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/arts/08tillmans-art-review-install1/08tillmans-art-review-install1-moth.jpg" width="151"></media:content>
-      <media:credit>Lila Barth for The New York Times</media:credit>
-      <media:description>A gallery with arranged works by Wolfgang Tillmans in “To Look Without Fear” at MoMA, opening Monday. Left, “blue self-portrait shadow” (2020); “Concrete Column” (2021); “Silver 270” (2012), and “Paper Drop Novo” (2022).</media:description>
+      <title>The Case for Clover Lawns, the Environmentally Friendly Alternative to Grass</title>
+      <link>https://www.nytimes.com/2022/09/10/realestate/clover-grass-lawns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/realestate/clover-grass-lawns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/realestate/clover-grass-lawns.html" rel="standout"></atom:link>
+      <description>Amid droughts and extreme heat, people are welcoming clover into their lawns, an alternative to the purely grass lawn, helping them save water and money.</description>
+      <dc:creator>Anna P. Kambhampaty</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weeds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lawns</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/realestate/10cloverlawns/merlin_211981503_0780ac3e-f08c-40cc-9da2-43ddadd2fd38-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Mary for The New York Times</media:credit>
+      <media:description>For homeowners trying to maintain pleasant lawns, clover can be a less expensive and more resilient alternative to grass.</media:description>
     </item>
     <item>
       <title>Censorship Is the Refuge of the Weak</title>
@@ -410,13 +408,13 @@
       <media:credit>Josie Norton</media:credit>
     </item>
     <item>
-      <title>Tina Brown: Queen Elizabeth II Loved Her Job</title>
+      <title>Tina Brown: Queen Elizabeth II Understood the Weight of the Crown</title>
       <link>https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html" rel="standout"></atom:link>
       <description>Without the queen, how will anyone know how to be British anymore?</description>
       <dc:creator>Tina Brown</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 23:53:47 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 15:54:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 15:32:37 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 15:28:43 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 15:52:38 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 15:43:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -308,6 +308,25 @@
       <media:description>A gallery with arranged works by Wolfgang Tillmans in “To Look Without Fear” at MoMA, opening Monday. Left, “blue self-portrait shadow” (2020); “Concrete Column” (2021); “Silver 270” (2012), and “Paper Drop Novo” (2022).</media:description>
     </item>
     <item>
+      <title>Censorship Is the Refuge of the Weak</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html" rel="standout"></atom:link>
+      <description>Republicans across the country are trying to use the power of the state to restrict free speech.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 15:21:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN American Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10speech/10speech-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Rebecca Chew/The New York Times; photographs by chictype and Sezeryadigar, via Getty Images</media:credit>
+    </item>
+    <item>
       <title>Charles in Charge</title>
       <link>https://www.nytimes.com/2022/09/10/opinion/king-charles-queen-elizabeth-princess-diana.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/king-charles-queen-elizabeth-princess-diana.html</guid>
@@ -346,21 +365,6 @@
       <media:description>Britain’s King Charles III and Queen Camilla at Buckingham Palace.</media:description>
     </item>
     <item>
-      <title>Tina Brown: Queen Elizabeth II Loved Her Job</title>
-      <link>https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html" rel="standout"></atom:link>
-      <description>Without the queen, how will anyone know how to be British anymore?</description>
-      <dc:creator>Tina Brown</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 23:53:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Palace Papers: Inside the House of Windsor -- the Truth and the Turmoil (Book)</category>
-    </item>
-    <item>
       <title>What John Donne Knew About Death Can Teach Us a Lot About Life</title>
       <link>https://www.nytimes.com/2022/09/10/opinion/john-donne-death.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/john-donne-death.html</guid>
@@ -368,7 +372,7 @@
       <description>He thought humans a disaster, the most spectacular disaster there has ever been.</description>
       <dc:creator>Katherine Rundell</dc:creator>
       <pubDate>Sat, 10 Sep 2022 11:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Donne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donne, John</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10rundell/10rundell-moth.jpg" width="151"></media:content>
@@ -406,6 +410,21 @@
       <media:credit>Josie Norton</media:credit>
     </item>
     <item>
+      <title>Tina Brown: Queen Elizabeth II Loved Her Job</title>
+      <link>https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html" rel="standout"></atom:link>
+      <description>Without the queen, how will anyone know how to be British anymore?</description>
+      <dc:creator>Tina Brown</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 23:53:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Palace Papers: Inside the House of Windsor -- the Truth and the Turmoil (Book)</category>
+    </item>
+    <item>
       <title>What My Family and I Saw When We Were Trapped in China’s Heat Wave</title>
       <link>https://www.nytimes.com/2022/09/09/opinion/international-world/china-heat-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/international-world/china-heat-climate.html</guid>
@@ -422,23 +441,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/opinion/09bossons/09bossons-moth-v2.jpg" width="151"></media:content>
       <media:credit>Stringer/EPA, via Shutterstock</media:credit>
       <media:description>A dry riverbed last month along the Jialing River, a major tributary of the Yangtze River, in Chongqing, China.</media:description>
-    </item>
-    <item>
-      <title>Buy American? It Gets Complicated.</title>
-      <link>https://www.nytimes.com/2022/09/09/opinion/buy-american-jones-act.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/buy-american-jones-act.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/opinion/buy-american-jones-act.html" rel="standout"></atom:link>
-      <description>Consider the pros and cons of the Jones Act.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 19:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/opinion/09coy-image/09coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times; image by DStarky via Getty</media:credit>
     </item>
     <item>
       <title>TV’s Prequel-Mania</title>

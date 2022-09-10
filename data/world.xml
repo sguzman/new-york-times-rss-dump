@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 15:22:35 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 15:22:33 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 15:43:03 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 15:29:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,7 +88,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/10/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Russia’s Defense Ministry confirmed its forces had withdrawn from Izium. Ukraine’s lightning offensive in the northeast has reshaped what had become a grinding war of attrition.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 15:19:35 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 15:29:55 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/multimedia/10ukraine-briefing-header-7am/10ukraine-briefing-header-7am-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service member Viktor, embraces with Yuliia Safonova before signing their marriage papers at the Civil Registry Office in Kyiv, Ukraine, on Saturday.</media:description>
@@ -342,6 +342,15 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09CANADA-LETTER-BURNS2/merlin_212515203_35b1ec85-4fa9-4747-8dad-d0aa78b45be9-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>Darryl Burns and others in his family spoke up about problems in their First Nations community.</media:description>
+    </item>
+    <item>
+      <title>These maps show how Ukraine is rapidly advancing around Izium.</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Marco Hernandez, Josh Holder and Marc Santora</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 08:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Why the U.S. Is Being Ominously Compared to Hungary and Turkey</title>
@@ -987,31 +996,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/27/world/08ukraine-briefing-iran-drones-sanctions-1/27IranDrone01-moth.jpg" width="151"></media:content>
       <media:credit>Iranian Army Office, via Agence France-Presse—Getty Images</media:credit>
       <media:description>A photo released by the Iranian Army shows drones in an underground base in July. Russia received its first delivery of Iranian drones in late August.</media:description>
-    </item>
-    <item>
-      <title>Blinken’s Surprise Visit to Ukraine Offers Aid and Encouragement</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/kyiv-blinken-ukraine-zelensky.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/kyiv-blinken-ukraine-zelensky.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/kyiv-blinken-ukraine-zelensky.html" rel="standout"></atom:link>
-      <description>At a “pivotal moment” as a counteroffensive makes gains, the secretary of state pledged $2.8 billion more in military aid to Ukraine and allies.</description>
-      <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 03:08:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, William J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08ukraine-ledeall-1/08ukraine-ledeall-1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Genya Savilov</media:credit>
-      <media:description>Secretary of State Antony Blinken visiting the devastated city of Irpin during his surprise trip to Ukraine Thursday.</media:description>
     </item>
   </channel>
 </rss>

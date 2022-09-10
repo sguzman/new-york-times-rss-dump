@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 15:43:03 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 15:29:55 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 16:28:47 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 16:28:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: Charles Is Officially Proclaimed U.K. King</title>
+      <title>Updates: Queen’s Funeral Set for Sept. 19 at Westminster Abbey</title>
       <link>https://www.nytimes.com/live/2022/09/10/world/queen-elizabeth-king-charles</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/10/world/queen-elizabeth-king-charles</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/10/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
-      <description>In a ceremony in London, a group of the monarch’s advisers proclaimed King Charles III Britain’s new sovereign. “I am deeply aware of this great inheritance,” he said.</description>
+      <description>In a ceremony in London, a group of the monarch’s advisers officially proclaimed King Charles III Britain’s new sovereign. “I am deeply aware of this great inheritance,” he said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 15:22:33 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 16:28:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-blog-king-update/10queen-blog-king-update-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Victoria Jones</media:credit>
     </item>
@@ -88,7 +88,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/10/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Russia’s Defense Ministry confirmed its forces had withdrawn from Izium. Ukraine’s lightning offensive in the northeast has reshaped what had become a grinding war of attrition.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 15:29:55 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 16:20:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/multimedia/10ukraine-briefing-header-7am/10ukraine-briefing-header-7am-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service member Viktor, embraces with Yuliia Safonova before signing their marriage papers at the Civil Registry Office in Kyiv, Ukraine, on Saturday.</media:description>
@@ -151,14 +151,11 @@
       <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-queen-elizabeth.html" rel="standout"></atom:link>
       <description>On a day of mourning in Britain after the death of Queen Elizabeth, Charles’s ascent to the throne was a symbol of the continuity of the monarchy.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 07:28:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">King&#39;s College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oxford University</category>
+      <pubDate>Sat, 10 Sep 2022 07:28:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09Queen-Ledeall-Top/09Queen-Ledeall-Top-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
@@ -240,6 +237,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
       <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
       <media:description>Queen Elizabeth II in 2012.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s Funeral Will Be on Sept. 19 at Westminster Abbey</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html" rel="standout"></atom:link>
+      <description>On Sunday, Elizabeth’s coffin will be carried from Balmoral Castle, in the Scottish Highlands, on a roundabout, six-hour journey to Edinburgh, via Aberdeen.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 15:58:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palace of Westminster (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
     </item>
     <item>
       <title>Thousands of Sunflowers: Mourners Pay Tribute to Queen Elizabeth at Windsor Castle</title>
@@ -344,13 +354,13 @@
       <media:description>Darryl Burns and others in his family spoke up about problems in their First Nations community.</media:description>
     </item>
     <item>
-      <title>These maps show how Ukraine is rapidly advancing around Izium.</title>
-      <link>https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html" rel="standout"></atom:link>
+      <title>In an ancient ceremony with a modern twist, King Charles III is formally proclaimed to his new role.</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Marco Hernandez, Josh Holder and Marc Santora</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 08:11:55 +0000</pubDate>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 12:55:11 +0000</pubDate>
     </item>
     <item>
       <title>Why the U.S. Is Being Ominously Compared to Hungary and Turkey</title>
@@ -382,8 +392,6 @@
       <pubDate>Sat, 10 Sep 2022 00:50:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
@@ -471,13 +479,13 @@
       <description>Though mourning and grief were visible in Britain’s capital on Friday, some young Britons were more muted in their reaction to an institution that many called increasingly irrelevant.</description>
       <dc:creator>Emma Bubola, Isabella Kwai and Saskia Solomon</dc:creator>
       <pubDate>Fri, 09 Sep 2022 17:39:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09QueenScene01/09QueenScene01-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>A portrait of Queen Elizabeth is displayed at Victoria Station in London.</media:description>
@@ -799,20 +807,19 @@
       <description>The standoff with Russia over Ukraine and rising energy prices are rapidly overturning European economic orthodoxy, with barely a peep of dissent.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
       <pubDate>Fri, 09 Sep 2022 14:36:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09eu-energy-2/09eu-energy-2-moth.jpg" width="151"></media:content>
       <media:credit>Andreas Rentz/Getty Images</media:credit>
       <media:description>Chancellor Olaf Scholz of Germany, center, at a Siemens Energy plant in Muelheim an der Ruhr, last month.</media:description>
@@ -984,18 +991,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/multimedia/09amasia-nl-queen01/09amasia-nl-queen01-moth.jpg" width="151"></media:content>
       <media:credit>Eddie Mulholland/Agence France-Presse, via Pool/AFP Via Getty Images</media:credit>
       <media:description>Queen Elizabeth II was the longest-serving monarch in British history.</media:description>
-    </item>
-    <item>
-      <title>The U.S. announces sanctions on Iranian companies involved in Russia drone sales.</title>
-      <link>https://www.nytimes.com/2022/09/09/world/europe/08ukraine-briefing-iran-drones-sanctions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/08ukraine-briefing-iran-drones-sanctions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/08ukraine-briefing-iran-drones-sanctions.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 06:10:16 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/27/world/08ukraine-briefing-iran-drones-sanctions-1/27IranDrone01-moth.jpg" width="151"></media:content>
-      <media:credit>Iranian Army Office, via Agence France-Presse—Getty Images</media:credit>
-      <media:description>A photo released by the Iranian Army shows drones in an underground base in July. Russia received its first delivery of Iranian drones in late August.</media:description>
     </item>
   </channel>
 </rss>

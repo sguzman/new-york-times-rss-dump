@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 13:50:48 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 13:49:47 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 14:17:15 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 14:14:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/10/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
       <description>In a ceremony in London, a group of the monarch’s advisers proclaimed King Charles III Britain’s new sovereign. “I am deeply aware of this great inheritance,” he said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 13:49:47 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 14:14:51 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-blog-king-update/10queen-blog-king-update-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Victoria Jones</media:credit>
     </item>
@@ -75,7 +75,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Kenya</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10kenya-ruto-1/10kenya-ruto-1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Irungu/EPA, via Shutterstock</media:credit>
-      <media:description>President-elect William Ruto addressed supporters last week after the Supreme Court upheld his victory in the Aug. 9 election, at his official residence in Karen, Nairobi. </media:description>
+      <media:description>President-elect William Ruto addressed supporters Monday after the Supreme Court upheld his victory in the Aug. 9 election, at his official residence in Karen, Nairobi. </media:description>
     </item>
     <item>
       <title>Ukrainian Forces Advance on Key City in Northeastern Offensive</title>
@@ -220,6 +220,46 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
       <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
       <media:description>Queen Elizabeth II in 2012.</media:description>
+    </item>
+    <item>
+      <title>Gun Violence Epidemic Looms Over Swedish Election</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html" rel="standout"></atom:link>
+      <description>The far right has made strides by tying the longstanding issue to immigration, while Sweden’s center-left party is blaming it on failed integration to fight an exceptionally tight race.</description>
+      <dc:creator>Isabella Kwai and Amela Mahovic</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 14:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersson, Magdalena (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockholm (Sweden)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11sweden-guns1/11sweden-guns1-moth.jpg" width="151"></media:content>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <media:description>Susanna Yakes showing a stuffed animal that belonged to her daughter Adriana, who was 12 when she was shot and killed in Stockholm in 2020.</media:description>
+    </item>
+    <item>
+      <title>‘Glorious’ Hero or ‘Deplorable’ Traitor? Pétain’s Legacy Haunts French Island</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html" rel="standout"></atom:link>
+      <description>Philippe Pétain, who led France to victory in World War I and then collaborated with the Nazis, is buried on a small island, where his grave is the site of bitter debates over his legacy.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 13:59:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petain, Philippe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War I (1914-18)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zemmour, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10france-petain-dispatch-promo/10france-petain-dispatch-7-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
     </item>
     <item>
       <title>TV’s Prequel-Mania</title>
@@ -963,22 +1003,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10Queen-Photo-Update-01/10queen-charles-repupd-moth-v2.jpg" width="151"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>King Charles III speaking on Saturday during a meeting of the Accession Council at St. James’s Palace in London. With him are his eldest son, Prince William; Camilla, the queen consort, second from left; and Penny Mordaunt, right, a member of Parliament who presided over the ceremony as lord president of the council.</media:description>
-    </item>
-    <item>
-      <title>President Biden Remembers Queen Elizabeth II Who ‘Defined an Era’</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/biden-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/biden-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/biden-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>Biden first met Queen Elizabeth in 1982 during a trip to Britain as a young senator. His most recent meeting came about a year ago, in Cornwall, England.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 23:46:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/08queen-elizabeth-live-biden-2/08queen-elizabeth-live-biden-2-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>President Biden and Queen Elizabeth II last year at Windsor Castle outside London.</media:description>
     </item>
   </channel>
 </rss>

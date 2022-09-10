@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 19:09:25 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Sep 2022 19:00:44 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 19:23:57 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 19:19:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/ukraine-izium-russia.html" rel="standout"></atom:link>
       <description>For months, Russia used the city of Izium as a way station to resupply and reinforce its troops in their campaign to seize the eastern Donbas region. With a northern offensive, Ukraine has retaken the city.</description>
       <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 18:49:07 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 19:19:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
@@ -299,7 +299,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN American Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10speech/10speech-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10speech/10speech-moth-v2.jpg" width="151"></media:content>
       <media:credit>Illustration by Rebecca Chew/The New York Times; photographs by chictype and Sezeryadigar, via Getty Images</media:credit>
     </item>
     <item>
@@ -318,6 +318,47 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/10Dowd/10Dowd-moth-v2.jpg" width="151"></media:content>
       <media:credit> Pool photo by Bob Dear, via Associated Press</media:credit>
       <media:description>Queen Elizabeth II followed by Princess Diana, the Princess of Wales and Prince Charles, the Prince of Wales, arrive for the State Opening of Parliament in London on Tuesday, Nov. 6, 1984.</media:description>
+    </item>
+    <item>
+      <title>The Ukraine War’s Decisive Season</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/ukraine-war-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/ukraine-war-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/ukraine-war-europe.html" rel="standout"></atom:link>
+      <description>We will soon see if European resolve holds up.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 19:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10douthat1/10douthat1-moth.jpg" width="151"></media:content>
+      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>9/11 Was Rudy Giuliani’s Triumph and His Undoing</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html" rel="standout"></atom:link>
+      <description>“America’s Mayor” finds himself alone.</description>
+      <dc:creator>Andrew Kirtzman</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 15:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Giuliani Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10kirtzman--slide-QXJT/10kirtzman--slide-QXJT-moth.jpg" width="151"></media:content>
+      <media:credit>Robert F. Bukaty/Associated Press</media:credit>
+      <media:description>As mayor of New York, Rudolph Giuliani led Gov. George Pataki and Senator Hillary Clinton on a tour of the site of the World Trade Center the day after the Sept. 11 attack in 2001.</media:description>
     </item>
     <item>
       <title>Democrats Didn’t Conjure Up the Demand for MAGA Candidates</title>
@@ -339,39 +380,6 @@
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
     </item>
     <item>
-      <title>9/11 Was Rudy Giuliani’s Triumph and His Undoing</title>
-      <link>https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html" rel="standout"></atom:link>
-      <description>“America’s Mayor” finds himself alone.</description>
-      <dc:creator>Andrew Kirtzman</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 15:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Giuliani Partners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10kirtzman--slide-QXJT/10kirtzman--slide-QXJT-moth.jpg" width="151"></media:content>
-      <media:credit>Robert F. Bukaty/Associated Press</media:credit>
-      <media:description>As mayor of New York, Rudolph Giuliani led Gov. George Pataki and Senator Hillary Clinton on a tour of the site of the World Trade Center the day after the Sept. 11 attack in 2001.</media:description>
-    </item>
-    <item>
-      <title>The Treasure America Scavenges From the Poor</title>
-      <link>https://www.nytimes.com/2022/09/09/opinion/plasma-donation-poverty.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/plasma-donation-poverty.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/opinion/plasma-donation-poverty.html" rel="standout"></atom:link>
-      <description>The world’s blood banks are filled with “donations” collected in the United States.</description>
-      <dc:creator>Vanessa Veselka</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 01:42:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Donation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/opinion/sunday/09Veselka-03/09Veselka-03-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Antoine Cossé</media:credit>
-    </item>
-    <item>
       <title>The Royal Grief You Will Not See</title>
       <link>https://www.nytimes.com/2022/09/09/opinion/queen-public-grief.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/queen-public-grief.html</guid>
@@ -389,19 +397,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/09davis1/09davis1-moth-v2.jpg" width="151"></media:content>
       <media:credit>John Sibley/Reuters</media:credit>
       <media:description>Britain’s King Charles III and Queen Camilla at Buckingham Palace.</media:description>
-    </item>
-    <item>
-      <title>Tina Brown: Queen Elizabeth II Understood the Weight of the Crown</title>
-      <link>https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/opinion/queen-elizabeth-tina-brown.html" rel="standout"></atom:link>
-      <description>Without the queen, how will anyone know how to be British anymore?</description>
-      <dc:creator>Tina Brown</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 15:54:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>How to Address the Child Therapist Shortage</title>

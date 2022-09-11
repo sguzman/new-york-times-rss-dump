@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 15:14:45 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 15:14:15 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 15:34:24 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 15:19:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -126,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
       <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: Build sources, chase leads, and leave nobody safe from accountability.</description>
       <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 12:15:00 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 15:19:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
@@ -190,6 +190,43 @@
       <media:description>Whoever wins will rise to the top spot for the first time: an unprecedented scenario in a major final since the ATP computer rankings were created in 1973.</media:description>
     </item>
     <item>
+      <title>Here Are Some of the Photographs of 9/11</title>
+      <link>https://www.nytimes.com/2021/09/11/us/9-11-photos-images.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/11/us/9-11-photos-images.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/11/us/9-11-photos-images.html" rel="standout"></atom:link>
+      <description>Photographers reflect on shooting the terrorist attacks of 9/11 and their aftermath.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 12 Sep 2021 20:41:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/12/multimedia/00anniv911-photoreflections7/00anniv911-photoreflections7-moth.jpg" width="151"></media:content>
+      <media:credit>Krista Niles/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Rebuilding Ground Zero Was a Mess. Lower Manhattan Bloomed Anyway.</title>
+      <link>https://www.nytimes.com/2021/09/08/arts/design/9-11-anniversary-lower-manhattan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/08/arts/design/9-11-anniversary-lower-manhattan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/08/arts/design/9-11-anniversary-lower-manhattan.html" rel="standout"></atom:link>
+      <description>A fraught reconstruction was a missed opportunity, but it helped foster a new urbanism and a broader vision of what a neighborhood can be.</description>
+      <dc:creator>Michael Kimmelman</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 15:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National September 11 Memorial and Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Financial District (Manhattan, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/30/arts/00anniv911-kimmelman1/merlin_193770798_e9a9f8fb-774c-4068-8c27-fff904ed75b1-moth.jpg" width="151"></media:content>
+      <media:credit>George Etheredge for The New York Times</media:credit>
+      <media:description>A view of Lower Manhattan from the Brooklyn Bridge.</media:description>
+    </item>
+    <item>
       <title>Russell Wilson Spreads His Football Gospel to the Broncos</title>
       <link>https://www.nytimes.com/2022/09/10/sports/football/russell-wilson-denver-broncos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/sports/football/russell-wilson-denver-broncos.html</guid>
@@ -231,23 +268,6 @@
       <pubDate>Thu, 08 Sep 2022 14:18:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
-    </item>
-    <item>
-      <title>Just Bread and Noodles: China’s Covid Lockdown Distress Hits Xinjiang</title>
-      <link>https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html" rel="standout"></atom:link>
-      <description>With lack of food, medicine and other crucial supplies, residents of Yining are chafing under a monthlong pandemic shutdown.</description>
-      <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 04:56:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11xinjiang-covid1/11xinjiang-covid1-moth.jpg" width="151"></media:content>
-      <media:credit>China News Service, via Reuters</media:credit>
-      <media:description>Residents at a fruit stall last week in Urumqi, the capital of the Xinjiang region of China, in a photo provided by China News Service. People in Yining have complained they can’t get produce amid a long lockdown there.</media:description>
     </item>
     <item>
       <title>Shakespeare or Bieber? This Canadian City Draws Devotees of Both</title>
@@ -465,6 +485,23 @@
       <media:credit>Christopher Testani for The New York Times. Food Stylist: Monica Pierini.</media:credit>
     </item>
     <item>
+      <title>Just Bread and Noodles: China’s Covid Lockdown Distress Hits Xinjiang</title>
+      <link>https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html" rel="standout"></atom:link>
+      <description>With lack of food, medicine and other crucial supplies, residents of Yining are chafing under a monthlong pandemic shutdown.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 04:56:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11xinjiang-covid1/11xinjiang-covid1-moth.jpg" width="151"></media:content>
+      <media:credit>China News Service, via Reuters</media:credit>
+      <media:description>Residents at a fruit stall last week in Urumqi, the capital of the Xinjiang region of China, in a photo provided by China News Service. People in Yining have complained they can’t get produce amid a long lockdown there.</media:description>
+    </item>
+    <item>
       <title>Fed’s Exit Puts World’s Biggest Bond Market on Shakier Ground</title>
       <link>https://www.nytimes.com/2022/09/11/business/fed-treasury-market.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/business/fed-treasury-market.html</guid>
@@ -511,25 +548,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11pakistan-1/11pakistan-1-moth.jpg" width="151"></media:content>
       <media:credit>Fareed Khan/Associated Press</media:credit>
       <media:description>Navigating floodwaters in the Dadu district of Sindh Province, of Pakistan, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Chinese Drones: The Latest Irritant Buzzing Taiwan’s Defenses</title>
-      <link>https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html" rel="standout"></atom:link>
-      <description>Drones are increasingly testing Taiwan’s capacity to respond to China&#39;s growing military pressure. Soldiers shot one down recently and are ramping up defenses.</description>
-      <dc:creator>Jane Perlez and Amy Chang Chien</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 07:48:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xiamen (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/00China-taiwan-drones-01/00China-taiwan-drones-01-moth.jpg" width="151"></media:content>
-      <media:credit>Wu Hong/EPA, via Shutterstock</media:credit>
-      <media:description>A drone being paraded through Tiananmen Square in Beijing in 2019.</media:description>
     </item>
     <item>
       <title>Marsha Hunt, Actress Turned Activist, Is Dead at 104</title>

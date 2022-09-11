@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 12:40:06 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 12:36:07 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 13:20:49 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 13:16:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Ukrainian military was poised to advance on more towns held by Russians after days of fighting that have reshaped the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 12:30:55 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 12:56:31 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-blog-header1am/11ukraine-blog-header1am-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>Soldiers walking by destroyed armored vehicles in Balakliya, in the Kharkiv region of Ukraine on Saturday, as Russian forces retreated.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
       <description>The royal family will gather for ceremonies in Scotland before the coffin is flown to London on Tuesday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 12:36:07 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 13:16:47 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-blog-carousel-5/merlin_212825178_78fc4111-4db3-40bd-a34b-9878ce2404dd-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
     </item>
@@ -44,7 +44,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html" rel="standout"></atom:link>
       <description>The flooding has crippled Pakistan’s agricultural sector, battering the country as it reels from an economic crisis and double-digit inflation that has sent the price of basics soaring.</description>
       <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 08:43:11 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 08:43:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
@@ -356,12 +356,14 @@
       <dc:creator>Thomas Gibbons-Neff and Marc Santora</dc:creator>
       <pubDate>Sun, 11 Sep 2022 04:18:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10Ukraine-Ledeall01b/10Ukraine-Ledeall01b-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>A Ukrainian fighter atop a tank in Kharkiv, in northeastern Ukraine, on Friday.</media:description>
@@ -394,13 +396,15 @@
       <description>Russian bloggers reporting from the front line provide a uniquely less-censored view of the war. But as Russia’s military flails, these once vocal supporters are exposing its flaws, lies and all.</description>
       <dc:creator>Anton Troianovski</dc:creator>
       <pubDate>Sun, 11 Sep 2022 04:19:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-russia1/10ukraine-russia1-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>A destroyed Russian military vehicle in Balakliya, in the eastern Kharkiv region, on Saturday.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 12:23:49 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 12:16:26 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 13:06:32 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 13:03:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,13 +22,14 @@
       <description>Russian bloggers reporting from the front line provide a uniquely less-censored view of the war. But as Russia’s military flails, these once vocal supporters are exposing its flaws, lies and all.</description>
       <dc:creator>Anton Troianovski</dc:creator>
       <pubDate>Sun, 11 Sep 2022 04:19:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-russia1/10ukraine-russia1-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>A destroyed Russian military vehicle in Balakliya, in the eastern Kharkiv region, on Saturday.</media:description>
@@ -58,7 +59,34 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html" rel="standout"></atom:link>
       <description>New York’s Hasidic Jewish religious schools have benefited from $1 billion in government funding in the last four years but are unaccountable to outside oversight.</description>
       <dc:creator>Eliza Shapiro, Brian M. Rosenthal and Jonah Markowitz</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 08:43:20 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 12:56:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yiddish Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Talmudical Academy (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeshiva Kehilath Yakov (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moster, Naftuli</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/16/nyregion/00yeshivas-promo/00yeshivas-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jonah Markowitz for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>חסידישע מוסדות געבן נישט קיין עדיוקעשאן, אבער באקומען א שפע פון רעגירונגס געלטער</title>
+      <link>https://www.nytimes.com/yi/2022/09/11/nyregion/yeshiva-hasidic-schools.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/yi/2022/09/11/nyregion/yeshiva-hasidic-schools.html</guid>
+      <atom:link href="https://www.nytimes.com/yi/2022/09/11/nyregion/yeshiva-hasidic-schools.html" rel="standout"></atom:link>
+      <description>די חסידישע מוסדות אין ניו יארק האבן גענאסן פון 1 ביליאן דאלאר אין רעגירונגס געלטער דורכאויס די לעצטע פיר יאר אבער מוזן קיינעם נישט אפגעבן קיין דין וחשבון וואס מען לערנט ביי זיי</description>
+      <dc:creator>Eliza Shapiro, Brian M. Rosenthal and Jonah Markowitz</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 10:22:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
@@ -114,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/health/alcohol-deaths-taxes.html" rel="standout"></atom:link>
       <description>Alcohol taxes have been stagnant for years. But after the pandemic sent alcohol-related deaths soaring, activists in Oregon said higher taxes could save lives.</description>
       <dc:creator>Ted Alcorn</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 09:00:12 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 12:52:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -296,13 +324,13 @@
       <media:description>A 2022 Ford F-150 Lightning Electric truck in production at the Dearborn Truck Plant in Michigan.</media:description>
     </item>
     <item>
-      <title>Is There Room for Debate in Real Life?</title>
+      <title>How to Argue Well</title>
       <link>https://www.nytimes.com/2022/09/11/opinion/polarization-debate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/opinion/polarization-debate.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/11/opinion/polarization-debate.html" rel="standout"></atom:link>
       <description>A former debating champion offers advice for our polarized moment.</description>
       <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 10:11:54 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 12:57:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Speaking</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/11paul-image/11paul-image-moth.jpg" width="151"></media:content>
@@ -460,7 +488,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html" rel="standout"></atom:link>
       <description>The flooding has crippled Pakistan’s agricultural sector, battering the country as it reels from an economic crisis and double-digit inflation that has sent the price of basics soaring.</description>
       <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 08:43:11 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 08:43:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>

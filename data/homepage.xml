@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 11:49:19 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 11:22:15 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 12:23:49 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 12:16:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,6 +91,23 @@
       <media:description>The Central United Talmudical Academy spans an entire city block in Williamsburg. All its students who took state tests in 2019 failed. At a public school three blocks away, John Wayne Elementary, more than half of students passed.</media:description>
     </item>
     <item>
+      <title>A Slain Reporter, a City of Sin and a Politician Charged With Murder</title>
+      <link>https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
+      <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: Build sources, chase leads, and leave nobody safe from accountability.</description>
+      <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 12:15:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/00vegas-press/00vegas-press-moth.jpg" width="151"></media:content>
+      <media:credit>Bridget Bennett for The New York Times</media:credit>
+      <media:description>The killing of Jeff German, a reporter for The Las Vegas Review-Journal, has rattled and outraged the readers, journalists and sources who had grown to trust his brand of shoe leather reporting. </media:description>
+    </item>
+    <item>
       <title>Rise in Deaths Spurs Effort to Raise Alcohol Taxes</title>
       <link>https://www.nytimes.com/2022/09/11/health/alcohol-deaths-taxes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/health/alcohol-deaths-taxes.html</guid>
@@ -111,25 +128,6 @@
       <media:description>Sonya Grove lost her son, Jon, to an alcohol-related death two years ago.</media:description>
     </item>
     <item>
-      <title>Queen’s Death Leaves UK Grappling With Its Sense of National Identity</title>
-      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html" rel="standout"></atom:link>
-      <description>A figure who embodied Britain, Elizabeth cast long shadow. She leaves behind a country unsettled by domestic crises and anxiety over its place in the world.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 01:46:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10UKQueenTrauma01/10UKQueenTrauma01-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>Laying flowers outside Windsor Castle on Friday in tribute to Queen Elizabeth II.</media:description>
-    </item>
-    <item>
       <title>Iga Swiatek, U.S. Open Winner, Is Ready for Global Stardom</title>
       <link>https://www.nytimes.com/2022/09/10/sports/tennis/us-open-swiatek-jabeur.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/sports/tennis/us-open-swiatek-jabeur.html</guid>
@@ -143,22 +141,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/sports/10usopen-women-ontennis-1/10usopen-women-ontennis-1-moth.jpg" width="151"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Iga Swiatek, who won the French Open earlier this year, beat Ons Jabeur in straight sets to win her first U.S. Open women’s singles title.</media:description>
-    </item>
-    <item>
-      <title>Iga Swiatek Downs Ons Jabeur to Win U.S. Open Women’s Singles Title</title>
-      <link>https://www.nytimes.com/2022/09/10/sports/tennis/swiatek-jabeur-us-open-women-final.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/sports/tennis/swiatek-jabeur-us-open-women-final.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/sports/tennis/swiatek-jabeur-us-open-women-final.html" rel="standout"></atom:link>
-      <description>Swiatek, the world No. 1, beat Jabeur in straight sets to capture her first U.S. Open singles title. It is her third Grand Slam title and first on a surface other than clay.</description>
-      <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 23:08:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swiatek, Iga (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jabeur, Ons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/sports/10usopen-womens-final-win1/10usopen-womens-final-win1-moth.jpg" width="151"></media:content>
-      <media:credit>Desiree Rios/The New York Times</media:credit>
       <media:description>Iga Swiatek, who won the French Open earlier this year, beat Ons Jabeur in straight sets to win her first U.S. Open women’s singles title.</media:description>
     </item>
     <item>
@@ -177,23 +159,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/sports/11usopen-men-preview-dip/11usopen-men-preview-dip-moth.jpg" width="151"></media:content>
       <media:credit>Karsten Moran for The New York Times; Hiroko Masuike/The New York Times</media:credit>
       <media:description>Whoever wins will rise to the top spot for the first time: an unprecedented scenario in a major final since the ATP computer rankings were created in 1973.</media:description>
-    </item>
-    <item>
-      <title>A Slain Reporter, a City of Sin and a Politician Charged With Murder</title>
-      <link>https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
-      <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: build sources, chase leads, and leave nobody safe from accountability.</description>
-      <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 07:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/00vegas-press/00vegas-press-moth.jpg" width="151"></media:content>
-      <media:credit>Bridget Bennett for The New York Times</media:credit>
-      <media:description>The killing of Jeff German, a reporter for The Las Vegas Review-Journal, has rattled and outraged the readers, journalists and sources who had grown to trust his brand of shoe leather reporting. </media:description>
     </item>
     <item>
       <title>Russell Wilson Spreads His Football Gospel to the Broncos</title>
@@ -277,25 +242,6 @@
       <media:description>A cutout of Justin Bieber in the Stratford Perth Museum. The setting is meant to replicate the steps of the city’s Avon Theater.</media:description>
     </item>
     <item>
-      <title>Censorship Is the Refuge of the Weak</title>
-      <link>https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html" rel="standout"></atom:link>
-      <description>Republicans across the country are trying to use the power of the state to restrict speech.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 18:48:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN American Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10speech/10speech-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Illustration by Rebecca Chew/The New York Times; photographs by chictype and Sezeryadigar, via Getty Images</media:credit>
-    </item>
-    <item>
       <title>With the Queen’s Death, Britain Must Let Go of Its Imperial Delusions</title>
       <link>https://www.nytimes.com/2022/09/11/opinion/queen-hari-kunzru-imperial-delusions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/opinion/queen-hari-kunzru-imperial-delusions.html</guid>
@@ -311,6 +257,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/11kunzru1/11kunzru1-moth.jpg" width="151"></media:content>
       <media:credit> Jack Taylor/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Charles in Charge</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/king-charles-queen-elizabeth-princess-diana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/king-charles-queen-elizabeth-princess-diana.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/king-charles-queen-elizabeth-princess-diana.html" rel="standout"></atom:link>
+      <description>No more women reign over the new king.</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 13:14:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diana, Princess of Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/10Dowd/10Dowd-moth-v2.jpg" width="151"></media:content>
+      <media:credit> Pool photo by Bob Dear, via Associated Press</media:credit>
+      <media:description>Queen Elizabeth II followed by Princess Diana, the Princess of Wales and Prince Charles, the Prince of Wales, arrive for the State Opening of Parliament in London on Tuesday, Nov. 6, 1984.</media:description>
     </item>
     <item>
       <title>All Biden Has to Do Now Is Change the Way We Live</title>
@@ -346,6 +309,46 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; image by rasslava via Getty Images</media:credit>
     </item>
     <item>
+      <title>Chile’s Constitutional Moment Is Not Over</title>
+      <link>https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html" rel="standout"></atom:link>
+      <description>An overwhelming vote to reject a new, progressive charter cannot stop Chileans from figuring out the future of their country.</description>
+      <dc:creator>Cristian Farias</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 10:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/11farias1/11farias1-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Bernetti/Agence France-Presse — Getty Images</media:credit>
+      <media:description>With the blessing of Gabriel Boric, Chile’s president, the national Congress is already at work setting the parameters for how to start over on a new Constitution.</media:description>
+    </item>
+    <item>
+      <title>Rudy Giuliani Is Alone</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/rudy-giuliani-9-11-trump.html" rel="standout"></atom:link>
+      <description>9/11 was his triumph, then it became his undoing.</description>
+      <dc:creator>Andrew Kirtzman</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 20:33:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Giuliani Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10kirtzman--slide-QXJT/10kirtzman--slide-QXJT-moth.jpg" width="151"></media:content>
+      <media:credit>Robert F. Bukaty/Associated Press</media:credit>
+      <media:description>As mayor of New York, Rudolph Giuliani led Gov. George Pataki and Senator Hillary Clinton on a tour of the site of the World Trade Center the day after the Sept. 11 attack in 2001.</media:description>
+    </item>
+    <item>
       <title>The Ukraine War’s Decisive Season</title>
       <link>https://www.nytimes.com/2022/09/10/opinion/ukraine-war-europe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/ukraine-war-europe.html</guid>
@@ -369,61 +372,23 @@
       <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
-      <title>Your Childhood Home Is in Front of You. Do You Go In?</title>
-      <link>https://www.nytimes.com/2022/09/08/opinion/travel-childhood-homes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/opinion/travel-childhood-homes.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/opinion/travel-childhood-homes.html" rel="standout"></atom:link>
-      <description>A childhood home may hold a nearly undimmed set of early memories, as if its walls formed a time capsule we sealed behind us as we left.</description>
-      <dc:creator>Mark Vanhoenacker</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 17:50:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/08vanhoenacker-cover/08vanhoenacker-cover-moth.jpg" width="151"></media:content>
-      <media:credit>Marine Buffard</media:credit>
-    </item>
-    <item>
-      <title>Chile’s Constitutional Moment Is Not Over</title>
-      <link>https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/opinion/chile-referendum-constitution-rejection-boric.html" rel="standout"></atom:link>
-      <description>An overwhelming vote to reject a new, progressive charter cannot stop Chileans from figuring out the future of their country.</description>
-      <dc:creator>Cristian Farias</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 10:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boric, Gabriel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/opinion/11farias1/11farias1-moth.jpg" width="151"></media:content>
-      <media:credit>Martin Bernetti/Agence France-Presse — Getty Images</media:credit>
-      <media:description>With the blessing of Gabriel Boric, Chile’s president, the national Congress is already at work setting the parameters for how to start over on a new Constitution.</media:description>
-    </item>
-    <item>
-      <title>Want to Regain Parents’ Trust, Public Health Institutions? Be Humble.</title>
-      <link>https://www.nytimes.com/2022/09/10/opinion/masks-children.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/masks-children.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/masks-children.html" rel="standout"></atom:link>
-      <description>Definitive statements on open questions isn’t the way.</description>
-      <dc:creator>Jessica Grose</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 10:24:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Head Start Program</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10grose-image/10grose-image-moth.jpg" width="151"></media:content>
-      <media:credit>Halfpoint Images via Getty Images</media:credit>
+      <title>Censorship Is the Refuge of the Weak</title>
+      <link>https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/opinion/schools-banned-books.html" rel="standout"></atom:link>
+      <description>Republicans across the country are trying to use the power of the state to restrict speech.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 18:48:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN American Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/opinion/10speech/10speech-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Illustration by Rebecca Chew/The New York Times; photographs by chictype and Sezeryadigar, via Getty Images</media:credit>
     </item>
     <item>
       <title>Britain’s Mourning Rituals</title>

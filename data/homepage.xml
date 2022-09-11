@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 15:34:24 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 15:19:23 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 15:49:36 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 15:46:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -126,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
       <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: Build sources, chase leads, and leave nobody safe from accountability.</description>
       <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 15:19:23 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 15:46:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
@@ -154,7 +154,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beer</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/science/00ALCOHOL-DEATHS1/00ALCOHOL-DEATHS1-moth.jpg" width="151"></media:content>
       <media:credit>Celeste Noche for The New York Times</media:credit>
-      <media:description>Sonya Grove lost her son, Jon, to an alcohol-related death two years ago.</media:description>
+      <media:description>Sonja Grove lost her son, Jon, to an alcohol-related death two years ago.</media:description>
     </item>
     <item>
       <title>Iga Swiatek, U.S. Open Winner, Is Ready for Global Stardom</title>
@@ -520,6 +520,25 @@
       <media:description>Market watchers are worried about a loss of liquidity as the Federal Reserve’s balance sheet shrinks.</media:description>
     </item>
     <item>
+      <title>Marsha Hunt, Actress Turned Activist, Is Dead at 104</title>
+      <link>https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html" rel="standout"></atom:link>
+      <description>She seemed well on her way to stardom until her career was derailed by the Hollywood blacklist. She then turned her attention to social causes.</description>
+      <dc:creator>Wendell Jamieson</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 14:34:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Marsha (1917-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/02/23/obituaries/Hunt-01/Hunt-01-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press Photo</media:credit>
+      <media:description>The actress Marsha Hunt in an undated photo. Early in her career, she was one of the busiest and most versatile actresses in Hollywood.</media:description>
+    </item>
+    <item>
       <title>Pakistan Is Devastated by Floods, Faces Looming Food Crisis</title>
       <link>https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</guid>
@@ -548,25 +567,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11pakistan-1/11pakistan-1-moth.jpg" width="151"></media:content>
       <media:credit>Fareed Khan/Associated Press</media:credit>
       <media:description>Navigating floodwaters in the Dadu district of Sindh Province, of Pakistan, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Marsha Hunt, Actress Turned Activist, Is Dead at 104</title>
-      <link>https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/movies/marsha-hunt-dead.html" rel="standout"></atom:link>
-      <description>She seemed well on her way to stardom until her career was derailed by the Hollywood blacklist. She then turned her attention to social causes.</description>
-      <dc:creator>Wendell Jamieson</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 14:34:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Marsha (1917-2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/02/23/obituaries/Hunt-01/Hunt-01-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press Photo</media:credit>
-      <media:description>The actress Marsha Hunt in an undated photo. Early in her career, she was one of the busiest and most versatile actresses in Hollywood.</media:description>
     </item>
     <item>
       <title>Can you get reinfected with monkeypox?</title>

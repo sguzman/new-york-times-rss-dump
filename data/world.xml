@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 21:19:33 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 21:18:10 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 21:40:05 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 21:35:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Kharkiv faced blackouts after Russia hit critical infrastructure in strikes that Ukrainian officials said were revenge for their recent gains.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 21:18:10 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 21:35:10 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-promo-1200pm/11ukraine-briefing-reporter-updates-ivan-kharkiv-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -270,6 +270,24 @@
       <media:description>Prince Charles, left, chats with Camilla Parker Bowles at a polo match, circa 1972.</media:description>
     </item>
     <item>
+      <title>Russia’s Retreat in Ukraine Pokes Holes in Putin’s Projection of Force</title>
+      <link>https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html" rel="standout"></atom:link>
+      <description>Russia’s military setbacks may be weakening President Vladimir V. Putin’s reputation at home as a savvy geopolitical strategist.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 21:32:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadyrov, Ramzan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-russia-1/11ukraine-russia-1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The scene in the Kharkiv region this weekend after Russian forces retreated.</media:description>
+    </item>
+    <item>
       <title>Your Monday Briefing: Ukraine Gains Ground</title>
       <link>https://www.nytimes.com/2022/09/11/briefing/ukraine-kharkiv-pakistan-floods-asia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/briefing/ukraine-kharkiv-pakistan-floods-asia.html</guid>
@@ -367,8 +385,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/zaporizhzhia-nuclear-plant-shutdown.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/zaporizhzhia-nuclear-plant-shutdown.html" rel="standout"></atom:link>
       <description>External power has been restored to the plant, allowing engineers to move its reactors into a safer state, Ukraine’s nuclear regulator said.</description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 09:22:30 +0000</pubDate>
+      <dc:creator>Marc Santora and David E. Sanger</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 21:35:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -376,7 +394,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-zaporizhzhia/11ukraine-briefing-zaporizhzhia-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>The Zaporizhzhia nuclear power plant during the visit of the International Atomic Energy Agency expert mission this month.</media:description>
+      <media:description>The Zaporizhzhia Nuclear Power Plant during a visit by the International Atomic Energy Agency expert mission this month.</media:description>
     </item>
     <item>
       <title>Queen Elizabeth’s Coffin Is Moved From Balmoral Castle</title>
@@ -997,20 +1015,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/09un-rights/09un-rights-moth.jpg" width="151"></media:content>
       <media:credit>Charles Dharapak/Associated Press</media:credit>
       <media:description>Volker Türk, 57, is not widely known outside the United Nations, but he was seen as the front-runner in a field of 13 candidates interviewed for the role.</media:description>
-    </item>
-    <item>
-      <title>Mourning Queen Elizabeth: Buckingham Palace Shares Tribute Details</title>
-      <link>https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>The palace released the protocol for floral tributes, the closing of royal residences and a period of mourning to mark the death of Queen Elizabeth II.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 11:34:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-schedule-new/09queen-elizabeth-schedule-new-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Flowers for the queen outside of Buckingham Palace on Thursday night.</media:description>
     </item>
   </channel>
 </rss>

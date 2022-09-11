@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 18:27:35 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 18:17:34 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 18:47:38 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 18:38:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
       <description>The royal family will gather for ceremonies in Scotland before the coffin is flown to London on Tuesday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 18:17:34 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 18:38:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-hearse24-up/11queen-hearse24-up-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
     </item>
@@ -351,14 +351,17 @@
       <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html" rel="standout"></atom:link>
       <description>Drones are increasingly testing Taiwan’s capacity to respond to China&#39;s growing military pressure. Soldiers shot one down recently and are ramping up defenses.</description>
       <dc:creator>Jane Perlez and Amy Chang Chien</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 07:48:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
+      <pubDate>Sun, 11 Sep 2022 07:48:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xiamen (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/00China-taiwan-drones-01/00China-taiwan-drones-01-moth.jpg" width="151"></media:content>
       <media:credit>Wu Hong/EPA, via Shutterstock</media:credit>
       <media:description>A drone being paraded through Tiananmen Square in Beijing in 2019.</media:description>

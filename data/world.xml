@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 02:34:05 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 01:47:18 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 04:16:00 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 04:15:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -237,6 +237,36 @@
       <media:description>Queen Elizabeth II in 2012.</media:description>
     </item>
     <item>
+      <title>Pakistan Is Devastated by Floods, Faces Looming Food Crisis</title>
+      <link>https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html" rel="standout"></atom:link>
+      <description>The flooding has crippled Pakistan’s agricultural sector, battering the country as it reels from an economic crisis and double-digit inflation that has sent the price of basics soaring.</description>
+      <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iqbal, Ahsan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11pakistan-1/11pakistan-1-moth.jpg" width="151"></media:content>
+      <media:credit>Fareed Khan/Associated Press</media:credit>
+      <media:description>Navigating floodwaters in the Dadu district of Sindh Province, of Pakistan, on Thursday.</media:description>
+    </item>
+    <item>
       <title>Chinese Drones: The Latest Irritant Buzzing Taiwan’s Defenses</title>
       <link>https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</guid>
@@ -320,7 +350,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-accession.html" rel="standout"></atom:link>
       <description>Charles will spend much of the first 10 days of his reign leading his country in mourning the queen, whose state funeral will be held on Sept. 19 in Westminster Abbey.</description>
       <dc:creator>Megan Specia and Mark Landler</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 18:56:12 +0000</pubDate>
+      <pubDate>Sat, 10 Sep 2022 18:56:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
@@ -975,23 +1005,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08queen-vox-pop-top/08queen-vox-pop-top-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>A portrait of Queen Elizabeth II in Piccadilly Circus in London on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth’s Death Comes at Moment of Uncertainty for Britain</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-death-britain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-death-britain.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-death-britain.html" rel="standout"></atom:link>
-      <description>There is no analogous British figure who will be mourned as deeply, or whose death will provoke a greater reckoning with the identity and future of the country.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 10:47:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/08uk-queen-ledeall-6/08uk-queen-ledeall-6-moth.jpg" width="151"></media:content>
-      <media:credit>Tim Ireland/Associated Press</media:credit>
-      <media:description>Queen Elizabeth II in 2018.</media:description>
     </item>
   </channel>
 </rss>

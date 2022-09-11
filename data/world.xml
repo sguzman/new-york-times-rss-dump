@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 16:31:12 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 16:26:26 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 17:03:52 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 16:56:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Ukrainian military was poised to advance on more towns held by Russians after days of fighting that have reshaped the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 16:26:26 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 16:56:23 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-promo-1200pm/11ukraine-briefing-reporter-updates-ivan-kharkiv-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -32,9 +32,36 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
       <description>The royal family will gather for ceremonies in Scotland before the coffin is flown to London on Tuesday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 15:48:40 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 16:50:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-hearse24-up/11queen-hearse24-up-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
+    </item>
+    <item>
+      <title>With Queen Gone, Former Colonies Find a Moment to Rethink Lasting Ties</title>
+      <link>https://www.nytimes.com/2022/09/11/world/queen-elizabeth-commonwealth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/queen-elizabeth-commonwealth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/queen-elizabeth-commonwealth.html" rel="standout"></atom:link>
+      <description>In Commonwealth nations with British colonial histories, Queen Elizabeth’s death is rekindling discussions about a more independent future.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 16:37:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commonwealth Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barbados</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-commonwealth1/10queen-commonwealth1-moth.jpg" width="151"></media:content>
+      <media:credit>Tim Graham Photo Library via Getty Images</media:credit>
+      <media:description>Queen Elizabeth II in Tuvalu during a 1982 tour of the South Pacific, which also included a stop in the Solomon Islands.</media:description>
     </item>
     <item>
       <title>Pakistan Is Devastated by Floods, Faces Looming Food Crisis</title>
@@ -43,7 +70,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html" rel="standout"></atom:link>
       <description>The flooding has crippled Pakistan’s agricultural sector, battering the country as it reels from an economic crisis and double-digit inflation that has sent the price of basics soaring.</description>
       <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 08:43:12 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 16:47:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
@@ -84,25 +111,6 @@
       <media:description>Residents at a fruit stall last week in Urumqi, the capital of the Xinjiang region of China, in a photo provided by China News Service. People in Yining have complained they can’t get produce amid a long lockdown there.</media:description>
     </item>
     <item>
-      <title>Queen’s Death Leaves UK Grappling With Its Sense of National Identity</title>
-      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html" rel="standout"></atom:link>
-      <description>A figure who embodied Britain, Elizabeth cast long shadow. She leaves behind a country unsettled by domestic crises and anxiety over its place in the world.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 01:46:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10UKQueenTrauma01/10UKQueenTrauma01-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>Laying flowers outside Windsor Castle on Friday in tribute to Queen Elizabeth II.</media:description>
-    </item>
-    <item>
       <title>Gun Violence Epidemic Looms Over Swedish Election</title>
       <link>https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</guid>
@@ -110,16 +118,39 @@
       <description>The far right has made strides by tying the longstanding issue of crime to immigration, while Sweden’s center-left party is blaming failed integration, resulting in an exceptionally tight race.</description>
       <dc:creator>Isabella Kwai and Amela Mahovic</dc:creator>
       <pubDate>Sun, 11 Sep 2022 06:21:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersson, Magdalena (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockholm (Sweden)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockholm (Sweden)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11sweden-guns1/11sweden-guns1-moth.jpg" width="151"></media:content>
       <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
       <media:description>Susanna Yakes showing a stuffed animal that belonged to her daughter Adriana, who was 12 when she was shot and killed in Stockholm in 2020.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Sentences 5 Over ‘Seditious’ Children’s Books</title>
+      <link>https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html" rel="standout"></atom:link>
+      <description>Tales about a sheep village resisting a wolf pack prompted the charges against leaders of a speech therapists’ union, extending a government crackdown on dissent.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 09:53:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10hk-sedition-promo/10hk-sedition-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <media:description>Copies of the children’s books published by five speech therapists are displayed during a police press conference in Hong Kong last year.</media:description>
     </item>
     <item>
       <title>With Tears and Steel, Kenya’s ‘Hustler’ President Vanquishes His Foes</title>
@@ -131,12 +162,14 @@
       <pubDate>Sat, 10 Sep 2022 18:22:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10kenya-ruto-1/10kenya-ruto-1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Irungu/EPA, via Shutterstock</media:credit>
       <media:description>President-elect William Ruto addressed supporters Monday after the Supreme Court upheld his victory in the Aug. 9 election, at his official residence in Karen, Nairobi. </media:description>
@@ -159,23 +192,24 @@
       <media:description>Ukrainian soldiers in a trench on the Kherson front in southern Ukraine this month.</media:description>
     </item>
     <item>
-      <title>Hong Kong Sentences 5 Over ‘Seditious’ Children’s Books</title>
-      <link>https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html" rel="standout"></atom:link>
-      <description>Tales about a sheep village resisting a wolf pack prompted the charges against leaders of a speech therapists’ union, extending a government crackdown on dissent.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 09:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10hk-sedition-promo/10hk-sedition-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Tyrone Siu/Reuters</media:credit>
-      <media:description>Copies of the children’s books published by five speech therapists are displayed during a police press conference in Hong Kong last year.</media:description>
+      <title>Queen’s Death Leaves UK Grappling With Its Sense of National Identity</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html" rel="standout"></atom:link>
+      <description>A figure who embodied Britain, Elizabeth cast long shadow. She leaves behind a country unsettled by domestic crises and anxiety over its place in the world.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 01:46:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10UKQueenTrauma01/10UKQueenTrauma01-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Laying flowers outside Windsor Castle on Friday in tribute to Queen Elizabeth II.</media:description>
     </item>
     <item>
       <title>Queen Elizabeth II: The One Constant in an Inconstant World</title>
@@ -227,23 +261,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-camilla-promo/09queen-camilla-promo-moth.jpg" width="151"></media:content>
       <media:credit>Hulton-Deutsch Collection/Corbis, via Getty Images</media:credit>
       <media:description>Prince Charles, left, chats with Camilla Parker Bowles at a polo match, circa 1972.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth II Dies at 96; Was Britain’s Longest-Reigning Monarch</title>
-      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
-      <description>She ruled for seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
-      <dc:creator>Alan Cowell</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 14:59:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
-      <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Queen Elizabeth II in 2012.</media:description>
     </item>
     <item>
       <title>Ukraine’s Advance in Northeast Renews Pressure on Germany to Help </title>
@@ -304,7 +321,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/11/world/queen-elizabeth-coffin-balmoral.html" rel="standout"></atom:link>
       <description>Queen Elizabeth’s coffin made a six-hour journey through the Scottish countryside.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 15:48:04 +0000</pubDate>
+      <pubDate>Sun, 11 Sep 2022 16:32:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>

@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 23:52:36 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Sep 2022 23:20:43 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 01:48:36 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 01:36:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Ukraine Routs Russian Forces in Northeast, Forcing a Retreat</title>
+      <link>https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html" rel="standout"></atom:link>
+      <description>Russia acknowledged that it had lost nearly all of the northern region of Kharkiv after a blitzkrieg thrust by Ukrainian fighters.</description>
+      <dc:creator>Andrew E. Kramer and Andrew Higgins</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 23:16:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-ledeall-1/11ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Kharkiv region this weekend after Russian forces retreated.</media:description>
+    </item>
     <item>
       <title>Russia’s Retreat in Ukraine Pokes Holes in Putin’s Projection of Force</title>
       <link>https://www.nytimes.com/2022/09/11/world/europe/ukraine-russias-retreat-putin.html</link>
@@ -128,27 +147,6 @@
       <media:description>Watching the hearse carrying the coffin of Queen Elizabeth II, draped in the Royal Standard of Scotland, in Edinburgh on Sunday.</media:description>
     </item>
     <item>
-      <title>A Slain Reporter, a City of Sin and a Politician Charged With Murder</title>
-      <link>https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
-      <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: Build sources, chase leads, and leave nobody safe from accountability.</description>
-      <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 15:46:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Telles, Robert (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/00vegas-press/00vegas-press-moth.jpg" width="151"></media:content>
-      <media:credit>Bridget Bennett for The New York Times</media:credit>
-      <media:description>The killing of Jeff German, a reporter for The Las Vegas Review-Journal, has rattled and outraged the readers, journalists and sources who had grown to trust his brand of shoe leather reporting. </media:description>
-    </item>
-    <item>
       <title>In Hasidic Enclaves, Failing Yeshivas Flush With Public Money</title>
       <link>https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html</guid>
@@ -234,6 +232,36 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/nyregion/11yeshivas17/00yeshivas17-moth.jpg" width="151"></media:content>
       <media:credit>Jonah Markowitz for The New York Times</media:credit>
       <media:description>The Central United Talmudical Academy spans an entire city block in Williamsburg. All its students who took state tests in 2019 failed. At a public school three blocks away, John Wayne Elementary, more than half of students passed.</media:description>
+    </item>
+    <item>
+      <title>So You Wanted to Get Work Done at the Office?</title>
+      <link>https://www.nytimes.com/2022/09/11/business/return-to-office-distractions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/business/return-to-office-distractions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/business/return-to-office-distractions.html" rel="standout"></atom:link>
+      <description>Some are nostalgic for the silence they had at home, especially since in-office perks, aimed at luring people back, can make it harder to concentrate.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/business/11office-distraction-illo/11office-distraction-illo-moth.jpg" width="151"></media:content>
+      <media:credit>Lily Padula</media:credit>
+    </item>
+    <item>
+      <title>Carlos Alcaraz Wins US Open Men’s Singles Title, and Becomes No. 1</title>
+      <link>https://www.nytimes.com/2022/09/11/sports/tennis/us-open-alcaraz-ruud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/sports/tennis/us-open-alcaraz-ruud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/sports/tennis/us-open-alcaraz-ruud.html" rel="standout"></atom:link>
+      <description>Alcaraz, the 19-year-old Spanish sensation, beat Casper Ruud of Norway in four sets to capture his first Grand Slam championship and take the top spot in the ATP world rankings.</description>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 01:36:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alcaraz, Carlos (2003- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruud, Casper (1998- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/multimedia/11usopen-alcaraz-4/11usopen-alcaraz-4-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle V. Agins/The New York Times</media:credit>
+      <media:description>Carlos Alcaraz won the U.S. Open men’s singles title.</media:description>
     </item>
     <item>
       <title>How Book Bans Turned a Texas Town Upside Down</title>
@@ -575,38 +603,25 @@
       <media:credit>Christopher Testani for The New York Times. Food Stylist: Monica Pierini.</media:credit>
     </item>
     <item>
-      <title>Persistent Rains Pummel Chicago, Submerging Roads and Swamping Basements</title>
-      <link>https://www.nytimes.com/2022/09/11/us/chicago-rain-flash-flooding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/us/chicago-rain-flash-flooding.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/us/chicago-rain-flash-flooding.html" rel="standout"></atom:link>
-      <description>Nearly five inches of rain drenched parts of the city on Sunday, leaving cars stranded along some streets.</description>
-      <dc:creator>Julie Bosman</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 22:43:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/us/11chicago-rain-1/11chicago-rain-1-moth.jpg" width="151"></media:content>
-      <media:credit>Taylor Glascock for The New York Times</media:credit>
-      <media:description>Jessica Garcia, who works in water management for the city, assessed the flooding at Ravenswood and Foster Avenues in Chicago.</media:description>
-    </item>
-    <item>
-      <title>Fed’s Exit Puts World’s Biggest Bond Market on Shakier Ground</title>
-      <link>https://www.nytimes.com/2022/09/11/business/fed-treasury-market.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/business/fed-treasury-market.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/business/fed-treasury-market.html" rel="standout"></atom:link>
-      <description>Some traders worry that the $25 trillion U.S. Treasury market is becoming more fragile, and the Federal Reserve’s removal of support could make it worse.</description>
-      <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Sun, 11 Sep 2022 09:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantitative Easing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/business/09JPliquid-bonds-print/09liquid-bonds-1-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>Market watchers are worried about a loss of liquidity as the Federal Reserve’s balance sheet shrinks.</media:description>
+      <title>A Slain Reporter, a City of Sin and a Politician Charged With Murder</title>
+      <link>https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/us/las-vegas-jeff-german-journalist.html" rel="standout"></atom:link>
+      <description>As journalism and Las Vegas changed, Jeff German stayed true to his style: Build sources, chase leads, and leave nobody safe from accountability.</description>
+      <dc:creator>Nicholas Bogel-Burroughs and Mike Baker</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 15:46:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">German, Jeff (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Sun (Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Review-Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clark County (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Telles, Robert (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/00vegas-press/00vegas-press-moth.jpg" width="151"></media:content>
+      <media:credit>Bridget Bennett for The New York Times</media:credit>
+      <media:description>The killing of Jeff German, a reporter for The Las Vegas Review-Journal, has rattled and outraged the readers, journalists and sources who had grown to trust his brand of shoe leather reporting. </media:description>
     </item>
     <item>
       <title>Diane Noomin, Who Helped Bring Feminism to Underground Comics, Dies at 75</title>

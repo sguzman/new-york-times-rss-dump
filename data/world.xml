@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 09:52:55 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 09:22:18 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 10:27:19 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 10:03:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
       <description>The royal family will gather for ceremonies there before the coffin is flown to London on Tuesday. The queen will lie in state there starting on Wednesday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:21:22 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 10:03:54 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-hearse24-up/11queen-hearse24-up-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
     </item>
@@ -356,7 +356,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/science/00monkeypox-equity1/00monkeypox-equity1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/science/00monkeypox-equity1/00monkeypox-equity1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Martin Mejia/Associated Press</media:credit>
       <media:description>A monkeypox sore on a patient’s foot at the Arzobispo Loayza Hospital in Lima, Peru, last month.</media:description>
     </item>
@@ -445,6 +445,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Anthems</category>
+    </item>
+    <item>
+      <title>Mourners will be able to view the queen’s coffin in Scotland and London.</title>
+      <link>https://www.nytimes.com/2022/09/12/world/europe/mourners-will-be-able-to-view-the-queens-coffin-in-scotland-and-london.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/mourners-will-be-able-to-view-the-queens-coffin-in-scotland-and-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/mourners-will-be-able-to-view-the-queens-coffin-in-scotland-and-london.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 18:38:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/11queen-elizabeth-lie-in-state/11queen-elizabeth-lie-in-state-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Members of the public paying their respects to Queen Elizabeth II outside Windsor Castle on Saturday.</media:description>
     </item>
     <item>
       <title>Ukraine’s Advance in Northeast Renews Pressure on Germany to Help </title>
@@ -993,24 +1005,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-corgis/09queen-elizabeth-corgis-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Queen Elizabeth with four of her corgis in London in 1969.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth’s Death Renews British Empire Debate in Africa</title>
-      <link>https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html" rel="standout"></atom:link>
-      <description>While some in Africa paid tribute to the deceased monarch, others stressed Britain’s violent colonial history on the continent.</description>
-      <dc:creator>Abdi Latif Dahir, Lynsey Chutel and Elian Peltier</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 20:23:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/lens/09queen-elizabeth-Africa2/09queen-elizabeth-Africa2-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Mau Mau fighters detained in 1952 in Kenya, a British colony at the time. An anticolonial rebellion was suppressed shortly after Queen Elizabeth II ascended to the British throne.</media:description>
     </item>
   </channel>
 </rss>

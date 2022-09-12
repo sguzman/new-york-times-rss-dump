@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 22:44:11 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 22:44:04 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 23:25:44 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 23:22:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine claimed more ground in both the northeast and south, but questions remained about how far its forces could go without being overstretched.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 22:39:41 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 23:22:47 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12ukraine-briefing-header-3am/12ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Sergey Kozlov/EPA, via Shutterstock</media:credit>
       <media:description>Ukrainians extinguishing a fire after a rocket hit Kharkiv on Sunday.</media:description>
@@ -286,6 +286,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10kenya-ruto-1/10kenya-ruto-1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Irungu/EPA, via Shutterstock</media:credit>
       <media:description>President-elect William Ruto addressed supporters Monday after the Supreme Court upheld his victory in the Aug. 9 election, at his official residence in Karen, Nairobi. </media:description>
+    </item>
+    <item>
+      <title>Russian Critics Speak Out, Prompted by Ukraine Losses</title>
+      <link>https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html" rel="standout"></atom:link>
+      <description>Ukraine’s recent battlefield successes are emboldening Vladimir Putin’s critics and sending his supporters in search of someone else to blame.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 23:22:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12russia-blame-1/12russia-blame-1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Russian tank abandoned in a village on the outskirts of Izium, Ukraine, on Sunday.</media:description>
     </item>
     <item>
       <title>Ukraine’s Sudden Gains Prompt New Questions for Commanders</title>
@@ -1035,21 +1051,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10france-petain-dispatch-promo/10france-petain-dispatch-7-moth.jpg" width="151"></media:content>
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>TV’s Prequel-Mania</title>
-      <link>https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html" rel="standout"></atom:link>
-      <description>This fall, if you feel like you’ve seen that new series somewhere before, you’re probably right.</description>
-      <dc:creator>James Poniewozik</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 10:32:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television Sets and Media Devices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
     </item>
   </channel>
 </rss>

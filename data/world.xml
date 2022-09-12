@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 11:20:56 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 10:59:15 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 11:38:51 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 11:30:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -296,7 +296,7 @@
       <media:description>A polling station in Miami Beach, Fla.</media:description>
     </item>
     <item>
-      <title>Prince Harry Pays Tribute to ‘Granny’</title>
+      <title>Prince Harry Pays Tribute to Queen Elizabeth, His ‘Granny’  </title>
       <link>https://www.nytimes.com/2022/09/12/world/europe/prince-harry-tribute-queen-elizabeth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/prince-harry-tribute-queen-elizabeth.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/prince-harry-tribute-queen-elizabeth.html" rel="standout"></atom:link>
@@ -311,26 +311,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-harry-statement/12queen-elizabeth-harry-statement-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Couldridge/Reuters</media:credit>
       <media:description>Prince Harry and his wife, Meghan, viewing flowers left in memory of Queen Elizabeth II outside Windsor Castle on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Cracking the Case of the Giant Fern Genome</title>
-      <link>https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html" rel="standout"></atom:link>
-      <description>Scientists have sequenced complete fern genomes for the first time, to learn why the plants have twice as much DNA as humans.</description>
-      <dc:creator>Oliver Whang</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chromosomes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fay-Wei Li</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/science/00tb-FERNS1/00tb-FERNS1-moth.jpg" width="151"></media:content>
-      <media:credit>Shutterstock</media:credit>
-      <media:description>When the genome of the flying spider monkey tree fern was decoded in May, it was only the third time a fern’s DNA had been completely mapped, and the first time with a fern whose genome was so large.</media:description>
     </item>
     <item>
       <title>Anti-Monarchists Tread Lightly After Queen’s Death, but Their Goal Persists</title>
@@ -354,13 +334,33 @@
       <media:description>King Charles III greeting crowds on the Mall on Saturday in London after returning from Scotland, where his mother, Queen Elizabeth II, died last week.</media:description>
     </item>
     <item>
+      <title>Cracking the Case of the Giant Fern Genome</title>
+      <link>https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html" rel="standout"></atom:link>
+      <description>Scientists have sequenced complete fern genomes for the first time, to learn why the plants have twice as much DNA as humans.</description>
+      <dc:creator>Oliver Whang</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 09:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chromosomes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fay-Wei Li</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/science/00tb-FERNS1/00tb-FERNS1-moth.jpg" width="151"></media:content>
+      <media:credit>Shutterstock</media:credit>
+      <media:description>When the genome of the flying spider monkey tree fern was decoded in May, it was only the third time a fern’s DNA had been completely mapped, and the first time with a fern whose genome was so large.</media:description>
+    </item>
+    <item>
       <title>Monkeypox Shots, Treatments and Tests Are Unavailable in Much of the World</title>
       <link>https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html" rel="standout"></atom:link>
       <description>High-income countries snapped up vaccines when the disease hit them, leaving none for countries that have battled the virus for years, in an echo of the Covid response.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 07:00:13 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 11:30:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>

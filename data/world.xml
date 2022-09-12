@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 10:27:19 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 10:03:54 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 10:49:59 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 10:37:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -72,11 +72,11 @@
       <description>In Commonwealth nations with British colonial histories, Queen Elizabeth’s death is rekindling discussions about a more independent future.</description>
       <dc:creator>Damien Cave</dc:creator>
       <pubDate>Sun, 11 Sep 2022 23:20:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commonwealth Games</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
@@ -84,9 +84,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barbados</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-commonwealth1/10queen-commonwealth1-moth.jpg" width="151"></media:content>
       <media:credit>Tim Graham Photo Library via Getty Images</media:credit>
       <media:description>Queen Elizabeth II in Tuvalu during a 1982 tour of the South Pacific, which also included a stop in the Solomon Islands.</media:description>
@@ -276,6 +277,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10france-petain-dispatch-promo/10france-petain-dispatch-7-moth.jpg" width="151"></media:content>
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Are the Polls Wrong Again?</title>
+      <link>https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html" rel="standout"></atom:link>
+      <description>Are Democrats again about to be disappointed by overly optimistic polling?</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 10:37:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12-THE-MORNING-NL-1/merlin_211840437_458b4272-7d13-4620-b94b-d2378fc32c6e-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>A polling station in Miami Beach, Fla.</media:description>
     </item>
     <item>
       <title>Prince Harry Pays Tribute to ‘Granny’</title>
@@ -990,21 +1008,6 @@
       <pubDate>Sat, 10 Sep 2022 09:28:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-    </item>
-    <item>
-      <title>What Will Happen to Queen Elizabeth’s Corgis?</title>
-      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html" rel="standout"></atom:link>
-      <description>Wherever the dogs end up, they may need to become accustomed to a home that is less luxurious than a royal castle.</description>
-      <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 06:54:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-corgis/09queen-elizabeth-corgis-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Queen Elizabeth with four of her corgis in London in 1969.</media:description>
     </item>
   </channel>
 </rss>

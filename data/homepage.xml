@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 12:30:30 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 12:19:36 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 13:28:38 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 13:24:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/anti-monarchists-king-charles-queen-elizabeth.html" rel="standout"></atom:link>
       <description>King Charles III is less popular than his mother, offering republican campaigners their best chance of momentum in years. But they risk offending mourners by moving too soon.</description>
       <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:00:16 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 12:52:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -150,7 +150,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html" rel="standout"></atom:link>
       <description>High-income countries snapped up vaccines when the disease hit them, leaving none for countries that have battled the virus for years, in an echo of the Covid response.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 11:30:33 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 11:30:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
@@ -250,6 +250,33 @@
       <media:description>Boys who attend private Hasidic religious schools are suffering from levels of educational deprivation that occur nowhere else in New York, a Times investigation found.</media:description>
     </item>
     <item>
+      <title>In Hasidic Enclaves, Failing Yeshivas Flush With Public Money</title>
+      <link>https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html" rel="standout"></atom:link>
+      <description>New York’s Hasidic Jewish religious schools have benefited from $1 billion in government funding in the last four years but are unaccountable to outside oversight.</description>
+      <dc:creator>Eliza Shapiro, Brian M. Rosenthal and Jonah Markowitz</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 20:07:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yiddish Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Talmudical Academy (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeshiva Kehilath Yakov (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hasidism</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/16/nyregion/00yeshivas-promo/00yeshivas-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jonah Markowitz for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Must We Discuss the Queen and the Donald in the Same Breath?</title>
       <link>https://www.nytimes.com/2022/09/12/opinion/elizabeth-charles-biden-senate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/opinion/elizabeth-charles-biden-senate.html</guid>
@@ -292,13 +319,13 @@
       <media:description>Mark Finchem.</media:description>
     </item>
     <item>
-      <title>Enter the Candidate Wives</title>
+      <title>The Wives of Republican Candidates Are Getting Personal</title>
       <link>https://www.nytimes.com/2022/09/12/opinion/abortion-female-voters.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/opinion/abortion-female-voters.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/12/opinion/abortion-female-voters.html" rel="standout"></atom:link>
       <description>The Republican Party is under particular pressure to slap a friendly face on its nominees, with a special focus on wooing women. </description>
       <dc:creator>Michelle Cottle</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:00:20 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 13:09:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
@@ -454,18 +481,23 @@
       <media:description>Thomas Tuchel, before the fall.</media:description>
     </item>
     <item>
-      <title>This Fish Has a Smart Shortcut</title>
-      <link>https://www.nytimes.com/2022/09/09/dining/this-fish-has-a-smart-shortcut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/dining/this-fish-has-a-smart-shortcut.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/dining/this-fish-has-a-smart-shortcut.html" rel="standout"></atom:link>
-      <description>Kay Chun uses peanut butter to create a simple, savory glaze.</description>
-      <dc:creator>Emily Weinstein</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 17:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/14/dining/kc-peanut-sauce-salmon-with-green-beans/kc-peanut-sauce-salmon-with-green-beans-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Christopher Testani for The New York Times. Food Stylist: Monica Pierini.</media:credit>
+      <title>Why the U.S. Is Being Ominously Compared to Hungary and Turkey</title>
+      <link>https://www.nytimes.com/2022/09/12/us/politics/democracy-united-states.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/us/politics/democracy-united-states.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/us/politics/democracy-united-states.html" rel="standout"></atom:link>
+      <description>A conversation with Max Fisher, who covers the decline of democracy around the world.</description>
+      <dc:creator>Blake Hounshell and Max Fisher</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 12:23:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/11/multimedia/00pol-american-dream-outlaw/00pol-american-dream-outlaw-moth.jpg" width="151"></media:content>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>Donald Trump, like other leaders around the world who have attacked democratic institutions, has appealed to supporters by promising to defeat internal threats to the country.</media:description>
     </item>
     <item>
       <title>How Book Bans Turned a Texas Town Upside Down</title>

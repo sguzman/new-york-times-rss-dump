@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 20:25:08 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 20:24:14 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 20:45:39 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 20:41:05 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine claimed more ground in both the northeast and south, but questions remained about how far its forces could go without being overstretched.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 20:24:14 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 20:41:05 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12ukraine-briefing-header-3am/12ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Sergey Kozlov/EPA, via Shutterstock</media:credit>
       <media:description>Ukrainians extinguishing a fire after a rocket hit Kharkiv on Sunday.</media:description>
@@ -421,6 +421,10 @@
       <dc:creator>Marc Santora and David E. Sanger</dc:creator>
       <pubDate>Mon, 12 Sep 2022 13:55:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12ukraine-blog-IAEA-image02/12ukraine-blog-IAEA-image02-moth.jpg" width="151"></media:content>
       <media:credit>Christian Bruna/EPA, via Shutterstock</media:credit>
       <media:description>Rafael Mariano Gross of the International Atomic Energy Agency in Vienna on Monday. He said Russia and Ukraine “were engaging with us” over talks to end fighting at the nuclear plant.</media:description>

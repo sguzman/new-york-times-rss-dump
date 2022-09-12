@@ -7,25 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 12:47:43 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Sep 2022 12:45:22 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2022 13:50:40 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2022 13:41:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
-    <item>
-      <title>U.K. Updates: Thousands Gather to Pay Respects to the Queen in Scotland</title>
-      <link>https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
-      <description>Queen Elizabeth II’s coffin will be moved from the royal residence in Edinburgh to the city’s St Giles’ Cathedral. Earlier, King Charles III addressed Britain’s Parliament for the first time as monarch.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 12:45:22 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-live-blog-header-2/12queen-elizabeth-live-blog-header-2-moth.jpg" width="151"></media:content>
-      <media:credit>Henry Nicholls/Reuters</media:credit>
-      <media:description>King Charles III and Camilla, the queen consort, at Westminster Hall in London on Monday.</media:description>
-    </item>
     <item>
       <title>Ukraine Live Updates: Northeast Offensive Claims More Ground</title>
       <link>https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war</link>
@@ -33,10 +21,22 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Russia acknowledged the loss of almost all of the Kharkiv region, a stunning setback. Ukraine’s Western backers cheered the gains but warned that Moscow could retaliate with long-range attacks.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 12:36:56 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 13:37:50 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12ukraine-briefing-header-3am/12ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Sergey Kozlov/EPA, via Shutterstock</media:credit>
       <media:description>Ukrainians extinguishing a fire after a rocket hit Kharkiv on Sunday.</media:description>
+    </item>
+    <item>
+      <title>U.K. Updates: Thousands Gather to Pay Respects to the Queen in Scotland</title>
+      <link>https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
+      <description>Queen Elizabeth II’s coffin will be moved from the royal residence in Edinburgh to the city’s St Giles’ Cathedral. The procession has begun. Watch our coverage live here.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 13:41:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-live-blog-header-2/12queen-elizabeth-live-blog-header-2-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>King Charles III and Camilla, the queen consort, at Westminster Hall in London on Monday.</media:description>
     </item>
     <item>
       <title>Russia’s Retreat in Ukraine Pokes Holes in Putin’s Projection of Force</title>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/anti-monarchists-king-charles-queen-elizabeth.html" rel="standout"></atom:link>
       <description>King Charles III is less popular than his mother, offering republican campaigners their best chance of momentum in years. But they risk offending mourners by moving too soon.</description>
       <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:00:16 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 12:52:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -178,7 +178,7 @@
       <media:description>Watching the hearse carrying the coffin of Queen Elizabeth II, draped in the Royal Standard of Scotland, in Edinburgh on Sunday.</media:description>
     </item>
     <item>
-      <title>What Will Happen to Queen Elizabeth’s Corgis</title>
+      <title>Prince Andrew and Sarah Ferguson Will Take Queen Elizabeth’s Corgis</title>
       <link>https://www.nytimes.com/2022/09/11/world/europe/queen-elizabeth-corgis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/queen-elizabeth-corgis.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/queen-elizabeth-corgis.html" rel="standout"></atom:link>
@@ -275,6 +275,18 @@
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
     </item>
     <item>
+      <title>Prince Andrew Will Join Queen’s Memorial Ceremonies in Civilian Dress</title>
+      <link>https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html" rel="standout"></atom:link>
+      <description>The palace said the prince, largely exiled from public life over his ties to the disgraced financier Jeffrey Epstein, would mourn his mother, Queen Elizabeth II, in civilian clothes.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 13:21:27 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-uniforms/12queen-elizabeth-uniforms-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Owen Humphreys</media:credit>
+      <media:description>Prince Andrew viewing the messages and flowers left for Queen Elizabeth II at Balmoral Castle in Aberdeenshire, Scotland, on Saturday.</media:description>
+    </item>
+    <item>
       <title>Pro-Putin Candidates Sweep Russia’s Local Elections</title>
       <link>https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html</guid>
@@ -354,7 +366,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html" rel="standout"></atom:link>
       <description>High-income countries snapped up vaccines when the disease hit them, leaving none for countries that have battled the virus for years, in an echo of the Covid response.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 11:30:33 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2022 11:30:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
@@ -990,25 +1002,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01UKQUEENBALMORAL01/01UKQUEENBALMORAL01-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>Paying respect on Friday outside the gate of Balmoral Castle in Scotland after the death of Queen Elizabeth.</media:description>
-    </item>
-    <item>
-      <title>In London, Mourning, Remembrance and Tributes. And Some Shrugs.</title>
-      <link>https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html" rel="standout"></atom:link>
-      <description>Though mourning and grief were visible in Britain’s capital on Friday, some young Britons were more muted in their reaction to an institution that many called increasingly irrelevant.</description>
-      <dc:creator>Emma Bubola, Isabella Kwai and Saskia Solomon</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 17:39:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09QueenScene01/09QueenScene01-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>A portrait of Queen Elizabeth is displayed at Victoria Station in London.</media:description>
     </item>
   </channel>
 </rss>

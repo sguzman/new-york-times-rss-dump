@@ -7,26 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 20:52:40 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 20:51:15 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 21:11:24 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 21:07:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Kenneth Starr, Independent Counsel in Clinton Investigation, Dies at 76</title>
-      <link>https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
-      <description>Mr. Starr’s family said he died of complications from surgery.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 20:51:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
-    </item>
     <item>
       <title>The Critical Moment Behind Ukraine’s Rapid Advance</title>
       <link>https://www.nytimes.com/2022/09/13/us/politics/ukraine-russia-pentagon.html</link>
@@ -71,18 +58,20 @@
     </item>
     <item>
       <title>Clashes Erupt Between Armenia and Azerbaijan in Nagorno-Karabakh</title>
-      <link>https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-russia.html" rel="standout"></atom:link>
       <description>The simmering conflict over the disputed Nagorno-Karabakh region last flared in 2020, when Russia brokered a cease-fire.</description>
       <dc:creator>Ivan Nechepurenko and Cora Engelbrecht</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 15:05:05 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 21:07:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-blog-armenia-new/merlin_180639087_8a47f012-6162-4833-8f27-8c96dda470c1-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Armenian soldiers and a Russian peacekeeping soldier, on the vehicle, at a checkpoint in the disputed area of Nagorno-Karabakh in 2020.</media:description>
@@ -102,6 +91,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/business/13stocks-promo-sub/13stocks-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Ken Starr, Independent Counsel in Clinton Investigation, Dies at 76</title>
+      <link>https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
+      <description>Mr. Starr’s family said he died of complications from surgery.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 20:59:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/opinion/13dc_starr_2/13dc_starr_2-moth.jpg" width="151"></media:content>
+      <media:credit>Joshua Brigh​t / Guardian / eyevine/Redux</media:credit>
+      <media:description>Ken Starr uncovered President Bill Clinton’s affair with a White House intern.</media:description>
     </item>
     <item>
       <title>How King Charles Turned His Royal Estate Into a Lucrative Portfolio</title>
@@ -186,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html" rel="standout"></atom:link>
       <description>The South Carolina senator’s bill was an effort to find a politically palatable position for his party before the midterm elections, in which abortion rights are expected to be a potent issue.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 19:36:34 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 21:06:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -204,7 +209,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/upshot/midterm-election-trump-dobbs.html" rel="standout"></atom:link>
       <description>This cycle, the arguments for Democratic strength cut against the conventional wisdom that the party in power struggles in midterms.</description>
       <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 13:51:36 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 13:51:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>

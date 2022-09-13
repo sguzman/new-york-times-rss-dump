@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 10:27:28 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 10:25:19 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 10:46:26 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 10:35:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Russian forces have left behind a large amount of hardware as they retreat. Ukraine is investigating possible war crimes in a recently liberated village.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 10:24:13 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 10:35:57 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-blog-section-front/13ukraine-blog-carousel-9-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -274,6 +274,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-scotland-swap/11queen-scotland-swap-moth.jpg" width="151"></media:content>
       <media:credit>Oli Scarff/Agence France-Presse — Getty Images</media:credit>
       <media:description>Watching the hearse carrying the coffin of Queen Elizabeth II, draped in the Royal Standard of Scotland, in Edinburgh on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Clashes Erupt Between Armenia and Azerbaijan in Nagorno-Karabakh</title>
+      <link>https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html" rel="standout"></atom:link>
+      <description>The simmering conflict between Armenia and Azerbaijan over the disputed region last flared in 2020, when Russia brokered a cease-fire.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 10:35:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-blog-armenia-1/13ukraine-blog-armenia-1-moth.jpg" width="151"></media:content>
+      <media:credit>Francesco Brembati/Reuters</media:credit>
+      <media:description>A service member of the Russian peacekeeping troops standing next to a tank near the border with Armenia in the region of Nagorno-Karabakh, in 2020.</media:description>
     </item>
     <item>
       <title>Ukraine on the March</title>
@@ -1058,19 +1076,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-offensive-explainer1/10ukraine-offensive-explainer1-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>A destroyed tank in Balakliya, in the Kharkiv region, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth’s Funeral Will Be on Sept. 19 at Westminster Abbey</title>
-      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html" rel="standout"></atom:link>
-      <description>On Sunday, Elizabeth’s coffin will be carried from Balmoral Castle, in the Scottish Highlands, on a roundabout six-hour journey to Edinburgh, via Aberdeen.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 21:53:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palace of Westminster (London, England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
     </item>
   </channel>
 </rss>

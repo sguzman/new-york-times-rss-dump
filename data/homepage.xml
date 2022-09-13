@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 22:51:38 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 22:07:45 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 23:12:11 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 23:10:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
       <description>Mr. Starr’s investigation into President Clinton’s affair with a former White House intern propelled issues of sex and morality to the center of American life for more than a year.</description>
       <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 22:01:27 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:53:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -103,7 +103,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html" rel="standout"></atom:link>
       <description>King Charles III visited Belfast and met with members of Sinn Fein, the Irish nationalist party, now the largest in the country.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 21:06:24 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:59:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Michael D</category>
@@ -266,21 +266,49 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Masculin Feminin (Movie)</category>
     </item>
     <item>
-      <title>Sally Schmitt’s French Laundry</title>
-      <link>https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html" rel="standout"></atom:link>
-      <description>Sally Schmitt sold the French Laundry. Then it became “the best restaurant in the world.”</description>
-      <dc:creator>Ben Proudfoot</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 09:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">French Laundry (Yountville, Calif, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmitt, Sally (1932-2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keller, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <title>Ukraine’s Achievement Is Biden’s, Too</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/ukraine-war-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/ukraine-war-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/ukraine-war-biden.html" rel="standout"></atom:link>
+      <description>As Russian troops flee their positions, now is the time to press the military advantage.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 23:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McChrystal, Stanley A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/opinion/13stephens1/13stephens1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A Ukrainian soldier waves to passing buses near the recaptured village of Verbivka, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Putin’s New Cold War: Freeze Europe</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html" rel="standout"></atom:link>
+      <description>To defeat petro-Putinism in Europe, U.S. energy policy has to be the arsenal of democracy.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 23:10:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/opinion/13friedmanNew/13friedmanNew-moth.jpg" width="151"></media:content>
+      <media:credit>Etienne De Malglaive/Getty Images</media:credit>
     </item>
     <item>
       <title>Bill Gates: ‘We’re in a Worse Place Than I Expected’</title>
@@ -308,6 +336,25 @@
       <media:credit>Jeff J Mitchell/Getty Images</media:credit>
     </item>
     <item>
+      <title>Friedrich Schelling’s Philosophy Can Help Us Through the Climate Crisis</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html" rel="standout"></atom:link>
+      <description>Friedrich Schelling’s ideas might provide a foundation on which to anchor the fight for our climate and our survival.</description>
+      <dc:creator>Andrea Wulf</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 12:56:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/13wulf-image/13wulf-image-moth.jpg" width="151"></media:content>
+      <media:credit>Evan Cohen</media:credit>
+    </item>
+    <item>
       <title>A Look at the Misery Index and Inflation</title>
       <link>https://www.nytimes.com/2022/09/13/opinion/inflation-misery-index-economy-prices.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/inflation-misery-index-economy-prices.html</guid>
@@ -325,24 +372,21 @@
       <media:credit>Sarah Silbiger for The New York Times</media:credit>
     </item>
     <item>
-      <title>Israel Can Do More to Prevent Civilian Casualties, Like the Death of Shireen Abu Akleh</title>
-      <link>https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html" rel="standout"></atom:link>
-      <description>An army that operates as an occupying force has a special obligation to combat the callousness that comes with controlling a hostile population over many years.</description>
-      <dc:creator>Serge Schmemann</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 19:30:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Akleh, Shireen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/opinion/00schmemann1/00schmemann1-moth.jpg" width="151"></media:content>
-      <media:credit>Ronaldo Schemidt/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The funeral procession of the Palestinian American journalist Shireen Abu Akleh in Jerusalem in May. </media:description>
+      <title>Sally Schmitt’s French Laundry</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/sally-schmitt-french-laundry.html" rel="standout"></atom:link>
+      <description>Sally Schmitt sold the French Laundry. Then it became “the best restaurant in the world.”</description>
+      <dc:creator>Ben Proudfoot</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 09:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">French Laundry (Yountville, Calif, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmitt, Sally (1932-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keller, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>‘Quiet Quitting’ Is Not the Solution to Burnout</title>
@@ -363,40 +407,24 @@
       <media:credit>Karl Fletcher/500px, via Getty Images</media:credit>
     </item>
     <item>
-      <title>It Is a Well-Known Truth That Opponents of Democracy Don’t Want You to Have Nice Things</title>
-      <link>https://www.nytimes.com/2022/09/13/opinion/democracy-inequality-united-states.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/democracy-inequality-united-states.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/democracy-inequality-united-states.html" rel="standout"></atom:link>
-      <description>What makes a democracy robust? </description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 16:12:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/opinion/13bouie_1/13bouie_1-moth.jpg" width="151"></media:content>
-      <media:credit>Boston Globe / Getty Images</media:credit>
-      <media:description>Striking bus drivers in Boston in 1987. </media:description>
-    </item>
-    <item>
-      <title>Friedrich Schelling’s Philosophy Can Help Us Through the Climate Crisis</title>
-      <link>https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/environment/climate-change-nature-friedrich-schelling.html" rel="standout"></atom:link>
-      <description>Friedrich Schelling’s ideas might provide a foundation on which to anchor the fight for our climate and our survival.</description>
-      <dc:creator>Andrea Wulf</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 12:56:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/13wulf-image/13wulf-image-moth.jpg" width="151"></media:content>
-      <media:credit>Evan Cohen</media:credit>
+      <title>Israel Can Do More to Prevent Civilian Casualties, Like the Death of Shireen Abu Akleh</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/israel-civilian-casualties.html" rel="standout"></atom:link>
+      <description>An army that operates as an occupying force has a special obligation to combat the callousness that comes with controlling a hostile population over many years.</description>
+      <dc:creator>Serge Schmemann</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 19:30:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Akleh, Shireen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/opinion/00schmemann1/00schmemann1-moth.jpg" width="151"></media:content>
+      <media:credit>Ronaldo Schemidt/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The funeral procession of the Palestinian American journalist Shireen Abu Akleh in Jerusalem in May. </media:description>
     </item>
     <item>
       <title>Your Tuesday Evening Briefing</title>
@@ -589,22 +617,23 @@
       <media:credit>Gracey Zhang</media:credit>
     </item>
     <item>
-      <title>Lillias White Finds Her Goddess for ‘Hadestown’</title>
-      <link>https://www.nytimes.com/2022/09/08/theater/lillias-white-hadestown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/theater/lillias-white-hadestown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/theater/lillias-white-hadestown.html" rel="standout"></atom:link>
-      <description>The Tony Award-winning actress will step into the role of the musical’s narrator, now known as Missus Hermes.</description>
-      <dc:creator>Sarah Bahr</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 18:32:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Lillias</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <title>Why Did Instagram Pause This Play? Its Creators Still Don’t Know.</title>
+      <link>https://www.nytimes.com/2022/09/11/theater/instagram-jeanne-dark-marion-siefert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/theater/instagram-jeanne-dark-marion-siefert.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/theater/instagram-jeanne-dark-marion-siefert.html" rel="standout"></atom:link>
+      <description>Marion Siéfert’s “_jeanne_dark_,” about a shy teenager beginning to express her sexuality, contains no nudity yet still ran afoul of Instagram’s opaque policies.</description>
+      <dc:creator>Laura Cappelle</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 18:55:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hadestown (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/arts/08lillias-white1/08lillias-white1-moth.jpg" width="151"></media:content>
-      <media:credit>Sabrina Santiago for The New York Times</media:credit>
-      <media:description>The veteran actress Lillias White, 71, will perform the role of Missus Hermes in “Hadestown” eight times per week beginning Sept. 13.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">_jeanne_dark_ (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Siefert, Marion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/arts/11jeanne-dark1/11jeanne-dark1-moth.jpg" width="151"></media:content>
+      <media:credit>Julien Mignot for The New York Times</media:credit>
+      <media:description>Marion Siéfert wrote “_jeanne_dark_,” a pun on the French styling of Joan of Arc, based on her own stifled upbringing in a Roman Catholic family in France. </media:description>
     </item>
   </channel>
 </rss>

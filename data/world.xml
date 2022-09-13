@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 14:26:31 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 14:24:41 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 14:44:21 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 14:40:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Ukrainian military said Russian soldiers were demoralized and redoubled calls for them to surrender. The claims could not be verified but showed how Kyiv was hoping its recent advances could turn the tide in the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 14:13:40 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 14:30:27 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-blog-section-front/13ukraine-blog-carousel-9-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -91,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html" rel="standout"></atom:link>
       <description>The new monarch continued his tour of the nations of the United Kingdom and will travel back to the capital later as his mother’s coffin is taken to Buckingham Palace.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 13:54:45 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 14:40:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
@@ -271,15 +271,18 @@
       <link>https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html" rel="standout"></atom:link>
-      <description>The simmering conflict between Armenia and Azerbaijan over the disputed region last flared in 2020, when Russia brokered a cease-fire.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 12:55:54 +0000</pubDate>
+      <description>The simmering conflict over the disputed Nagorno-Karabakh region last flared in 2020, when Russia brokered a cease-fire.</description>
+      <dc:creator>Ivan Nechepurenko and Cora Engelbrecht</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 14:29:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-blog-armenia-new/merlin_180639087_8a47f012-6162-4833-8f27-8c96dda470c1-moth.jpg" width="151"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>Armenian soldiers and a Russian peacekeeping soldier, on the vehicle, at a checkpoint in Nagorno-Karabakh in 2020.</media:description>
     </item>
     <item>
       <title>Ukraine on the March</title>
@@ -501,6 +504,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-constitutional-monarchy01/12queen-elizabeth-constitutional-monarchy01-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>King Charles III on Monday in London’s Westminster Hall. He pledged to uphold Britain’s constitutional monarchy. </media:description>

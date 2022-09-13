@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 21:52:27 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 21:48:20 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 22:27:40 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 22:24:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Ukrainian military said Russian soldiers were discouraged and redoubled calls for them to surrender. In the south, civilians who fled territory still in Russian control said occupying soldiers had grown increasingly volatile.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 21:48:20 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:15:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/13ukraine-blog-section-front2/12ukraine-ledeall-add1-moth.jpg" width="151"></media:content>
       <media:credit>Gleb Garanich/Reuters</media:credit>
     </item>
@@ -132,7 +132,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html" rel="standout"></atom:link>
       <description>Despite a rainy evening, crowds lined the streets of London as the hearse carrying the queen’s coffin made its way to Buckingham Palace.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 21:17:55 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:06:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
@@ -241,6 +241,26 @@
       <media:description>Hasmik Tutunjian, 66, sitting in the dark using rechargeable lights in her apartment during power cuts last month in Beirut, Lebanon.</media:description>
     </item>
     <item>
+      <title>U.S. Rebukes Russia for Claims of Secret Bioweapons in Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/13/technology/russia-ukraine-bioweapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/technology/russia-ukraine-bioweapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/technology/russia-ukraine-bioweapons.html" rel="standout"></atom:link>
+      <description>Russia used a formal meeting in Geneva to air its unsupported accusations but faced considerable diplomatic pushback.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 21:53:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13ukraine-biolabs-misinfo-Putin/13ukraine-biolabs-misinfo-Putin-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Gavriil Grigorov</media:credit>
+      <media:description>President Vladimir V. Putin of Russia in Moscow on Tuesday. The State Department condemned Russia for repeating unfounded claims that the United States was operating secret biological labs in Ukraine.</media:description>
+    </item>
+    <item>
       <title>Your Wednesday Briefing: Putin and Xi Prepare to Meet</title>
       <link>https://www.nytimes.com/2022/09/13/briefing/biden-xi-summit-asia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/briefing/biden-xi-summit-asia.html</guid>
@@ -298,7 +318,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-conflict.html" rel="standout"></atom:link>
       <description>The long-simmering conflict last flared in 2020, when Moscow brokered a cease-fire. Now some wonder what Russia might do next.</description>
       <dc:creator>Carlotta Gall and Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 20:47:55 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:24:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
@@ -1004,22 +1024,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/091222ambriefing-asia-promo1/091222ambriefing-asia-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A volunteer cleaned up debris at the Misto entertainment complex, which was hit by artillery two days earlier in Kharkiv, Ukraine, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Russian Strikes Cause Blackouts as Ukraine Gains in Northeast</title>
-      <link>https://www.nytimes.com/2022/09/12/world/ukraine-power-blackout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/ukraine-power-blackout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/world/ukraine-power-blackout.html" rel="standout"></atom:link>
-      <description>Kyiv condemned the strikes as an act of revenge as Russian forces retreat in the northeast.</description>
-      <dc:creator>Carly Olson</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 16:56:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-outage/11ukraine-briefing-outage-moth.jpg" width="151"></media:content>
-      <media:credit>Kostiantyn Liberov/Associated Press</media:credit>
-      <media:description>Ukrainian firefighters at an electric power station in Kharkiv on Sunday after a Russian strike.</media:description>
     </item>
   </channel>
 </rss>

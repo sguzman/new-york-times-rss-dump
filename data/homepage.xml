@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 23:42:07 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 23:18:32 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 23:57:40 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 23:51:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -105,13 +105,18 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
       <description>Mr. Starr’s investigation into President Clinton’s affair with a former White House intern propelled issues of sex and morality to the center of American life for more than a year.</description>
       <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 22:53:57 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 23:51:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="">Deaths and obituaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewinsky, Monica S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arkansas</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14starr1/13dc_starr_2-moth.jpg" width="151"></media:content>
-      <media:credit>Joshua Brigh​t / Guardian / eyevine/Redux</media:credit>
+      <media:credit>Joshua Brigh​t / Guardian/ eyevine / Redux</media:credit>
       <media:description>Ken Starr uncovered President Bill Clinton’s affair with a White House intern.</media:description>
     </item>
     <item>
@@ -121,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html" rel="standout"></atom:link>
       <description>King Charles III visited Belfast and met with members of Sinn Fein, the Irish nationalist party, now the largest in the country.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 22:59:46 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 22:59:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Michael D</category>
@@ -206,6 +211,25 @@
       <media:description>A firefighter monitoring a portion of the Mosquito fire that flared up on Tuesday near Foresthill, Calif.</media:description>
     </item>
     <item>
+      <title>How to Save a Forest by Burning It</title>
+      <link>https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/climate/california-wildfire-prescribed-burn.html" rel="standout"></atom:link>
+      <description>Prescribed burns are key to reducing the risk of catastrophic wildfires. Scientists are using high-tech tools to ensure they can be done safely in a warming world.</description>
+      <dc:creator>Raymond Zhong and Andri Tambunan</dc:creator>
+      <pubDate>Thu, 08 Sep 2022 14:38:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/climate/07cli-firescience-promo/07cli-firescience-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Andri Tambunan for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Graham Proposes 15-Week Abortion Ban, Splitting Republicans</title>
       <link>https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html</guid>
@@ -262,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/opinion/ukraine-war-biden.html" rel="standout"></atom:link>
       <description>As Russian troops flee their positions, now is the time to press the military advantage.</description>
       <dc:creator>Bret Stephens</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 23:00:06 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 23:50:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>

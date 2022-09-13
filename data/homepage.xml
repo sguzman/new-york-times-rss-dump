@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 10:14:24 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Sep 2022 10:09:09 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2022 10:42:06 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2022 10:41:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -229,7 +229,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/obituaries/jean-luc-godard-dead.html" rel="standout"></atom:link>
       <description>The Franco-Swiss filmmaker and provocateur radically rethought motion pictures and left a lasting influence on the medium.</description>
       <dc:creator>Dave Kehr and Jonathan Kandell</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 10:09:09 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2022 10:41:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Godard, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
@@ -438,18 +438,44 @@
       <media:credit>Courtesy of Cecilia Ridgeway</media:credit>
     </item>
     <item>
-      <title>When There’s Nothing in the Fridge</title>
-      <link>https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/08/dining/when-theres-nothing-in-the-fridge.html" rel="standout"></atom:link>
-      <description>Pasta, beans and more pantry cooking saves the day.</description>
-      <dc:creator>Tejal Rao</dc:creator>
-      <pubDate>Thu, 08 Sep 2022 17:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/03/25/magazine/25mag-eat1-copy-copy/25mag-eat1-moth.jpg" width="151"></media:content>
-      <media:credit>Gentl and Hyers for The New York Times</media:credit>
+      <title>Ukraine on the March</title>
+      <link>https://www.nytimes.com/2022/09/13/briefing/ukraine-counteroffensive-kharkiv-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/briefing/ukraine-counteroffensive-kharkiv-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/briefing/ukraine-counteroffensive-kharkiv-war.html" rel="standout"></atom:link>
+      <description>It’s not just one region. Ukraine is making progress in multiple places.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 10:25:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13-THE-MORNING-NL-ukraine/13-THE-MORNING-NL-ukraine-moth.jpg" width="151"></media:content>
+      <media:credit>Kostiantyn Liberov/Associated Press</media:credit>
+      <media:description>A Ukrainian tank in the Kharkiv region yesterday.</media:description>
+    </item>
+    <item>
+      <title>Is Ukraine Turning the Tide in the War?</title>
+      <link>https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html" rel="standout"></atom:link>
+      <description>What the country’s biggest victory since the beginning of the war means for the future of the conflict.</description>
+      <dc:creator>Sabrina Tavernise, Rob Szypko, Sydney Harper, Mooj Zadie, M.J. Davis Lin, Lisa Chow, Dan Powell, Rowan Niemisto, Marion Lozano and Chris Wood</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 10:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/podcasts/13daily-1/13DAILY-Ukraine-audio-app-moth-v5.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Ukrainian soldier on an abandoned Russian tank last week. The Ukrainians have launched a stunning counteroffensive against Russia.</media:description>
     </item>
     <item>
       <title>Jennifer Egan and the Goon Squad</title>
@@ -461,35 +487,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
     </item>
     <item>
-      <title>How a Marathon Win 50 Years Ago Kick-Started the ‘Running Boom’</title>
-      <link>https://www.nytimes.com/2022/09/10/sports/frank-shorter-running-boom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/sports/frank-shorter-running-boom.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/10/sports/frank-shorter-running-boom.html" rel="standout"></atom:link>
-      <description>Frank Shorter couldn’t have imagined the impact his 1972 Olympic marathon victory would have on the sport. “I was just a piece in the puzzle,” he said.</description>
-      <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Sat, 10 Sep 2022 04:01:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1972)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Anti-Doping Agency</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/sports/10shorter-anniversary-print/10shorter-anniversary3-moth.jpg" width="151"></media:content>
-      <media:credit>Ed Lacey/Popperfoto / Contributor</media:credit>
-      <media:description>Frank Shorter during the men’s marathon at the 1972 Summer Olympics.</media:description>
-    </item>
-    <item>
-      <title>Let’s Talk About E.L. Doctorow’s ‘Ragtime’</title>
-      <link>https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html" rel="standout"></atom:link>
-      <description>Join the writer Jonathan Dee in a virtual conversation on Sept. 15 about the 1975 novel.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 19 Aug 2022 15:37:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Clubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doctorow, E L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dee, Jonathan (1962- )</category>
-      <category domain="">2020tbookclub</category>
+      <title>Breakfast With Grandma</title>
+      <link>https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/dining/breakfast-with-grandma.html" rel="standout"></atom:link>
+      <description>A new New Yorker tucks into the West Village’s offerings with her Abueti, a longtime Manhattanite.</description>
+      <dc:creator>Tanya Sichynsky</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 02:47:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/dining/06WTE-grandmabreakfast1/06WTE-grandmabreakfast1-moth.jpg" width="151"></media:content>
+      <media:credit>Moriah Sawtelle</media:credit>
+      <media:description>If you need a more portable breakfast, St. Jardim’s egg sandwich with smoked bacon, tomato jam and greens always satisfies.</media:description>
     </item>
     <item>
       <title>New York Lawmakers Call for More Oversight of Hasidic Schools</title>

@@ -3,27 +3,99 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 12:48:02 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 12:40:37 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 13:54:33 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 13:53:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Ukraine News: In Reclaimed Towns, Ukrainians Recount a Frantic Russian Retreat</title>
-      <link>https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war" rel="standout"></atom:link>
-      <description>The Ukrainian military said Russian soldiers were discouraged and redoubled calls for them to surrender. In the south, civilians who fled territory still in Russian control said occupying soldiers had grown increasingly volatile.</description>
+      <title>Live Updates: Zelensky Visits Newly Reclaimed City as Ukraine’s Blitz Presses On</title>
+      <link>https://www.nytimes.com/live/2022/09/14/world/ukraine-russia-war</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/14/world/ukraine-russia-war</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/14/world/ukraine-russia-war" rel="standout"></atom:link>
+      <description>The Ukrainian president made an unannounced visit to Izium, which Kyiv’s forces seized in a lightning offensive in the northeast. Ukrainian officials said their next objective was to retake Lyman, a gateway to Russian-held Luhansk Province.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 11:41:53 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/13ukraine-blog-section-front2/12ukraine-ledeall-add1-moth.jpg" width="151"></media:content>
-      <media:credit>Gleb Garanich/Reuters</media:credit>
+      <pubDate>Wed, 14 Sep 2022 13:48:52 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14ukraine-blog-header-7am-ET/14ukraine-blog-header-7am-ET-moth.jpg" width="151"></media:content>
+      <media:credit>Kostiantyn Liberov/Associated Press</media:credit>
+      <media:description>A Ukrainian soldier in Izium on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Updates: Queen Elizabeth’s Coffin Leaves Buckingham Palace in a Solemn Procession</title>
+      <link>https://www.nytimes.com/live/2022/09/14/world/queen-elizabeth-king-charles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/14/world/queen-elizabeth-king-charles</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/14/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
+      <description>The queen’s coffin is being conveyed to Westminster Hall, where she will lie in state for four days. Watch our coverage live here.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 13:53:55 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14queen-blog-carousel-1/14queen-blog-carousel-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Hermès Bags and Millions in Cash: The Fall of Malaysia’s Najib Razak</title>
+      <link>https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html" rel="standout"></atom:link>
+      <description>The former prime minister and his wife were once seen as untouchable. Now, both have been found guilty in connection with the 1MDB financial scandal.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 09:22:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najib Razak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansor, Rosmah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">1Malaysia Development Berhad (1MDB)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Low Jho (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00Malaysia-Najib1/00Malaysia-Najib1-moth.jpg" width="151"></media:content>
+      <media:credit>Fazry Ismail/EPA, via Shutterstock</media:credit>
+      <media:description>Najib Razak, the former prime minister of Malaysia, arriving to court in Putrajaya, Malaysia, last month.</media:description>
+    </item>
+    <item>
+      <title>Xi Jinping Heads to Central Asia in First Foreign Trip Since 2020</title>
+      <link>https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html" rel="standout"></atom:link>
+      <description>Xi Jinping, who is expected to meet with Vladimir Putin, will seek to project confidence as a global statesman at a time of grave challenges at home.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 09:40:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shanghai Cooperation Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14china-xi-new/14china-xi-new-moth.jpg" width="151"></media:content>
+      <media:credit>Kazakhstan Presidential Press Office, via Getty Images</media:credit>
+      <media:description>A photo released by Kazakhstan’s Presidential Press Office showed Xi Jinping, China’s leader, arriving in Nur-Sultan, Kazakhstan, on his first trip abroad since the early days of the Covid-19 pandemic, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Emergency Rooms Across Canada Close Amid Nursing Shortage</title>
+      <link>https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html" rel="standout"></atom:link>
+      <description>A nationwide shortage of nurses has caused dozens of emergency rooms across Canada to close temporarily and forced some patients to wait days for a bed.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12canada-hospitals1/12canada-hospitals1-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>The Montfort Hospital, which mainly serves Ottawa’s French-speaking community, is one of several Ontario hospitals that temporarily closed its emergency department.</media:description>
     </item>
     <item>
       <title>How Time Softened Judgment of Camilla and Fury Over Diana’s Death</title>
@@ -144,85 +216,6 @@
       <media:description>Armenian soldiers and a Russian peacekeeping soldier, on the vehicle, at a checkpoint in the disputed area of Nagorno-Karabakh in 2020.</media:description>
     </item>
     <item>
-      <title>Sri Lanka Wins Cricket’s T20 Asia Cup, Bringing Joy to Fans</title>
-      <link>https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html" rel="standout"></atom:link>
-      <description>The men’s cricket team won the Asia Cup in the T20 format, hours after Sri Lanka won the equivalent championship in women’s netball. Both teams were feted with a parade on Tuesday.</description>
-      <dc:creator>Skandha Gunasekara and Mike Ives</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 10:55:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cricket (Game)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Netball (Sport)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Gotabaya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombo (Sri Lanka)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13xp-srilanka-cricket-01/13xp-srilanka-cricket-01-moth.jpg" width="151"></media:content>
-      <media:credit>Eranga Jayawardena/Associated Press</media:credit>
-      <media:description>Sri Lanka’s men’s cricket team was feted in the capital, Colombo, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Emmy Success for ‘Squid Game’ Is Hailed in South Korea</title>
-      <link>https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html" rel="standout"></atom:link>
-      <description>After the dystopian Netflix drama picked up multiple wins, Koreans celebrated the awards as the latest example of their country’s rise as a cultural powerhouse.</description>
-      <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 05:35:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jung-jae (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Squid Game (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Parasite (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Money Heist (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/00EMMY-SQUIDGAME-01/00EMMY-SQUIDGAME-01-moth.jpg" width="151"></media:content>
-      <media:credit>Aude Guerrucci/Reuters</media:credit>
-      <media:description>Lee Jung-jae, left, who won the Emmy for best actor in a drama series, and Hwang Dong-hyuk, who was honored for his directing, after an impressive showing for “Squid Game” in Los Angeles on Monday.</media:description>
-    </item>
-    <item>
-      <title>King Charles and Camilla Visit Northern Ireland Ahead of Queen’s Funeral</title>
-      <link>https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html" rel="standout"></atom:link>
-      <description>King Charles III visited Belfast and met with members of Sinn Fein, the Irish nationalist party, now the largest in the country.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 07:03:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Michael D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinn Fein</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Neill, Michelle (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonald, Mary Lou</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Republican Army</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13queen-ireland-1/13queen-ireland-1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Niall Carson</media:credit>
-      <media:description>King Charles III and Camilla viewing floral tributes left outside Hillsborough Castle in Belfast, Northern Ireland, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Fatal Kangaroo Attack Is Said to Be First in Australia in 86 Years</title>
-      <link>https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html" rel="standout"></atom:link>
-      <description>The police said they believed that the man had been keeping the wild animal as a pet.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 11:09:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kangaroos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13OZ-KANGAROO/13OZ-KANGAROO-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Graham/Associated Press</media:credit>
-      <media:description>Kangaroos near Canberra, Australia.</media:description>
-    </item>
-    <item>
       <title>Oppressive Blackouts Force Lebanese to Change Rhythm of Life</title>
       <link>https://www.nytimes.com/2022/09/12/world/middleeast/lebanon-blackouts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/middleeast/lebanon-blackouts.html</guid>
@@ -239,13 +232,13 @@
       <media:description>Hasmik Tutunjian, 66, sitting in the dark using rechargeable lights in her apartment during power cuts last month in Beirut, Lebanon.</media:description>
     </item>
     <item>
-      <title>Lawmakers Tell Biden Administration to Withhold All Military Aid to Egypt</title>
+      <title>Lawmakers Tell Biden Administration to Withhold Military Aid to Egypt</title>
       <link>https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html" rel="standout"></atom:link>
       <description>Senior Democratic lawmakers said the United States must not give aid to Egypt until it improves its human rights record, in the latest instance of tensions over Middle East policies.</description>
       <dc:creator>Edward Wong and Vivian Yee</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 12:18:59 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 13:17:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
@@ -266,7 +259,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-coffin-procession-timing.html" rel="standout"></atom:link>
       <description>The procession will last 38 minutes and will “arrive at Westminster Hall at 3 p.m. on the dot.”</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 12:24:52 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:57:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
@@ -374,27 +367,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
     </item>
     <item>
-      <title>Hermès Bags and Millions in Cash: The Fall of Malaysia’s Najib Razak</title>
-      <link>https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html" rel="standout"></atom:link>
-      <description>The former prime minister and his wife were once seen as untouchable. Now, both have been found guilty in connection with the 1MDB financial scandal.</description>
-      <dc:creator>Richard C. Paddock</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:22:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najib Razak</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansor, Rosmah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">1Malaysia Development Berhad (1MDB)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Low Jho (1981- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00Malaysia-Najib1/00Malaysia-Najib1-moth.jpg" width="151"></media:content>
-      <media:credit>Fazry Ismail/EPA, via Shutterstock</media:credit>
-      <media:description>Najib Razak, the former prime minister of Malaysia, arriving to court in Putrajaya, Malaysia, last month.</media:description>
-    </item>
-    <item>
       <title>Read Your Way Through Helsinki</title>
       <link>https://www.nytimes.com/2022/09/14/books/helsinki-finland-books.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/books/helsinki-finland-books.html</guid>
@@ -420,52 +392,13 @@
       <media:credit>Raphaelle Macaron</media:credit>
     </item>
     <item>
-      <title>Emergency Rooms Across Canada Close Amid Nursing Shortage</title>
-      <link>https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html" rel="standout"></atom:link>
-      <description>A nationwide shortage of nurses has caused dozens of emergency rooms across Canada to close temporarily and forced some patients to wait days for a bed.</description>
-      <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12canada-hospitals1/12canada-hospitals1-moth.jpg" width="151"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>The Montfort Hospital, which mainly serves Ottawa’s French-speaking community, is one of several Ontario hospitals that temporarily closed its emergency department.</media:description>
-    </item>
-    <item>
-      <title>Xi Jinping Heads to Central Asia in First Foreign Trip Since 2020</title>
-      <link>https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html" rel="standout"></atom:link>
-      <description>Xi Jinping, who is expected to meet with Vladimir Putin, will seek to project confidence as a global statesman at a time of grave challenges at home.</description>
-      <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:40:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shanghai Cooperation Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14china-xi-new/14china-xi-new-moth.jpg" width="151"></media:content>
-      <media:credit>Kazakhstan Presidential Press Office, via Getty Images</media:credit>
-      <media:description>A photo released by Kazakhstan’s Presidential Press Office showed Xi Jinping, China’s leader, arriving in Nur-Sultan, Kazakhstan, on his first trip abroad since the early days of the Covid-19 pandemic, on Wednesday.</media:description>
-    </item>
-    <item>
       <title>An Oily Challenge: Evict Stinky Old Furnaces in Favor of Heat Pumps</title>
       <link>https://www.nytimes.com/2022/09/14/climate/oil-gas-furnace-heat-pump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/climate/oil-gas-furnace-heat-pump.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/14/climate/oil-gas-furnace-heat-pump.html" rel="standout"></atom:link>
       <description>Building by building, New York and other cities are trying to stop the age-old use of fossil fuels to heat homes and buildings. In the U.S., new climate laws aim to speed things up.</description>
       <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 07:00:08 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:58:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
@@ -499,10 +432,10 @@
       <pubDate>Tue, 13 Sep 2022 23:13:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-ledeall1/13ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>During a media tour arranged by the Ukrainian government of recently retaken territory, a vehicle used by Russian forces stood on the road outside Balakliya.</media:description>
@@ -579,6 +512,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
     </item>
     <item>
+      <title>King Charles and Camilla Visit Northern Ireland Ahead of Queen’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html" rel="standout"></atom:link>
+      <description>King Charles III visited Belfast and met with members of Sinn Fein, the Irish nationalist party, now the largest in the country.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 07:03:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Michael D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinn Fein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Neill, Michelle (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonald, Mary Lou</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Republican Army</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13queen-ireland-1/13queen-ireland-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Niall Carson</media:credit>
+      <media:description>King Charles III and Camilla viewing floral tributes left outside Hillsborough Castle in Belfast, Northern Ireland, on Tuesday.</media:description>
+    </item>
+    <item>
       <title>How the New Climate Law Can Save You Thousands of Dollars</title>
       <link>https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html</guid>
@@ -624,6 +579,63 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13ukraine-blog-russia-mobilization/13ukraine-blog-russia-mobilization-moth.jpg" width="151"></media:content>
       <media:credit>Kostiantyn Liberov/Associated Press</media:credit>
       <media:description>A Ukrainian military vehicle on Monday in the Kharkiv region, where rapid Ukrainian gains have caused a stir in Russia.</media:description>
+    </item>
+    <item>
+      <title>Emmy Success for ‘Squid Game’ Is Hailed in South Korea</title>
+      <link>https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html" rel="standout"></atom:link>
+      <description>After the dystopian Netflix drama picked up multiple wins, Koreans celebrated the awards as the latest example of their country’s rise as a cultural powerhouse.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 05:35:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jung-jae (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Squid Game (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Parasite (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Money Heist (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/00EMMY-SQUIDGAME-01/00EMMY-SQUIDGAME-01-moth.jpg" width="151"></media:content>
+      <media:credit>Aude Guerrucci/Reuters</media:credit>
+      <media:description>Lee Jung-jae, left, who won the Emmy for best actor in a drama series, and Hwang Dong-hyuk, who was honored for his directing, after an impressive showing for “Squid Game” in Los Angeles on Monday.</media:description>
+    </item>
+    <item>
+      <title>Fatal Kangaroo Attack Is Said to Be First in Australia in 86 Years</title>
+      <link>https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html" rel="standout"></atom:link>
+      <description>The police said they believed that the man had been keeping the wild animal as a pet.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 11:09:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kangaroos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13OZ-KANGAROO/13OZ-KANGAROO-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Graham/Associated Press</media:credit>
+      <media:description>Kangaroos near Canberra, Australia.</media:description>
+    </item>
+    <item>
+      <title>Sri Lanka Wins Cricket’s T20 Asia Cup, Bringing Joy to Fans</title>
+      <link>https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html" rel="standout"></atom:link>
+      <description>The men’s cricket team won the Asia Cup in the T20 format, hours after Sri Lanka won the equivalent championship in women’s netball. Both teams were feted with a parade on Tuesday.</description>
+      <dc:creator>Skandha Gunasekara and Mike Ives</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 10:55:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cricket (Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Netball (Sport)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Gotabaya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombo (Sri Lanka)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13xp-srilanka-cricket-01/13xp-srilanka-cricket-01-moth.jpg" width="151"></media:content>
+      <media:credit>Eranga Jayawardena/Associated Press</media:credit>
+      <media:description>Sri Lanka’s men’s cricket team was feted in the capital, Colombo, on Tuesday.</media:description>
     </item>
     <item>
       <title>Clashes Erupt Between Armenia and Azerbaijan in Nagorno-Karabakh</title>
@@ -1045,18 +1057,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12ukraine-blog-IAEA-image02/12ukraine-blog-IAEA-image02-moth.jpg" width="151"></media:content>
       <media:credit>Christian Bruna/EPA, via Shutterstock</media:credit>
       <media:description>Rafael Mariano Gross of the International Atomic Energy Agency in Vienna on Monday. He said Russia and Ukraine “were engaging with us” over talks to end fighting at the nuclear plant.</media:description>
-    </item>
-    <item>
-      <title>Prince Andrew Will Join Queen’s Memorial Ceremonies in Civilian Dress</title>
-      <link>https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html" rel="standout"></atom:link>
-      <description>The palace said the prince, largely exiled from public life over his ties to the disgraced financier Jeffrey Epstein, would mourn his mother, Queen Elizabeth II, in civilian clothes.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 13:21:27 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-uniforms/12queen-elizabeth-uniforms-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Owen Humphreys</media:credit>
-      <media:description>Prince Andrew viewing the messages and flowers left for Queen Elizabeth II at Balmoral Castle in Aberdeenshire, Scotland, on Saturday.</media:description>
     </item>
   </channel>
 </rss>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 17:35:54 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 17:32:40 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 17:52:19 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 17:43:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html" rel="standout"></atom:link>
-      <description>The flooding has submerged vast areas, and residents still urgently await aid. Pakistani officials warn that it may take three to six months for the water to recede.</description>
+      <description>The flooding has displace more than 33 million people, submerging vast areas of Pakistan that are likely to take months to dry out.</description>
       <dc:creator>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 16:39:42 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 17:43:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -177,49 +177,23 @@
       <media:description>Don Bolduc cheered with supporters during his campaign watch party. </media:description>
     </item>
     <item>
-      <title>Was Elizabeth the Queen of America? This Week It Seemed Like It.</title>
-      <link>https://www.nytimes.com/2022/09/14/us/america-queen-death-royal-family.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/us/america-queen-death-royal-family.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/us/america-queen-death-royal-family.html" rel="standout"></atom:link>
-      <description>More than two centuries after Americans fought for freedom from the British crown, their descendants are absorbed by the latest chapter in the royal family’s drama.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:30:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <title>Who Will Pay for Queen Elizabeth’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/14/world/europe/queen-funeral-costs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/queen-funeral-costs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/queen-funeral-costs.html" rel="standout"></atom:link>
+      <description>The state will cover the huge price tag at a time when many in Britain are struggling to pay their bills and are bracing for a difficult winter.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 17:00:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Revolutionary War, American (1775-83)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diana, Princess of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/lens/13xp-us-queen1/13xp-us-queen1-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>People paid their respects outside the British Embassy in Washington after the death of Queen Elizabeth II on Thursday.</media:description>
-    </item>
-    <item>
-      <title>How King Charles Turned His Royal Estate Into a Lucrative Portfolio</title>
-      <link>https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html" rel="standout"></atom:link>
-      <description>As prince, Charles used tax breaks, offshore accounts and canny real estate investments to turn a sleepy estate into a billion-dollar business.</description>
-      <dc:creator>Jane Bradley and Euan Ward</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 13:08:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sovereign Wealth Funds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inheritance and Estate Taxes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crown Estate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duchy of Cornwall</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/12queen-money/12queen-money-moth.jpg" width="151"></media:content>
-      <media:credit>James Hill for The New York Times</media:credit>
-      <media:description>King Charles III spent years turning his royal estate into a billion-dollar portfolio.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14queen-elizabeth-costs-topart/14queen-elizabeth-costs-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <media:description>The cost of Queen Elizabeth II’s funeral has not yet been made public.</media:description>
     </item>
     <item>
       <title>The Mystery Behind the Crime Wave at 312 Riverside Drive</title>
@@ -617,91 +591,96 @@
       <media:description>Sulfur-crested cockatoos enjoying a feast in Sydney, Australia.</media:description>
     </item>
     <item>
-      <title>Lymphatic Drainage: Does it Work? And How to Do It Yourself</title>
-      <link>https://www.nytimes.com/2022/09/12/well/live/lymphatic-drainage-gua-sha.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/well/live/lymphatic-drainage-gua-sha.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/well/live/lymphatic-drainage-gua-sha.html" rel="standout"></atom:link>
-      <description>These wellness practices — which center on one invisible network of vessels and nodes — have soared in popularity in recent years. Should you try them?</description>
-      <dc:creator>Hannah Seo</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 21:20:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lymph Nodes and Lymphatic System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+      <title>What Is Brain Fog and How Can I Treat It?</title>
+      <link>https://www.nytimes.com/2022/09/13/well/mind/brain-fog-treatment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/well/mind/brain-fog-treatment.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/well/mind/brain-fog-treatment.html" rel="standout"></atom:link>
+      <description>Researchers are just beginning to understand the cognitive dysfunction that some people experience with Covid-19 and a range of other health issues.</description>
+      <dc:creator>Knvul Sheikh</dc:creator>
+      <pubDate>Tue, 13 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Long Covid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lymphedema</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Complementary Medicine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/WELL-LYMPHATIC-HEALTH1/WELL-LYMPHATIC-HEALTH1-moth.jpg" width="151"></media:content>
-      <media:credit>Heather Sten for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nerves and Nervous System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menopause</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lyme Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Multiple Sclerosis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/16ASKWELL-BRAIN-FOG1/16ASKWELL-BRAIN-FOG1-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
     </item>
     <item>
-      <title>How to Cope With Financial Stress</title>
-      <link>https://www.nytimes.com/2022/07/25/well/mind/stress-money-relationships.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/07/25/well/mind/stress-money-relationships.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/07/25/well/mind/stress-money-relationships.html" rel="standout"></atom:link>
-      <description>Experts share tips on how to feel empowered and manage stress as prices continue to rise.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Wed, 27 Jul 2022 20:12:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/26/well/20Well-Money-Psychology/20Well-Money-Psychology-moth-v4.jpg" width="151"></media:content>
-      <media:credit>Jam Dong</media:credit>
-    </item>
-    <item>
-      <title>Is Seltzer Water Just as Healthy as Flat Water?</title>
-      <link>https://www.nytimes.com/2021/09/14/well/eat/seltzer-water-benefits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/09/14/well/eat/seltzer-water-benefits.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/09/14/well/eat/seltzer-water-benefits.html" rel="standout"></atom:link>
-      <description>Unsweetened carbonated water is a better choice than soda or fruit juice. But don’t overdo it, experts say.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Wed, 02 Mar 2022 15:13:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fluorides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teeth and Dentistry</category>
+      <title>Processed Meat and Health Risks: What to Know</title>
+      <link>https://www.nytimes.com/2022/06/29/well/eat/processed-meats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/29/well/eat/processed-meats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/29/well/eat/processed-meats.html" rel="standout"></atom:link>
+      <description>Here’s what the experts say.</description>
+      <dc:creator>Sophie Egan</dc:creator>
+      <pubDate>Wed, 13 Jul 2022 20:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hot Dogs and Frankfurters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/21/well/ASKWELL-SELTZER2/ASKWELL-SELTZER2-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/05/well/28ASKWELL-PROCESSED-MEAT1/28ASKWELL-PROCESSED-MEAT1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
-      <title>Do Waist Trainers Work?</title>
-      <link>https://www.nytimes.com/2022/05/20/well/waist-trainers-weight-loss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/05/20/well/waist-trainers-weight-loss.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/05/20/well/waist-trainers-weight-loss.html" rel="standout"></atom:link>
-      <description>Some claim the corset-like garments help wearers slim their midsections. Here’s what the experts say.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 23 May 2022 14:57:22 +0000</pubDate>
+      <title>Should You Put on Sunscreen or Foundation First?</title>
+      <link>https://www.nytimes.com/article/sunscreen-makeup-spf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/sunscreen-makeup-spf.html</guid>
+      <atom:link href="https://www.nytimes.com/article/sunscreen-makeup-spf.html" rel="standout"></atom:link>
+      <description>There’s good news and bad news when it comes to sun protection and cosmetics.</description>
+      <dc:creator>Caira Blackwell</dc:creator>
+      <pubDate>Tue, 05 Jul 2022 09:00:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/01/well/13-Scam-Waist-Trainers/13-Scam-Waist-Trainers-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Tyler Comrie, Photograph by Shutterstock</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunscreen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultraviolet Light</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/12/well/ASK-WELL-SUNSCREEN1/ASK-WELL-SUNSCREEN1-moth.jpg" width="151"></media:content>
+      <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
-      <title>How to Handle Menopause Symptoms While Working</title>
-      <link>https://www.nytimes.com/2022/01/27/well/live/menopause-symptoms-workplace.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/01/27/well/live/menopause-symptoms-workplace.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/01/27/well/live/menopause-symptoms-workplace.html" rel="standout"></atom:link>
-      <description>Hot flashes, mood swings and other signs of menopause can cause women to quit their jobs. Here’s how some handle symptoms while working.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 28 Jan 2022 15:37:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menopause</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/26/well/00well-menopause-at-work/00well-menopause-at-work-moth.jpg" width="151"></media:content>
-      <media:credit>Gracey Zhang</media:credit>
+      <title>Is Driving High as Dangerous as Driving Drunk?</title>
+      <link>https://www.nytimes.com/2022/04/12/well/live/driving-while-high-marijuana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/12/well/live/driving-while-high-marijuana.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/12/well/live/driving-while-high-marijuana.html" rel="standout"></atom:link>
+      <description>There’s limited data on how marijuana impacts driving performance, but experts urge caution before getting behind the wheel.</description>
+      <dc:creator>Dani Blum</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/12/well/12askwell-drivinghigh/12askwell-drivinghigh-moth.jpg" width="151"></media:content>
+      <media:credit>Aileen Son for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘Take on an Empty Stomach.’ How Do You Know When Your Stomach Is Empty?</title>
+      <link>https://www.nytimes.com/2018/09/28/well/live/drug-medication-empty-stomach-prescription.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/28/well/live/drug-medication-empty-stomach-prescription.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/28/well/live/drug-medication-empty-stomach-prescription.html" rel="standout"></atom:link>
+      <description>Two hours after eating is a crude rule of thumb. A more accurate answer depends on the drugs you are taking and your medical conditions.</description>
+      <dc:creator>Richard Klasco, M.D.</dc:creator>
+      <pubDate>Tue, 13 Jul 2021 12:41:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stomach</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fosamax (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Osteoporosis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/01/29/well/well_drugs/merlin_105526780_2d127da7-23dd-43cd-b86b-a3f7cdb919ba-moth.jpg" width="151"></media:content>
+      <media:credit>Stuart Bradford</media:credit>
     </item>
     <item>
       <title>A New Look at a Diane Arbus Exhibition, 50 Years Later</title>

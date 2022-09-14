@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 11:50:08 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 11:41:53 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 12:48:02 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 12:40:37 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,7 +97,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
@@ -238,6 +237,44 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00lebanon-electricity/00lebanon-electricity-moth.jpg" width="151"></media:content>
       <media:description>Hasmik Tutunjian, 66, sitting in the dark using rechargeable lights in her apartment during power cuts last month in Beirut, Lebanon.</media:description>
+    </item>
+    <item>
+      <title>Lawmakers Tell Biden Administration to Withhold All Military Aid to Egypt</title>
+      <link>https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/us/politics/egypt-military-aid-biden.html" rel="standout"></atom:link>
+      <description>Senior Democratic lawmakers said the United States must not give aid to Egypt until it improves its human rights record, in the latest instance of tensions over Middle East policies.</description>
+      <dc:creator>Edward Wong and Vivian Yee</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 12:18:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meeks, Gregory W</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/us/politics/14dc-egypt-2/14dc-egypt-2-moth.jpg" width="151"></media:content>
+      <media:credit>Khaled Desouki/AFP, via Getty Images</media:credit>
+      <media:description>Tora prison on the southern outskirts of Cairo in 2020.</media:description>
+    </item>
+    <item>
+      <title>Why the Queen’s Coffin Will Leave Buckingham Palace at 2:22 p.m. Exactly</title>
+      <link>https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-coffin-procession-timing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-coffin-procession-timing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-coffin-procession-timing.html" rel="standout"></atom:link>
+      <description>The procession will last 38 minutes and will “arrive at Westminster Hall at 3 p.m. on the dot.”</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 12:24:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14queen-elizabeth-222/14queen-elizabeth-222-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Vadim Ghirda</media:credit>
+      <media:description>Outside Buckingham Palace on Wednesday in London.</media:description>
     </item>
     <item>
       <title>E.U.’s Top Official Details Plans For Lasting Support of Ukraine</title>
@@ -849,7 +886,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/12/climate/robert-bullard-environmental-justice.html" rel="standout"></atom:link>
       <description>The White House has pledged $60 billion to a cause Robert Bullard has championed since the late seventies. He wants guarantees that the money will end up in the right hands.</description>
       <dc:creator>Cara Buckley</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 13:56:57 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:37:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
@@ -1020,42 +1057,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/world/12queen-elizabeth-uniforms/12queen-elizabeth-uniforms-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Owen Humphreys</media:credit>
       <media:description>Prince Andrew viewing the messages and flowers left for Queen Elizabeth II at Balmoral Castle in Aberdeenshire, Scotland, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>18 Russian Municipalities in Moscow Call For Putin’s Resignation</title>
-      <link>https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html" rel="standout"></atom:link>
-      <description>The elections were an early test of whether the upheaval caused by Russia’s invasion of Ukraine has affected voters.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 14:04:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12ukraine-blog-russia-elections-image03/12ukraine-blog-russia-elections-image03-moth.jpg" width="151"></media:content>
-      <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
-      <media:description>A woman holding a ballot during municipal elections at a polling station in Moscow on Friday.</media:description>
-    </item>
-    <item>
-      <title>Are the Polls Wrong Again?</title>
-      <link>https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html" rel="standout"></atom:link>
-      <description>Are Democrats again about to be disappointed by overly optimistic polling?</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 20:03:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12-THE-MORNING-NL-1/merlin_211840437_458b4272-7d13-4620-b94b-d2378fc32c6e-moth.jpg" width="151"></media:content>
-      <media:credit>Scott McIntyre for The New York Times</media:credit>
-      <media:description>A polling station in Miami Beach, Fla.</media:description>
     </item>
   </channel>
 </rss>

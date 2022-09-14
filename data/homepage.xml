@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 14:50:37 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 14:41:15 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 15:15:30 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 14:57:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -31,7 +31,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13ny-jobs-4/13ny-jobs-2-moth.jpg" width="151"></media:content>
       <media:credit>John Taggart for The New York Times</media:credit>
-      <media:description>The amount of international tourists, business travelers and commuters in New York has yet to return to its prepandemic level, hurting the workers who serve them.</media:description>
+      <media:description>The number of international tourists, business travelers and commuters in New York has yet to return to its prepandemic level, hurting the workers who serve them.</media:description>
     </item>
     <item>
       <title>Inflation Report Dampens Biden’s Claims of Economic Progress</title>
@@ -353,7 +353,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/travel/tinos-greece-wind.html" rel="standout"></atom:link>
       <description>‘We had been expecting Tinos’s famous Meltemi, the seasonal and often fierce northern winds that blow through the islands in the summer, to cool us down after a suffocating Roman heat wave. But not this.’</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 14:09:39 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 14:09:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cyclades Islands</category>
@@ -464,18 +464,40 @@
       <media:description>A Ukrainian soldier waves to passing buses near the recaptured village of Verbivka, Ukraine.</media:description>
     </item>
     <item>
-      <title>A 10-Year-Old Refugee Has Met a Million People. How Will New York Welcome Her?</title>
-      <link>https://www.nytimes.com/2022/09/14/opinion/little-amal-art-refugees.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/little-amal-art-refugees.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/little-amal-art-refugees.html" rel="standout"></atom:link>
-      <description>She invites us to remember the big idea on which the city was built. And what the city still aspires to.</description>
-      <dc:creator>Amir Nizar Zuabi</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Puppets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <title>What It Took for Stella Levi to Talk About the Holocaust</title>
+      <link>https://www.nytimes.com/2022/09/14/opinion/stella-levi-holocaust-survivor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/stella-levi-holocaust-survivor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/stella-levi-holocaust-survivor.html" rel="standout"></atom:link>
+      <description>How a chance meeting with one of the last Jews of Rhodes changed me.</description>
+      <dc:creator>Michael Frank</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 12:51:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levi, Stella</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14frank-image/14frank-image-moth.jpg" width="151"></media:content>
+      <media:credit>Masha Foya</media:credit>
+    </item>
+    <item>
+      <title>Putin Will Make People Choose Between Heating or Eating This Winter</title>
+      <link>https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html" rel="standout"></atom:link>
+      <description>To defeat petro-Putinism in Europe, U.S. energy policy has to be the arsenal of democracy.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 12:05:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/13friedmanNew/13friedmanNew-moth.jpg" width="151"></media:content>
+      <media:credit>Etienne De Malglaive/Getty Images</media:credit>
     </item>
     <item>
       <title>Bill Gates: ‘We’re in a Worse Place Than I Expected’</title>
@@ -501,28 +523,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/opinion/13wallacewellsnewsletter/13wallacewellsnewsletter-moth.jpg" width="151"></media:content>
       <media:credit>Jeff J Mitchell/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Putin Will Make People Choose Between Heating or Eating This Winter</title>
-      <link>https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/opinion/putin-ukraine-winter.html" rel="standout"></atom:link>
-      <description>To defeat petro-Putinism in Europe, U.S. energy policy has to be the arsenal of democracy.</description>
-      <dc:creator>Thomas L. Friedman</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 12:05:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/13friedmanNew/13friedmanNew-moth.jpg" width="151"></media:content>
-      <media:credit>Etienne De Malglaive/Getty Images</media:credit>
     </item>
     <item>
       <title>Poverty, Plunging</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 04:22:21 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 03:42:48 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 05:48:26 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 05:24:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -64,6 +64,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/business/13stocks-promo-alt/13stocks-promo-alt-moth.png" width="151"></media:content>
       <media:credit>By Karl Russell</media:credit>
+    </item>
+    <item>
+      <title>Asian stock markets fall in early trading.</title>
+      <link>https://www.nytimes.com/2022/09/14/business/asia-stock-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/business/asia-stock-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/business/asia-stock-markets.html" rel="standout"></atom:link>
+      <description>Major indexes fell in early trading across the Asia Pacific region on Wednesday, a day after U.S. stocks plummeted.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 04:41:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14economy-briefing-asia-stocks-01/14economy-briefing-asia-stocks-01-moth.jpg" width="151"></media:content>
+      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Stock market and currency data on a screen in Tokyo on Wednesday. </media:description>
     </item>
     <item>
       <title>To Make Money in the Stock Market, Do Nothing</title>
@@ -405,16 +423,6 @@
       <media:credit>Karl Fletcher/500px, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Your Tuesday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/09/13/briefing/inflation-report-primary-elections-new-hampshire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/briefing/inflation-report-primary-elections-new-hampshire.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/briefing/inflation-report-primary-elections-new-hampshire.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 23:14:14 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/business/13evening-briefing-nl-infLATION/inflation-overall-promo-moth.png" width="151"></media:content>
-    </item>
-    <item>
       <title>The crown and climate</title>
       <link>https://www.nytimes.com/2022/09/13/climate/king-charles-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/climate/king-charles-climate.html</guid>
@@ -432,25 +440,6 @@
       <media:description>Charles at the 2021 United Nations climate change conference, when he was Prince of Wales.</media:description>
     </item>
     <item>
-      <title>Is Ukraine Turning the Tide in the War?</title>
-      <link>https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/podcasts/the-daily/ukraine-russia-war-counteroffensive-kharkiv.html" rel="standout"></atom:link>
-      <description>What the country’s biggest victory since the beginning of the war means for the future of the conflict.</description>
-      <dc:creator>Sabrina Tavernise, Rob Szypko, Sydney Harper, Mooj Zadie, M.J. Davis Lin, Lisa Chow, Dan Powell, Rowan Niemisto, Marion Lozano and Chris Wood</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 10:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/podcasts/13daily-1/13DAILY-Ukraine-audio-app-moth-v5.jpg" width="151"></media:content>
-      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A Ukrainian soldier on an abandoned Russian tank last week. The Ukrainians have launched a stunning counteroffensive against Russia.</media:description>
-    </item>
-    <item>
       <title>Did You Recently Buy an Electric Vehicle? We Want to Hear About It.</title>
       <link>https://www.nytimes.com/2022/09/09/business/economy/electric-vehicle-purchase.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/business/economy/electric-vehicle-purchase.html</guid>
@@ -466,6 +455,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/ev-callout-promo/ev-callout-promo-moth.jpg" width="151"></media:content>
       <media:credit>Jae C. Hong/Associated Press</media:credit>
       <media:description>An electric vehicle charging in Los Angeles in August.</media:description>
+    </item>
+    <item>
+      <title>Jennifer Egan and the Goon Squad</title>
+      <link>https://www.nytimes.com/2022/09/10/books/review/jennifer-egan-and-the-goon-squad.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/books/review/jennifer-egan-and-the-goon-squad.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/books/review/jennifer-egan-and-the-goon-squad.html" rel="standout"></atom:link>
+      <description>The novelist talks about her Pulitzer-winning book, which includes one chapter written as a PowerPoint presentation, and Stephen Fry discusses Greek mythology.</description>
+      <pubDate>Sat, 10 Sep 2022 12:18:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>Join Al Gore and John Kerry for a Times Climate Event</title>
+      <link>https://www.nytimes.com/article/climate-event.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/climate-event.html</guid>
+      <atom:link href="https://www.nytimes.com/article/climate-event.html" rel="standout"></atom:link>
+      <description>How does climate change exacerbate other global challenges? Join us remotely or in person for our climate event series, with an upcoming gathering in New York in September.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 02 Sep 2022 14:50:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
     </item>
     <item>
       <title>Sandy Hook Victim’s Sister Recalls the Pain of Alex Jones’s Lies</title>

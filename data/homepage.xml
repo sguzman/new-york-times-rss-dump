@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 15:15:30 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 14:57:55 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 15:45:35 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 15:35:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -164,7 +164,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/us/america-queen-death-royal-family.html" rel="standout"></atom:link>
       <description>More than two centuries after Americans fought for freedom from the British crown, their descendants are absorbed by the latest chapter in the royal family’s drama.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:30:04 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 09:30:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -255,11 +255,13 @@
       <dc:creator>Lisa Lerer and Elizabeth Dias</dc:creator>
       <pubDate>Wed, 14 Sep 2022 01:22:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13pol-abortiongop-graham/13pol-abortiongop-graham-moth.jpg" width="151"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Senator Lindsey Graham introducing a Republican abortion bill at the Capitol on Tuesday.</media:description>
@@ -271,7 +273,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/magazine/high-risk-pregnancy-dobbs.html" rel="standout"></atom:link>
       <description>The photographer Stephanie Sinclair captured the newly unsettled world inside the Cleveland Clinic, where Ohio’s abortion laws have drastically changed maternal care.</description>
       <dc:creator>Stephanie Sinclair and Jaime Lowe</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 14:16:33 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 15:32:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -470,12 +472,10 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/opinion/stella-levi-holocaust-survivor.html" rel="standout"></atom:link>
       <description>How a chance meeting with one of the last Jews of Rhodes changed me.</description>
       <dc:creator>Michael Frank</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 12:51:19 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:51:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levi, Stella</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14frank-image/14frank-image-moth.jpg" width="151"></media:content>
-      <media:credit>Masha Foya</media:credit>
     </item>
     <item>
       <title>Putin Will Make People Choose Between Heating or Eating This Winter</title>

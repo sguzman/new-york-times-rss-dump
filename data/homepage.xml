@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 17:00:49 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 16:52:39 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 17:35:54 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 17:32:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html" rel="standout"></atom:link>
       <description>The flooding has submerged vast areas, and residents still urgently await aid. Pakistani officials warn that it may take three to six months for the water to recede.</description>
       <dc:creator>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 16:39:41 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 16:39:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -141,7 +141,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/us/politics/election-abortion-midterms-inflation.html" rel="standout"></atom:link>
       <description>Democrats enter the final sprint to November more optimistic than expected, especially in the race for the Senate. But Republicans remain bullish that they can sweep into a House majority.</description>
       <dc:creator>Jonathan Weisman</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 16:08:42 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 17:28:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
@@ -228,7 +228,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/nyregion/nyc-911-calls-riverside-drive.html" rel="standout"></atom:link>
       <description>In thousands of 911 calls over the course of more than two years, one man has falsely reported fights, murders, bombs and hostage situations at the same address. Why?</description>
       <dc:creator>Michael Wilson</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 16:19:29 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 17:05:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
@@ -246,25 +246,21 @@
       <description>For more than a decade, Catherine Engelbrecht, a Texas mom turned election-fraud crusader, has sown doubts about ballots and voting. Her patience has paid off.</description>
       <dc:creator>Cecilia Kang</dc:creator>
       <pubDate>Wed, 14 Sep 2022 09:00:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engelbrecht, Catherine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">True the Vote</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2000</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tea Party Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">True the Vote</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine Engelbrecht</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gregg Phillips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phillips, Gregg (1960- )</category>
     </item>
     <item>
       <title>They Translated ‘Hamilton’ Into German. Was It Easy? Nein.</title>
@@ -334,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/opinion/abortion-roe-exceptions.html" rel="standout"></atom:link>
       <description>How the necessity and complexity of life-of-the-mother exceptions is shaping the post-Roe debate.</description>
       <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 14:10:28 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 17:15:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
@@ -346,7 +342,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14douthat1/14douthat1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/14douthat1/14douthat1-moth.jpg" width="151"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>Lines from President Biden’s teleprompter during a speech in Maryland in August.</media:description>
     </item>
@@ -376,7 +372,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/opinion/elites-populists-political-beliefs.html" rel="standout"></atom:link>
       <description>The conflict between elites and populists may not be what it seems. </description>
       <dc:creator>Thomas B. Edsall</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 14:27:02 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 17:22:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
@@ -576,6 +572,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -707,25 +704,17 @@
       <media:credit>Gracey Zhang</media:credit>
     </item>
     <item>
-      <title>Opening Old Wounds as the Man Who Warned About the Holocaust</title>
-      <link>https://www.nytimes.com/2022/09/12/theater/jan-karski-holocaust-david-strathairn.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/theater/jan-karski-holocaust-david-strathairn.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/theater/jan-karski-holocaust-david-strathairn.html" rel="standout"></atom:link>
-      <description>In the solo play “Remember This,” David Strathairn portrays Jan Karski, a witness to the Nazi genocide during World War II.</description>
-      <dc:creator>Laura Collins-Hughes</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 19:37:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Remember This: The Lesson of Jan Karski (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strathairn, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polonsky Shakespeare Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Theater for a New Audience</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karski, Jan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/arts/12jan-karski1/12jan-karski1-moth.jpg" width="151"></media:content>
-      <media:credit>Emon Hassan for The New York Times</media:credit>
-      <media:description>“Do we impart horror upon our children? Or do we want to protect them?” David Strathairn asked recently, reflecting on the challenges of talking about the atrocities of the Holocaust.</media:description>
+      <title>A New Look at a Diane Arbus Exhibition, 50 Years Later</title>
+      <link>https://www.nytimes.com/2022/09/14/t-magazine/diane-arbus-exhibition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/t-magazine/diane-arbus-exhibition.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/t-magazine/diane-arbus-exhibition.html" rel="standout"></atom:link>
+      <description>David Zwirner Gallery in New York is restaging the photographer’s 1972 retrospective.</description>
+      <dc:creator>M.H. Miller</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 14:17:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arbus, Diane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zwirner, David, Gallery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
     </item>
   </channel>
 </rss>

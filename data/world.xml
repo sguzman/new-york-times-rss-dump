@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 08:31:11 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 07:17:30 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 08:57:23 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 08:50:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -238,6 +238,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00lebanon-electricity/00lebanon-electricity-moth.jpg" width="151"></media:content>
       <media:description>Hasmik Tutunjian, 66, sitting in the dark using rechargeable lights in her apartment during power cuts last month in Beirut, Lebanon.</media:description>
+    </item>
+    <item>
+      <title>Xi Jinping Heads to Central Asia in First Foreign Trip Since 2020</title>
+      <link>https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/xi-jinping-putin-china.html" rel="standout"></atom:link>
+      <description>Xi Jinping, who is expected to meet with Vladimir Putin, will seek to project confidence as a global statesman at a time of grave challenges at home.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 08:50:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shanghai Cooperation Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14china-xi-01/14china-xi-01-moth.jpg" width="151"></media:content>
+      <media:credit>Nyein Chan Naing/EPA, via Shutterstock</media:credit>
+      <media:description>China’s top leader, Xi Jinping, during his last trip abroad, to Naypyidaw, Myanmar, in January 2020.</media:description>
     </item>
     <item>
       <title>An Oily Challenge: Evict Stinky Old Furnaces in Favor of Heat Pumps</title>
@@ -1007,27 +1030,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11sweden-1/11sweden-1-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>A polling center at Royal College of Music in Stockholm on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Routs Russian Forces in Northeast, Forcing a Retreat</title>
-      <link>https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/ukraine-kharkiv-russian-retreat.html" rel="standout"></atom:link>
-      <description>Russia acknowledged that it had lost nearly all of the northern region of Kharkiv after a blitzkrieg thrust by Ukrainian fighters.</description>
-      <dc:creator>Andrew E. Kramer and Andrew Higgins</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 04:05:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-ledeall-1/11ukraine-ledeall-1-moth.jpg" width="151"></media:content>
-      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Kharkiv region this weekend after Russian forces retreated.</media:description>
     </item>
   </channel>
 </rss>

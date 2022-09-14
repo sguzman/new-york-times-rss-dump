@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 14 Sep 2022 12:29:46 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Sep 2022 12:29:07 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 13:30:14 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 13:21:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,10 +88,10 @@
       <pubDate>Tue, 13 Sep 2022 23:13:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13ukraine-ledeall1/13ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>During a media tour arranged by the Ukrainian government of recently retaken territory, a vehicle used by Russian forces stood on the road outside Balakliya.</media:description>
@@ -119,26 +119,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13pol-assess-lede/13pol-assess-lede-moth.jpg" width="151"></media:content>
       <media:credit>John Tully for The New York Times</media:credit>
       <media:description>Voters in New Hampshire, Rhode Island and Delaware were the last to cast ballots during a contentious primary season.</media:description>
-    </item>
-    <item>
-      <title>Morse Concedes to Bolduc in New Hampshire Senate Race, Realizing G.O.P. Fears</title>
-      <link>https://www.nytimes.com/2022/09/14/us/politics/bolduc-morse-new-hampshire-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/us/politics/bolduc-morse-new-hampshire-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/us/politics/bolduc-morse-new-hampshire-senate.html" rel="standout"></atom:link>
-      <description>Mainstream Republicans are worried that Don Bolduc, a 2020 election denier, is too right-wing to beat Senator Maggie Hassan in the general election.</description>
-      <dc:creator>Trip Gabriel</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 12:17:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolduc, Donald C (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morse, Chuck (1960- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13primary-live-nh-senate-repubs-bolduc4/13primary-live-nh-senate-repubs-bolduc4-moth.jpg" width="151"></media:content>
-      <media:credit>John Tully for The New York Times</media:credit>
-      <media:description>Don Bolduc cheered with supporters during his campaign watch party. </media:description>
     </item>
     <item>
       <title>Who Won and Lost in New Hampshire, Rhode Island and Delaware</title>
@@ -265,7 +245,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/us/politics/durham-inquiry-trump-russia.html" rel="standout"></atom:link>
       <description>The special counsel appointed by the Trump administration to examine the Russia investigation seems to be wrapping up its work with no further charges in store.</description>
       <dc:creator>Katie Benner, Adam Goldman and Charlie Savage</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 11:42:56 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:40:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
@@ -313,7 +293,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/climate/oil-gas-furnace-heat-pump.html" rel="standout"></atom:link>
       <description>Building by building, New York and other cities are trying to stop the age-old use of fossil fuels to heat homes and buildings. In the U.S., new climate laws aim to speed things up.</description>
       <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 07:00:08 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:58:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
@@ -366,13 +346,13 @@
       <media:description>Lines from President Biden’s teleprompter during a speech in Maryland in August.</media:description>
     </item>
     <item>
-      <title>China’s Covert Offensive Is Here. Are Democracies Ready?</title>
+      <title>China Is Running Covert Operations That Could Seriously Overwhelm Us</title>
       <link>https://www.nytimes.com/2022/09/14/opinion/international-world/china-espionage.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/international-world/china-espionage.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/14/opinion/international-world/china-espionage.html" rel="standout"></atom:link>
       <description>The West isn’t nearly prepared enough for the scale and complexity of China’s all-of-nation covert offensive.</description>
       <dc:creator>Nigel Inkster</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:00:06 +0000</pubDate>
+      <pubDate>Wed, 14 Sep 2022 12:38:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
@@ -566,6 +546,42 @@
       <media:credit>Karsten Moran for The New York Times</media:credit>
     </item>
     <item>
+      <title>E.U. Scores Major Legal Victory Against Google</title>
+      <link>https://www.nytimes.com/2022/09/14/business/eu-google-android-fine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/business/eu-google-android-fine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/business/eu-google-android-fine.html" rel="standout"></atom:link>
+      <description>A court rejected Google’s appeal of a record-setting antitrust fine related to Android and online search.</description>
+      <dc:creator>Adam Satariano</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 10:32:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/google-eu/google-eu-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Lecocq/EPA, via Shutterstock</media:credit>
+      <media:description>Margrethe Vestager has led the European Commission’s efforts to regulate tech giants like Amazon, Apple, Google and Meta.</media:description>
+    </item>
+    <item>
+      <title>Ken Starr, Independent Counsel in Clinton Investigation, Dies at 76</title>
+      <link>https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
+      <description>Mr. Starr’s investigation into President Clinton’s affair with a former White House intern propelled issues of sex and morality to the center of American life for more than a year.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 13:03:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="">Deaths and obituaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewinsky, Monica S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arkansas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14starr1/13dc_starr_2-moth.jpg" width="151"></media:content>
+      <media:credit>Joshua Brigh​t / Guardian/ eyevine / Redux</media:credit>
+      <media:description>Ken Starr uncovered President Bill Clinton’s affair with a White House intern.</media:description>
+    </item>
+    <item>
       <title>Europe Plans to Ban Goods Made With Forced Labor</title>
       <link>https://www.nytimes.com/2022/09/14/world/europe/eu-ban-forced-labor-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/eu-ban-forced-labor-china.html</guid>
@@ -585,43 +601,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14eu-labor/14eu-labor-moth.jpg" width="151"></media:content>
       <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
       <media:description>Valdis Dombrovskis, the E.U. trade chief, said that the European Commission had been “very careful to make sure that what we are doing is compatible” with World Trade Organization rules.</media:description>
-    </item>
-    <item>
-      <title>Emergency Rooms Across Canada Close Amid Nursing Shortage</title>
-      <link>https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html" rel="standout"></atom:link>
-      <description>A nationwide shortage of nurses has caused dozens of emergency rooms across Canada to close temporarily and forced some patients to wait days for a bed.</description>
-      <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12canada-hospitals1/12canada-hospitals1-moth.jpg" width="151"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>The Montfort Hospital, which mainly serves Ottawa’s French-speaking community, is one of several Ontario hospitals that temporarily closed its emergency department.</media:description>
-    </item>
-    <item>
-      <title>Ken Starr, Independent Counsel in Clinton Investigation, Dies at 76</title>
-      <link>https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/us/politics/ken-starr-dead.html" rel="standout"></atom:link>
-      <description>Mr. Starr’s investigation into President Clinton’s affair with a former White House intern propelled issues of sex and morality to the center of American life for more than a year.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 02:28:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starr, Kenneth W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
-      <category domain="">Deaths and obituaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewinsky, Monica S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arkansas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14starr1/13dc_starr_2-moth.jpg" width="151"></media:content>
-      <media:credit>Joshua Brigh​t / Guardian/ eyevine / Redux</media:credit>
-      <media:description>Ken Starr uncovered President Bill Clinton’s affair with a White House intern.</media:description>
     </item>
     <item>
       <title>Hermès Bags and Millions in Cash: The Fall of Malaysia’s Najib Razak</title>

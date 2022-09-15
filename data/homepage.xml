@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 21:50:36 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 21:48:45 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 22:10:38 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 22:06:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,18 +91,41 @@
       <media:description>A humanoid robot at the Consumer Electronics Show in January in Las Vegas. President Biden’s order is significant for microelectronics, artificial intelligence, biotechnology and more.</media:description>
     </item>
     <item>
-      <title>Roger Federer Announces Plans to Retire From Tennis</title>
-      <link>https://www.nytimes.com/2022/09/15/sports/tennis/federer-retires-tennis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/sports/tennis/federer-retires-tennis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/sports/tennis/federer-retires-tennis.html" rel="standout"></atom:link>
-      <description>Federer, who won 20 Grand Slam singles titles, said injuries and surgeries had taken their toll on his body. His final competitive matches will be next week in London.</description>
-      <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 21:32:28 +0000</pubDate>
+      <title>Roger Federer Came Along When Tennis Desperately Needed Him</title>
+      <link>https://www.nytimes.com/2022/09/15/sports/roger-federer-came-along-when-tennis-desperately-needed-him.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/sports/roger-federer-came-along-when-tennis-desperately-needed-him.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/sports/roger-federer-came-along-when-tennis-desperately-needed-him.html" rel="standout"></atom:link>
+      <description>Tennis had lost its cachet in the early 2000s before Federer made the classic sport modern and the modern sport classier.</description>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:37:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Tennis Professionals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/sports/15federer-assess1/15federer-assess1-moth.jpg" width="151"></media:content>
+      <media:credit>Clive Brunskill /Allsport via Getty Images</media:credit>
+      <media:description>Roger Federer in 2000, at age 18.</media:description>
+    </item>
+    <item>
+      <title>Roger Federer’s Retirement Makes Room for a New Era of Champions</title>
+      <link>https://www.nytimes.com/2022/09/15/sports/tennis/roger-federer-retires-rafael-nadal-novak-djokovic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/sports/tennis/roger-federer-retires-rafael-nadal-novak-djokovic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/sports/tennis/roger-federer-retires-rafael-nadal-novak-djokovic.html" rel="standout"></atom:link>
+      <description>Roger Federer’s retirement will auger opportunities for a new generation of players not named Rafael Nadal or Novak Djokovic.</description>
+      <dc:creator>David Waldstein</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:48:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15federer-retires1/15federer-retires1-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Solomon for The New York Times</media:credit>
-      <media:description>“I want to thank you all from the bottom of my heart, to everyone around the world who has helped make the dreams of a young Swiss ball kid come true,” Federer said.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Djokovic, Novak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadal, Rafael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alcaraz, Carlos (2003- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Daniil (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roddick, Andy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/sports/15federer-generations1/15federer-generations1-moth.jpg" width="151"></media:content>
+      <media:credit>Asanka Brendon Ratnayake for The New York Times</media:credit>
+      <media:description>Roger Federer at the Australian Open in 2020.</media:description>
     </item>
     <item>
       <title>Roger Federer’s Career in Photos</title>
@@ -139,27 +162,6 @@
       <media:description>Migrants entered St. Andrew’s Episcopal Church in Edgartown, Mass., to meet with volunteers on Thursday, a day after being flown from Texas to Martha’s Vineyard.</media:description>
     </item>
     <item>
-      <title>NY Attorney General May Sue Trump After Rejecting Settlement Offer</title>
-      <link>https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html" rel="standout"></atom:link>
-      <description>The attorney general, Letitia James, is also considering suing at least one of the former president’s adult children as part of her Trump Organization inquiry.</description>
-      <dc:creator>Ben Protess, Jonah E. Bromwich and William K. Rashbaum</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 16:41:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14trump-settle/14trump-settle-moth.jpg" width="151"></media:content>
-      <media:credit>Emil Lippe for The New York Times</media:credit>
-      <media:description>Donald J. Trump’s family business could face stiff financial and operational penalties after a trial.</media:description>
-    </item>
-    <item>
       <title>5 Russian Bullets Dashed an Opera Singer’s Dreams. Then He Reclaimed His Voice.</title>
       <link>https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</guid>
@@ -184,9 +186,9 @@
       <link>https://www.nytimes.com/2022/09/15/business/mortgage-rates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/business/mortgage-rates.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/15/business/mortgage-rates.html" rel="standout"></atom:link>
-      <description>Mortgage rates have been on the rise since the start of the year as the Federal Reserve affirmed its commitment to tame soaring inflation.</description>
+      <description>They have been on the rise since the start of the year as the Federal Reserve has affirmed its commitment to tame soaring inflation.</description>
       <dc:creator>Tara Siegel Bernard</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 15:46:38 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 22:04:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
@@ -197,20 +199,24 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>The Search for Intelligent Life Is About to Get a Lot More Interesting</title>
-      <link>https://www.nytimes.com/2022/09/15/magazine/extraterrestrials-technosignatures.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/magazine/extraterrestrials-technosignatures.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/magazine/extraterrestrials-technosignatures.html" rel="standout"></atom:link>
-      <description>There are an estimated 100 billion galaxies in the universe, home to an unimaginable abundance of planets. And now there are new ways to spot signs of life on them.</description>
-      <dc:creator>Jon Gertner</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">James Webb Space Telescope</category>
+      <title>Life on Mars? This Could Be the Place NASA’s Rover Helps Us Find It.</title>
+      <link>https://www.nytimes.com/2022/09/15/science/mars-perseverance-rover-life.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/science/mars-perseverance-rover-life.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/science/mars-perseverance-rover-life.html" rel="standout"></atom:link>
+      <description>Rocks collected by Perseverance are filled with organic molecules, and they formed in a lake that would have been habitable a few billion years ago.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:53:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Perseverance (Mars Rover)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sagan, Carl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/science/15sci-mars1/15sci-mars1-moth.jpg" width="151"></media:content>
+      <media:credit>NASA/JPL-Caltech/ASU/MSSS</media:credit>
+      <media:description>A composite image taken by NASA’s Perseverance rover showing its robotic arm over a rocky area called Skinner Ridge in Jezero Crater on Mars.</media:description>
     </item>
     <item>
       <title>Princess Anne’s Influence, and Workload, Rises in a Slimmed-Down Royal Family</title>
@@ -514,7 +520,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/us/politics/senate-gay-marriage.html" rel="standout"></atom:link>
       <description>The chief negotiators were short of the 10 Republican votes that would be needed to win passage, but hoped to draw more support after the November elections.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:25:18 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 21:51:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -529,21 +535,25 @@
       <media:description>Polls show that a majority of Americans support same-sex marriage, but Republicans are split.</media:description>
     </item>
     <item>
-      <title>Mexico Arrests Army General Linked to Disappearance of 43 Students</title>
-      <link>https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html" rel="standout"></atom:link>
-      <description>A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.</description>
-      <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:33:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iguala (Mexico)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15mexico-arrest1sub/15mexico-arrest1sub-moth.jpg" width="151"></media:content>
-      <media:credit>Rodrigo Arangua/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A memorial to the 43 missing students in Mexico City last month.</media:description>
+      <title>NY Attorney General May Sue Trump After Rejecting Settlement Offer</title>
+      <link>https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/nyregion/letitia-james-trump-settlement.html" rel="standout"></atom:link>
+      <description>The attorney general, Letitia James, is also considering suing at least one of the former president’s adult children as part of her Trump Organization inquiry.</description>
+      <dc:creator>Ben Protess, Jonah E. Bromwich and William K. Rashbaum</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 16:41:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14trump-settle/14trump-settle-moth.jpg" width="151"></media:content>
+      <media:credit>Emil Lippe for The New York Times</media:credit>
+      <media:description>Donald J. Trump’s family business could face stiff financial and operational penalties after a trial.</media:description>
     </item>
     <item>
       <title>Rise of Far-Right Party in Sweden Was Both Expected and Shocking</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 13:49:39 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 13:34:27 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 14:45:32 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 14:40:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The leaders of Russia and China were meeting in Uzbekistan at a time of increasing animosity with the West. In the Ukrainian city of Kryvyi Rih, Russian missiles damaged a dam.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 13:34:27 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:38:20 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-briefing-header-1pm/15ukraine-briefing-header-1pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian service member near a destroyed building in Izium, Ukraine, on Wednesday, during a government-arranged media tour.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-lying-in-state-queue.html" rel="standout"></atom:link>
       <description>Thousands of people waited in line — a very long line — to pay homage at the coffin of Queen Elizabeth II, who will lie in state until her funeral on Monday.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 12:08:03 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:36:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
@@ -50,15 +50,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html" rel="standout"></atom:link>
       <description>The flooding has displaced more than 33 million people, submerging vast areas of Pakistan that are likely to take months to dry out.</description>
       <dc:creator>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 03:06:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <pubDate>Thu, 15 Sep 2022 03:06:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dadu (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sindh Province (Pakistan)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14pakistan-floods-1-promo/14pakistan-floods-1-moth.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
       <media:description>Boat operators from other regions have come to Sindh Province to make money as ferries for stranded townspeople. They use power lines as landmarks.</media:description>
@@ -70,7 +70,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html" rel="standout"></atom:link>
       <description>The hard-right leader has excoriated the European Union in the past, and she regularly blasts illegal immigrants and George Soros. But she is closer than ever to becoming prime minister.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:00:34 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:07:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
@@ -105,10 +105,14 @@
       <dc:creator>Christina Anderson and Isabella Kwai</dc:creator>
       <pubDate>Wed, 14 Sep 2022 21:14:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersson, Magdalena (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kristersson, Ulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderate Party (Sweden)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/xxsweden-election-HFO1/xxsweden-election-HFO1-moth.jpg" width="151"></media:content>
       <media:credit>Fredrik Sandberg/TT News Agency, via Agence France-Presse — Getty Images</media:credit>
       <media:description>The new government is expected to be led by Ulf Kristersson, head of the Moderates, part of a right-wing bloc that won 176 of 349 seats in Parliament.</media:description>
@@ -233,7 +237,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/world/canada/nurse-shortage-emergency-rooms.html" rel="standout"></atom:link>
       <description>A nationwide shortage of nurses has caused dozens of emergency rooms across Canada to close temporarily and forced some patients to wait days for a bed.</description>
       <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:00:15 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:01:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
@@ -283,6 +287,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14france-isis/merlin_152756745_d0594659-a04b-4f98-92cb-d1899ae6862a-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Al Hol, a detention camp in northeastern Syria, in 2019. France has long resisted calls to repatriate adult women, saying that it considered them “fighters” who should be tried in Syria and Iraq.</media:description>
+    </item>
+    <item>
+      <title>Britain Has a New King. The Swans Have a New Owner.</title>
+      <link>https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>Thanks to a centuries-old law, the country’s monarch also happens to be the owner of its population of mute swans.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 14:32:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/lens/15xp-swans1/15xp-swans1-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Nicholls/Reuters</media:credit>
+      <media:description>David Barber has served for nearly 30 years as the royal swan marker, a sort of swan ambassador responsible for keeping track of the population during an annual count called the “swan upping.” </media:description>
     </item>
     <item>
       <title>Germany Offers Special Fund for Ukrainian Holocaust Survivors</title>
@@ -336,7 +358,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/climate/solar-energy-school-funding.html" rel="standout"></atom:link>
       <description>Public schools are increasingly using savings from solar energy to upgrade facilities, help their communities, and give teachers raises — often with no cost to taxpayers.</description>
       <dc:creator>Cara Buckley</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 13:20:20 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:13:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
@@ -1089,50 +1111,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13Queen-Diana01/13Queen-Diana01-moth.jpg" width="151"></media:content>
       <media:credit>Dan Kitwood/Agence France-Presse, via Pool/Afp Via Getty Images</media:credit>
       <media:description>King Charles III and Camilla, the queen consort, made an appearance on Monday before British lawmakers.</media:description>
-    </item>
-    <item>
-      <title>Challenges for Russia and China Test a ‘No-Limits’ Friendship</title>
-      <link>https://www.nytimes.com/2022/09/13/world/asia/china-russia-xi-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/china-russia-xi-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/china-russia-xi-putin.html" rel="standout"></atom:link>
-      <description>Vladimir Putin and Xi Jinping are set to meet later this week. Russia’s battlefield losses and China’s slowdown could complicate their relationship.</description>
-      <dc:creator>Keith Bradsher, Anton Troianovski and Jane Perlez</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 11:27:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00xi-putin-01/00xi-putin-01-moth.jpg" width="151"></media:content>
-      <media:credit>Alexei Druzhinin/Sputnik, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Vladimir V. Putin of Russia, left, and China’s top leader, Xi Jinping, in Beijing in February. The two are expected to meet again this week in Uzbekistan.</media:description>
-    </item>
-    <item>
-      <title>Emmy Success for ‘Squid Game’ Is Hailed in South Korea</title>
-      <link>https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html" rel="standout"></atom:link>
-      <description>After the dystopian Netflix drama picked up multiple wins, Koreans celebrated the awards as the latest example of their country’s rise as a cultural powerhouse.</description>
-      <dc:creator>Jin Yu Young</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 05:35:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Jung-jae (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Squid Game (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Parasite (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Money Heist (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/00EMMY-SQUIDGAME-01/00EMMY-SQUIDGAME-01-moth.jpg" width="151"></media:content>
-      <media:credit>Aude Guerrucci/Reuters</media:credit>
-      <media:description>Lee Jung-jae, left, who won the Emmy for best actor in a drama series, and Hwang Dong-hyuk, who was honored for his directing, after an impressive showing for “Squid Game” in Los Angeles on Monday.</media:description>
     </item>
   </channel>
 </rss>

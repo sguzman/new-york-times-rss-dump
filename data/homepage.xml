@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 21:10:33 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 20:54:25 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 21:30:19 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 21:29:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/business/economy/railroad-workers-strike.html" rel="standout"></atom:link>
       <description>Employees say the inflexibility of scheduling upended their personal lives. The companies say they maintained service while using fewer resources.</description>
       <dc:creator>Noam Scheiber and Niraj Chokshi</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:28:42 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 21:23:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Paid Time Off</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -59,9 +59,9 @@
       <link>https://www.nytimes.com/2022/09/15/us/politics/biden-china-tech-executive-order.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/politics/biden-china-tech-executive-order.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/15/us/politics/biden-china-tech-executive-order.html" rel="standout"></atom:link>
-      <description>The move, which is bound to heighten tensions with Beijing, is designed to focus on specific types of transactions that would give a foreign power access to key technologies.</description>
+      <description>The move, which is bound to heighten tensions with Beijing, reflects growing unease about China’s ability to access the personal information that Americans hand over to mobile apps and other services.</description>
       <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 15:33:04 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 21:12:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
@@ -69,7 +69,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15dc-BIDEN-CHINA_1/15dc-BIDEN-CHINA_1-moth.jpg" width="151"></media:content>
       <media:credit>Patrick T. Fallon/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A humanoid robot at the Consumer Electronics Show in January in Las Vegas. The order will have an impact on microelectronics, artificial intelligence, biotechnology and more.</media:description>
+      <media:description>A humanoid robot at the Consumer Electronics Show in January in Las Vegas. President Biden’s order is significant for microelectronics, artificial intelligence, biotechnology and more.</media:description>
     </item>
     <item>
       <title>Roger Federer Announces Plans to Retire From Tennis</title>
@@ -247,36 +247,46 @@
       <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
     </item>
     <item>
-      <title>Mexico Arrests Army General Linked to Disappearance of 43 Students</title>
-      <link>https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html" rel="standout"></atom:link>
-      <description>A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.</description>
-      <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:33:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iguala (Mexico)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15mexico-arrest1sub/15mexico-arrest1sub-moth.jpg" width="151"></media:content>
-      <media:credit>Rodrigo Arangua/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A memorial to the 43 missing students in Mexico City last month.</media:description>
+      <title>In a First Study of Pakistan’s Floods, Scientists See Climate Change at Work</title>
+      <link>https://www.nytimes.com/2022/09/15/climate/pakistan-floods-global-warming.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/climate/pakistan-floods-global-warming.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/climate/pakistan-floods-global-warming.html" rel="standout"></atom:link>
+      <description>A growing field called attribution science is helping researchers rapidly assess the links between global warming and weather disasters.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Potsdam Institute for Climate Impact Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Weather Attribution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/climate/15cli-attributionpakistan1/15cli-attributionpakistan1-moth.jpg" width="151"></media:content>
+      <media:credit>Asif Hassan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An inundated home in Sindh Province, Pakistan. Floods have killed more than 1,500 across the country.</media:description>
     </item>
     <item>
-      <title>Despite Years of Criticism, the US News College Rankings Live On</title>
-      <link>https://www.nytimes.com/2022/09/15/us/us-news-college-ranking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/us-news-college-ranking.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/us/us-news-college-ranking.html" rel="standout"></atom:link>
-      <description>Columbia University skidded to No. 18, suggesting that the ratings may be flawed and easily manipulated. But for many families, the list is a marker of prestige.</description>
-      <dc:creator>Stephanie Saul</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">US News &amp; World Report</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ranking-promo/15ranking-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Ting Shen for The New York Times</media:credit>
+      <title>Gap and Kanye West Officially End Their Partnership</title>
+      <link>https://www.nytimes.com/2022/09/15/business/kanye-west-yeezy-gap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/business/kanye-west-yeezy-gap.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/business/kanye-west-yeezy-gap.html" rel="standout"></atom:link>
+      <description>The Yeezy Gap apparel line deal, announced with much fanfare in 2020, was supposed to last 10 years and generate $1 billion in annual sales.</description>
+      <dc:creator>Jordyn Holman and Vanessa Friedman</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:06:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeezy (Fashion Label)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/business/15Kanye/merlin_210405120_b95e5503-2c0f-4a69-97f4-7bbe8ab717f6-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>People lined up outside the Gap store in Times Square in July when Yeezy Gap clothes went on sale.</media:description>
     </item>
     <item>
       <title>There’s Terrific News About the New Covid Boosters, but Few Are Hearing It</title>
@@ -415,8 +425,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Devil You Know: A Black Power Manifesto (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reconstruction Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moving and Moving Industry</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14blow1/merlin_173543160_77411b3b-9fd4-4306-8000-2d810bd391c5-moth.jpg" width="151"></media:content>
       <media:credit>Jose Luis Magana/Associated Press</media:credit>
     </item>
@@ -514,6 +526,23 @@
       <media:description>Polls show that a majority of Americans support same-sex marriage, but Republicans are split.</media:description>
     </item>
     <item>
+      <title>Mexico Arrests Army General Linked to Disappearance of 43 Students</title>
+      <link>https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html" rel="standout"></atom:link>
+      <description>A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 19:33:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iguala (Mexico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15mexico-arrest1sub/15mexico-arrest1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Rodrigo Arangua/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A memorial to the 43 missing students in Mexico City last month.</media:description>
+    </item>
+    <item>
       <title>Rise of Far-Right Party in Sweden Was Both Expected and Shocking</title>
       <link>https://www.nytimes.com/2022/09/15/world/europe/sweden-election-far-right.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/sweden-election-far-right.html</guid>
@@ -535,18 +564,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15SWEDEN1/15SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Jerrevång/TT News Agency, via Associated Press</media:credit>
       <media:description>“If we are going to support a government that we’re not sitting in, it’s going to cost,” Jimmie Akesson, leader of the Sweden Democrats, said before the election on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Man Tells of Losing His Arm to an Alligator, Followed by Days Lost in a Swamp</title>
-      <link>https://www.nytimes.com/2022/09/15/us/alligator-attack-sarasota-man.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/alligator-attack-sarasota-man.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/us/alligator-attack-sarasota-man.html" rel="standout"></atom:link>
-      <description>Eric Merda meant to go exploring, but ended up in what he described as a nightmare survival story.</description>
-      <dc:creator>April Rubin</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 20:14:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alligators</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amputation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manatee County (Fla)</category>
     </item>
     <item>
       <title>How to Prevent Common Exercise Injuries</title>

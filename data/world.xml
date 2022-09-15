@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 11:54:16 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 11:53:12 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 12:49:52 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 12:39:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The leaders are meeting in Uzbekistan at a time of increasing animosity with the West. In the Ukrainian city of Kryvyi Rih, Russian missiles damaged a dam.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 11:39:55 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 12:30:27 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-briefing-header-1pm/15ukraine-briefing-header-1pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian service member near a destroyed building in Izium, Ukraine, on Wednesday, during a government-arranged media tour.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-lying-in-state-queue.html" rel="standout"></atom:link>
       <description>Thousands of people waited in line — a very long line — to pay homage at the coffin of Queen Elizabeth II, who will lie in state until her funeral on Monday.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 11:34:56 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 12:08:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
@@ -121,9 +121,8 @@
       <description>In Belgorod, 25 miles from Ukraine, recent losses by Russia’s military have brought home the reality of the war in a way not present elsewhere in the country.</description>
       <dc:creator>Valerie Hopkins</dc:creator>
       <pubDate>Thu, 15 Sep 2022 02:06:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -155,6 +154,7 @@
       <description>While on a rescue mission in Ukraine, Sergiy Ivanchuk was shot in the lungs, apparently ending his chance at opera stardom. His recovery is a marvel of medicine, chance and his own spirit.</description>
       <dc:creator>Erika Solomon</dc:creator>
       <pubDate>Thu, 15 Sep 2022 09:00:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sergiy Ivanchuk</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -335,18 +335,18 @@
       <link>https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html" rel="standout"></atom:link>
-      <description>The two authoritarian leaders are facing increasing animosity with the West and challenges to their agendas.</description>
-      <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 11:39:54 +0000</pubDate>
+      <description>The two authoritarian leaders have increasingly hostile relations with the West and challenges to their agendas.</description>
+      <dc:creator>Austin Ramzy, Anton Troianovski and Keith Bradsher</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 12:30:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ukraine-xi-putinHFO-01/15ukraine-xi-putinHFO-01-moth.jpg" width="151"></media:content>
-      <media:credit>Yao Dawei/Xinhua, via Associated Press</media:credit>
-      <media:description>Xi Jinping, leader of China, arrived in Kazakhstan on Wednesday, ahead of his meeting with President Vladimir V. Putin of Russia in Uzbekistan on Thursday.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-xi-putin/15ukraine-xi-putin-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alexandr Demyanchuk/Sputnik</media:credit>
+      <media:description>President Vladimir V. Putin of Russia meeting with China’s top leader, Xi Jinping, on the sidelines of the Shanghai Cooperation Organization summit in Samarkand, Uzbekistan, on Thursday.</media:description>
     </item>
     <item>
       <title>Prosecutor Who Sought to Use Evidence Derived From Torture Leaves Cole Case</title>
@@ -376,15 +376,14 @@
       <dc:creator>Andrew E. Kramer and Marc Santora</dc:creator>
       <pubDate>Thu, 15 Sep 2022 02:55:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14ukraine-zelensky1/14ukraine-zelensky1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine made an unannounced visit to Izium, in northeastern Ukraine, on Wednesday, where Russian forces had retreated about a week earlier.</media:description>

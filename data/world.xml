@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 22:26:21 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 22:26:10 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 22:47:11 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 22:47:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Russian president met with his Chinese counterpart, Xi Jinping, at a time of increasing animosity with the West. President Biden will meet on Friday with the families of Brittney Griner and another American imprisoned in Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 22:26:10 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 22:47:09 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ukraine-briefing-carousel-promo-130pm/15ukraine-briefing-carousel-promo-130pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -47,26 +47,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15SWEDEN1/15SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Jerrevång/TT News Agency, via Associated Press</media:credit>
       <media:description>“If we are going to support a government that we’re not sitting in, it’s going to cost,” Jimmie Akesson, leader of the Sweden Democrats, said before the election on Sunday.</media:description>
-    </item>
-    <item>
-      <title>A Detailed Rundown of Queen Elizabeth’s Funeral Day</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
-      <description>On Monday, dignitaries from across the globe will bid farewell to the queen at a service in Westminster Abbey.</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 20:17:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15queen-funeral1/15queen-funeral1-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
     </item>
     <item>
       <title>Princess Anne’s Influence, and Workload, Rises in a Slimmed-Down Royal Family</title>
@@ -121,6 +101,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15Queen-queue02/15Queen-queue02-moth.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
       <media:description>The line to see Queen Elizabeth II lying in state in London crossed the River Thames and snaked for miles along the South Bank.</media:description>
+    </item>
+    <item>
+      <title>A Detailed Rundown of Queen Elizabeth’s Funeral Day</title>
+      <link>https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
+      <description>On Monday, dignitaries from across the globe will bid farewell to the queen at a service in Westminster Abbey.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 20:17:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15queen-funeral1/15queen-funeral1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
     </item>
     <item>
       <title>Attempt to Kill Argentina’s Vice President Fuels Conspiracy Theories</title>
@@ -293,7 +293,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/pope-francis-ukraine.html" rel="standout"></atom:link>
       <description>The pontiff said that it is acceptable for countries to provide weapons to Ukraine so that the country can defend itself, but stressed that communication channels with Russia should remain open.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 22:08:46 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 22:08:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>

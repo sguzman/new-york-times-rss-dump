@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 14:45:32 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 14:40:48 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 15:25:39 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 15:10:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The leaders of Russia and China were meeting in Uzbekistan at a time of increasing animosity with the West. In the Ukrainian city of Kryvyi Rih, Russian missiles damaged a dam.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 14:38:20 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 15:10:40 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-briefing-header-1pm/15ukraine-briefing-header-1pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian service member near a destroyed building in Izium, Ukraine, on Wednesday, during a government-arranged media tour.</media:description>
@@ -313,7 +313,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/germany-ukraine-holocaust-fund.html" rel="standout"></atom:link>
       <description>The $12 million emergency fund, part of a larger $1.2 billion reparations package, will be disbursed to 8,500 Jewish survivors in Ukraine.</description>
       <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 12:53:36 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:54:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
@@ -330,7 +330,10 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/dam-strike-russia-ukraine.html" rel="standout"></atom:link>
       <description>The attack sent millions of gallons of water gushing downstream and officials said a catastrophe had been narrowly avoided.</description>
       <dc:creator>Oleksandr Chubko and Jeffrey Gettleman</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 13:30:11 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 15:10:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kryvyi Rih (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-briefing-kryvyi-rih-dam-1/15ukraine-briefing-kryvyi-rih-dam-1-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>The damaged dam after a missile strike, outside Kryvyi Rih, on Thursday.</media:description>
@@ -358,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/climate/solar-energy-school-funding.html" rel="standout"></atom:link>
       <description>Public schools are increasingly using savings from solar energy to upgrade facilities, help their communities, and give teachers raises — often with no cost to taxpayers.</description>
       <dc:creator>Cara Buckley</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 14:13:35 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:46:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
@@ -836,17 +839,16 @@
       <description>Xi Jinping, who is expected to meet with Vladimir Putin, will seek to project confidence as a global statesman at a time of grave challenges at home.</description>
       <dc:creator>Austin Ramzy</dc:creator>
       <pubDate>Thu, 15 Sep 2022 01:28:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shanghai Cooperation Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14china-xi-new/14china-xi-new-moth.jpg" width="151"></media:content>
       <media:credit>Kazakhstan Presidential Press Office, via Getty Images</media:credit>
       <media:description>A photo released by Kazakhstan’s Presidential Press Office showed Xi Jinping, China’s leader, arriving in Nur-Sultan, Kazakhstan, on his first trip abroad since the early days of the Covid-19 pandemic, on Wednesday.</media:description>
@@ -1067,7 +1069,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/bees-queen-elizabeth.html" rel="standout"></atom:link>
       <description>A report that the royal beekeeper had informed Queen Elizabeth II’s bees of her death received some mockery, but it has been a tradition for centuries.</description>
       <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 13:58:06 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 14:48:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Superstitions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>

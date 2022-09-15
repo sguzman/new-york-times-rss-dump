@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 10:51:25 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 10:46:45 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 11:11:38 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 11:07:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -289,7 +289,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html" rel="standout"></atom:link>
       <description>Walking in my neighborhood taught me what running wild in the mountains couldn’t. </description>
       <dc:creator>Francis Sanzaro</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:02:18 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 11:07:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Senses and Sensation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Barry (1945- )</category>
@@ -371,6 +371,57 @@
       <media:credit>Jose Luis Magana/Associated Press</media:credit>
     </item>
     <item>
+      <title>The Fog of San Francisco</title>
+      <link>https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html" rel="standout"></atom:link>
+      <description>It’s a life force, with an uncertain future.</description>
+      <dc:creator>John Branch</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 10:41:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/climate/14CLI-FOG-promo2-newsletter/14CLI-FOG-promo2-moth.jpg" width="151"></media:content>
+      <media:credit>Nina Riggio for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Could a National Abortion Ban Save Republicans?</title>
+      <link>https://www.nytimes.com/2022/09/15/podcasts/the-daily/abortion-ban-roe-lindsey-graham.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/podcasts/the-daily/abortion-ban-roe-lindsey-graham.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/podcasts/the-daily/abortion-ban-roe-lindsey-graham.html" rel="standout"></atom:link>
+      <description>An effort by Senator Lindsey Graham to mend a rift in his party seems to have backfired.</description>
+      <dc:creator>Michael Barbaro, Nina Feldman, Luke Vander Ploeg, Asthaa Chaturvedi, Patricia Willens, Chelsea Daniel, Marion Lozano, Dan Powell and Chris Wood</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dobbs v Jackson Women&#39;s Health Organization (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/podcasts/15daily-1/15DAILY-graham-audio-app-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham, right, His proposal for an abortion ban includes exceptions for rape, incest and the life or physical health of the mother.</media:description>
+    </item>
+    <item>
+      <title>Strong Women, Madwomen, Mob Women</title>
+      <link>https://www.nytimes.com/2022/09/10/books/molly-young-book-recommendations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/books/molly-young-book-recommendations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/books/molly-young-book-recommendations.html" rel="standout"></atom:link>
+      <description>Our critic recommends old and new books.</description>
+      <dc:creator>Molly Young</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 11:50:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+    </item>
+    <item>
       <title>Queen Elizabeth, and the Power and Limitations of Inspiring Women</title>
       <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html</guid>
@@ -390,52 +441,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09InterpreterNL01/09InterpreterNL01-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Piccadilly Circus in central London on Thursday.</media:description>
-    </item>
-    <item>
-      <title>The Perseverance of Megan Thee Stallion</title>
-      <link>https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html" rel="standout"></atom:link>
-      <description>The rapper’s rise has been accompanied by outside noise. How has she grown on record, and how have extra-musical narratives shaped her career?</description>
-      <pubDate>Wed, 14 Sep 2022 18:15:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Megan Thee Stallion (Rapper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Traumazine (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14popcast/14popcast-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Moraes/Reuters</media:credit>
-    </item>
-    <item>
-      <title>Did You Recently Buy an Electric Vehicle? We Want to Hear About It.</title>
-      <link>https://www.nytimes.com/2022/09/09/business/economy/electric-vehicle-purchase.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/business/economy/electric-vehicle-purchase.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/09/business/economy/electric-vehicle-purchase.html" rel="standout"></atom:link>
-      <description>Sales of electric cars are surging as more people become interested in the technology and grow concerned about climate change.</description>
-      <dc:creator>Peter Eavis</dc:creator>
-      <pubDate>Fri, 09 Sep 2022 14:04:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/ev-callout-promo/ev-callout-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Jae C. Hong/Associated Press</media:credit>
-      <media:description>An electric vehicle charging in Los Angeles in August.</media:description>
-    </item>
-    <item>
-      <title>Let’s Talk About E.L. Doctorow’s ‘Ragtime’</title>
-      <link>https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/12/t-magazine/ragtime-book-club.html" rel="standout"></atom:link>
-      <description>Join the writer Jonathan Dee in a virtual conversation on Sept. 15 about the 1975 novel.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 19 Aug 2022 15:37:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Clubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doctorow, E L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dee, Jonathan (1962- )</category>
-      <category domain="">2020tbookclub</category>
     </item>
     <item>
       <title>Solar Energy Is Helping Schools Make Ends Meet</title>

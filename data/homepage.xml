@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 17:29:57 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 17:29:17 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 17:49:45 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 17:48:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/14/us/desantis-florida-migrants-marthas-vineyard.html" rel="standout"></atom:link>
       <description>The moneyed summer resort became an unlikely arena in the fight over illegal immigration. Republican states have bused thousands of migrants to New York and Washington.</description>
       <dc:creator>Patricia Mazzei, Remy Tumin and Eliza Fawcett</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 04:16:47 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 17:31:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -154,16 +154,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/business/mortgage-rates.html" rel="standout"></atom:link>
       <description>Mortgage rates have been on the rise since the start of the year as the Federal Reserve affirmed its commitment to tame soaring inflation.</description>
       <dc:creator>Tara Siegel Bernard</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 15:46:37 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 15:46:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Home Loan Mortgage Corp (Freddie Mac)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15mortgage-rates1/15mortgage-rates1-moth.jpg" width="151"></media:content>
-      <media:credit>Tannen Maury/EPA, via Shutterstock</media:credit>
-      <media:description>A home for sale in August in Palatine, Ill.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/business/15mortgage-rate-promo/15mortgage-rate-promo-moth.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>The Search for Intelligent Life Is About to Get a Lot More Interesting</title>
@@ -294,22 +293,6 @@
       <media:credit>Samuel Corum for The New York Times</media:credit>
     </item>
     <item>
-      <title>Lindsey Graham’s Unbelievably Cruel Abortion Ban</title>
-      <link>https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html" rel="standout"></atom:link>
-      <description>Either he doesn’t know how pregnancy works, or he doesn’t care.</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 13:31:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14goldberg1/14goldberg1-moth.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-    </item>
-    <item>
       <title>Herschel Walker Tests the Importance of ‘Candidate Quality’</title>
       <link>https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</guid>
@@ -327,6 +310,22 @@
       <media:credit>Ben Wiseman</media:credit>
     </item>
     <item>
+      <title>Lindsey Graham’s Unbelievably Cruel Abortion Ban</title>
+      <link>https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/lindsey-graham-cruel-abortion-ban.html" rel="standout"></atom:link>
+      <description>Either he doesn’t know how pregnancy works, or he doesn’t care.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 13:31:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14goldberg1/14goldberg1-moth.jpg" width="151"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
       <title>The Transcendent Power of Walking</title>
       <link>https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html</guid>
@@ -338,8 +337,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Barry (1945- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15Sanzaro/15Sanzaro-moth.jpg" width="151"></media:content>
-      <media:credit>Alëna Skarina</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15sanzaro1/15sanzaro1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
     </item>
     <item>
       <title>What School Anxiety Dreams Teach Us About Ourselves</title>

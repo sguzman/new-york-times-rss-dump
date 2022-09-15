@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 19:20:24 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 19:08:01 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 19:37:58 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 19:35:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>The Russian president met with his Chinese counterpart, Xi Jinping, in Uzbekistan at a time of increasing animosity with the West. Flooding receded in the Ukrainian city of Kryvyi Rih, where Russian missiles damaged a dam.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:08:01 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 19:26:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ukraine-briefing-carousel-promo-130pm/15ukraine-briefing-carousel-promo-130pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -89,7 +89,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html" rel="standout"></atom:link>
       <description>An assassination attempt against Argentina’s vice president, Cristina Fernández de Kirchner, failed. Now many Argentines believe the entire event was a hoax.</description>
       <dc:creator>David Feliba, Natalie Alcoba and Jack Nicas</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:10:25 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 19:35:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
@@ -178,7 +178,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html" rel="standout"></atom:link>
       <description>A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.</description>
       <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:48:00 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 19:33:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
@@ -286,6 +286,26 @@
       <media:description>Police investigators at the scene in Auckland, New Zealand, where two children’s bodies were discovered in suitcases last month.</media:description>
     </item>
     <item>
+      <title>A Detailed Rundown of Queen Elizabeth’s Funeral Day</title>
+      <link>https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
+      <description>On Monday, dignitaries from across the globe will bid farewell to the queen at a service in Westminster Abbey.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 19:33:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15queen-funeral1/15queen-funeral1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
+    </item>
+    <item>
       <title>Britain Has a New King. The Swans Have a New Owner.</title>
       <link>https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html</guid>
@@ -310,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/dam-strike-russia-ukraine.html" rel="standout"></atom:link>
       <description>The attack sent millions of gallons of water gushing downstream and officials said a catastrophe had been narrowly avoided.</description>
       <dc:creator>Oleksandr Chubko and Jeffrey Gettleman</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:31:17 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 19:23:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kryvyi Rih (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -1121,27 +1141,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13queen-ireland-1/13queen-ireland-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Niall Carson</media:credit>
       <media:description>King Charles III and Camilla viewing floral tributes left outside Hillsborough Castle in Belfast, Northern Ireland, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>How the New Climate Law Can Save You Thousands of Dollars</title>
-      <link>https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html" rel="standout"></atom:link>
-      <description>Rebates and tax credits can lower the cost of solar panels, energy-efficient appliances and electric vehicles.</description>
-      <dc:creator>Coral Davenport</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 20:13:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Appliances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/13cli-consumers-print/merlin_211373022_016efb19-41e7-4e0f-a6f7-8e8ac1df1804-moth.jpg" width="151"></media:content>
-      <media:credit>Ted Shaffrey/Associated Press</media:credit>
-      <media:description>The Inflation Reduction Act includes tax credits and rebates for consumers who want to install solar panels, buy an electric car and take other measures to shrink their carbon footprint. </media:description>
     </item>
   </channel>
 </rss>

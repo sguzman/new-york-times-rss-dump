@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 04:38:07 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Sep 2022 04:32:22 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 05:49:32 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 05:45:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/14/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine’s president made an unannounced visit to Izium, which Kyiv’s forces seized in a lightning offensive in the northeast. Russian strikes in the southern city of Kryvyi Rih sent water gushing downstream as residents worried about flooding.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 02:55:18 +0000</pubDate>
+      <pubDate>Thu, 15 Sep 2022 05:11:28 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14ukraine-blog-carousel-5pm-2/14ukraine-blog-bakhmut-topart-2-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
     </item>
@@ -270,6 +270,48 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13KenyaRuto1b/merlin_213040170_c0862904-6ac0-4433-a863-30724966c506-moth.jpg" width="151"></media:content>
       <media:credit>Simon Maina/Agence France-Presse — Getty Images</media:credit>
       <media:description>William Ruto, the new Kenyan president, lifted a sword at the Moi International Sports Center during his inauguration ceremony on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-war.html" rel="standout"></atom:link>
+      <description>Zelensky at the front.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 05:45:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/15AM-Euro-ukraine-promo/15AM-Euro-ukraine-zelensky-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine in Izium on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Putin to Meet With Xi, China’s Leader, as Their Ties Strengthen</title>
+      <link>https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html" rel="standout"></atom:link>
+      <description>The two authoritarian leaders are facing increasing animosity with the West and challenges to their agendas.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 05:08:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ukraine-xi-putinHFO-01/15ukraine-xi-putinHFO-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yao Dawei/Xinhua, via Associated Press</media:credit>
+      <media:description>Xi Jinping, leader of China, arrived in Kazakhstan on Wednesday, ahead of his meeting with President Vladimir V. Putin of Russia in Uzbekistan on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-russia-election-izium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-russia-election-izium.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-russia-election-izium.html" rel="standout"></atom:link>
+      <description>Zelensky at the front.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 04:58:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/15AM-Euro-ukraine-promo/15AM-Euro-ukraine-zelensky-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine in Izium on Wednesday.</media:description>
     </item>
     <item>
       <title>Prosecutor Who Sought to Use Evidence Derived From Torture Leaves Cole Case</title>
@@ -1089,57 +1131,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/12dc_intel_3/12dc_intel_3-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Ukrainian soldiers near the Kherson front this month.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth’s Coffin Arrives at Buckingham Palace in London</title>
-      <link>https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>Despite a rainy evening, crowds lined the streets of London as the hearse carrying the queen’s coffin made its way to Buckingham Palace.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 22:06:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/13queen-add10/13queen-add10-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>The coffin of Queen Elizabeth II passed throngs of people on its way into Buckingham Palace.</media:description>
-    </item>
-    <item>
-      <title>Your Tuesday Briefing</title>
-      <link>https://www.nytimes.com/2022/09/13/briefing/ukraine-advance-liz-truss-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/briefing/ukraine-advance-liz-truss-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/briefing/ukraine-advance-liz-truss-trump.html" rel="standout"></atom:link>
-      <description>More Ukrainian advances.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 05:08:57 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/multimedia/13ambriefing-europe-nl-promo-sept/13ambriefing-europe-nl-promo-sept-moth.jpg" width="151"></media:content>
-      <media:credit>Kostiantyn Liberov/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>How King Charles Turned His Royal Estate Into a Lucrative Portfolio</title>
-      <link>https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html" rel="standout"></atom:link>
-      <description>As prince, Charles used tax breaks, offshore accounts and canny real estate investments to turn a sleepy estate into a billion-dollar business.</description>
-      <dc:creator>Jane Bradley and Euan Ward</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 13:08:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sovereign Wealth Funds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crown Estate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duchy of Cornwall</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/12queen-money/12queen-money-moth.jpg" width="151"></media:content>
-      <media:credit>James Hill for The New York Times</media:credit>
-      <media:description>King Charles III spent years turning his royal estate into a billion-dollar portfolio.</media:description>
     </item>
   </channel>
 </rss>

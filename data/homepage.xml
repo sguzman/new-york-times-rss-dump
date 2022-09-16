@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 15:55:26 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 15:47:18 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 16:22:21 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 16:16:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,21 +34,46 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
     </item>
     <item>
+      <title>Is New York City Finally Returning to the Office?</title>
+      <link>https://www.nytimes.com/2022/09/16/nyregion/nyc-rto-subway-office-work.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/nyregion/nyc-rto-subway-office-work.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/nyregion/nyc-rto-subway-office-work.html" rel="standout"></atom:link>
+      <description>With rising subway ridership and office occupancy, the city’s post-Labor Day return has offered early signs that New York may finally be turning over a new chapter in its recovery.</description>
+      <dc:creator>Nicole Hong and Emma Goldberg</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 15:26:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Partnership for New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levine, Mark D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/nyregion/19ny-rto1/19ny-rto1-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Mick Magsino, who works in media sales, recently started returning regularly to his office near Times Square after working from home for two and a half years.</media:description>
+    </item>
+    <item>
       <title>Judge Names Special Master and Keeps Block on Mar-a-Lago Files Inquiry</title>
-      <link>https://www.nytimes.com/2022/09/15/us/trump-documents-special-master.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/trump-documents-special-master.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/us/trump-documents-special-master.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2022/09/15/us/politics/trump-documents-special-master.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/politics/trump-documents-special-master.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/us/politics/trump-documents-special-master.html" rel="standout"></atom:link>
       <description>The Justice Department is planning to appeal, but the decision is likely to significantly delay its investigation into former President Donald J. Trump’s handling of government records.</description>
       <dc:creator>Charlie Savage, Alan Feuer and Glenn Thrush</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 01:44:52 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:07:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dearie, Raymond J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/politics/15dc-investigate-1/merlin_211154268_80fac9c6-1fd6-497f-9e73-480ecbffbea9-moth.jpg" width="151"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>The special master will have the power to sift through more than 11,000 records the F.B.I. carted away from former President Donald J. Trump’s Florida estate.</media:description>
@@ -92,46 +117,25 @@
       <media:description>Don Bolduc, a retired Army general, in Hampton, N.H., on Tuesday night. He is the state’s Republican candidate for Senate.</media:description>
     </item>
     <item>
-      <title>TikTok’s CEO Navigates the Limits of His Power</title>
-      <link>https://www.nytimes.com/2022/09/16/technology/tiktok-ceo-shou-zi-chew.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/technology/tiktok-ceo-shou-zi-chew.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/technology/tiktok-ceo-shou-zi-chew.html" rel="standout"></atom:link>
-      <description>Shou Zi Chew, TikTok’s chief executive, is balancing how to be an autonomous leader while juggling the demands of the app’s Chinese parent company.</description>
-      <dc:creator>Ryan Mac and Chang Che</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Douyin (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mayer, Kevin A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shou Zi Chew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <title>The Boss Said ‘Take Her Down.’ Was What Happened Next His Fault?</title>
+      <link>https://www.nytimes.com/2022/09/16/technology/ebay-cyberstalking-crimes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/technology/ebay-cyberstalking-crimes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/technology/ebay-cyberstalking-crimes.html" rel="standout"></atom:link>
+      <description>The victims of a bizarre cyberstalking operation at eBay are trying to hold the chief executive and the culture of the company responsible.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 15:56:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhang Yiming (1983- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/business/TIKTOK-CEO-02/TIKTOK-CEO-02-moth.jpg" width="151"></media:content>
-      <media:credit>Philip Fong/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Shou Zi Chew, a longtime investor and former executive at Xiaomi, was appointed chief executive of TikTok in May 2021.</media:description>
-    </item>
-    <item>
-      <title>For Gen Z, TikTok Is the New Search Engine</title>
-      <link>https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html" rel="standout"></atom:link>
-      <description>Need to find a restaurant or figure out how to do something? Young people are turning to TikTok to search for answers. Google has noticed.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 11:58:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lelling, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/business/18Ebay-cover-illo/18Ebay-cover-illo-moth.jpg" width="151"></media:content>
+      <media:credit>Deena So Oteh</media:credit>
     </item>
     <item>
       <title>‘I Ended Up on This Little Island’: Migrants Land in Political Drama</title>
@@ -170,68 +174,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
     </item>
     <item>
-      <title>Guantánamo Bay Prison Mission Is Stuck in a Cycle of Costly Delays</title>
-      <link>https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html" rel="standout"></atom:link>
-      <description>The mission has relied on short-term fixes for things like housing and medical care for two decades. With 36 detainees left, the prison will soon receive its 21st commander.</description>
-      <dc:creator>Carol Rosenberg</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 15:30:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Tribunals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/us/politics/00dc-gitmo-02/00dc-gitmo-02-moth.jpg" width="151"></media:content>
-      <media:credit>Carol Rosenberg/The New York Times</media:credit>
-      <media:description>Workers hammered plastic sheeting to the roofs of the new tiny houses at Guantánamo Bay after rains seeped inside, delaying the $10 million project until next year. In the background are older housing units, which had chronic mold problems.</media:description>
-    </item>
-    <item>
-      <title>In Central Asia’s ‘Great Game,’ China Seeks the Advantage</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/china-xi-central-asia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/china-xi-central-asia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/china-xi-central-asia.html" rel="standout"></atom:link>
-      <description>Xi Jinping’s visit to Central Asia this week sheds a light on his country’s efforts to increase its sway in the vast, resource-rich region once considered Russia’s domain.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:51:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Belt and Road Initiative (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16China-Xi-01/16China-Xi-01-moth.jpg" width="151"></media:content>
-      <media:credit>Kazakhstan Presidential Press Office, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>Xi Jinping, China’s leader, arriving in Kazakhstan on Wednesday as part of his first trip outside China since the pandemic started. </media:description>
-    </item>
-    <item>
-      <title>‘At the Breaking Point’: Tibetans, Under Lockdown, Make Rare Cries for Help</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html" rel="standout"></atom:link>
-      <description>China’s ever-tightening Covid rules have prompted public complaints from residents of areas usually intimidated into keeping quiet.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 12:56:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lhasa (Tibet)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16china-covid1/merlin_213236262_630fe89e-b330-4ac8-968b-c5cfb47f88f6-moth.jpg" width="151"></media:content>
-      <media:credit>Visual China Group, via Getty Images</media:credit>
-      <media:description>A socially distanced line, background, of people waiting for Covid tests in Lhasa, the capital of Tibet.</media:description>
+      <title>For Gen Z, TikTok Is the New Search Engine</title>
+      <link>https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html" rel="standout"></atom:link>
+      <description>Need to find a restaurant or figure out how to do something? Young people are turning to TikTok to search for answers. Google has noticed.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 11:58:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
     </item>
     <item>
       <title>What’s a Back Kitchen and Why Has It Gotten so Popular?</title>
@@ -275,7 +233,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/opinion/conservation-ethics.html" rel="standout"></atom:link>
       <description>As scientists push the frontiers of conservation technology, some of their initiatives raise ethical questions.</description>
       <dc:creator>Tim McDonnell</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 13:44:47 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:05:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -372,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/opinion/ezra-klein-podcast-felicia-wong.html" rel="standout"></atom:link>
       <description>Felicia Wong on the hard road ahead to make the president’s plans a lived reality.</description>
       <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:00:09 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 15:58:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Felicia Joy (1966- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -465,28 +423,40 @@
       <media:description>The Rose River Memorial in Los Angeles, created in 2021 by the artist Marcos Lutyens, honored lives taken by Covid.</media:description>
     </item>
     <item>
-      <title>31 Bridges, 2 Cities, 6 Towns: Greenway Is New Jersey’s High Line</title>
-      <link>https://www.nytimes.com/2022/09/16/nyregion/new-jersey-greenway.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/nyregion/new-jersey-greenway.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/nyregion/new-jersey-greenway.html" rel="standout"></atom:link>
-      <description>New Jersey plans to convert a defunct train line into a 9-mile park, connecting the state’s densest cities to some of its wealthiest suburbs.</description>
-      <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 12:36:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">High Line (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bloomfield (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jersey City (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kearny (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Secaucus (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montclair (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/nyregion/16NJ-GREENWAY/16NJ-GREENWAY-moth.jpg" width="151"></media:content>
-      <media:credit>Bryan Anselm for The New York Times</media:credit>
-      <media:description>A segment of the new, nine-mile linear state park will run through Newark.</media:description>
+      <title>Iran’s Supreme Leader Cancels Public Appearances After Falling Ill</title>
+      <link>https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html" rel="standout"></atom:link>
+      <description>Ayatollah Ali Khamenei is currently on bed rest under observation by a team of doctors, according to four people familiar with his health situation.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 16:06:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16iran-khameneiHFO-image/16iran-khameneiHFO-image-moth.jpg" width="151"></media:content>
+      <media:credit>Khamenei.Ir, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>In a photo made available by his office in June 2022, Ayatollah Ali Khamenei is pictured at a ceremony in Tehran.</media:description>
+    </item>
+    <item>
+      <title>Guantánamo Bay Prison Mission Is Stuck in a Cycle of Costly Delays</title>
+      <link>https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/us/politics/guantanamo-bay-prison-cost.html" rel="standout"></atom:link>
+      <description>The mission has relied on short-term fixes for things like housing and medical care for two decades. With 36 detainees left, the prison will soon receive its 21st commander.</description>
+      <dc:creator>Carol Rosenberg</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 15:30:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Tribunals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/us/politics/00dc-gitmo-02/00dc-gitmo-02-moth.jpg" width="151"></media:content>
+      <media:credit>Carol Rosenberg/The New York Times</media:credit>
+      <media:description>Workers hammered plastic sheeting to the roofs of the new tiny houses at Guantánamo Bay after rains seeped inside, delaying the $10 million project until next year. In the background are older housing units, which had chronic mold problems.</media:description>
     </item>
     <item>
       <title>The ‘Queue’ to View Queen Elizabeth’s Coffin Closes Temporarily</title>
@@ -495,7 +465,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html" rel="standout"></atom:link>
       <description>The British government said it would turn mourners away for at least six hours after the line of people waiting to pay their respects — known as the Queue — reached capacity.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 15:36:28 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:03:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -503,24 +473,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The line along the Thames on Thursday. The estimated wait time for those who had scraped through before the cutoff was 14 hours.</media:description>
-    </item>
-    <item>
-      <title>Fred Franzia, 79, Dies; Upended Wine Industry With Two-Buck Chuck</title>
-      <link>https://www.nytimes.com/2022/09/15/dining/drinks/fred-franzia-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/dining/drinks/fred-franzia-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/dining/drinks/fred-franzia-dead.html" rel="standout"></atom:link>
-      <description>An unorthodox businessman, he took on the wine industry and its high markups, selling wine at prices many families could afford every day.</description>
-      <dc:creator>Priya Krishna</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:07:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franzia, Fred (1943-2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bronco Wine Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="">Two-Buck Chuck</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/obituaries/15Franzia/15Franzia-moth.jpg" width="151"></media:content>
-      <media:credit>Eric Risberg/Associated Press</media:credit>
-      <media:description>Fred Franzia in 2007 with a bottle of his inexpensive Charles Shaw wine. When asked how he could sell wine for less than a bottle of water, he replied, “They’re overcharging for the water — don’t you get it?”</media:description>
     </item>
     <item>
       <title>How to Prepare for Flu Season</title>
@@ -535,7 +487,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight Lifting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/well/15Well-NL-FluSeason/15Well-NL-FluSeason-moth.jpg" width="151"></media:content>
-      <media:credit>Guillem Casasús</media:credit>
+      <media:credit>Guillem Casas&amp;uacute;s</media:credit>
     </item>
     <item>
       <title>How to Prevent Common Exercise Injuries</title>

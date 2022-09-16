@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 10:43:30 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 10:06:14 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 11:08:43 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 10:58:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -282,7 +282,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/opinion/16gumenyuk-image/16gumenyuk-image-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/16gumenyuk-image/16gumenyuk-image-moth.jpg" width="151"></media:content>
       <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
       <media:description>A mother and son in front of their house in Izium, Ukraine, on Wednesday.</media:description>
     </item>
@@ -339,9 +339,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/opinion/16manjoo-image/16manjoo-image-moth-v2.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/16manjoo-image/16manjoo-image-moth-v2.jpg" width="151"></media:content>
       <media:credit>Michael Holahan/The Augusta Chronicle, via Associated Press</media:credit>
-      <media:description>Plant Vogtle nuclear energy facility in Waynesboro, Ga. </media:description>
+      <media:description>Plant Vogtle nuclear energy facility in Waynesboro, Ga.</media:description>
+    </item>
+    <item>
+      <title>DeSantis’s Martha’s Vineyard Migrants Stunt Shows the Asylum System Is Broken</title>
+      <link>https://www.nytimes.com/2022/09/16/opinion/migrants-marthas-vineyard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/migrants-marthas-vineyard.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/migrants-marthas-vineyard.html" rel="standout"></atom:link>
+      <description>America’s immigration system has long been overburdened and outdated. </description>
+      <dc:creator>Farah Stockman</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 10:43:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/opinion/16stockman1/16stockman1-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Lo Scalzo/EPA, via Shutterstock</media:credit>
     </item>
     <item>
       <title>Who’s Afraid of the Consumer Price Index?</title>
@@ -358,22 +377,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/opinion/15krugman-image/15krugman-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by Sam Whitney/The New York Times; images by ilbusca and Kypros via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Extreme Religious Liberty Is Undermining Public Health</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html" rel="standout"></atom:link>
-      <description>Recent rulings are empowering the moral judgments of a small but politically powerful group.</description>
-      <dc:creator>Lindsay F. Wiley</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 22:02:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/15Wiley/15Wiley-moth.jpg" width="151"></media:content>
-      <media:credit>George Wylesol</media:credit>
     </item>
     <item>
       <title>Profiting in Congress</title>
@@ -605,36 +608,18 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>The Eight Film Festival Movies That Got the Biggest Awards Boost</title>
-      <link>https://www.nytimes.com/2022/09/15/movies/oscar-hopefuls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/movies/oscar-hopefuls.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/movies/oscar-hopefuls.html" rel="standout"></atom:link>
-      <description>“Women Talking,” women fighting, a pair of Brendans and more: After Toronto, Venice and Telluride, here are the titles and performances in the conversation.</description>
-      <dc:creator>Kyle Buchanan</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 20:32:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academy Awards (Oscars)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanchett, Cate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Viola</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farrell, Colin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Field, Todd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fraser, Brendan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gleeson, Brendan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDonagh, Martin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poitras, Laura</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince-Bythewood, Gina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quan, Ke Huy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spielberg, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Michelle (Actor)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yeoh, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">All the Beauty and the Bloodshed (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Everything Everywhere All at Once (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tar (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Banshees of Inisherin (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Fabelmans (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Woman King (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Women Talking (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Whale (Movie)</category>
+      <title>The Art of the School Drop-Off Outfit </title>
+      <link>https://www.nytimes.com/2022/09/15/style/the-school-drop-off-outfit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/style/the-school-drop-off-outfit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/style/the-school-drop-off-outfit.html" rel="standout"></atom:link>
+      <description>How we dress for those five minutes may not be important, but a bit of effort could be uplifting.</description>
+      <dc:creator>Alyssa Shelasky</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 21:55:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/fashion/15DROP-OFF-OUTFIT1/15DROP-OFF-OUTFIT1-moth.jpg" width="151"></media:content>
+      <media:credit>Ali Cherkis for The New York Times</media:credit>
+      <media:description>The author in a vintage jumpsuit from Consignment Brooklyn and shoes by Freda Salvador.</media:description>
     </item>
   </channel>
 </rss>

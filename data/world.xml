@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 16:30:05 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 16:27:24 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 17:20:35 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 17:19:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/16/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukrainian investigators have begun exhuming hundreds of bodies found in a mass grave site just days after President Volodymyr Zelensky raised a flag over the reclaimed city.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:27:24 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 17:11:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-carousel-promo-1215pm-4/16ukraine-briefing-izium-scene-topart-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -51,20 +51,37 @@
       <media:description>Xi Jinping, China’s leader, arriving in Kazakhstan on Wednesday as part of his first trip outside China since the pandemic started. </media:description>
     </item>
     <item>
+      <title>Prince William Moves Into the Spotlight as Heir to the Throne</title>
+      <link>https://www.nytimes.com/2022/09/16/world/europe/prince-william-heir-king.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/prince-william-heir-king.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/prince-william-heir-king.html" rel="standout"></atom:link>
+      <description>Many royal watchers and historians are looking to William and his wife, Kate, who rank high in popularity polls, as the long-term future of the British monarchy.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 17:05:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Duchess of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16QueenWIlliam01/merlin_206794698_e875bd63-7ef7-4b10-bbfc-9f83ef723cdc-moth.jpg" width="151"></media:content>
+      <media:credit>Jane Barlow/WPA Pool/Getty Images</media:credit>
+      <media:description>Prince William in Scotland in May. He has lived a life largely devoid of the controversy, and occasional scandals, that have engulfed his relatives.</media:description>
+    </item>
+    <item>
       <title>The ‘Queue’ to View Queen Elizabeth’s Coffin Closes Temporarily</title>
       <link>https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html" rel="standout"></atom:link>
-      <description>The British government said it would turn mourners away for at least six hours after the line of people waiting to pay their respects — known as the Queue — reached capacity.</description>
+      <description>Would-be mourners waiting to pay their respects — known as the Queue — will likely have to wait 24 hours, the British government said, after it reached capacity on Friday.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:03:59 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 17:08:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>The line along the Thames on Thursday. The estimated wait time for those who had scraped through before the cutoff was 14 hours.</media:description>
+      <media:description>The line along the Thames on Thursday. The estimated wait time for people joining it on Friday evening was 24 hours.</media:description>
     </item>
     <item>
       <title>Floods in Central Italy Leave at Least 9 Dead</title>
@@ -135,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html" rel="standout"></atom:link>
       <description>A memorial for Elizabeth has given residents of the former British colony a rare platform for public, if quiet, political dissent.</description>
       <dc:creator>Zixu Wang and John Yoon</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 14:05:44 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:51:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
@@ -249,45 +266,25 @@
       <media:description>Giorgia Meloni, center, who would be the first woman to lead Italy, posed for a photograph with a supporter in Cagliari, Sardinia, this month.</media:description>
     </item>
     <item>
-      <title>Attempt to Kill Argentina’s Vice President Fuels Conspiracy Theories</title>
-      <link>https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html" rel="standout"></atom:link>
-      <description>An assassination attempt against Argentina’s vice president, Cristina Fernández de Kirchner, failed. Now many Argentines believe the entire event was a hoax.</description>
-      <dc:creator>David Feliba, Natalie Alcoba and Jack Nicas</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 19:35:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vieira da Silva, Marta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00argentina-hoax1/00argentina-hoax1-moth.jpg" width="151"></media:content>
-      <media:credit>Anita Pouchard Serra for The New York Times</media:credit>
-      <media:description>Graffiti in support of Vice President Cristina Fernández de Kirchner on Independence Avenue in Buenos Aires.</media:description>
-    </item>
-    <item>
-      <title>Marvel Attracts Criticism With Israeli “Captain America” Superhero</title>
-      <link>https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html" rel="standout"></atom:link>
-      <description>The studio has angered many Palestinians and their supporters by casting the actress Shira Haas to play Sabra, a mutant Mossad agent, in a “Captain America” movie.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 17:23:16 +0000</pubDate>
+      <title>What Ibrahim al-Nabulsi’s Killing Reveals About the West Bank</title>
+      <link>https://www.nytimes.com/2022/09/16/world/middleeast/ibrahim-al-nabulsi-west-bank-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/ibrahim-al-nabulsi-west-bank-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/ibrahim-al-nabulsi-west-bank-violence.html" rel="standout"></atom:link>
+      <description>The life of Ibrahim al-Nabulsi, the son of a Palestinian security official, reflects some of the dynamics at play as leaders jockey to succeed Mahmoud Abbas, the Palestinian Authority president.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 17:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabra and Shatila Massacre, Lebanon (1982)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Studios</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haas, Shira</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15israel-marvel-image01/merlin_189413811_df04967e-9489-450e-b205-527c85c26f00-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Licari/Invision, Associated Press</media:credit>
-      <media:description>Shira Haas in New York in 2021. She gained international recognition for her roles in the Netflix series “Unorthodox” and “Shtisel.”</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim Nabulsi</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09WestbankUprising01/09WestbankUprising01-moth.jpg" width="151"></media:content>
+      <media:credit>Majdi Mohammed/Associated Press</media:credit>
+      <media:description>Palestinians surrounded the body of Ibrahim al-Nabulsi, who was killed in a raid by the Israeli military, during his funeral in the West Bank town of Nablus last month.</media:description>
     </item>
     <item>
       <title>India’s Leader Tells Putin That Today Is No Time for War</title>
@@ -296,7 +293,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/modi-putin-ukraine-russia.html" rel="standout"></atom:link>
       <description>Prime Minister Narendra Modi’s comments came a day after President Xi Jinping of China expressed muted support for Russia and steered clear in public comments of any mention of Ukraine.</description>
       <dc:creator>Dan Bilefsky</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:27:22 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:45:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
@@ -316,7 +313,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html" rel="standout"></atom:link>
       <description>Ayatollah Ali Khamenei is currently on bed rest under observation by a team of doctors, according to four people familiar with his health situation.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:06:28 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 16:33:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
@@ -517,13 +514,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whelan, Paul N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bout, Viktor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
     </item>
     <item>
       <title>Your Friday Briefing: The Putin-Xi Summit</title>
@@ -585,6 +582,27 @@
       <media:description>A forest near Bialowieza, Poland, in 2019.</media:description>
     </item>
     <item>
+      <title>Attempt to Kill Argentina’s Vice President Fuels Conspiracy Theories</title>
+      <link>https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html" rel="standout"></atom:link>
+      <description>An assassination attempt against Argentina’s vice president, Cristina Fernández de Kirchner, failed. Now many Argentines believe the entire event was a hoax.</description>
+      <dc:creator>David Feliba, Natalie Alcoba and Jack Nicas</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 19:35:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vieira da Silva, Marta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00argentina-hoax1/00argentina-hoax1-moth.jpg" width="151"></media:content>
+      <media:credit>Anita Pouchard Serra for The New York Times</media:credit>
+      <media:description>Graffiti in support of Vice President Cristina Fernández de Kirchner on Independence Avenue in Buenos Aires.</media:description>
+    </item>
+    <item>
       <title>Mexico Arrests Army General Linked to Disappearance of 43 Students</title>
       <link>https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html</guid>
@@ -615,6 +633,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15uk-comma1/15uk-comma1-moth.jpg" width="151"></media:content>
       <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
       <media:description>Tributes to NHS staff outside King’s College hospital in London this summer.</media:description>
+    </item>
+    <item>
+      <title>Marvel Attracts Criticism With Israeli “Captain America” Superhero</title>
+      <link>https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html" rel="standout"></atom:link>
+      <description>The studio has angered many Palestinians and their supporters by casting the actress Shira Haas to play Sabra, a mutant Mossad agent, in a “Captain America” movie.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 17:23:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabra and Shatila Massacre, Lebanon (1982)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marvel Studios</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haas, Shira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15israel-marvel-image01/merlin_189413811_df04967e-9489-450e-b205-527c85c26f00-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Licari/Invision, Associated Press</media:credit>
+      <media:description>Shira Haas in New York in 2021. She gained international recognition for her roles in the Netflix series “Unorthodox” and “Shtisel.”</media:description>
     </item>
     <item>
       <title>Germany Announces Holocaust Reparations and Fund for Ukraine</title>
@@ -1021,62 +1059,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/xxsweden-election-HFO1/xxsweden-election-HFO1-moth.jpg" width="151"></media:content>
       <media:credit>Fredrik Sandberg/TT News Agency, via Agence France-Presse — Getty Images</media:credit>
       <media:description>The new government is expected to be led by Ulf Kristersson, head of the Moderates, part of a right-wing bloc that won 176 of 349 seats in Parliament.</media:description>
-    </item>
-    <item>
-      <title>Queen Elizabeth II Will Be Buried at Windsor Castle</title>
-      <link>https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-buried-windsor-castle.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-buried-windsor-castle.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-buried-windsor-castle.html" rel="standout"></atom:link>
-      <description>The queen will be buried alongside her husband and royal predecessors in St. George’s Chapel.</description>
-      <dc:creator>Enjoli Liston</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 21:44:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14queen-elizabeth-windsor/14queen-elizabeth-windsor-moth.jpg" width="151"></media:content>
-      <media:credit>Neil P. Mockford/Getty Images</media:credit>
-      <media:description>Flower tributes are moved to the grounds within the gates on The Long Walk, in front of Windsor Castle on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Top E.U. Official Is Becoming an Unexpected Wartime Leader</title>
-      <link>https://www.nytimes.com/2022/09/14/world/europe/eu-ursula-von-der-leyen-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/eu-ursula-von-der-leyen-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/eu-ursula-von-der-leyen-russia-war.html" rel="standout"></atom:link>
-      <description>In her annual address, Ursula von der Leyen, president of the European Commission, pushed for the bloc to remain firm in the face of Russian aggression.</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:30:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State of the Union Message (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strasbourg (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Council</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14eu-sotu/merlin_213104625_021767a3-251a-4d4d-b5a4-634d3f57bd3c-moth.jpg" width="151"></media:content>
-      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
-      <media:description>Ursula von der Leyen, President of the European Commission, addressing the European Parliament in Strasbourg, France, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>France Will Keep a Cap on Gas and Power Price Hikes in 2023</title>
-      <link>https://www.nytimes.com/2022/09/14/world/europe/france-gas-power-price-cap.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/france-gas-power-price-cap.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/france-gas-power-price-cap.html" rel="standout"></atom:link>
-      <description>Élisabeth Borne, the prime minister, said the cap was far below the 120 percent hike that was expected without any government intervention as prices soar, exacerbated by the war in Ukraine.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 19:46:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borne, Elisabeth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/15/business/14ukraine-blog-france-energy-topart/00edf-4-moth.jpg" width="151"></media:content>
-      <media:credit>Pascal Rossignol/Reuters</media:credit>
-      <media:description>Nuclear plants in France provide about 70 percent of the country’s electricity. Even though they are currently plagued by technical issues, France does not expect widespread energy blackouts over the winter.</media:description>
     </item>
   </channel>
 </rss>

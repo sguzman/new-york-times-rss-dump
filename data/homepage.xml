@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 13:19:54 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 13:17:46 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 14:05:12 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 14:04:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,6 +34,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/poll-biden-approval-righttrack-promo/poll-biden-approval-righttrack-promo-moth.png" width="151"></media:content>
+    </item>
+    <item>
+      <title>Right After Primary Win, Bolduc Reverses Support for Election Lies</title>
+      <link>https://www.nytimes.com/2022/09/15/us/politics/don-bolduc-nh.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/politics/don-bolduc-nh.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/us/politics/don-bolduc-nh.html" rel="standout"></atom:link>
+      <description>Don Bolduc, the Republican Senate nominee in New Hampshire, pivoted to the general election, saying he had concluded that the 2020 presidential election “was not stolen.”</description>
+      <dc:creator>Maggie Astor</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 18:56:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolduc, Donald C (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15midterm-blog-bolduc/15midterm-blog-bolduc-moth.jpg" width="151"></media:content>
+      <media:credit>John Tully for The New York Times</media:credit>
+      <media:description>Don Bolduc, a retired Army general, in Hampton, N.H., on Tuesday night. He is the state’s Republican candidate for Senate.</media:description>
     </item>
     <item>
       <title>Judge Names Special Master and Keeps Block on Mar-a-Lago Files Inquiry</title>
@@ -112,27 +129,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/15migrant-stories5/15migrant-stories5-moth.jpg" width="151"></media:content>
       <media:credit>Oliver Contreras for The New York Times</media:credit>
       <media:description>The Venezuelan migrants bused from Texas to Washington on Thursday arrived near Vice President Kamala Harris’s residence.</media:description>
-    </item>
-    <item>
-      <title>DeSantis and Abbott Intensify Fight Over Immigration</title>
-      <link>https://www.nytimes.com/2022/09/15/us/desantis-abbott-migrants-immigration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/us/desantis-abbott-migrants-immigration.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/us/desantis-abbott-migrants-immigration.html" rel="standout"></atom:link>
-      <description>Decisions to bus migrants to the vice president’s residence and to fly others to Martha’s Vineyard were the latest attempts to provoke outrage over record arrivals at the border.</description>
-      <dc:creator>Will Sennott, Zolan Kanno-Youngs, Eileen Sullivan and Patricia Mazzei</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 00:58:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Naval Observatory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Martha&#39;s Vineyard (Mass)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/15migrants/15migrants-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Cosby for The New York Times</media:credit>
-      <media:description>Migrants entered St. Andrew’s Episcopal Church in Edgartown, Mass., to meet with volunteers on Thursday, a day after being flown from Texas to Martha’s Vineyard.</media:description>
     </item>
     <item>
       <title>At Old Coal Mines, the American Chestnut Tries for a Comeback</title>
@@ -225,7 +221,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/realestate/back-kitchen-scullery.html" rel="standout"></atom:link>
       <description>The back kitchen, in essence a pantry on overdrive, has become increasingly popular in recent years, according to architects, designers and homebuilders.</description>
       <dc:creator>Ronda Kaysen</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:00:24 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 14:00:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kitchens</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
@@ -260,7 +256,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/opinion/conservation-ethics.html" rel="standout"></atom:link>
       <description>As scientists push the frontiers of conservation technology, some of their initiatives raise ethical questions.</description>
       <dc:creator>Tim McDonnell</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 12:16:15 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 13:44:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -402,13 +398,13 @@
       <media:description>Members of Congress can buy and sell stocks with few restrictions.</media:description>
     </item>
     <item>
-      <title>Promise and Peril at the Bottom of the Ocean</title>
+      <title>Promise and Peril at the Bottom of the Sea</title>
       <link>https://www.nytimes.com/2022/09/16/podcasts/the-daily/electric-cars-sea-mining-pacific-ocean.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/podcasts/the-daily/electric-cars-sea-mining-pacific-ocean.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/16/podcasts/the-daily/electric-cars-sea-mining-pacific-ocean.html" rel="standout"></atom:link>
       <description>How a mining company and a regulator are balancing billions of dollars in profits against the future of the Pacific.</description>
       <dc:creator>Natalie Kitroeff, Will Reid, Michael Simon Johnson, Rachelle Bonja, Liz O. Baylen, Lisa Chow, Dan Powell and Chris Wood</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 13:10:02 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 14:04:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
@@ -480,7 +476,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html" rel="standout"></atom:link>
       <description>The British government said it would turn people away for a period of at least six hours after the volume of those waiting reached capacity.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 11:06:00 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 11:06:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>

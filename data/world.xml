@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 22:45:09 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 22:43:35 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 23:23:17 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 23:16:27 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/16/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Prime Minister Narendra Modi’s comments to the Russian president at a meeting in Uzbekistan underscored Russia’s growing isolation. In Izium, Ukrainian investigators began exhuming hundreds of bodies from a mass grave site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 22:43:35 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 23:16:27 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-carousel-promo-1215pm-4/16ukraine-briefing-izium-scene-topart-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -247,6 +247,49 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-opera-profile-promo/merlin_212583732_937b4954-82a3-4fe8-87ad-1267ebb5e837-moth.jpg" width="151"></media:content>
       <media:credit>Lena Mucha for The New York Times</media:credit>
       <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
+    </item>
+    <item>
+      <title>As India Joins China in Distancing From Russia, Putin Warns of Escalation</title>
+      <link>https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html" rel="standout"></atom:link>
+      <description>After India’s prime minister said that now is not the time for war, an increasingly isolated Mr. Putin threatened “more serious” actions in Ukraine while insisting he was ready for talks.</description>
+      <dc:creator>Anton Troianovski, Mujib Mashal and Julian E. Barnes</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 23:09:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16putin-1/16putin-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Sergei Bobylev</media:credit>
+      <media:description>Prime Minister Narendra Modi of India, who met President Vladimir V. Putin on Friday, told the Russian president that “today’s era is not of war.”</media:description>
+    </item>
+    <item>
+      <title>Haiti’s Fuel Price Hike Escalates Its Worst Protests in Years</title>
+      <link>https://www.nytimes.com/2022/09/16/world/americas/haiti-protests-fuel-price.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/americas/haiti-protests-fuel-price.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/americas/haiti-protests-fuel-price.html" rel="standout"></atom:link>
+      <description>Discontent over economic misery spilled into the largest national protests in years, prompting international calls for action.</description>
+      <dc:creator>Milo Milfort, Anatoly Kurmanaev and Andre Paultre</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 23:00:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of American States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16haiti-unrest1/16haiti-unrest1-moth.jpg" width="151"></media:content>
+      <media:credit>Odelyn Joseph/Associated Press</media:credit>
+      <media:description>Protesters erected burning barricades in Port-au-Prince, Haiti on Thursday, as the country was wracked by widespread protests.</media:description>
     </item>
     <item>
       <title>U.S. Immigration Debate Rings Hollow in Venezuela as Migrants Flee</title>
@@ -494,7 +537,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/biden-brittney-griner-paul-whelan.html" rel="standout"></atom:link>
       <description>The fates of both Americans have been complicated by the deteriorating diplomatic relationship between the United States and Russia over President Vladimir V. Putin’s invasion of Ukraine.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 21:24:13 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 22:58:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whelan, Paul N</category>
@@ -1010,49 +1053,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14ukraine-scene-1-promo/14ukraine-scene-1-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A tank passing through the center of Bakhmut, Ukraine, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Sweden’s Far Right Just Made History. Is It the Country’s Future?</title>
-      <link>https://www.nytimes.com/2022/09/14/world/europe/sweden-elections-right.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/sweden-elections-right.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/sweden-elections-right.html" rel="standout"></atom:link>
-      <description>The anti-immigration Sweden Democrats beat out more moderate right-wing parties in a country famed for liberal governance. It is the latest example of the right’s staying power across Europe.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 20:12:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">European Sovereign Debt Crisis (2010- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/interpreter-newsletter-14sept2022-1/interpreter-newsletter-14sept2022-1-moth.jpg" width="151"></media:content>
-      <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Jimmie Akesson, the leader of the far-right Sweden Democrats party, at a gathering in Stockholm on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Patagonia Founder Gives Away the Company to Fight Climate Change</title>
-      <link>https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html" rel="standout"></atom:link>
-      <description>Yvon Chouinard has forfeited ownership of the company he founded 49 years ago. The profits will now be used to fight climate change.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 21:45:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chouinard, Yvon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patagonia Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/climate/00cli-patagonia-promo/00cli-patagonia-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Natalie Behring for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

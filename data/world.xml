@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 13:53:46 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 13:30:23 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 14:26:43 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 14:25:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/16/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Investigators and prosecutors were dispatched to the site on Friday, just days after President Volodymyr Zelensky raised a flag over the reclaimed city.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 13:30:23 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 14:25:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16ukraine-briefing-header2/16ukraine-briefing-header2-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Residents waiting for humanitarian aid and meals in the recently recaptured town of Balakliya, Ukraine, on Thursday.</media:description>
@@ -39,6 +39,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15QUEEN-ANNE1/15QUEEN-ANNE1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Andrew Milligan</media:credit>
       <media:description>Princess Anne at Balmoral Castle, in Scotland, on Saturday.</media:description>
@@ -110,6 +113,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-opera-profile-promo/merlin_212583732_937b4954-82a3-4fe8-87ad-1267ebb5e837-moth.jpg" width="151"></media:content>
       <media:credit>Lena Mucha for The New York Times</media:credit>
       <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
+    </item>
+    <item>
+      <title>In Hong Kong, Mourning the Queen and the Past</title>
+      <link>https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>A memorial for Elizabeth has given residents of the former British colony a rare platform for public, if quiet, political dissent.</description>
+      <dc:creator>Zixu Wang and John Yoon</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 14:05:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16hk-queen-image01/16hk-queen-image01-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Kwan/Associated Press</media:credit>
+      <media:description>Waiting to pay tribute to Queen Elizabeth II outside the British Consulate General in Hong Kong on Friday.</media:description>
     </item>
     <item>
       <title>Floods in Italy Leave at Least 9 Dead</title>
@@ -261,21 +282,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11italy-meloni1/11italy-meloni1-moth-v3.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>Giorgia Meloni, center, who would be the first woman to lead Italy, posed for a photograph with a supporter in Cagliari, Sardinia, this month.</media:description>
-    </item>
-    <item>
-      <title>U.K. Health Ministry Wants No Oxford Commas. Period.</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html" rel="standout"></atom:link>
-      <description>The directive discourages the use of the contentious grammatical device, and also encourages employees to be “positive” and to avoid “jargon.”</description>
-      <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:06:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grammar</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15uk-comma1/15uk-comma1-moth.jpg" width="151"></media:content>
-      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
-      <media:description>Tributes to NHS staff outside King’s College hospital in London this summer.</media:description>
     </item>
     <item>
       <title>The ‘Queue’ to View Queen Elizabeth’s Coffin Closes Temporarily</title>
@@ -552,6 +558,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15mexico-arrest1sub/15mexico-arrest1sub-moth.jpg" width="151"></media:content>
       <media:credit>Rodrigo Arangua/Agence France-Presse — Getty Images</media:credit>
       <media:description>A memorial to the 43 missing students in Mexico City last month.</media:description>
+    </item>
+    <item>
+      <title>U.K. Health Ministry Wants No Oxford Commas. Period.</title>
+      <link>https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html" rel="standout"></atom:link>
+      <description>The directive discourages the use of the contentious grammatical device, and also encourages employees to be “positive” and to avoid “jargon.”</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 18:06:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grammar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15uk-comma1/15uk-comma1-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+      <media:description>Tributes to NHS staff outside King’s College hospital in London this summer.</media:description>
     </item>
     <item>
       <title>Germany Announces Holocaust Reparations and Fund for Ukraine</title>
@@ -1056,26 +1077,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14queen-elizabeth-costs-topart/14queen-elizabeth-costs-topart-moth.jpg" width="151"></media:content>
       <media:credit>Chip Somodevilla/Getty Images</media:credit>
       <media:description>The cost of Queen Elizabeth II’s funeral has not yet been made public.</media:description>
-    </item>
-    <item>
-      <title>Pakistan Suffers Record Flooding, Turning Villages Into Islands</title>
-      <link>https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/pakistan-floods.html" rel="standout"></atom:link>
-      <description>The flooding has displaced more than 33 million people, submerging vast areas of Pakistan that are likely to take months to dry out.</description>
-      <dc:creator>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 03:06:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dadu (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sindh Province (Pakistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14pakistan-floods-1-promo/14pakistan-floods-1-moth.jpg" width="151"></media:content>
-      <media:credit>Kiana Hayeri for The New York Times</media:credit>
-      <media:description>Boat operators from other regions have come to Sindh Province to make money as ferries for stranded townspeople. They use power lines as landmarks.</media:description>
     </item>
   </channel>
 </rss>

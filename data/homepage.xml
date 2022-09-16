@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 02:52:01 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 02:51:42 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 04:47:43 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 03:00:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -116,6 +116,26 @@
       <media:description>In a photograph released by Russian state media, President Vladimir V. Putin of Russia and President Xi Jinping of China meeting in Uzbekistan, on Thursday.</media:description>
     </item>
     <item>
+      <title>U.S. Will Send $600 Million in Military Supplies to Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/15/world/europe/biden-ukraine-military-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/biden-ukraine-military-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/biden-ukraine-military-aid.html" rel="standout"></atom:link>
+      <description>The new shipment continues the Pentagon’s recent trend of sending ammunition that Ukraine needs to carry out heavy fighting in the country’s south, east and northeast.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 02:31:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/03/15ukraine-briefing-arms-package/merlin_207925161_84087298-cd1f-4184-9bf5-d517a233ee2d-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O’Reilly for The New York Times</media:credit>
+      <media:description>A multiple rocket-launching vehicle being transported by a Ukrainian military vehicle in June.</media:description>
+    </item>
+    <item>
       <title>Pope Francis: Arming Ukraine Can Be ‘Morally Acceptable&#39;</title>
       <link>https://www.nytimes.com/2022/09/15/world/europe/pope-francis-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/pope-francis-ukraine.html</guid>
@@ -186,26 +206,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/sports/15federer-assess1/15federer-assess1-moth.jpg" width="151"></media:content>
       <media:credit>Clive Brunskill /Allsport via Getty Images</media:credit>
       <media:description>Roger Federer in 2000, at age 18.</media:description>
-    </item>
-    <item>
-      <title>5 Russian Bullets Dashed an Opera Singer’s Dreams. Then He Reclaimed His Voice.</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html" rel="standout"></atom:link>
-      <description>While on a rescue mission in Ukraine, Sergiy Ivanchuk was shot in the lungs, apparently ending his chance at opera stardom. His recovery is a marvel of medicine, chance and his own spirit.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ivanchuk, Sergiy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-opera-profile-promo/merlin_212583732_937b4954-82a3-4fe8-87ad-1267ebb5e837-moth.jpg" width="151"></media:content>
-      <media:credit>Lena Mucha for The New York Times</media:credit>
-      <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
     </item>
     <item>
       <title>Princess Anne’s Influence, and Workload, Rises in a Slimmed-Down Royal Family</title>
@@ -420,16 +420,20 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>Your Thursday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/09/15/briefing/florida-texas-migrants-roger-federer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/florida-texas-migrants-roger-federer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/florida-texas-migrants-roger-federer.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 22:03:24 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/lens/15evening-briefing-migrants/15evening-briefing-migrants-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Cosby for The New York Times</media:credit>
-      <media:description>Migrants entered St. Andrew’s Episcopal Church in Edgartown, Mass., today.</media:description>
+      <title>How Much Watching Time Do You Have This Weekend?</title>
+      <link>https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html" rel="standout"></atom:link>
+      <description>Our TV critic recommends a sweet new farm show for children, a silly-spooky show for grown-ups and a terrific stand-up special.</description>
+      <dc:creator>Margaret Lyons</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 20:26:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Los Espookys (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lovely Little Farm (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sheng Wang: Sweet &amp; Juicy (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/arts/15Watching-Farm/15Watching-Farm-moth.jpg" width="151"></media:content>
+      <media:credit>Apple TV+</media:credit>
+      <media:description>Levi Howden and various creatures in a scene from “Lovely Little Farm.”</media:description>
     </item>
     <item>
       <title>The Run-Up: What Democrats and Republicans Got Wrong About Voters</title>
@@ -463,20 +467,18 @@
       <media:credit>Illustration by Chloe Scheffe; photographs by Internet Archive; Ansel Adams, Esther Bubley, Warren K. Leffler and Russell Lee, via Library of Congress; Museums Victoria, Muhammad Haikal Sjurki, Note Thanun and New York Public Library, via Unsplash; and Mikus, via Wikimedia Commons</media:credit>
     </item>
     <item>
-      <title>How Much Watching Time Do You Have This Weekend?</title>
-      <link>https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/arts/television/los-espookys-sheng-wang.html" rel="standout"></atom:link>
-      <description>Our TV critic recommends a sweet new farm show for children, a silly-spooky show for grown-ups and a terrific stand-up special.</description>
-      <dc:creator>Margaret Lyons</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 20:26:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Los Espookys (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Lovely Little Farm (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sheng Wang: Sweet &amp; Juicy (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/arts/15Watching-Farm/15Watching-Farm-moth.jpg" width="151"></media:content>
-      <media:credit>Apple TV+</media:credit>
-      <media:description>Levi Howden and various creatures in a scene from “Lovely Little Farm.”</media:description>
+      <title>Vegetarian Recipes for Cozy Days</title>
+      <link>https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html" rel="standout"></atom:link>
+      <description>Soups, stews and comforting, feel-good foods for after a storm.</description>
+      <dc:creator>Tejal Rao</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 17:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/02/27/dining/27kitchrex-b-copy/27kitchrex-b-moth.jpg" width="151"></media:content>
+      <media:credit>David Malosh for The New York Times. Food Stylist: Simon Andrews.</media:credit>
     </item>
     <item>
       <title>Life on Mars? NASA’s Rover Helps Us Find It.</title>

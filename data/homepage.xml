@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 08:43:48 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 08:29:33 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 09:14:37 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 09:02:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -260,23 +260,43 @@
       <media:description>The Plaça del Baluard is the entrance to the old town in Sitges and a favorite place for visitors to take photographs. </media:description>
     </item>
     <item>
-      <title>Why Is There Still No Strategy to Defeat Donald Trump?</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html" rel="standout"></atom:link>
-      <description>Trump-bashing makes us feel good; it doesn’t turn the tide.</description>
-      <dc:creator>David Brooks</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 00:59:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <title>A Rail Strike Averted Reminds Us That There Is Power in a Union</title>
+      <link>https://www.nytimes.com/2022/09/16/opinion/railroad-strike-labor-unions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/railroad-strike-labor-unions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/railroad-strike-labor-unions.html" rel="standout"></atom:link>
+      <description>The single best thing President Biden and the Democratic Party could do for workers is to give them the tools and support to build power for themselves.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of American Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15brooks-image/15brooks-image-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Peterson for The New York Times</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/opinion/16bouie-1/16bouie-1-moth.jpg" width="151"></media:content>
+      <media:credit>Bettmann/Getty Images</media:credit>
+      <media:description>Illinois state troopers on the scene of a railroad strike.</media:description>
+    </item>
+    <item>
+      <title>How Far Should We Go to Save a Species?</title>
+      <link>https://www.nytimes.com/2022/09/16/opinion/conservation-ethics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/conservation-ethics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/conservation-ethics.html" rel="standout"></atom:link>
+      <description>As scientists push the frontiers of conservation technology, some of their initiatives raise ethical questions.</description>
+      <dc:creator>Tim McDonnell</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Insemination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/opinion/09mcdonnell/09mcdonnell-moth.jpg" width="151"></media:content>
+      <media:credit>Javier Jaén</media:credit>
     </item>
     <item>
       <title>The World Now Has a Vision of Ukrainian Victory</title>
@@ -298,38 +318,61 @@
       <media:description>A mother and son in front of their house in Izium, Ukraine, on Wednesday.</media:description>
     </item>
     <item>
-      <title>Herschel Walker Tests the Importance of ‘Candidate Quality’</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html" rel="standout"></atom:link>
-      <description>If he babbles his way to a win, we all lose.</description>
-      <dc:creator>Frank Bruni</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 16:15:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15bruni-image/15bruni-image-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Wiseman</media:credit>
+      <title>Why Is There Still No Strategy to Defeat Donald Trump?</title>
+      <link>https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/strategy-defeat-donald-trump.html" rel="standout"></atom:link>
+      <description>Trump-bashing makes us feel good; it doesn’t turn the tide.</description>
+      <dc:creator>David Brooks</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 00:59:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15brooks-image/15brooks-image-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Peterson for The New York Times</media:credit>
     </item>
     <item>
-      <title>There’s Terrific News About the New Covid Boosters, but Few Are Hearing It</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/covid-booster-shot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/covid-booster-shot.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/covid-booster-shot.html" rel="standout"></atom:link>
-      <description>These updated vaccines are more protective and could fight future variants and help stave off long Covid.</description>
-      <dc:creator>Zeynep Tufekci</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 23:16:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Long Covid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15tufekci1/15tufekci1-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
+      <title>Now All Biden Has to Do Is Build It</title>
+      <link>https://www.nytimes.com/2022/09/16/opinion/ezra-klein-podcast-felicia-wong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/ezra-klein-podcast-felicia-wong.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/ezra-klein-podcast-felicia-wong.html" rel="standout"></atom:link>
+      <description>Felicia Wong on the hard road ahead to make the president’s plans a lived reality.</description>
+      <dc:creator>‘The Ezra Klein Show’</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Felicia Joy (1966- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/03/opinion/03eks-wong-image/03eks-wong-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Nuclear Power Still Doesn’t Make Much Sense</title>
+      <link>https://www.nytimes.com/2022/09/16/opinion/nuclear-power-still-doesnt-make-much-sense.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/nuclear-power-still-doesnt-make-much-sense.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/nuclear-power-still-doesnt-make-much-sense.html" rel="standout"></atom:link>
+      <description>There’s a lot of new enthusiasm around nuclear power. It isn’t warranted.</description>
+      <dc:creator>Farhad Manjoo</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/opinion/16manjoo-image/16manjoo-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Michael Holahan/The Augusta Chronicle, via Associated Press</media:credit>
+      <media:description>Plant Vogtle nuclear energy facility in Waynesboro, Ga. </media:description>
     </item>
     <item>
       <title>Who’s Afraid of the Consumer Price Index?</title>
@@ -348,59 +391,21 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; images by ilbusca and Kypros via Getty Images</media:credit>
     </item>
     <item>
-      <title>Britain 3, America 0</title>
-      <link>https://www.nytimes.com/2022/09/14/opinion/women-candidate-2022.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/women-candidate-2022.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/women-candidate-2022.html" rel="standout"></atom:link>
-      <description>A third woman is now leading Britain. The U.S. has had, um ....</description>
-      <dc:creator>Gail Collins</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 23:36:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Margaret Chase</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ferguson, Miriam A</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14collins-1/14collins-1-moth.jpg" width="151"></media:content>
-      <media:credit>Samuel Corum for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The Transcendent Power of Walking</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/walking-mindfulness-benefits.html" rel="standout"></atom:link>
-      <description>Walking in my neighborhood taught me what running wild in the mountains couldn’t. </description>
-      <dc:creator>Francis Sanzaro</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 23:28:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Senses and Sensation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Barry (1945- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/15Sanzaro/15Sanzaro-moth.jpg" width="151"></media:content>
-      <media:credit>Al&amp;euml;na Skarina</media:credit>
-    </item>
-    <item>
-      <title>Extreme Religious Liberty Is Undermining Public Health</title>
-      <link>https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/religious-liberty-public-health.html" rel="standout"></atom:link>
-      <description>Recent rulings are empowering the moral judgments of a small but politically powerful group.</description>
-      <dc:creator>Lindsay F. Wiley</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 22:02:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/15Wiley/15Wiley-moth.jpg" width="151"></media:content>
-      <media:credit>George Wylesol</media:credit>
+      <title>Herschel Walker Tests the Importance of ‘Candidate Quality’</title>
+      <link>https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/opinion/herschel-walker-trump-midterms.html" rel="standout"></atom:link>
+      <description>If he babbles his way to a win, we all lose.</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 16:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/15bruni-image/15bruni-image-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Wiseman</media:credit>
     </item>
     <item>
       <title>How Much Watching Time Do You Have This Weekend?</title>
@@ -490,7 +495,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/business/uk-government-debt.html" rel="standout"></atom:link>
       <description>Simultaneous declines in bonds, stocks and the pound could set the stage for rising borrowing costs and persistent inflation.</description>
       <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 04:54:38 +0000</pubDate>
+      <pubDate>Fri, 16 Sep 2022 09:02:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 02:37:31 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 02:36:41 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2022 04:40:06 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2022 04:31:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -291,6 +291,18 @@
       <pubDate>Fri, 16 Sep 2022 02:31:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15ukraine-briefing-carousel-promo-130pm/15ukraine-briefing-carousel-promo-130pm-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html" rel="standout"></atom:link>
+      <description>A meeting between Vladimir Putin and Xi Jinping.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 04:31:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16AM-Euro-Ukraine-Putin-Xi-promo/16AM-Euro-Ukraine-Putin-Xi-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alexandr Demyanchuk</media:credit>
+      <media:description>Russian President Vladimir Putin, left, listens as Chinese President Xi Jinping makes remarks at their meeting Thursday.</media:description>
     </item>
     <item>
       <title>U.S. Will Send $600 Million in Military Supplies to Ukraine</title>
@@ -1101,28 +1113,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
-    </item>
-    <item>
-      <title>Hermès Bags and Millions in Cash: The Fall of Malaysia’s Najib Razak</title>
-      <link>https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/asia/malaysia-najib-rosmah-1mdb.html" rel="standout"></atom:link>
-      <description>The former prime minister and his wife were once seen as untouchable. Now, both have been found guilty in connection with the 1MDB financial scandal.</description>
-      <dc:creator>Richard C. Paddock</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 09:22:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najib Razak</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansor, Rosmah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">1Malaysia Development Berhad (1MDB)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Low Jho (1981- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00Malaysia-Najib1/00Malaysia-Najib1-moth.jpg" width="151"></media:content>
-      <media:credit>Fazry Ismail/EPA, via Shutterstock</media:credit>
-      <media:description>Najib Razak, the former prime minister of Malaysia, arriving to court in Putrajaya, Malaysia, last month.</media:description>
     </item>
   </channel>
 </rss>

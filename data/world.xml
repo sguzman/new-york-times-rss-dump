@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 15:45:47 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 15:34:01 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 16:28:21 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 16:00:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -417,6 +417,7 @@
       <description>The life of Ibrahim al-Nabulsi, the son of a Palestinian security official, reflects some of the dynamics at play as leaders jockey to succeed Mahmoud Abbas, the Palestinian Authority president.</description>
       <dc:creator>Patrick Kingsley</dc:creator>
       <pubDate>Fri, 16 Sep 2022 17:19:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -425,7 +426,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ibrahim Nabulsi</category>
+      <category domain="">Ibrahim al-Nabulsi</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09WestbankUprising01/09WestbankUprising01-moth.jpg" width="151"></media:content>
       <media:credit>Majdi Mohammed/Associated Press</media:credit>
       <media:description>Palestinians surrounded the body of Ibrahim al-Nabulsi, who was killed in a raid by the Israeli military, during his funeral in the West Bank town of Nablus last month.</media:description>

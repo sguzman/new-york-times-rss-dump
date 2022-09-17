@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 19:48:09 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 19:32:22 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 20:13:13 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 20:12:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -197,13 +197,14 @@
       <dc:creator>Michael C. Bender and Maggie Haberman</dc:creator>
       <pubDate>Sat, 17 Sep 2022 07:00:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
@@ -254,6 +255,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/00queen-meghan/00queen-meghan-moth.jpg" width="151"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
       <media:description>Meghan, the Duchess of Sussex, with Prince Harry, her husband, behind Prince William and Catherine, the Princess of Wales, viewing flowers last Saturday that were left for Queen Elizabeth II.</media:description>
+    </item>
+    <item>
+      <title>Prince William and Prince Harry Stood Vigil Over the Queen at Westminster Hall</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html" rel="standout"></atom:link>
+      <description>Prince William and Prince Harry stood vigil over their grandmother, Queen Elizabeth II, at Westminster Hall as mourners streamed in to pay their respects.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 19:40:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17queen-scene1/17queen-scene1-moth.jpg" width="151"></media:content>
+      <media:credit>Jeff J Mitchell/Getty Images</media:credit>
+      <media:description>The line to see Queen Elizabeth II lying in state at Westminster Hall stretched for miles along the south bank of the Thames on Saturday in London.</media:description>
     </item>
     <item>
       <title>‘M*A*S*H’ at 50: War Is Hell(arious)</title>
@@ -376,6 +397,43 @@
       <media:credit>Scott McIntyre for The New York Times</media:credit>
     </item>
     <item>
+      <title>Why Queen Elizabeth’s Strength Is Putin’s Weakness</title>
+      <link>https://www.nytimes.com/2022/09/17/opinion/queen-elizabeth-putin-legitimacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/opinion/queen-elizabeth-putin-legitimacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/opinion/queen-elizabeth-putin-legitimacy.html" rel="standout"></atom:link>
+      <description>Why the mystical quality we call legitimacy is key for rulers.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 19:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+    </item>
+    <item>
+      <title>When Your Dog Is a Teenager</title>
+      <link>https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html" rel="standout"></atom:link>
+      <description>As at so many times during early life with dogs, patience is due. It is just a phase.</description>
+      <dc:creator>Alexandra Horowitz</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/sunday/17horowitz/17horowitz-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Daniel Terna</media:credit>
+    </item>
+    <item>
       <title>A Sneaky Form of Climate Obstruction Hurts Pension Funds</title>
       <link>https://www.nytimes.com/2022/09/17/opinion/environment/climate-change-pension-texas-florida.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/opinion/environment/climate-change-pension-texas-florida.html</guid>
@@ -398,22 +456,6 @@
       <media:description>The facade of Goldman Sachs’ Manhattan headquarters. Some Republican state treasurers are refusing to do business with the firm because it is reducing investments in fossil fuels. </media:description>
     </item>
     <item>
-      <title>When Your Dog Is a Teenager</title>
-      <link>https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/opinion/dogs-puppies-adolescence.html" rel="standout"></atom:link>
-      <description>As at so many times during early life with dogs, patience is due. It is just a phase.</description>
-      <dc:creator>Alexandra Horowitz</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 13:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/sunday/17horowitz/17horowitz-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Daniel Terna</media:credit>
-    </item>
-    <item>
       <title>DeSantis’s Martha’s Vineyard Migrants Stunt Shows the Asylum System Is Broken</title>
       <link>https://www.nytimes.com/2022/09/16/opinion/migrants-marthas-vineyard.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/migrants-marthas-vineyard.html</guid>
@@ -431,22 +473,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/opinion/16stockman1/16stockman1-moth.jpg" width="151"></media:content>
       <media:credit>Jim Lo Scalzo/EPA, via Shutterstock</media:credit>
-    </item>
-    <item>
-      <title>Wonking Out: What Ukraine Needs From Us</title>
-      <link>https://www.nytimes.com/2022/09/16/opinion/ukraine-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/opinion/ukraine-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/opinion/ukraine-economy.html" rel="standout"></atom:link>
-      <description>Lawyers, guns and money. OK, skip the lawyers.</description>
-      <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 23:08:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/16krugman-newsletter-1/16krugman-newsletter-1-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
     <item>
       <title>Baking Challah</title>

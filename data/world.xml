@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 20:22:10 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 20:17:39 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 20:43:50 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 20:43:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -181,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/17/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Recent setbacks haven’t deterred Putin’s forces from advancing on the city of Bakhmut and claiming all of the mineral-rich Donbas region. President Biden told the CBS News program “60 Minutes” that any such action would turn Russia into “more of a pariah” than it has ever been.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 20:17:39 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 20:43:20 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/multimedia/17ukraine-briefing-carousel-10am-5/17ukraine-briefing-carousel-10am-5-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -298,7 +298,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html" rel="standout"></atom:link>
       <description>Three statues were returned to Italy after the J. Paul Getty Museum discovered they had been looted. They will be displayed temporarily in Rome before heading to Taranto, Italy, their permanent home.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 17:45:31 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 20:29:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
@@ -387,9 +387,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16ukraine-graves-ledeall-top/16ukraine-graves-ledeall-top-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian investigators at a large grave site in the forest by Izium, in northeastern Ukraine. Russian soldiers occupied the city for six months, before fleeing last week.</media:description>
@@ -422,17 +423,16 @@
       <description>After India’s prime minister said that now is not the time for war, an increasingly isolated Mr. Putin threatened “more serious” actions in Ukraine while insisting he was ready for talks.</description>
       <dc:creator>Anton Troianovski, Mujib Mashal and Julian E. Barnes</dc:creator>
       <pubDate>Sat, 17 Sep 2022 03:21:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16putin-1/16putin-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Sergei Bobylev</media:credit>
       <media:description>Prime Minister Narendra Modi of India, who met President Vladimir V. Putin on Friday, told the Russian president that “today’s era is not of war.”</media:description>
@@ -543,8 +543,9 @@
       <description>Would-be mourners in line to pay their respects — known as the Queue — will probably have to wait 24 hours, the British government said, after it reached capacity on Friday.</description>
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Sat, 17 Sep 2022 01:23:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
@@ -596,19 +597,20 @@
       <description>Xi Jinping’s visit to Central Asia this week sheds a light on his country’s efforts to increase its sway in the vast, resource-rich region once considered Russia’s domain.</description>
       <dc:creator>Keith Bradsher</dc:creator>
       <pubDate>Fri, 16 Sep 2022 09:51:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Belt and Road Initiative (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16China-Xi-01/16China-Xi-01-moth.jpg" width="151"></media:content>
       <media:credit>Kazakhstan Presidential Press Office, via Agence France-Presse — Getty Images</media:credit>
       <media:description>Xi Jinping, China’s leader, arriving in Kazakhstan on Wednesday as part of his first trip outside China since the pandemic started. </media:description>

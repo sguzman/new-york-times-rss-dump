@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 13:47:23 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 13:39:52 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 14:18:37 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 14:03:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -262,6 +262,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The line along the Thames on Thursday. The estimated wait time for people joining it on Friday evening was 24 hours.</media:description>
+    </item>
+    <item>
+      <title>What Does Queen Elizabeth’s Death Mean for Canada?</title>
+      <link>https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>The accession of King Charles III may inspire more discussion about the relevance of the monarchy in Canada, but materially, experts say it’s business as usual.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 14:03:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16Canada-letter-king/16Canada-letter-king-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>King Charles III accompanied the procession taking Queen Elizabeth II’s coffin to Westminster Hall.</media:description>
     </item>
     <item>
       <title>Baking Challah</title>
@@ -1019,31 +1035,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-opera-profile-promo/merlin_212583732_937b4954-82a3-4fe8-87ad-1267ebb5e837-moth.jpg" width="151"></media:content>
       <media:credit>Lena Mucha for The New York Times</media:credit>
       <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
-    </item>
-    <item>
-      <title>Giorgia Meloni May Lead Italy, and Europe Is Worried</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html" rel="standout"></atom:link>
-      <description>The hard-right leader has excoriated the European Union in the past, and she regularly blasts illegal immigration and George Soros. But she is closer than ever to becoming prime minister.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 08:12:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11italy-meloni1/11italy-meloni1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Gianni Cipriano for The New York Times</media:credit>
-      <media:description>Giorgia Meloni, center, who would be the first woman to lead Italy, posed for a photograph with a supporter in Cagliari, Sardinia, this month.</media:description>
     </item>
   </channel>
 </rss>

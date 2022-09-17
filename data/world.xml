@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 23:47:52 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Sep 2022 23:16:27 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 02:23:20 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 02:16:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,25 +21,57 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/16/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Prime Minister Narendra Modi’s comments to the Russian president at a meeting in Uzbekistan underscored Russia’s growing isolation. In Izium, Ukrainian investigators began exhuming hundreds of bodies from a mass grave site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 23:16:27 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 02:00:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-carousel-promo-1215pm-4/16ukraine-briefing-izium-scene-topart-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Hong Kong, Mourning the Queen and the Past</title>
+      <link>https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>A memorial for Elizabeth has given residents of the former British colony a rare platform for public, if quiet, political dissent.</description>
+      <dc:creator>Zixu Wang and John Yoon</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 01:57:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16hk-queen-image01/16hk-queen-image01-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Kwan/Associated Press</media:credit>
+      <media:description>Waiting to pay tribute to Queen Elizabeth II outside the British Consulate General in Hong Kong on Friday.</media:description>
     </item>
     <item>
       <title>Iran’s Supreme Leader Cancels Public Appearances After Falling Ill</title>
       <link>https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html" rel="standout"></atom:link>
-      <description>Ayatollah Ali Khamenei is currently on bed rest under observation by a team of doctors, according to four people familiar with his health situation.</description>
+      <description>Ayatollah Ali Khamenei is on bed rest and under observation by a team of doctors, according to four people familiar with his health situation.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:33:25 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 01:18:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16iran-khameneiHFO-image/16iran-khameneiHFO-image-moth.jpg" width="151"></media:content>
       <media:credit>Khamenei.Ir, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>In a photo made available by his office in June 2022, Ayatollah Ali Khamenei is pictured at a ceremony in Tehran.</media:description>
+      <media:description>In a photo made available by his office in June, Ayatollah Ali Khamenei was pictured at a ceremony in Tehran.</media:description>
+    </item>
+    <item>
+      <title>Desperate Clients Hold Up Lebanese Banks to Get Their Own Cash</title>
+      <link>https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html" rel="standout"></atom:link>
+      <description>The holdups are becoming increasingly common, with five on Friday alone as a financial crisis and a freeze on bank withdrawals push some depositors to the brink.</description>
+      <dc:creator>Hwaida Saad and Jane Arraf</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 02:16:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
+      <media:credit>Al Jadeed/Via Reuters</media:credit>
     </item>
     <item>
       <title>What Ibrahim al-Nabulsi’s Killing Reveals About the West Bank</title>
@@ -61,20 +93,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09WestbankUprising01/09WestbankUprising01-moth.jpg" width="151"></media:content>
       <media:credit>Majdi Mohammed/Associated Press</media:credit>
       <media:description>Palestinians surrounded the body of Ibrahim al-Nabulsi, who was killed in a raid by the Israeli military, during his funeral in the West Bank town of Nablus last month.</media:description>
-    </item>
-    <item>
-      <title>Desperate Clients Hold Up Lebanese Banks to Get Their Own Cash</title>
-      <link>https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/lebanon-banks-economic-crisis.html" rel="standout"></atom:link>
-      <description>The holdups are becoming increasingly common, with five on Friday alone as a financial crisis and a freeze on bank withdrawals pushes some depositors to the brink.</description>
-      <dc:creator>Hwaida Saad and Jane Arraf</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 20:15:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
-      <media:credit>Al Jadeed/Via Reuters</media:credit>
     </item>
     <item>
       <title>Video Reveals How Russian Mercenaries Recruit Inmates for Ukraine War</title>
@@ -133,9 +151,9 @@
       <link>https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/queen-queue.html" rel="standout"></atom:link>
-      <description>Would-be mourners waiting to pay their respects — known as the Queue — will likely have to wait 24 hours, the British government said, after it reached capacity on Friday.</description>
+      <description>Would-be mourners in line to pay their respects — known as the Queue — will probably have to wait 24 hours, the British government said, after it reached capacity on Friday.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 17:08:37 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 01:23:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -249,7 +267,42 @@
       <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
     </item>
     <item>
-      <title>As India Joins China in Distancing From Russia, Putin Warns of Escalation</title>
+      <title>Woman’s Death in Iran After Arrest by the Morality Police Triggers Outrage</title>
+      <link>https://www.nytimes.com/2022/09/16/world/middleeast/iran-death-woman-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/iran-death-woman-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/iran-death-woman-protests.html" rel="standout"></atom:link>
+      <description>Masha Amini was detained for allegedly violating dress rules. Her suspicious death, publicized by social media, has led to protests and condemnations by prominent Iranians.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 01:28:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16iranwoman1/16iranwoman1-moth.jpg" width="151"></media:content>
+      <media:credit>Iran Wire</media:credit>
+      <media:description>An undated picture of Mahsa Amini, provided to Iran Wire by her family. </media:description>
+    </item>
+    <item>
+      <title>At Mass Grave Site in Ukraine’s Northeast, a Sign of Occupation’s Toll</title>
+      <link>https://www.nytimes.com/2022/09/16/world/europe/ukraine-graves-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/ukraine-graves-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/ukraine-graves-russia.html" rel="standout"></atom:link>
+      <description>Russian troops held the city of Izium, in northeastern Ukraine, for six months. One burial site found this week could hold the remains of more than 400 people, investigators said.</description>
+      <dc:creator>Andrew E. Kramer and Marc Santora</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 23:51:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16ukraine-graves-ledeall-top/16ukraine-graves-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian investigators at a large grave site in the forest by Izium, in northeastern Ukraine. Russian soldiers occupied the city for six months, before fleeing last week.</media:description>
+    </item>
+    <item>
+      <title>Putin Threatens to Escalate War as India Distances Itself From Russia</title>
       <link>https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html" rel="standout"></atom:link>
@@ -278,7 +331,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/16/world/americas/haiti-protests-fuel-price.html" rel="standout"></atom:link>
       <description>Discontent over economic misery spilled into the largest national protests in years, prompting international calls for action.</description>
       <dc:creator>Milo Milfort, Anatoly Kurmanaev and Andre Paultre</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 23:00:56 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 01:09:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
@@ -289,7 +342,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16haiti-unrest1/16haiti-unrest1-moth.jpg" width="151"></media:content>
       <media:credit>Odelyn Joseph/Associated Press</media:credit>
-      <media:description>Protesters erected burning barricades in Port-au-Prince, Haiti on Thursday, as the country was wracked by widespread protests.</media:description>
+      <media:description>Protesters erected burning barricades in Port-au-Prince, Haiti, on Thursday, as the country was racked by widespread protests.</media:description>
     </item>
     <item>
       <title>U.S. Immigration Debate Rings Hollow in Venezuela as Migrants Flee</title>
@@ -330,24 +383,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-modi-topart/16ukraine-briefing-modi-topart-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Sergey Bobylev</media:credit>
       <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia met on Friday in Samarkand, Uzbekistan, as seen in a photo provided by Russian state media.</media:description>
-    </item>
-    <item>
-      <title>In Hong Kong, Mourning the Queen and the Past</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>A memorial for Elizabeth has given residents of the former British colony a rare platform for public, if quiet, political dissent.</description>
-      <dc:creator>Zixu Wang and John Yoon</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:51:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16hk-queen-image01/16hk-queen-image01-moth.jpg" width="151"></media:content>
-      <media:credit>Anthony Kwan/Associated Press</media:credit>
-      <media:description>Waiting to pay tribute to Queen Elizabeth II outside the British Consulate General in Hong Kong on Friday.</media:description>
     </item>
     <item>
       <title>Profiting in Congress</title>
@@ -1036,23 +1071,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/15ambriefing-asia-promo/14pakistan-floods-fader-5-moth-v2.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
       <media:description>Amira, 15, center, is helped by her husband through water on the edge of the town of Johi. She had given birth just a few days before.</media:description>
-    </item>
-    <item>
-      <title>An Eastern City Under Attack Wonders How Far Ukraine’s Offensive Can Go</title>
-      <link>https://www.nytimes.com/2022/09/14/world/europe/ukraine-war-bakhmut-donbas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/world/europe/ukraine-war-bakhmut-donbas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/world/europe/ukraine-war-bakhmut-donbas.html" rel="standout"></atom:link>
-      <description>Bakhmut residents who have endured relentless shelling by the Russians watch the Ukrainian forces’ recent victories and weigh whether to stay or to flee.</description>
-      <dc:creator>Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 22:22:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/14ukraine-scene-1-promo/14ukraine-scene-1-moth.jpg" width="151"></media:content>
-      <media:credit>Tyler Hicks/The New York Times</media:credit>
-      <media:description>A tank passing through the center of Bakhmut, Ukraine, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 17:34:34 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 16:57:40 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 17:49:53 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 17:45:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -264,6 +264,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16QueenWIlliam01/merlin_206794698_e875bd63-7ef7-4b10-bbfc-9f83ef723cdc-moth.jpg" width="151"></media:content>
       <media:credit>Jane Barlow/WPA Pool/Getty Images</media:credit>
       <media:description>Prince William in Scotland in May. He has lived a life largely devoid of the controversy, and occasional scandals, that have engulfed his relatives.</media:description>
+    </item>
+    <item>
+      <title>From L.A. to Rome, Ancient Sculptures Get Hero’s Welcome</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html" rel="standout"></atom:link>
+      <description>Three statues were returned to Italy after the J. Paul Getty Museum discovered they had been looted. They will be displayed temporarily in Rome before heading to Taranto, Italy, their permanent home.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 17:45:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Getty, J Paul, Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Roman Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taranto (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ITALY-STATUES1/17ITALY-STATUES1-moth.jpg" width="151"></media:content>
+      <media:credit>Emanuele Antonio Minerva and Agnese Sbaffi/Italian Ministry of Culture</media:credit>
+      <media:description>Orpheus and the Sirens</media:description>
     </item>
     <item>
       <title>What Does Queen Elizabeth’s Death Mean for Canada?</title>
@@ -1021,22 +1042,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-briefing-russia-meeting-1/15ukraine-briefing-russia-meeting-1-moth.jpg" width="151"></media:content>
       <media:credit>Chinatopix, via Associated Press</media:credit>
       <media:description>Start of construction of the China-Russia East Route natural gas pipeline, also known as the Power of Siberia trunk pipeline, in Heihe in northeastern China’s Heilongjiang Province, in 2015.</media:description>
-    </item>
-    <item>
-      <title>The Fog of San Francisco</title>
-      <link>https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html" rel="standout"></atom:link>
-      <description>It’s a life force, with an uncertain future.</description>
-      <dc:creator>John Branch</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 10:41:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/climate/14CLI-FOG-promo2-newsletter/14CLI-FOG-promo2-moth.jpg" width="151"></media:content>
-      <media:credit>Nina Riggio for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

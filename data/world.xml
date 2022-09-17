@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 10:45:23 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 10:07:39 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 11:15:36 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 11:07:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -121,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/17/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>President Biden told the CBS News program “60 Minutes” that the U.S. response would be “consequential.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 10:07:39 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 11:07:41 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-header/17ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian investigators at a large grave site in the forest by Izium, in northeastern Ukraine, on Friday.</media:description>
@@ -262,6 +262,16 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The line along the Thames on Thursday. The estimated wait time for people joining it on Friday evening was 24 hours.</media:description>
+    </item>
+    <item>
+      <title>Baking Challah</title>
+      <link>https://www.nytimes.com/2022/09/17/briefing/baking-challah-for-fall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/briefing/baking-challah-for-fall.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/briefing/baking-challah-for-fall.html" rel="standout"></atom:link>
+      <description>Summer’s rituals are giving way to fall’s, but for the moment, you can enjoy them all.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 10:48:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
     </item>
     <item>
       <title>Woman’s Death in Iran After Arrest by the Morality Police Triggers Outrage</title>
@@ -1034,21 +1044,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11italy-meloni1/11italy-meloni1-moth-v3.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>Giorgia Meloni, center, who would be the first woman to lead Italy, posed for a photograph with a supporter in Cagliari, Sardinia, this month.</media:description>
-    </item>
-    <item>
-      <title>Woman Is Arrested in South Korea Over Deaths of 2 Children in New Zealand</title>
-      <link>https://www.nytimes.com/2022/09/15/world/asia/new-zealand-south-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/asia/new-zealand-south-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/asia/new-zealand-south-korea.html" rel="standout"></atom:link>
-      <description>The children’s bodies were found in suitcases that had been in a storage facility, said the New Zealand police, who are seeking the woman’s extradition on murder charges.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 06:58:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Auckland (New Zealand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15nz-bodies1/15nz-bodies1-moth.jpg" width="151"></media:content>
-      <media:credit>Dean Purcell/New Zealand Herald, via Associated Press</media:credit>
-      <media:description>Police investigators at the scene in Auckland, New Zealand, where two children’s bodies were discovered in suitcases last month.</media:description>
     </item>
   </channel>
 </rss>

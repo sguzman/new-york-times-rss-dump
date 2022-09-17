@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 18:12:50 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 17:57:38 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 18:42:52 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 18:40:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -105,7 +105,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/17/world/americas/central-america-democracy-biden.html" rel="standout"></atom:link>
       <description>The Biden administration’s plan to stem migration by building the rule of law in Central America has thus far failed to stop authoritarians or persuade people to stay.</description>
       <dc:creator>Anatoly Kurmanaev and Jody García</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 13:39:52 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 13:39:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
@@ -258,7 +258,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/world/00queen-meghan/00queen-meghan-moth.jpg" width="151"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>Meghan, the Duchess of Sussex, with Prince Harry, her husband, behind Prince William and Catherine, the Princess of Wales, viewing flowers on Saturday that were left for Queen Elizabeth II.</media:description>
+      <media:description>Meghan, the Duchess of Sussex, with Prince Harry, her husband, behind Prince William and Catherine, the Princess of Wales, viewing flowers last Saturday that were left for Queen Elizabeth II.</media:description>
     </item>
     <item>
       <title>‘M*A*S*H’ at 50: War Is Hell(arious)</title>
@@ -270,6 +270,7 @@
       <pubDate>Fri, 16 Sep 2022 14:59:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">M*A*S*H (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alda, Alan</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/arts/16MASH-notebook-02/16MASH-notebook-02-moth.jpg" width="151"></media:content>
       <media:credit>CBS Photo Archive/Getty Images</media:credit>
       <media:description>“M*A*S*H” shows its age in various ways, including in a subplot in which Farr’s Klinger sought discharge from the Army by dressing in women’s clothes.</media:description>
@@ -588,72 +589,92 @@
       <media:description>A cheetah and her two grown cubs in Namibia at a Cheetah Conservation Fund enclosure. The organization is a main partner in the relocation of eight cheetahs to India this weekend. </media:description>
     </item>
     <item>
-      <title>Do Food Sensitivity Tests Work?</title>
-      <link>https://www.nytimes.com/2022/09/13/well/eat/food-sensitivity-test.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/well/eat/food-sensitivity-test.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/well/eat/food-sensitivity-test.html" rel="standout"></atom:link>
-      <description>Food sensitivity tests are becoming increasingly popular. Here’s what the experts want you to know.</description>
-      <dc:creator>Alice Callahan</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 16:27:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <title>How to Prepare for Flu Season</title>
+      <link>https://www.nytimes.com/2022/09/15/well/live/flu-season.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/well/live/flu-season.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/well/live/flu-season.html" rel="standout"></atom:link>
+      <description>We may be more susceptible to the virus than we have been in recent years, but doctors have tips to stay healthy.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 18:23:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/well/11scam-food-sensitivity/11scam-food-sensitivity-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Tyler Comrie; Photograph by Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/well/15Well-NL-FluSeason/15Well-NL-FluSeason-moth.jpg" width="151"></media:content>
+      <media:credit>Guillem Casas&amp;uacute;s</media:credit>
     </item>
     <item>
-      <title>Are Smoothies Good For You? It Depends.</title>
-      <link>https://www.nytimes.com/2021/06/28/well/smoothies-good-bad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/06/28/well/smoothies-good-bad.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/06/28/well/smoothies-good-bad.html" rel="standout"></atom:link>
-      <description>“Just because there’s a leafy green in it doesn’t make it low-calorie.”</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Mon, 28 Jun 2021 12:25:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Calories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/15/well/well-smoothies/well-smoothies-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Scrivani for The New York Times</media:credit>
+      <title>How to Nurse a Vulnerability Hangover</title>
+      <link>https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html" rel="standout"></atom:link>
+      <description>That thing you shared last night? It’s probably just fine.</description>
+      <dc:creator>Holly Burns</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conversation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/well/16Well-VulnerabilityHangover/16Well-VulnerabilityHangover-moth.jpg" width="151"></media:content>
+      <media:credit>Ard Su</media:credit>
     </item>
     <item>
-      <title>Can Protein Powders Help Aging Muscles?</title>
-      <link>https://www.nytimes.com/2022/05/24/well/eat/protein-powder-muscle-loss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/05/24/well/eat/protein-powder-muscle-loss.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/05/24/well/eat/protein-powder-muscle-loss.html" rel="standout"></atom:link>
-      <description>Older adults typically need more protein than younger people. Here’s how to ensure you’re getting enough.</description>
-      <dc:creator>Anahad O’Connor</dc:creator>
-      <pubDate>Wed, 25 May 2022 16:48:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Foods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/31/well/00askwell-proteinpowders1/00askwell-proteinpowders1-moth.jpg" width="151"></media:content>
-      <media:credit>Aileen Son for The New York Times</media:credit>
+      <title>What Parents Should Know About Enterovirus: Symptoms and Risks</title>
+      <link>https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html" rel="standout"></atom:link>
+      <description>The C.D.C. has issued an alert about enterovirus D68, which has been linked to rare, polio-like paralysis.</description>
+      <dc:creator>Catherine Pearson</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 13:48:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterovirus 68</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acute Flaccid Myelitis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/WELL-ENTEROVIRUS-PARALYSIS1/WELL-ENTEROVIRUS-PARALYSIS1-moth.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>Children who experience paralysis after contracting enterovirus, like this 4-year-old boy, may need physical therapy to help rebuild strength and balance.</media:description>
     </item>
     <item>
-      <title>Is Gluten-Free Bread Healthier Than Regular Bread?</title>
-      <link>https://www.nytimes.com/2021/12/07/well/eat/is-gluten-free-bread-healthier.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2021/12/07/well/eat/is-gluten-free-bread-healthier.html</guid>
-      <atom:link href="https://www.nytimes.com/2021/12/07/well/eat/is-gluten-free-bread-healthier.html" rel="standout"></atom:link>
-      <description>Experts say there are important distinctions to keep in mind.</description>
-      <dc:creator>Alice Callahan</dc:creator>
-      <pubDate>Tue, 21 Dec 2021 13:39:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gluten</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celiac Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bread</category>
+      <title>How Family and Friends Helped Get Me Through the Pandemic</title>
+      <link>https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html" rel="standout"></atom:link>
+      <description>As Covid raged, many Americans hunkered down with family members and relied on friends — and some came away with deepened relationships. Here are a few of their stories.</description>
+      <dc:creator>Joshua Needelman</dc:creator>
+      <pubDate>Mon, 12 Sep 2022 09:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="">thankyou2022</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05Thankyou--Family-19/05Thankyou--Family-19-moth.jpg" width="151"></media:content>
+      <media:credit>Cig Harvey for The New York Times</media:credit>
+      <media:description>Rita and Jon Ellis at Lermond Pond in Maine. Mr. Ellis credits his wife for his recovery from pancreatic cancer. They are two of the many people who leaned on family and friends to help them through a difficult couple of years.</media:description>
+    </item>
+    <item>
+      <title>Are monkeypox scars permanent?</title>
+      <link>https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring</link>
+      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring</guid>
+      <atom:link href="https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring" rel="standout"></atom:link>
+      <description>The best time to care for skin lesions is in their active phase.</description>
+      <dc:creator>Knvul Sheikh</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 18:54:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/29/well/askwell-glutenfree-bread-promo/askwell-glutenfree-bread-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Aileen Son for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="">Scarring</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29monkeypox-explainer-scarring1/29monkeypox-explainer-scarring1-moth.jpg" width="151"></media:content>
+      <media:credit>Ernesto Benavides/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>R. Crumb Means Some Offense</title>

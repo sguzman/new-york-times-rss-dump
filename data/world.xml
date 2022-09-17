@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 20:55:11 +0000</lastBuildDate>
-    <pubDate>Sat, 17 Sep 2022 20:49:33 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2022 21:22:18 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2022 20:59:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -181,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/17/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Recent setbacks haven’t deterred Putin’s forces from advancing on the city of Bakhmut and claiming all of the mineral-rich Donbas region. President Biden told the CBS News program “60 Minutes” that any such action would turn Russia into “more of a pariah” than it has ever been.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 20:49:33 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 20:59:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/multimedia/17ukraine-briefing-carousel-10am-5/17ukraine-briefing-carousel-10am-5-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -505,6 +505,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/16ukraine-briefing-counteroffensive/16ukraine-briefing-counteroffensive-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian tanks and military vehicles in Balakliya, in northeastern Ukraine, after the town was liberated from Russian control.</media:description>
+    </item>
+    <item>
+      <title>Russia and Ukraine trade blows in the south.</title>
+      <link>https://www.nytimes.com/2022/09/16/world/europe/russians-and-ukrainians-bomb-each-other-in-southern-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/russians-and-ukrainians-bomb-each-other-in-southern-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/russians-and-ukrainians-bomb-each-other-in-southern-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Oleksandr Chubko</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 08:27:03 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-south-topart/16ukraine-briefing-south-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Ukrainian artillery firing from a position in the Kherson region earlier this month. </media:description>
     </item>
     <item>
       <title>What Ibrahim al-Nabulsi’s Killing Reveals About the West Bank</title>
@@ -1054,27 +1066,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15israel-marvel-image01/merlin_189413811_df04967e-9489-450e-b205-527c85c26f00-moth.jpg" width="151"></media:content>
       <media:credit>Matt Licari/Invision, Associated Press</media:credit>
       <media:description>Shira Haas in New York in 2021. She gained international recognition for her roles in the Netflix series “Unorthodox” and “Shtisel.”</media:description>
-    </item>
-    <item>
-      <title>Germany Announces Holocaust Reparations and Fund for Ukraine</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/germany-holocaust-reparations-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/germany-holocaust-reparations-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/germany-holocaust-reparations-ukraine.html" rel="standout"></atom:link>
-      <description>The country will pay $1.2 billion, including emergency aid for Holocaust survivors in Ukraine and, for the first time, remembrance education.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 17:15:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15GermanyHolocaust01/15GermanyHolocaust01-moth.jpg" width="151"></media:content>
-      <media:credit>Carsten Koall/DPA, via Associated Press</media:credit>
-      <media:description>Gideon Taylor, president of the Conference on Jewish Material Claims Against Germany, spoke on Thursday at a commemorative event 70 years after the Luxembourg Agreement in Berlin.</media:description>
     </item>
   </channel>
 </rss>

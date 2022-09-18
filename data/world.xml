@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 08:25:03 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 08:04:23 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 08:47:43 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 08:36:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Recent setbacks haven’t deterred Russian forces from advancing on the city of Bakhmut, which is critical to claiming all of the Donbas region. In the south, power was restored to the Zaporizhzhia nuclear plant.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 08:04:23 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 08:36:23 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-header/18ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian emergency services worker collecting unexploded ordnance from the side of a road near Izium on Saturday.</media:description>
@@ -89,6 +89,58 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17queen-scene1/17queen-scene1-moth.jpg" width="151"></media:content>
       <media:credit>Jeff J Mitchell/Getty Images</media:credit>
       <media:description>The line to see Queen Elizabeth II lying in state at Westminster Hall stretched for miles along the south bank of the Thames on Saturday in London.</media:description>
+    </item>
+    <item>
+      <title>Powerful Earthquake Strikes Taiwan</title>
+      <link>https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html" rel="standout"></atom:link>
+      <description>A southeastern county was shaken by a strong temblor for the second day in a row, and the authorities were working to assess damage.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 08:28:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18taiwan-earthquake-promo/18taiwan-earthquake2-moth.jpg" width="151"></media:content>
+      <media:credit>United States Geological Survey</media:credit>
+      <media:description>USGS map of 6.9-magnitude earthquake in Taiwan on September 18, 2022.</media:description>
+    </item>
+    <item>
+      <title>Nancy Pelosi Visits Armenia Amid Conflict With Azerbaijan</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html" rel="standout"></atom:link>
+      <description>The House speaker, who has previously inserted herself at the center of global conflicts, is the highest-ranking American official to visit Armenia since it gained independence 30 years ago.</description>
+      <dc:creator>Carlotta Gall</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 21:26:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryza, Matthew J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eshoo, Anna G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Speier, Jackie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17armenia-pelosi/17armenia-pelosi-moth.jpg" width="151"></media:content>
+      <media:credit>PHOTOLURE, via Associated Press</media:credit>
+      <media:description>In a photo provided by the Armenian government, Speaker Nancy Pelosi was greeted by Alen Simonyan, the president of the National Assembly, on Saturday outside Yerevan, Armenia’s capital.</media:description>
+    </item>
+    <item>
+      <title>Japan Warns ‘Violent Typhoon’ Nanmadol Could Hit on Sunday</title>
+      <link>https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html" rel="standout"></atom:link>
+      <description>The storm, called Nanmadol, was expected to carry gales and heavy rain as it crept up nearly the entire length of the country.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 07:19:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17japan-storm/17japan-storm-moth.jpg" width="151"></media:content>
+      <media:credit>Jiji Press/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Japan Meteorological Agency held a news conference on Saturday, forecasting “heavy rain, strong winds and high waves” from Nanmadol.</media:description>
     </item>
     <item>
       <title>What’s Behind the Success of the Far-Right Sweden Democrats?</title>
@@ -173,41 +225,6 @@
       <media:description>A cheetah and her two grown cubs in Namibia at a Cheetah Conservation Fund enclosure. The organization is a main partner in the relocation of eight cheetahs to India this weekend. </media:description>
     </item>
     <item>
-      <title>5 Russian Bullets Dashed an Opera Singer’s Dreams. Then He Reclaimed His Voice.</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html" rel="standout"></atom:link>
-      <description>While on a rescue mission in Ukraine, Sergiy Ivanchuk was shot in the lungs, apparently ending his chance at opera stardom. His recovery is a marvel of medicine, chance and his own spirit.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ivanchuk, Sergiy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15ukraine-opera-profile-promo/merlin_212583732_937b4954-82a3-4fe8-87ad-1267ebb5e837-moth.jpg" width="151"></media:content>
-      <media:credit>Lena Mucha for The New York Times</media:credit>
-      <media:description>Sergiy Ivanchuk, a Ukrainian opera singer, spent months in the hospital after he was shot trying to save civilians fleeing Kharkiv.</media:description>
-    </item>
-    <item>
-      <title>Japan Warns ‘Violent Typhoon’ Nanmadol Could Hit on Sunday</title>
-      <link>https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html" rel="standout"></atom:link>
-      <description>The storm, called Nanmadol, was expected to carry gales and heavy rain as it crept up nearly the entire length of the country.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 07:19:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17japan-storm/17japan-storm-moth.jpg" width="151"></media:content>
-      <media:credit>Jiji Press/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Japan Meteorological Agency held a news conference on Saturday, forecasting “heavy rain, strong winds and high waves” from Nanmadol.</media:description>
-    </item>
-    <item>
       <title>In Hong Kong, Mourning the Queen and the Past</title>
       <link>https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</guid>
@@ -256,25 +273,6 @@
       <media:credit>Al Jadeed/Via Reuters</media:credit>
     </item>
     <item>
-      <title>King Charles Faces Challenges but Is Off to a Stirring Start</title>
-      <link>https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html" rel="standout"></atom:link>
-      <description>King Charles III has had an enthusiastic public reception so far, but for this man of strong opinions, replacing the beloved queen will be a challenge.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 21:08:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16queen-charles-1/merlin_213262773_37861d5a-61a0-4f19-abfb-41828dfce75b-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Yui Mok </media:credit>
-      <media:description>King Charles III and his siblings standing vigil beside the coffin of their mother, Queen Elizabeth II, as it lies in state on the catafalque in Westminster Hall on Friday.</media:description>
-    </item>
-    <item>
       <title>Biden Warns Russia Against Using Unconventional Weapons</title>
       <link>https://www.nytimes.com/2022/09/17/world/europe/ukraine-russia-war-crimes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/ukraine-russia-war-crimes.html</guid>
@@ -309,29 +307,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-Zaporizhzhia/17ukraine-briefing-Zaporizhzhia-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Ermochenko/Reuters</media:credit>
       <media:description>A motorcade transporting experts with the International Atomic Energy Agency arrived at the Zaporizhzhia Nuclear Power Plant outside the Russian-controlled city of Enerhodar, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Nancy Pelosi Visits Armenia Amid Conflict With Azerbaijan</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html" rel="standout"></atom:link>
-      <description>The House speaker, who has previously inserted herself at the center of global conflicts, is the highest-ranking American official to visit Armenia since it gained independence 30 years ago.</description>
-      <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 21:26:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryza, Matthew J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eshoo, Anna G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Speier, Jackie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17armenia-pelosi/17armenia-pelosi-moth.jpg" width="151"></media:content>
-      <media:credit>PHOTOLURE, via Associated Press</media:credit>
-      <media:description>In a photo provided by the Armenian government, Speaker Nancy Pelosi was greeted by Alen Simonyan, the president of the National Assembly, on Saturday outside Yerevan, Armenia’s capital.</media:description>
     </item>
     <item>
       <title>Three Ancient Sculptures Will Be Returned to Italy </title>
@@ -541,6 +516,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/16ukraine-briefing-counteroffensive/16ukraine-briefing-counteroffensive-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian tanks and military vehicles in Balakliya, in northeastern Ukraine, after the town was liberated from Russian control.</media:description>
+    </item>
+    <item>
+      <title>King Charles Faces Challenges but Is Off to a Stirring Start</title>
+      <link>https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/united-kingdom-charles-king-challenges.html" rel="standout"></atom:link>
+      <description>King Charles III has had an enthusiastic public reception so far, but for this man of strong opinions, replacing the beloved queen will be a challenge.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Fri, 16 Sep 2022 21:08:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16queen-charles-1/merlin_213262773_37861d5a-61a0-4f19-abfb-41828dfce75b-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Yui Mok </media:credit>
+      <media:description>King Charles III and his siblings standing vigil beside the coffin of their mother, Queen Elizabeth II, as it lies in state on the catafalque in Westminster Hall on Friday.</media:description>
     </item>
     <item>
       <title>Russia and Ukraine trade blows in the south.</title>

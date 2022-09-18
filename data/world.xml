@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 21:56:02 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 21:50:33 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 22:22:56 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 22:16:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine has been pushing a counteroffensive in the Kherson region, but Russia had been preparing for weeks and there was no indication of a mass withdrawal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 21:39:38 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 22:16:28 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-promo1/18ukraine-briefing-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A guided missile struck overnight next to the Kramatorsk Hotel in Donetsk Province, eastern Ukraine, causing extensive damage to the hotel and surrounding buildings.</media:description>
@@ -282,6 +282,52 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>Ukraine’s Counteroffensive Forces Face Mobilized Inmates and Drones</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html" rel="standout"></atom:link>
+      <description>Ukraine has been pushing a counteroffensive in the east and south, applying greater pressure to Russian forces, but there is no indication of any mass Russian withdrawal.</description>
+      <dc:creator>Thomas Gibbons-Neff, Marc Santora and Andrew E. Kramer</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 22:13:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier in front of a hotel in Kramatorsk on Sunday. It was struck by a Russian missile overnight.</media:description>
+    </item>
+    <item>
+      <title>Biden Pays Homage to Queen Elizabeth as ‘Decent, Honorable’</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html" rel="standout"></atom:link>
+      <description>The U.S. president will be one of dozens of world leaders attending the funeral on Monday for a royal who had ruled for nearly as long as the president has lived.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 22:10:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18queen-biden1/18queen-biden1-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>President Biden signing the official condolence book for Queen Elizabeth II at Lancaster House in London on Sunday.</media:description>
     </item>
     <item>
       <title>The Singular Offense of the Mass Grave</title>
@@ -1000,34 +1046,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16ukraine-briefing-izium-graves2/16ukraine-briefing-izium-graves2-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>Crosses at a burial site in a forest on the outskirts of Izium, Ukraine, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Cultural Cringe and ‘The Lost City of Melbourne’</title>
-      <link>https://www.nytimes.com/2022/09/16/world/australia/cultural-cringe-and-the-lost-city-of-melbourne.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/australia/cultural-cringe-and-the-lost-city-of-melbourne.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/australia/cultural-cringe-and-the-lost-city-of-melbourne.html" rel="standout"></atom:link>
-      <description>A new documentary goes some way to explaining why the city looks the way it does.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:07:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lost City of Melbourne (Movie)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16oz-letter1/16oz-letter1-moth.jpg" width="151"></media:content>
-      <media:credit>Fairfax Media via Getty Images</media:credit>
-      <media:description>A view of the city square in Melbourne in 1970.</media:description>
-    </item>
-    <item>
-      <title>Your Friday Briefing</title>
-      <link>https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/briefing/xi-putin-meeting-war-royals.html" rel="standout"></atom:link>
-      <description>A meeting between Vladimir Putin and Xi Jinping.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 04:31:49 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16AM-Euro-Ukraine-Putin-Xi-promo/16AM-Euro-Ukraine-Putin-Xi-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Alexandr Demyanchuk</media:credit>
-      <media:description>Russian President Vladimir Putin, left, listens as Chinese President Xi Jinping makes remarks at their meeting Thursday.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 14:28:36 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 14:16:57 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 14:45:10 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 14:44:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -77,6 +77,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/reader-center/18democracy-illo-p1/18democracy-illo-p1-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Matt Chase</media:credit>
+      <media:description>Illustration of American Flag.</media:description>
     </item>
     <item>
       <title>Biden Warns Russia Against Using Unconventional Weapons</title>
@@ -264,14 +267,16 @@
       <description>A liberalism that is as ambitious about solving problems through invention as it is through redistribution would be powerful indeed.</description>
       <dc:creator>Ezra Klein</dc:creator>
       <pubDate>Sun, 18 Sep 2022 13:06:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Advanced Research Projects Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ARPA-H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advanced Research Projects Agency for Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wegrzyn, Renee</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/opinion/sunday/18klein-1/15tufekci-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by Frank Augugliaro; Photograph by EyeEm/Getty Images</media:credit>
     </item>
@@ -332,13 +337,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/17/opinion/liz-truss-diversity.html" rel="standout"></atom:link>
       <description>No member of Liz Truss’s cabinet is a white man. Why isn’t that considered progress?</description>
       <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 15:00:07 +0000</pubDate>
+      <pubDate>Sat, 17 Sep 2022 15:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/17paul1/17paul1-moth.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
       <media:description>Suella Braverman, Britain’s new home secretary, at 10 Downing Street.</media:description>

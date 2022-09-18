@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 14:45:10 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 14:44:09 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 15:10:17 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 15:05:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -77,9 +77,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/reader-center/18democracy-illo-p1/18democracy-illo-p1-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Matt Chase</media:credit>
-      <media:description>Illustration of American Flag.</media:description>
     </item>
     <item>
       <title>Biden Warns Russia Against Using Unconventional Weapons</title>
@@ -226,13 +223,14 @@
       <dc:creator>Dodai Stewart and Jutharat Pinyodoonyachet</dc:creator>
       <pubDate>Sun, 18 Sep 2022 05:20:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Trucks and Vendors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tacos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bushwick (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chinatown (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Trucks and Vendors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chinatown (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bushwick (Brooklyn, NY)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/us/18closingtime-print3/merlin_213060210_66a13453-c44a-419d-ac0a-6dfb748848d2-moth.jpg" width="151"></media:content>
       <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
     </item>
@@ -317,18 +315,14 @@
       <description>Why the mystical quality we call legitimacy is key for rulers.</description>
       <dc:creator>Ross Douthat</dc:creator>
       <pubDate>Sat, 17 Sep 2022 19:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
     <item>
       <title>When Diversity Isn’t the Right Kind of Diversity</title>

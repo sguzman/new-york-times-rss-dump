@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 11:15:09 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 11:05:21 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 11:37:29 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 11:21:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine has been pushing a counteroffensive in the Kherson region, but Russia had been preparing for weeks and there was no indication of a mass withdrawal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 11:05:21 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 11:16:42 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-promo1/18ukraine-briefing-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A guided missile struck overnight next to the Kramatorsk Hotel in Donetsk Province, eastern Ukraine, causing extensive damage to the hotel and surrounding buildings.</media:description>
@@ -275,6 +275,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>The View From Russia</title>
+      <link>https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html" rel="standout"></atom:link>
+      <description>Russians near Ukraine are starting to hear the sound of explosions, and their worries are growing.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 11:21:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18-the-morning-nl-ukzlede-promo/18-the-morning-nl-ukzlede-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Refugees arrive from the Kharkov Region of Ukraine to temporary camp in Belgorod, Russia on Wednesday amid Ukrainian counteroffensive in the region.</media:description>
     </item>
     <item>
       <title>How Russian Trolls Helped Keep the Women’s March Out of Lock Step</title>
@@ -1054,26 +1071,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/15SWEDEN1/15SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Jerrevång/TT News Agency, via Associated Press</media:credit>
       <media:description>“If we are going to support a government that we’re not sitting in, it’s going to cost,” Jimmie Akesson, leader of the Sweden Democrats, said before the election on Sunday.</media:description>
-    </item>
-    <item>
-      <title>A Detailed Rundown of Queen Elizabeth’s Funeral Day</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
-      <description>On Monday, dignitaries from across the globe will bid farewell to the queen at a service in Westminster Abbey.</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:02:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15queen-funeral1/15queen-funeral1-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 16:29:59 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 16:29:13 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 17:06:56 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 17:05:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -61,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine has been pushing a counteroffensive in the Kherson region, but Russia had been preparing for weeks and there was no indication of a mass withdrawal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 16:26:30 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 17:05:41 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-promo1/18ukraine-briefing-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A guided missile struck overnight next to the Kramatorsk Hotel in Donetsk Province, eastern Ukraine, causing extensive damage to the hotel and surrounding buildings.</media:description>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html" rel="standout"></atom:link>
       <description>Fighting last week, the deadliest between the two countries since 2020, was “initiated by the Azeris,” Speaker Nancy Pelosi said, while also calling for a negotiated settlement.</description>
       <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 14:09:10 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 17:01:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -238,11 +238,13 @@
       <pubDate>Sun, 18 Sep 2022 00:07:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheetahs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cheetah Conservation Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madhya Pradesh (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17india-cheetahs-01/17india-cheetahs-01-moth.jpg" width="151"></media:content>
       <media:credit>Joao Silva/The New York Times</media:credit>
       <media:description>A cheetah and her two grown cubs in Namibia at a Cheetah Conservation Fund enclosure. The organization is a main partner in the relocation of eight cheetahs to India this weekend. </media:description>
@@ -280,6 +282,21 @@
       <media:credit>Al Jadeed/Via Reuters</media:credit>
     </item>
     <item>
+      <title>Alla Pugacheva, Russian Pop Star, Comes Out Against Ukraine War </title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html" rel="standout"></atom:link>
+      <description>Alla Pugacheva, whose stardom has spanned from the Soviet era to after the Cold War, said the invasion of Ukraine had turned Russia into a “pariah.”</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 17:05:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alla Pugacheva</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18ukraine-briefing-russia-pop-star-1/18ukraine-briefing-russia-pop-star-1-moth.jpg" width="151"></media:content>
+      <media:credit>Anton Belitsky/Epsilon via Getty Images</media:credit>
+      <media:description>The Russian singer Alla Pugacheva in Moscow in 2011. The war, she wrote in a post on Instagram, was “turning our country into a pariah and worsening the lives of our citizens.”</media:description>
+    </item>
+    <item>
       <title>The View From Russia</title>
       <link>https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</guid>
@@ -303,7 +320,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html" rel="standout"></atom:link>
       <description>As American feminists came together in 2017 to protest Donald Trump, Russia’s disinformation machine set about deepening the divides among them.</description>
       <dc:creator>Ellen Barry</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 09:00:20 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 16:39:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s March Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -1026,34 +1043,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bout, Viktor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
-    </item>
-    <item>
-      <title>Your Friday Briefing: The Putin-Xi Summit</title>
-      <link>https://www.nytimes.com/2022/09/15/briefing/putin-xi-summit-ukraine-asia-federer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/briefing/putin-xi-summit-ukraine-asia-federer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/briefing/putin-xi-summit-ukraine-asia-federer.html" rel="standout"></atom:link>
-      <description>Plus Europe’s tilt to the right continues, and Roger Federer is retiring.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 21:06:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/16ambriefing-asia-promo/15ukraine-xi-putin-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Alexandr Demyanchuk/Sputnik</media:credit>
-      <media:description>President Vladimir V. Putin of Russia meeting with China’s top leader, Xi Jinping, on the sidelines of the Shanghai Cooperation Organization summit in Samarkand, Uzbekistan, on Thursday.</media:description>
     </item>
   </channel>
 </rss>

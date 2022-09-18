@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 20:10:35 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 19:55:41 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 20:41:00 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 20:27:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html" rel="standout"></atom:link>
       <description>As American feminists came together in 2017 to protest Donald Trump, Russia’s disinformation machine set about deepening the divides among them.</description>
       <dc:creator>Ellen Barry</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 18:47:28 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 20:27:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s March Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -216,12 +216,14 @@
       <pubDate>Sun, 18 Sep 2022 14:16:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/18polls-promo-chart/promo2-promo-moth.png" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
@@ -412,23 +414,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
     <item>
-      <title>The View From Russia</title>
-      <link>https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html" rel="standout"></atom:link>
-      <description>Russians near Ukraine are starting to hear the sound of explosions, and their worries are growing.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 11:21:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18-the-morning-nl-ukzlede-promo/18-the-morning-nl-ukzlede-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Refugees arrive from the Kharkiv Region of Ukraine to a temporary camp in Belgorod, Russia, on Wednesday amid the Ukrainian counteroffensive in the region.</media:description>
-    </item>
-    <item>
       <title>The Sunday Read: ‘Why Do We Love TikTok Audio Memes? Call it Brainfeel’</title>
       <link>https://www.nytimes.com/2022/09/18/podcasts/the-daily/tiktok-sounds-memes-sunday-read.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/podcasts/the-daily/tiktok-sounds-memes-sunday-read.html</guid>
@@ -442,32 +427,60 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily (Radio Program)</category>
     </item>
     <item>
-      <title>The Perseverance of Megan Thee Stallion</title>
-      <link>https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/arts/music/popcast-megan-thee-stallion.html" rel="standout"></atom:link>
-      <description>The rapper’s rise has been accompanied by outside noise. How has she grown on record, and how have extra-musical narratives shaped her career?</description>
-      <pubDate>Wed, 14 Sep 2022 18:15:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Megan Thee Stallion (Rapper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Traumazine (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/14popcast/14popcast-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Moraes/Reuters</media:credit>
+      <title>Warnings From Authors Who Track Domestic Extremism</title>
+      <link>https://www.nytimes.com/2022/09/16/us/politics/domestic-extremism-warnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/us/politics/domestic-extremism-warnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/us/politics/domestic-extremism-warnings.html" rel="standout"></atom:link>
+      <description>Luke Mogelson and Andy Campbell have followed groups like the Proud Boys for years. They are terrified at what they see as a growing threat.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 14:38:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mogelson, Luke (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Campbell, Andy B (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Storm Is Here: An American Crucible (Book)</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proud Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16onpolitics-pm-newsletter1/16onpolitics-pm-newsletter1-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Rioters breaching the Capitol on Jan. 6, 2021, including Dominic Pezzola of the Proud Boys, center, with gray beard. A new book tracks the group’s development.</media:description>
     </item>
     <item>
-      <title>Sesame Salmon Bowls for All</title>
-      <link>https://www.nytimes.com/2022/09/16/dining/sesame-salmon-bowls-for-all.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/dining/sesame-salmon-bowls-for-all.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/dining/sesame-salmon-bowls-for-all.html" rel="standout"></atom:link>
-      <description>Kay Chun’s recipe is an all-ages affair that’s adaptable to everyone’s tastes.</description>
-      <dc:creator>Emily Weinstein</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 17:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/14/dining/kc-steamed-salmon-bowls/kc-steamed-salmon-bowls-moth.jpg" width="151"></media:content>
-      <media:credit>Linda Xiao for The New York Times. Food Stylist: Monica Pierini.</media:credit>
+      <title>What Does Queen Elizabeth’s Death Mean for Canada?</title>
+      <link>https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/canada/canada-royals-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>The accession of King Charles III may inspire more discussion about the relevance of the monarchy in Canada, but materially, experts say it’s business as usual.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 14:03:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16Canada-letter-king/16Canada-letter-king-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>King Charles III accompanied the procession taking Queen Elizabeth II’s coffin to Westminster Hall.</media:description>
+    </item>
+    <item>
+      <title>After Dobbs: Does ‘Big Tent’ Feminism Exist? Should It?</title>
+      <link>https://www.nytimes.com/2022/09/14/opinion/roe-v-wade-future-of-feminism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/opinion/roe-v-wade-future-of-feminism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/opinion/roe-v-wade-future-of-feminism.html" rel="standout"></atom:link>
+      <description>Anne-Marie Slaughter and Tressie McMillan Cottom on the future of the feminist movement.</description>
+      <dc:creator>‘The Argument’</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slaughter, Anne-Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMillan Cottom, Tressie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/12/opinion/12argument-image/12argument-image-moth.jpg" width="151"></media:content>
+      <media:credit>Bettmann Archive/Getty Images</media:credit>
     </item>
     <item>
       <title>Student Loan Subsidies Could Have Dangerous, Unintended Side Effects</title>

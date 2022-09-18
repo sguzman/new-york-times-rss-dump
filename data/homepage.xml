@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 21:29:04 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 21:13:16 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 21:49:00 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 21:39:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,7 +88,11 @@
       <pubDate>Sun, 18 Sep 2022 17:05:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alla Pugacheva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pugacheva, Alla</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18ukraine-briefing-russia-pop-star-1/18ukraine-briefing-russia-pop-star-1-moth.jpg" width="151"></media:content>
       <media:credit>Anton Belitsky/Epsilon via Getty Images</media:credit>
       <media:description>The Russian singer Alla Pugacheva in Moscow in 2011. The war, she wrote in a post on Instagram, was “turning our country into a pariah and worsening the lives of our citizens.”</media:description>
@@ -262,16 +266,23 @@
       <media:description>Sconset Bluff’s adorable shingled houses continue to attract buyers, although the bluff has been eroding at a rate of three or four feet a year for the last couple of decades.</media:description>
     </item>
     <item>
-      <title>Some Kids Play Sports. These Kids Train Wild Horses.</title>
-      <link>https://www.nytimes.com/2022/09/17/us/california-horses-kids.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/us/california-horses-kids.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/us/california-horses-kids.html" rel="standout"></atom:link>
-      <description>The Devil’s Garden Colt Challenge offers a solution to California’s overpopulation of mustangs.</description>
-      <dc:creator>Maggie Shannon and Jill Cowan</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 12:36:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <title>How Yiyun Li Became a Beacon for Readers in Mourning</title>
+      <link>https://www.nytimes.com/2022/09/14/magazine/yiyun-li.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/magazine/yiyun-li.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/magazine/yiyun-li.html" rel="standout"></atom:link>
+      <description>The novelist Yiyun Li, known for her powerful distillations of personal grief, makes art from subverted expectations.</description>
+      <dc:creator>Alexandra Kleeman</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 18:00:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li, Yiyun</category>
+      <category domain=""></category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/magazine/18mag-li/18mag-li-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Naila Ruechel for The New York Times</media:credit>
+      <media:description>Yiyun Li at home in Princeton, New Jersey.</media:description>
     </item>
     <item>
       <title>What Joe Biden Knows That No One Expected Him To</title>
@@ -483,6 +494,24 @@
       <media:credit>Bettmann Archive/Getty Images</media:credit>
     </item>
     <item>
+      <title>Virginia Reverses School Protections for Transgender Students</title>
+      <link>https://www.nytimes.com/2022/09/18/us/virginia-transgender-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/us/virginia-transgender-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/us/virginia-transgender-students.html" rel="standout"></atom:link>
+      <description>The state’s Department of Education issued guidelines that would require students to file legal documents to be called by different pronouns.</description>
+      <dc:creator>Ava Sasani</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 21:28:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Northam, Ralph S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Youngkin, Glenn A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/multimedia/00virginia-transgender/00virginia-transgender-moth.jpg" width="151"></media:content>
+      <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
+      <media:description>Under Gov. Glenn Youngkin, the Virginia Department of Education overturned a set of directives that were issued last year.</media:description>
+    </item>
+    <item>
       <title>Student Loan Subsidies Could Have Dangerous, Unintended Side Effects</title>
       <link>https://www.nytimes.com/2022/09/18/business/biden-loans-for-profit-colleges.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/business/biden-loans-for-profit-colleges.html</guid>
@@ -540,24 +569,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ITALY-STATUES1/17ITALY-STATUES1-moth.jpg" width="151"></media:content>
       <media:credit>Emanuele Antonio Minerva and Agnese Sbaffi/Italian Ministry of Culture</media:credit>
       <media:description>Orpheus and the Sirens</media:description>
-    </item>
-    <item>
-      <title>What Will Apple Do With Will Smith’s ‘Emancipation’?</title>
-      <link>https://www.nytimes.com/2022/09/18/business/media/will-smith-emancipation-apple-tv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/business/media/will-smith-emancipation-apple-tv.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/business/media/will-smith-emancipation-apple-tv.html" rel="standout"></atom:link>
-      <description>The Civil War drama “Emancipation” finished filming early this year. Now, Apple faces a quandary on what to do with the movie.</description>
-      <dc:creator>Nicole Sperling</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 09:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple TV Plus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academy Awards (Oscars)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rock, Chris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Will</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/11/business/00WillSmithEmancipation-01/00WillSmithEmancipation-01-moth.jpg" width="151"></media:content>
-      <media:credit>David Paul Morris/Bloomberg</media:credit>
-      <media:description>Will Smith was barred from the Academy Awards ceremony for the next decade after slapping Chris Rock onstage at this year’s awards.</media:description>
     </item>
     <item>
       <title>How to Prepare for Flu Season</title>

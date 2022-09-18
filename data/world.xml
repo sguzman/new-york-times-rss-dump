@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 09:18:19 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Sep 2022 09:17:36 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2022 09:43:20 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Sep 2022 09:41:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Recent setbacks haven’t deterred Russian forces from advancing on the city of Bakhmut, which is critical to claiming all of the Donbas region. In the south, power was restored to the Zaporizhzhia nuclear plant.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 09:14:31 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 09:41:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-header/18ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian emergency services worker collecting unexploded ordnance from the side of a road near Izium on Saturday.</media:description>
@@ -86,13 +86,29 @@
       <media:description>President Yoon Suk-yeol of South Korea </media:description>
     </item>
     <item>
+      <title>Powerful Typhoon Thrashes Japan, With Millions Told to Evacuate</title>
+      <link>https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html" rel="standout"></atom:link>
+      <description>The storm, called Nanmadol, carried gales and heavy rain as it was expected to creep up nearly the entire length of the country.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 09:37:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17japan-storm2/17japan-storm2-moth.jpg" width="151"></media:content>
+      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A car passing a damaged tree as Nanmadol approached in Izumi on the southwestern island of Kyushu on Sunday.</media:description>
+    </item>
+    <item>
       <title>Strong Earthquake Strikes Taiwan</title>
       <link>https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html" rel="standout"></atom:link>
       <description>A southeastern county was shaken by a powerful temblor for the second day in a row, and the authorities were working to assess damage.</description>
       <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 09:08:14 +0000</pubDate>
+      <pubDate>Sun, 18 Sep 2022 09:41:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18taiwan-earthquake-promo/18taiwan-earthquake2-moth.jpg" width="151"></media:content>
@@ -164,21 +180,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17queen-scene1/17queen-scene1-moth.jpg" width="151"></media:content>
       <media:credit>Jeff J Mitchell/Getty Images</media:credit>
       <media:description>The line to see Queen Elizabeth II lying in state at Westminster Hall stretched for miles along the south bank of the Thames on Saturday in London.</media:description>
-    </item>
-    <item>
-      <title>Japan Warns ‘Violent Typhoon’ Nanmadol Could Hit on Sunday</title>
-      <link>https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html" rel="standout"></atom:link>
-      <description>The storm, called Nanmadol, carried gales and heavy rain as it crept up nearly the entire length of the country.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 09:17:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17japan-storm2/17japan-storm2-moth.jpg" width="151"></media:content>
-      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A car passing a damaged tree as Nanmadol approached in Izumi on the southwestern island of Kyushu on Sunday.</media:description>
     </item>
     <item>
       <title>What’s Behind the Success of the Far-Right Sweden Democrats?</title>
@@ -378,6 +379,21 @@
       <dc:creator>Melissa Kirsch</dc:creator>
       <pubDate>Sat, 17 Sep 2022 10:48:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+    </item>
+    <item>
+      <title>Japan Warns ‘Violent Typhoon’ Nanmadol Could Hit on Sunday</title>
+      <link>https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/asia/japan-typhoon-nanmadol.html" rel="standout"></atom:link>
+      <description>The storm, called Nanmadol, carried gales and heavy rain as it crept up nearly the entire length of the country.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 09:19:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17japan-storm2/17japan-storm2-moth.jpg" width="151"></media:content>
+      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A car passing a damaged tree as Nanmadol approached in Izumi on the southwestern island of Kyushu on Sunday.</media:description>
     </item>
     <item>
       <title>An eastern city under attack wonders how far Ukraine’s offensive can go.</title>
@@ -1058,25 +1074,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15queen-funeral1/15queen-funeral1-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday afternoon.</media:description>
-    </item>
-    <item>
-      <title>European Union Signals a Move Away from Wood Energy</title>
-      <link>https://www.nytimes.com/2022/09/15/world/europe/europe-wood-energy-deforestatation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/world/europe/europe-wood-energy-deforestatation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/world/europe/europe-wood-energy-deforestatation.html" rel="standout"></atom:link>
-      <description>Wood was supposed to help the E.U. reach its renewable energy goals. But it has contributed to increased emissions and a loss of Europe’s protected woodlands.</description>
-      <dc:creator>Sarah Hurtes</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 21:19:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wood and Wood Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/15EU-wood1/merlin_151516806_62192c78-9dee-4475-a0a3-e0d5cb129e84-moth.jpg" width="151"></media:content>
-      <media:credit>Andrea Mantovani for The New York Times</media:credit>
-      <media:description>A forest near Bialowieza, Poland, in 2019.</media:description>
     </item>
   </channel>
 </rss>

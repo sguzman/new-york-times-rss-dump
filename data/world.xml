@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 10:27:05 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 10:26:57 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 10:55:41 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 10:54:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>Britain is paying its final respects to the nation’s longest-reigning monarch with processions and services in London and Windsor.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:26:57 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 10:54:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine’s ambassador to Washington said evidence of “tortures, rapes, killings, war crimes of massive proportions” had been found.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:18:08 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 10:32:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -274,6 +274,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>Democracy Challenged</title>
+      <link>https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html" rel="standout"></atom:link>
+      <description>Representative government faces its most serious threats in decades.</description>
+      <dc:creator>Joseph Kahn</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 10:35:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
     </item>
     <item>
       <title>Europe’s Energy Crisis Forces Factories to Go Dark</title>
@@ -603,6 +617,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bland, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perez, Carmen (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mallory, Tamika (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/00russia-march-1/merlin_117020882_2750d4c3-55ad-448a-b8d9-ee495d4c3f31-moth.jpg" width="151"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
     </item>
@@ -1038,24 +1058,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16iran-khameneiHFO-image/16iran-khameneiHFO-image-moth.jpg" width="151"></media:content>
       <media:credit>Khamenei.Ir, via Agence France-Presse — Getty Images</media:credit>
       <media:description>In a photo made available by his office in June, Ayatollah Ali Khamenei was pictured at a ceremony in Tehran.</media:description>
-    </item>
-    <item>
-      <title>In Hong Kong, Mourning the Queen and the Past</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/hong-kong-queen-elizabeth.html" rel="standout"></atom:link>
-      <description>A memorial for Elizabeth has given residents of the former British colony a rare platform for public, if quiet, political dissent.</description>
-      <dc:creator>Zixu Wang and John Yoon</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:03:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16hk-queen-image01/16hk-queen-image01-moth.jpg" width="151"></media:content>
-      <media:credit>Anthony Kwan/Associated Press</media:credit>
-      <media:description>Waiting to pay tribute to Queen Elizabeth II outside the British Consulate General in Hong Kong on Friday.</media:description>
     </item>
   </channel>
 </rss>

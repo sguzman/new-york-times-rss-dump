@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 18:34:18 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 18:32:09 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 19:00:04 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 18:57:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>After a state funeral at Westminster Abbey and a procession across central London, the last public ceremony at Windsor Castle will be followed by a private interment.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:15:12 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:57:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Moscow damaged a hydroelectric station near Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:32:09 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:57:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -68,9 +68,26 @@
       <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:51:41 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:57:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>In Parks and on Post Boxes, Crowds Say Farewell to the Queen</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html" rel="standout"></atom:link>
+      <description>The death of Queen Elizabeth II brought droves of people together in central London, where mourning has distracted many from Britain’s political tumult and cost-of-living crisis.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 18:56:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-scene-top/19queen-scene-top-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>After the state funeral service for Queen Elizabeth II at Westminster Abbey in London on Monday, her coffin was taken on a gun carriage to Wellington Arch.</media:description>
     </item>
     <item>
       <title>From Coronation to Funeral: Bookends to the Life of a Queen, and a Generation</title>
@@ -241,30 +258,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18japan-storm1/18japan-storm1-moth.jpg" width="151"></media:content>
       <media:credit>Kyodo News, via Associated Press</media:credit>
       <media:description>High waves hitting the shore on Sunday in Miyazaki, in southern Japan.</media:description>
-    </item>
-    <item>
-      <title>Pelosi, in Armenia, Condemns Azerbaijan Over Clashes</title>
-      <link>https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html" rel="standout"></atom:link>
-      <description>Fighting last week, the deadliest between the two countries since 2020, was “initiated by the Azeris,” Speaker Nancy Pelosi said, while also calling for a negotiated settlement.</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 17:01:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Armenians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18armenia-pelosi/18armenia-pelosi-moth.jpg" width="151"></media:content>
-      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Speaker Nancy Pelosi, center, on Sunday at the Tsitsernakaberd Armenian Genocide Memorial Complex in Yerevan, the capital.</media:description>
     </item>
     <item>
       <title>In the eastern Donbas, a slew of contradictions.</title>
@@ -652,6 +645,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
     </item>
     <item>
+      <title>Pelosi, in Armenia, Condemns Azerbaijan Over Clashes</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html" rel="standout"></atom:link>
+      <description>Fighting last week, the deadliest between the two countries since 2020, was “initiated by the Azeris,” Speaker Nancy Pelosi said, while also calling for a negotiated settlement.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 17:01:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Armenians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18armenia-pelosi/18armenia-pelosi-moth.jpg" width="151"></media:content>
+      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Speaker Nancy Pelosi, center, on Sunday at the Tsitsernakaberd Armenian Genocide Memorial Complex in Yerevan, the capital.</media:description>
+    </item>
+    <item>
       <title>The View From Russia</title>
       <link>https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</guid>
@@ -978,29 +995,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17UkraineDonbas01a/17UkraineDonbas01a-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>A road outside Chasiv Yar with mountains of slag visible on the horizon.</media:description>
-    </item>
-    <item>
-      <title>After 75 Years, Cheetahs Return to India in a Grand Experiment</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/cheetah-relocation-india.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/cheetah-relocation-india.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/cheetah-relocation-india.html" rel="standout"></atom:link>
-      <description>Scientists aim to determine whether a predator population can be restored in a place where it was hunted into extinction.</description>
-      <dc:creator>Emily Schmall and Hari Kumar</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 00:07:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheetahs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cheetah Conservation Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madhya Pradesh (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kuno National Park (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17india-cheetahs-01/17india-cheetahs-01-moth.jpg" width="151"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>A cheetah and her two grown cubs in Namibia at a Cheetah Conservation Fund enclosure. The organization is a main partner in the relocation of eight cheetahs to India this weekend. </media:description>
     </item>
   </channel>
 </rss>

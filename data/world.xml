@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 04:43:56 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 04:35:15 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 06:04:45 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 06:00:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine has been pushing a counteroffensive in the Kherson region, but Russia had been preparing for weeks and there was no indication of a mass withdrawal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 22:16:28 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 05:04:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-promo1/18ukraine-briefing-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A guided missile struck overnight next to the Kramatorsk Hotel in Donetsk Province, eastern Ukraine, causing extensive damage to the hotel and surrounding buildings.</media:description>
@@ -282,6 +282,58 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>How to Watch Queen Elizabeth II’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html" rel="standout"></atom:link>
+      <description>The New York Times will feature a livestream of the main events.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 05:33:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-how-to-watch1/19queen-elizabeth-how-to-watch1-moth.jpg" width="151"></media:content>
+      <media:credit>Yoan Valat/EPA, via Shutterstock</media:credit>
+      <media:description>Watching a broadcast of the procession of the coffin containing the body of Queen Elizabeth II as it arrived from Buckingham Palace at Westminster Hall in London on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>The guest list for the queen’s funeral will include presidents and an emperor.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html" rel="standout"></atom:link>
+      <description>President Biden will be among the 2,000 mourners at the funeral for Queen Elizabeth II at Westminster Abbey.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 06:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albanese, Anthony (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masako, Empress of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattarella, Sergio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naruhito, Emperor of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/13/world/19queen-elizabeth-guest-1/13biden-overseas-photo-carousel-queen12-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>President Biden and Queen Elizabeth II last year at Windsor Castle.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html" rel="standout"></atom:link>
+      <description>Pressure on Russian forces in southern Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 04:49:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/19ambriefing-europe-nl-promo-sept/19ambriefing-europe-nl-promo-sept-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Ukrainian forces moving near the Kherson front this month. Officials claim they are making slow, hard-fought but steady gains.</media:description>
     </item>
     <item>
       <title>Queen Elizabeth: A Visual Dictionary</title>
@@ -1018,37 +1070,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-    </item>
-    <item>
-      <title>Ukrainian prosecutors work to document evidence of war crimes in Kharkiv.</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/ukrainian-prosecutors-work-to-document-evidence-of-war-crimes-in-kharkiv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/ukrainian-prosecutors-work-to-document-evidence-of-war-crimes-in-kharkiv.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/ukrainian-prosecutors-work-to-document-evidence-of-war-crimes-in-kharkiv.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 12:45:28 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16ukraine-briefing-izium-graves/merlin_213218775_0af4a95d-f2c7-4adb-8e6d-0c7927f41bce-moth.jpg" width="151"></media:content>
-      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
-      <media:description>Securing the area with the unidentified graves of civilians and Ukrainian soldiers in Izium on Thursday.</media:description>
-    </item>
-    <item>
-      <title>‘At the Breaking Point’: Tibetans, Under Lockdown, Make Rare Cries for Help</title>
-      <link>https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/asia/tibet-covid-lockdown.html" rel="standout"></atom:link>
-      <description>China’s ever-tightening Covid rules have prompted public complaints from residents of areas usually intimidated into keeping quiet.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 12:56:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lhasa (Tibet)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16china-covid1/merlin_213236262_630fe89e-b330-4ac8-968b-c5cfb47f88f6-moth.jpg" width="151"></media:content>
-      <media:credit>Visual China Group, via Getty Images</media:credit>
-      <media:description>A socially distanced line, background, of people waiting for Covid tests in Lhasa, the capital of Tibet.</media:description>
     </item>
   </channel>
 </rss>

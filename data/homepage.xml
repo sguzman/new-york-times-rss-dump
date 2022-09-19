@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 21:10:59 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 21:09:38 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 21:39:04 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 21:37:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 21:03:39 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:36:10 +0000</pubDate>
     </item>
     <item>
       <title>Fiona hits the Dominican Republic, setting off damaging mudslides.</title>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html" rel="standout"></atom:link>
       <description>Photos and video show the extent of the damage, including in Puerto Rico, the Dominican Republic and Guadeloupe.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 19:30:55 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:25:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -73,6 +73,42 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/climate/19cli-puertoricovulnerable2/19cli-puertoricovulnerable2-moth.jpg" width="151"></media:content>
       <media:credit>Ricardo Arduengo/Reuters</media:credit>
       <media:description>Darkness in Guayanilla, Puerto Rico, after Hurricane Fiona made landfall on Sunday. More than a million people were still without power on Monday.</media:description>
+    </item>
+    <item>
+      <title>Thousands Pay Tribute as Britain Says Final Farewell to Queen Elizabeth</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
+      <description>More than 100 world leaders, including President Biden, attended the funeral for Queen Elizabeth II, and Britons lined the streets for a procession that took her to her final resting place at Windsor Castle.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 21:37:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-lede-video-new/19queen-lede-video-new-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>From Coronation to Funeral: Bookends to the Life of a Queen, and a Generation</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html" rel="standout"></atom:link>
+      <description>For 70 years, Elizabeth II was the anchor of a nation’s identity. Charles III now will take on, or recast, that role.</description>
+      <dc:creator>Alan Cowell</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 19:03:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-swap/19queen-swap-moth.jpg" width="151"></media:content>
+      <media:credit>PA Images, via Getty Images; Pool photo by Frank Augstein</media:credit>
+      <media:description>Queen Elizabeth’s coronation in 1953, and her funeral on Monday.</media:description>
     </item>
     <item>
       <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
@@ -117,13 +153,13 @@
       <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
     </item>
     <item>
-      <title>Judge Overturns Murder Conviction of Adnan Syed of ‘Serial’</title>
+      <title>Judge Vacates Murder Conviction of Adnan Syed of ‘Serial’</title>
       <link>https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html" rel="standout"></atom:link>
       <description>Mr. Syed, 41, had been serving a life sentence for the 1999 murder of his high school classmate Hae Min Lee. The judge gave prosecutors 30 days to ask for a new trial or drop the case.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 20:59:06 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:36:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
@@ -146,7 +182,7 @@
       <atom:link href="https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html" rel="standout"></atom:link>
       <description>The defendant, who was the subject of the 2014 podcast “Serial,” had been serving a life sentence for the 1999 murder of his high school classmate Hae Min Lee.</description>
       <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 20:51:47 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:24:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supreme Courts (State)</category>
@@ -157,9 +193,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosby, Marilyn J (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Serial (Radio Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16xp-syed-timeline/16xp-syed-timeline-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Carlos Barria/Reuters</media:credit>
-      <media:description>Adnan Syed arriving at the Baltimore City Circuit Courthouse in 2016.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/multimedia/16xp-serial1/16xp-serial1-moth.jpg" width="151"></media:content>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <media:description>Adnan Syed walks out of the Baltimore City Circuit court after a judge overturned his conviction after 23 years.</media:description>
+    </item>
+    <item>
+      <title>Law Enforcement Funding Package Splits Democrats Ahead of Midterm Elections</title>
+      <link>https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html" rel="standout"></atom:link>
+      <description>A measure to provide more money for local police departments has become mired in a long-running debate among Democrats about the politics of crime, as Republicans step up attacks.</description>
+      <dc:creator>Annie Karni and Stephanie Lai</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 21:05:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-policefunding_2/19dc-policefunding_2-moth.jpg" width="151"></media:content>
+      <media:credit>David Dee Delgado/Reuters</media:credit>
+      <media:description>Police officers confronting demonstrators in Grand Rapids, Mich., in April. Legislation to increase funding for local police departments has stalled on Capitol Hill.</media:description>
     </item>
     <item>
       <title>Where 6 Investigations Into Donald Trump Stand</title>
@@ -188,25 +243,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18dc-trump-01/18dc-trump-01-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>Never before has a former president faced an array of federal, state and congressional investigations as extensive as Donald J. Trump has.</media:description>
-    </item>
-    <item>
-      <title>Trial of Trump Adviser Tom Barrack Could Shed Light on Foreign Agents</title>
-      <link>https://www.nytimes.com/2022/09/19/nyregion/trump-adviser-tom-barrack-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/nyregion/trump-adviser-tom-barrack-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/nyregion/trump-adviser-tom-barrack-trial.html" rel="standout"></atom:link>
-      <description>Thomas Barrack, a Los Angeles private equity executive, is accused of working secretly for the United Arab Emirates.</description>
-      <dc:creator>Rebecca Davis O’Brien</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 21:09:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Colony Capital LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrack, Thomas J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/nyregion/19Barrack01/19Barrack01-moth.jpg" width="151"></media:content>
-      <media:credit>Jefferson Siegel for The New York Times</media:credit>
-      <media:description>Prosecutors say Thomas Barrack pushed the U.A.E.’s foreign policy wish list onto the Trump administration.</media:description>
     </item>
     <item>
       <title>After Texas Sent Him to Washington, One Migrant Launches a New Life</title>
@@ -549,7 +585,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/nyregion/frank-carone-eric-adams.html" rel="standout"></atom:link>
       <description>Frank Carone, a Brooklyn power broker who has drawn scrutiny for his past business dealings, says he will lead the mayor’s re-election campaign.</description>
       <dc:creator>Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 21:06:33 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:31:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carone, Frank (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -566,7 +602,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
       <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:27:39 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 21:24:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>

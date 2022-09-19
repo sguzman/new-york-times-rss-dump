@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 19:13:07 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 19:04:14 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 19:31:30 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 19:30:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:22:35 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 19:14:49 +0000</pubDate>
     </item>
     <item>
       <title>Fiona hits the Dominican Republic, setting off damaging mudslides.</title>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html" rel="standout"></atom:link>
       <description>Photos and video show the extent of the damage, including in Puerto Rico, the Dominican Republic and Guadeloupe.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:22:35 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 19:30:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -336,20 +336,25 @@
       <media:description>Volunteers and migrants in Edgartown, Mass.</media:description>
     </item>
     <item>
-      <title>At Summer’s End, a Moment of Wild Surprise</title>
-      <link>https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html" rel="standout"></atom:link>
-      <description>As equinox nears, the lovely cycle life is happening just behind the place in my garden where the goldenrod and the asters look so beautiful together.</description>
-      <dc:creator>Margaret Renkl</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/19renkl-1/19renkl-1-moth.jpg" width="151"></media:content>
-      <media:credit>Amanda Greene</media:credit>
+      <title>Don’t Let Republicans Off the Hook on Same-Sex Marriage</title>
+      <link>https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html" rel="standout"></atom:link>
+      <description>Democrats are letting the G.O.P. off easily by postponing a vote until after the midterms.</description>
+      <dc:creator>Pamela Paul</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 18:48:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/19paulNew/19paulNew-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Reynolds/EPA, via Shutterstock</media:credit>
     </item>
     <item>
       <title>What I Saw as the Country’s First National Climate Adviser</title>
@@ -416,6 +421,22 @@
       <media:credit>Illustration by Frank Augugliaro; Photograph by EyeEm/Getty Images</media:credit>
     </item>
     <item>
+      <title>At Summer’s End, a Moment of Wild Surprise</title>
+      <link>https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html" rel="standout"></atom:link>
+      <description>As equinox nears, the lovely cycle life is happening just behind the place in my garden where the goldenrod and the asters look so beautiful together.</description>
+      <dc:creator>Margaret Renkl</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 17:17:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/19renkl-1/19renkl-1-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Greene</media:credit>
+    </item>
+    <item>
       <title>Math Is the Great Secret</title>
       <link>https://www.nytimes.com/2022/09/18/opinion/math-adolescence-mystery.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/opinion/math-adolescence-mystery.html</guid>
@@ -442,29 +463,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18blow1/18blow1-moth.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Burnout, Productivity and Other Tales of the Office</title>
-      <link>https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html" rel="standout"></atom:link>
-      <description>Readers discuss new aspects of the workplace during the pandemic. Also: A political balance; Vladimir Putin and Mikhail Gorbachev; student newspapers.</description>
-      <pubDate>Mon, 19 Sep 2022 16:29:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
     </item>
     <item>
       <title>Democracy Challenged</title>
@@ -558,6 +556,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/multimedia/15pol-inflation1/15pol-inflation1-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Ernst/Reuters</media:credit>
       <media:description>Senators Lindsey Graham, Bill Cassidy, John Barrasso and John Thune at an August news conference opposing Democrats’ energy and drug pricing bill. </media:description>
+    </item>
+    <item>
+      <title>Adnan Syed’s Legal Journey: a Timeline</title>
+      <link>https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html</guid>
+      <atom:link href="https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html" rel="standout"></atom:link>
+      <description>The defendant, who was the subject of the 2014 podcast “Serial,” is serving life in prison, maintains that he is innocent and has fought to be released.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 18:59:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supreme Courts (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Hae Min (1980-99)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosby, Marilyn J (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Serial (Radio Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16xp-syed-timeline/16xp-syed-timeline-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Carlos Barria/Reuters</media:credit>
+      <media:description>Adnan Syed arriving at the Baltimore City Circuit Courthouse in 2016.</media:description>
     </item>
     <item>
       <title>Is Choosing Medically Assisted Death Too Easy in Canada?</title>

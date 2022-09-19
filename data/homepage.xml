@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 15:42:05 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 15:41:30 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 16:16:57 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 16:15:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:40:50 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:15:35 +0000</pubDate>
     </item>
     <item>
       <title>Fiona passes over the Dominican Republic, with the eastern portions getting heavy rain.</title>
@@ -42,7 +42,8 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-maria-anniversary-puerto-rico.html" rel="standout"></atom:link>
       <description>Hurricane Maria landed in Puerto Rico as a Category 4 storm on Sept. 20, 2017.</description>
       <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:04:15 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:04:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
@@ -235,42 +236,57 @@
       <media:description>For the first time in six years, New York City officials expect that business tax revenue will fall.</media:description>
     </item>
     <item>
-      <title>Railroads’ Strategy Thrilled Wall Street, but Not Customers and Workers</title>
-      <link>https://www.nytimes.com/2022/09/19/business/freight-rail.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/business/freight-rail.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/business/freight-rail.html" rel="standout"></atom:link>
-      <description>Freight railways pushed to streamline their operations and improve their profit margins. Critics say the approach left the system stretched thin.</description>
-      <dc:creator>Niraj Chokshi and Peter Eavis</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:25:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/business/00freight-rail-1/00freight-rail-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Welsh for The New York Times</media:credit>
-      <media:description>The freight rail industry reinvented itself through decades of consolidation and a quest for efficiency.</media:description>
+      <title>A Rural Doctor Gave Her All. Then Her Heart Broke.</title>
+      <link>https://www.nytimes.com/2022/09/19/health/doctor-burnout-west-virginia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/health/doctor-burnout-west-virginia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/health/doctor-burnout-west-virginia.html" rel="standout"></atom:link>
+      <description>Physicians suffer one of the highest burnout rates among professionals. Dr. Kimberly Becher, one of two family practitioners in Clay County, West Virginia, learned the hard way.</description>
+      <dc:creator>Oliver Whang and Maddie McGarvey</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:46:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dr. Kimberly Becher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <category domain="">Burnout</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Community Care of West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
     </item>
     <item>
-      <title>Life Is Hazardous for Urban Raptors. These Women Offer Hope.</title>
-      <link>https://www.nytimes.com/2022/09/19/travel/raptor-rehabilitation-owl-moon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/travel/raptor-rehabilitation-owl-moon.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/travel/raptor-rehabilitation-owl-moon.html" rel="standout"></atom:link>
-      <description>Injured birds of prey have a fighting chance to recover thanks to the volunteers at Owl Moon Raptor Center in Boyds, Md.</description>
-      <dc:creator>Jules Jacobs</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ospreys (Birds)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hawks (Birds)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Owls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <title>Jennifer Bonjean, the Lawyer Who Defended R. Kelly and Bill Cosby</title>
+      <link>https://www.nytimes.com/2022/09/19/arts/music/jennifer-bonjean-r-kelly-bill-cosby.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/arts/music/jennifer-bonjean-r-kelly-bill-cosby.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/arts/music/jennifer-bonjean-r-kelly-bill-cosby.html" rel="standout"></atom:link>
+      <description>Jennifer Bonjean has become known for her aggressive approach as she has defended men accused of sexual misconduct in several of the highest profile cases of the #MeToo era.</description>
+      <dc:creator>Lauren Herstik and Julia Jacobs</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 14:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jennifer Bonjean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bernard, Lili (Actor)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cosby, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhythm and Blues (Music)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raniere, Keith</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/arts/18bonjean1/18bonjean1-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Keith for The New York Times</media:credit>
+      <media:description>Jennifer Bonjean outside Brooklyn federal court in June, where R. Kelly was being sentenced after being convicted of racketeering and sex trafficking. </media:description>
     </item>
     <item>
       <title>You Cannot Be Too Cynical About Trump (or His Imitators)</title>
@@ -337,13 +353,13 @@
       <media:description>Gina McCarthy at the Natural Resources Defense Council in 2020.</media:description>
     </item>
     <item>
-      <title>A More Inclusive Global Order Is Possible</title>
+      <title>Our Predecessors Built a World of Winners and Losers. It’s Time for Something Different</title>
       <link>https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html" rel="standout"></atom:link>
       <description>As the world transitions to recovery from the pandemic, the inequities are only widening, both between and within countries.</description>
       <dc:creator>Darren Walker</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:17 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:44:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>

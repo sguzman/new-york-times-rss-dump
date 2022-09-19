@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 16:16:57 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 16:15:35 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 17:02:12 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 17:01:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,16 +21,16 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:15:35 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:57:21 +0000</pubDate>
     </item>
     <item>
-      <title>Fiona passes over the Dominican Republic, with the eastern portions getting heavy rain.</title>
+      <title>Fiona hits the Dominican Republic, setting off damaging mudslides.</title>
       <link>https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:41:30 +0000</pubDate>
+      <dc:creator>Hogla Enecia Pérez, Anatoly Kurmanaev and Daniel Victor</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 16:28:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-dominican-republic/19fiona-dominican-republic-moth.jpg" width="151"></media:content>
       <media:credit>Erika Santelices/Agence France-Presse — Getty Images</media:credit>
       <media:description>Strong winds hitting the beach in Nagua, Dominican Republic, on Monday morning.</media:description>
@@ -42,13 +42,9 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-maria-anniversary-puerto-rico.html" rel="standout"></atom:link>
       <description>Hurricane Maria landed in Puerto Rico as a Category 4 storm on Sept. 20, 2017.</description>
       <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:04:16 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:19:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rossello, Ricardo A (1979- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-maria-history1/19fiona-maria-history1-moth.jpg" width="151"></media:content>
@@ -62,7 +58,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
       <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
       <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:03:53 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:33:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
@@ -95,6 +91,7 @@
       <dc:creator>Liz Alderman</dc:creator>
       <pubDate>Mon, 19 Sep 2022 09:00:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
@@ -104,7 +101,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/19eu-manufacturing-1/19eu-manufacturing-1-moth.jpg" width="151"></media:content>
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
       <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
@@ -187,11 +183,15 @@
       <dc:creator>Miriam Jordan</dc:creator>
       <pubDate>Mon, 19 Sep 2022 00:36:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/19one-migrant7/19one-migrant7-moth.jpg" width="151"></media:content>
       <media:credit>Oliver Contreras for The New York Times</media:credit>
       <media:description>Lever Alejos, 29, is one of a record number of Venezuelans crossing the southern border into the United States, seeking asylum and hoping to build permanent lives in America.</media:description>
@@ -222,7 +222,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/nyregion/budget-crisis-economy-nyc.html" rel="standout"></atom:link>
       <description>A persistent pandemic-driven downturn has caused revenue from business and personal-income taxes to fall in New York City, while tourism and job losses have yet to recover.</description>
       <dc:creator>Dana Rubinstein</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:37:31 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:01:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -243,12 +243,11 @@
       <description>Physicians suffer one of the highest burnout rates among professionals. Dr. Kimberly Becher, one of two family practitioners in Clay County, West Virginia, learned the hard way.</description>
       <dc:creator>Oliver Whang and Maddie McGarvey</dc:creator>
       <pubDate>Mon, 19 Sep 2022 15:46:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dr. Kimberly Becher</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
-      <category domain="">Burnout</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
@@ -258,6 +257,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Community Care of West Virginia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="">Burnout</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
     </item>
@@ -269,9 +270,9 @@
       <description>Jennifer Bonjean has become known for her aggressive approach as she has defended men accused of sexual misconduct in several of the highest profile cases of the #MeToo era.</description>
       <dc:creator>Lauren Herstik and Julia Jacobs</dc:creator>
       <pubDate>Mon, 19 Sep 2022 14:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonjean, Jennifer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jennifer Bonjean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
@@ -295,7 +296,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/trump-desantis-graham-federer.html" rel="standout"></atom:link>
       <description>The former president has company in the nether regions.</description>
       <dc:creator>Gail Collins and Bret Stephens</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:17 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:52:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -307,7 +308,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19conversation_1/19conversation_1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/19conversation_1/19conversation_1-moth.jpg" width="151"></media:content>
       <media:credit>Matt Cosby for The New York Times</media:credit>
       <media:description>Volunteers and migrants in Edgartown, Mass.</media:description>
     </item>
@@ -334,7 +335,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/environment/biden-gina-mccarthy-climate.html" rel="standout"></atom:link>
       <description>The private sector now sees climate as an opportunity for job creation and economic revitalization.</description>
       <dc:creator>Gina McCarthy</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:27:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
@@ -420,19 +421,27 @@
       <media:credit>Doug Mills/The New York Times</media:credit>
     </item>
     <item>
-      <title>Our Memory Is Flawed. Luckily, God’s Isn’t.</title>
-      <link>https://www.nytimes.com/2022/09/18/opinion/alzheimers-dementia-parents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/opinion/alzheimers-dementia-parents.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/opinion/alzheimers-dementia-parents.html" rel="standout"></atom:link>
-      <description>What a parent’s dementia reveals about God and humanity.</description>
-      <dc:creator>Tish Harrison Warren</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 18:23:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18warren-image/18warren-image-moth.jpg" width="151"></media:content>
-      <media:credit>Matija Medved</media:credit>
+      <title>Burnout, Productivity and Other Tales of the Office</title>
+      <link>https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/letters/work-office-home.html" rel="standout"></atom:link>
+      <description>Readers discuss new aspects of the workplace during the pandemic. Also: A political balance; Vladimir Putin and Mikhail Gorbachev; student newspapers.</description>
+      <pubDate>Mon, 19 Sep 2022 16:29:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
     </item>
     <item>
       <title>Democracy Challenged</title>
@@ -528,144 +537,126 @@
       <media:description>Senators Lindsey Graham, Bill Cassidy, John Barrasso and John Thune at an August news conference opposing Democrats’ energy and drug pricing bill. </media:description>
     </item>
     <item>
-      <title>U.S. Hostage Exchanged for Afghan Drug Lord in Prisoner Swap</title>
-      <link>https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
-      <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
-      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:56:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noorzai, Haji Bashir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Muhammad (Taliban Leader)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zawahri, Ayman Al-</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19Afghan-Prisoner-image/19Afghan-Prisoner-image-moth.jpg" width="151"></media:content>
-      <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
-      <media:description>Bashir Noorzai, who was convicted of drug trafficking in the United States in 2008, attends his release ceremony at the Intercontinental Hotel in Kabul on Monday.</media:description>
+      <title>Is Choosing Medically Assisted Death Too Easy in Canada?</title>
+      <link>https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html" rel="standout"></atom:link>
+      <description>Since the government expanded the eligibility for assisted death last year to include those with disabilities, critics have been saying there should be more checks and balances.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 18:54:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
     </item>
     <item>
-      <title>How Russian Trolls Helped Keep the Women’s March Out of Lock Step</title>
-      <link>https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html" rel="standout"></atom:link>
-      <description>As American feminists came together in 2017 to protest Donald Trump, Russia’s disinformation machine set about deepening the divides among them.</description>
-      <dc:creator>Ellen Barry</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 20:27:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s March Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internet Research Agency (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarsour, Linda (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bland, Bob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perez, Carmen (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mallory, Tamika (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/00russia-march-1/merlin_117020882_2750d4c3-55ad-448a-b8d9-ee495d4c3f31-moth.jpg" width="151"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <title>Mexico Has Tequila. Peru, Pisco. In Colombia, a Push for Viche, Now Legal.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
+      <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
+      <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 14:09:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marquez, Francia</category>
+      <category domain="">viche</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
     </item>
     <item>
-      <title>How to Prepare for Flu Season</title>
-      <link>https://www.nytimes.com/2022/09/15/well/live/flu-season.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/well/live/flu-season.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/well/live/flu-season.html" rel="standout"></atom:link>
-      <description>We may be more susceptible to the virus than we have been in recent years, but doctors have tips to stay healthy.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 18:23:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/well/15Well-NL-FluSeason/15Well-NL-FluSeason-moth.jpg" width="151"></media:content>
-      <media:credit>Guillem Casas&amp;uacute;s</media:credit>
-    </item>
-    <item>
-      <title>How to Nurse a Vulnerability Hangover</title>
-      <link>https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/well/mind/vulnerability-hangover-shame-spiral.html" rel="standout"></atom:link>
-      <description>That thing you shared last night? It’s probably just fine.</description>
-      <dc:creator>Holly Burns</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conversation</category>
+      <title>What is E.M.D.R.? Understanding the Trauma Therapy Practice</title>
+      <link>https://www.nytimes.com/2022/09/19/well/emdr-therapy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/well/emdr-therapy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/well/emdr-therapy.html" rel="standout"></atom:link>
+      <description>The once-experimental trauma treatment has become increasingly popular. Here’s how the therapy works.</description>
+      <dc:creator>Dani Blum</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:00:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Body Keeps the Score: Brain, Mind and Body in the Healing of Trauma (Book)</category>
+    </item>
+    <item>
+      <title>How to Ease and Avoid Seasonal Affective Disorder</title>
+      <link>https://www.nytimes.com/2021/09/30/well/mind/seasonal-affective-disorder-help.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/09/30/well/mind/seasonal-affective-disorder-help.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/09/30/well/mind/seasonal-affective-disorder-help.html" rel="standout"></atom:link>
+      <description>As the days get shorter and the nights start earlier, take these steps to help prevent seasonal affective disorder.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 30 Sep 2021 19:40:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/well/16Well-VulnerabilityHangover/16Well-VulnerabilityHangover-moth.jpg" width="151"></media:content>
-      <media:credit>Ard Su</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasonal Affective Disorder (SAD)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/29/well/29WELL-SAD/29WELL-SAD-moth.jpg" width="151"></media:content>
+      <media:credit>Sergiy Maidukov</media:credit>
     </item>
     <item>
-      <title>What Parents Should Know About Enterovirus: Symptoms and Risks</title>
-      <link>https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/well/family/enterovirus-d68-symptoms.html" rel="standout"></atom:link>
-      <description>The C.D.C. has issued an alert about enterovirus D68, which has been linked to rare, polio-like paralysis.</description>
-      <dc:creator>Catherine Pearson</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 13:48:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterovirus 68</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acute Flaccid Myelitis</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/WELL-ENTEROVIRUS-PARALYSIS1/WELL-ENTEROVIRUS-PARALYSIS1-moth.jpg" width="151"></media:content>
-      <media:credit>Kayana Szymczak for The New York Times</media:credit>
-      <media:description>Children who experience paralysis after contracting enterovirus, like this 4-year-old boy, may need physical therapy to help rebuild strength and balance.</media:description>
+      <title>Vitamin B6 Health Benefits: Can It Reduce Depression Symptoms?</title>
+      <link>https://www.nytimes.com/2022/08/02/well/mind/vitamin-b6-benefits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/02/well/mind/vitamin-b6-benefits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/02/well/mind/vitamin-b6-benefits.html" rel="standout"></atom:link>
+      <description>Here’s what we know about this essential vitamin’s effects on well-being.</description>
+      <dc:creator>Hannah Seo</dc:creator>
+      <pubDate>Tue, 02 Aug 2022 19:16:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vitamins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/09/well/28ASKWELL-B6-MENTAL-HEALTH1/28ASKWELL-B6-MENTAL-HEALTH1-moth.jpg" width="151"></media:content>
+      <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
-      <title>How Family and Friends Helped Get Me Through the Pandemic</title>
-      <link>https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/12/us/pandemic-covid-friends-family.html" rel="standout"></atom:link>
-      <description>As Covid raged, many Americans hunkered down with family members and relied on friends — and some came away with deepened relationships. Here are a few of their stories.</description>
-      <dc:creator>Joshua Needelman</dc:creator>
-      <pubDate>Mon, 12 Sep 2022 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
+      <title>When to Take a Mental Health Day</title>
+      <link>https://www.nytimes.com/2021/07/29/well/mind/mental-health-day.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/29/well/mind/mental-health-day.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/29/well/mind/mental-health-day.html" rel="standout"></atom:link>
+      <description>Here’s how to protect your mental health in a culture that values work over well-being.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 29 Jul 2021 21:09:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paid Time Off</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/well/29WELL-SAD-DAY/29WELL-SAD-DAY-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
+    </item>
+    <item>
+      <title>I Gave Birth, but My Husband Developed Postpartum Depression</title>
+      <link>https://www.nytimes.com/2021/07/19/well/mind/men-postpartum-depression.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/19/well/mind/men-postpartum-depression.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/19/well/mind/men-postpartum-depression.html" rel="standout"></atom:link>
+      <description>Many men struggle with mental health after becoming fathers. But stigma and societal norms keep them from getting help.</description>
+      <dc:creator>Kim Hooper</dc:creator>
+      <pubDate>Mon, 19 Jul 2021 18:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="">thankyou2022</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05Thankyou--Family-19/05Thankyou--Family-19-moth.jpg" width="151"></media:content>
-      <media:credit>Cig Harvey for The New York Times</media:credit>
-      <media:description>Rita and Jon Ellis at Lermond Pond in Maine. Mr. Ellis credits his wife for his recovery from pancreatic cancer. They are two of the many people who leaned on family and friends to help them through a difficult couple of years.</media:description>
-    </item>
-    <item>
-      <title>Are monkeypox scars permanent?</title>
-      <link>https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring</link>
-      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring</guid>
-      <atom:link href="https://www.nytimes.com/explain/2022/monkeypox-explainer/scarring" rel="standout"></atom:link>
-      <description>The best time to care for skin lesions is in their active phase.</description>
-      <dc:creator>Knvul Sheikh</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 18:54:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="">Scarring</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29monkeypox-explainer-scarring1/29monkeypox-explainer-scarring1-moth.jpg" width="151"></media:content>
-      <media:credit>Ernesto Benavides/Agence France-Presse — Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/25/fashion/16WELL-MALE-PPD/16WELL-MALE-PPD-moth.jpg" width="151"></media:content>
+      <media:credit>Keith Negley</media:credit>
     </item>
     <item>
       <title>Bharti Kher’s Multi-Headed Goddess Statue Arrives at Central Park</title>

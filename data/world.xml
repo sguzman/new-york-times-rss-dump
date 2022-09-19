@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 10:55:41 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 10:54:49 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 11:20:45 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 11:20:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Updates: Queen Elizabeth II’s Funeral Begins</title>
+      <title>Updates: Queen Elizabeth II’s Funeral Is Held at Westminster Abbey</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>Britain is paying its final respects to the nation’s longest-reigning monarch with processions and services in London and Windsor.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:54:49 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 11:20:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -47,13 +47,13 @@
       <media:description>Moy Road in Aberfan, the site of a school and several houses that were destroyed during an avalanche that killed 116 children and 28 adults in a disaster in October 1966.</media:description>
     </item>
     <item>
-      <title>Ukraine Pushes for War Crime Prosecutions</title>
+      <title>Russian Strike Damages Hydroelectric Station Near 2nd Nuclear Site</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
-      <description>Ukraine’s ambassador to Washington said evidence of “tortures, rapes, killings, war crimes of massive proportions” had been found.</description>
+      <description>Moscow targeted a power complex that contains Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:32:30 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 11:19:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -274,6 +274,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>Queen Elizabeth II Funeral: Coffin Procession Route in London</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-coffin-procession-route-map.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-coffin-procession-route-map.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-coffin-procession-route-map.html" rel="standout"></atom:link>
+      <description>The funeral cortege is traveling from Westminster Abbey to Wellington Arch. Her coffin will then be moved to Windsor.</description>
+      <pubDate>Mon, 19 Sep 2022 11:19:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
     </item>
     <item>
       <title>Democracy Challenged</title>
@@ -623,6 +634,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perez, Carmen (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mallory, Tamika (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/00russia-march-1/merlin_117020882_2750d4c3-55ad-448a-b8d9-ee495d4c3f31-moth.jpg" width="151"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
     </item>
@@ -1023,41 +1035,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16QueenWIlliam01/merlin_206794698_e875bd63-7ef7-4b10-bbfc-9f83ef723cdc-moth.jpg" width="151"></media:content>
       <media:credit>Jane Barlow/WPA Pool/Getty Images</media:credit>
       <media:description>Prince William in Scotland in May. He has lived a life largely devoid of the controversy, and occasional scandals, that have engulfed his relatives.</media:description>
-    </item>
-    <item>
-      <title>India’s Leader Tells Putin That Today Is No Time for War</title>
-      <link>https://www.nytimes.com/2022/09/16/world/europe/modi-putin-ukraine-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/modi-putin-ukraine-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/modi-putin-ukraine-russia.html" rel="standout"></atom:link>
-      <description>Mr. Modi was speaking on the s</description>
-      <dc:creator>Dan Bilefsky and Mujib Mashal</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 17:40:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16ukraine-briefing-modi-topart/16ukraine-briefing-modi-topart-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Sergey Bobylev</media:credit>
-      <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia met on Friday in Samarkand, Uzbekistan, as seen in a photo provided by Russian state media.</media:description>
-    </item>
-    <item>
-      <title>Iran’s Supreme Leader Cancels Public Appearances After Falling Ill</title>
-      <link>https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/middleeast/irans-supreme-leader-ayatollah-ali-khamenei-ill.html" rel="standout"></atom:link>
-      <description>Ayatollah Ali Khamenei is on bed rest and under observation by a team of doctors, according to four people familiar with his health situation.</description>
-      <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 01:18:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assembly of Experts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16iran-khameneiHFO-image/16iran-khameneiHFO-image-moth.jpg" width="151"></media:content>
-      <media:credit>Khamenei.Ir, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>In a photo made available by his office in June, Ayatollah Ali Khamenei was pictured at a ceremony in Tehran.</media:description>
     </item>
   </channel>
 </rss>

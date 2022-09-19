@@ -3,25 +3,25 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 14:46:30 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 14:39:24 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 15:14:22 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 15:06:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Hurricane Fiona Leaves Most of Puerto Rico Without Power</title>
+      <title>Puerto Rico’s Governor Urges Residents to Stay Put as Rain Batters Island</title>
       <link>https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
-      <description>The storm moved west into the Dominican Republic, as conditions in Puerto Rico remained too dangerous for repair workers early Monday.</description>
+      <description>As the eye of Hurricane Fiona barreled into the Dominican Republic, Puerto Rico was left with a knocked-out energy grid. Watch the governor’s news conference live.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:39:24 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:06:22 +0000</pubDate>
     </item>
     <item>
       <title>Hurricane Maria Anniversary: Fiona Brings Back Painful Memories</title>
@@ -49,7 +49,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
       <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
       <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:50:40 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:03:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
@@ -125,7 +125,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/donald-trump-investigations.html" rel="standout"></atom:link>
       <description>The former president finds himself without the power of the presidency, staring at a host of prosecutors and lawyers who have him and his associates in their sights.</description>
       <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 07:00:08 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:51:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -479,7 +479,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
       <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:33:14 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:56:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
@@ -644,6 +644,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Art Fund</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>How to Solve Beginner Crosswords</title>
+      <link>https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/crosswords/mini-to-maestro-part-1.html" rel="standout"></atom:link>
+      <description>Get started solving the Mini, Monday and Tuesday puzzles.</description>
+      <dc:creator>Jackie Frere and Isaac Aronow</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 13:03:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crossword Puzzles</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/15/crosswords/15gameplay-m2m-03/15gameplay-m2m-03-moth.jpg" width="151"></media:content>
+      <media:credit>Thomas Merceron</media:credit>
     </item>
   </channel>
 </rss>

@@ -3,25 +3,37 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 15:14:22 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 15:06:22 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 15:42:05 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 15:41:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Puerto Rico’s Governor Urges Residents to Stay Put as Rain Batters Island</title>
+      <title>Rescue Operations Underway as Rain Batters Puerto Rico, Governor Says</title>
       <link>https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
-      <description>As the eye of Hurricane Fiona barreled into the Dominican Republic, Puerto Rico was left with a knocked-out energy grid. Watch the governor’s news conference live.</description>
+      <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:06:22 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fiona passes over the Dominican Republic, with the eastern portions getting heavy rain.</title>
+      <link>https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico/fiona-passes-over-the-dominican-republic-with-the-eastern-portions-getting-heavy-rain" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:41:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-dominican-republic/19fiona-dominican-republic-moth.jpg" width="151"></media:content>
+      <media:credit>Erika Santelices/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Strong winds hitting the beach in Nagua, Dominican Republic, on Monday morning.</media:description>
     </item>
     <item>
       <title>Hurricane Maria Anniversary: Fiona Brings Back Painful Memories</title>
@@ -135,6 +147,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garland, Merrick B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18dc-trump-01/18dc-trump-01-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>Never before has a former president faced an array of federal, state and congressional investigations as extensive as Donald J. Trump has.</media:description>
@@ -196,32 +215,24 @@
       <media:description>Migrants from Central and South America have arrived at the Port Authority Bus Terminal in Manhattan in increasing numbers this summer.</media:description>
     </item>
     <item>
-      <title>Inflation Remains Voters’ Top Concern. Can Republicans Keep Their Focus?</title>
-      <link>https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html" rel="standout"></atom:link>
-      <description>Democrats and Republicans are running parallel campaigns, with one party emphasizing abortion and democracy, the other inflation and the economy — and both talking past each other.</description>
-      <dc:creator>Jonathan Weisman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <title>N.Y.C. Faces Potential Fiscal Crisis as $10 Billion Budget Deficit Looms</title>
+      <link>https://www.nytimes.com/2022/09/19/nyregion/budget-crisis-economy-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/nyregion/budget-crisis-economy-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/nyregion/budget-crisis-economy-nyc.html" rel="standout"></atom:link>
+      <description>A persistent pandemic-driven downturn has caused revenue from business and personal-income taxes to fall in New York City, while tourism and job losses have yet to recover.</description>
+      <dc:creator>Dana Rubinstein</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:37:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Axne, Cindy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrett, Tom (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Furman, Jason</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goolsbee, Austan D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mace, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunn, Zach (1979- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/multimedia/15pol-inflation1/15pol-inflation1-moth.jpg" width="151"></media:content>
-      <media:credit>Jonathan Ernst/Reuters</media:credit>
-      <media:description>Senators Lindsey Graham, Bill Cassidy, John Barrasso and John Thune at an August news conference opposing Democrats’ energy and drug pricing bill. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19ny-budget/19ny-budget-moth.jpg" width="151"></media:content>
+      <media:credit>Gabby Jones for The New York Times</media:credit>
+      <media:description>For the first time in six years, New York City officials expect that business tax revenue will fall.</media:description>
     </item>
     <item>
       <title>Railroads’ Strategy Thrilled Wall Street, but Not Customers and Workers</title>
@@ -350,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/opinion/biden-invention-arpa-h.html" rel="standout"></atom:link>
       <description>A liberalism that is as ambitious about solving problems through invention as it is through redistribution would be powerful indeed.</description>
       <dc:creator>Ezra Klein</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 11:19:43 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:28:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -473,6 +484,34 @@
       <media:credit>Bettmann Archive/Getty Images</media:credit>
     </item>
     <item>
+      <title>Inflation Remains Voters’ Top Concern. Can Republicans Keep Their Focus?</title>
+      <link>https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/inflation-gop-midterm-elections.html" rel="standout"></atom:link>
+      <description>Democrats and Republicans are running parallel campaigns, with one party emphasizing abortion and democracy, the other inflation and the economy — and both talking past each other.</description>
+      <dc:creator>Jonathan Weisman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Axne, Cindy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrett, Tom (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Furman, Jason</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goolsbee, Austan D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mace, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunn, Zach (1979- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/multimedia/15pol-inflation1/15pol-inflation1-moth.jpg" width="151"></media:content>
+      <media:credit>Jonathan Ernst/Reuters</media:credit>
+      <media:description>Senators Lindsey Graham, Bill Cassidy, John Barrasso and John Thune at an August news conference opposing Democrats’ energy and drug pricing bill. </media:description>
+    </item>
+    <item>
       <title>U.S. Hostage Exchanged for Afghan Drug Lord in Prisoner Swap</title>
       <link>https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</guid>
@@ -523,23 +562,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/00russia-march-1/merlin_117020882_2750d4c3-55ad-448a-b8d9-ee495d4c3f31-moth.jpg" width="151"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Maximilian Lerner, Whose Espionage Skills Helped Win a War, Dies at 98</title>
-      <link>https://www.nytimes.com/2022/09/17/us/max-lerner-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/us/max-lerner-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/us/max-lerner-dead.html" rel="standout"></atom:link>
-      <description>An Austrian immigrant, he was one of the so-called Ritchie Boys, who were trained at a secret Army intelligence camp to serve in World War II.</description>
-      <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 18:49:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lerner, Maximilian (1924-2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="">Ritchie Boys</category>
     </item>
     <item>
       <title>How to Prepare for Flu Season</title>

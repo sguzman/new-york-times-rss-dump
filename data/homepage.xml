@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 18:17:32 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 18:13:13 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 18:47:49 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 18:46:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:03:07 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:22:35 +0000</pubDate>
     </item>
     <item>
       <title>Fiona hits the Dominican Republic, setting off damaging mudslides.</title>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html" rel="standout"></atom:link>
       <description>Photos and video show the extent of the damage, including in Puerto Rico, the Dominican Republic and Guadeloupe.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:50:43 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:22:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -51,30 +51,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Punta Cana (Dominican Republic)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Juan (Puerto Rico)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/fiona-hurricane-photos1/merlin_213449580_0cdfd45c-bb5e-4240-ac87-79211d4e476e-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Rojas/Reuters</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-updates-salinas1/19fiona-updates-salinas1-moth.jpg" width="151"></media:content>
+      <media:credit>Ricardo Arduengo/Reuters</media:credit>
     </item>
     <item>
-      <title>Puerto Rico’s Power Grid Was Fragile  Even Before Hurricane Fiona</title>
-      <link>https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html" rel="standout"></atom:link>
-      <description>The island’s electrical grid has been crippled by a series of storms and other woes, including mismanagement.</description>
-      <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:58:02 +0000</pubDate>
+      <title>Three Reasons Puerto Rico Is in the Dark</title>
+      <link>https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html" rel="standout"></atom:link>
+      <description>Hurricane Fiona’s devastation partly reflects several factors that preceded the storm.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 18:08:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Army Corps of Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Puerto Rico Electric Power Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LUMA Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Whitefish Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-power-history2/19fiona-power-history2-moth.jpg" width="151"></media:content>
-      <media:credit>Stephanie Rojas/Associated Press</media:credit>
-      <media:description>Cutting a downed electrical pole in Cayey, Puerto Rico, on Sunday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/climate/19cli-puertoricovulnerable2/19cli-puertoricovulnerable2-moth.jpg" width="151"></media:content>
+      <media:credit>Ricardo Arduengo/Reuters</media:credit>
+      <media:description>Darkness in Guayanilla, Puerto Rico, after Hurricane Fiona made landfall on Sunday. More than a million people were still without power on Monday.</media:description>
     </item>
     <item>
       <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
@@ -310,7 +308,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhythm and Blues (Music)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raniere, Keith</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/arts/18bonjean1/18bonjean1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/arts/18bonjean1/18bonjean1-moth.jpg" width="151"></media:content>
       <media:credit>Stephanie Keith for The New York Times</media:credit>
       <media:description>Jennifer Bonjean outside Brooklyn federal court in June, where R. Kelly was being sentenced after being convicted of racketeering and sex trafficking. </media:description>
     </item>
@@ -321,7 +319,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/trump-desantis-graham-federer.html" rel="standout"></atom:link>
       <description>The former president has company in the nether regions.</description>
       <dc:creator>Gail Collins and Bret Stephens</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:04:14 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:21:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -354,13 +352,13 @@
       <media:credit>Amanda Greene</media:credit>
     </item>
     <item>
-      <title>Gina McCarthy: Businesses No Longer See Climate Action as Driving Job Losses</title>
+      <title>What I Saw as the Country’s First National Climate Adviser</title>
       <link>https://www.nytimes.com/2022/09/19/opinion/environment/biden-gina-mccarthy-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/environment/biden-gina-mccarthy-climate.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/environment/biden-gina-mccarthy-climate.html" rel="standout"></atom:link>
       <description>The private sector now sees climate as an opportunity for job creation and economic revitalization.</description>
       <dc:creator>Gina McCarthy</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:27:42 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:46:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
@@ -424,7 +422,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/opinion/math-adolescence-mystery.html" rel="standout"></atom:link>
       <description>If human beings invented numbers and counting, then how is it that there are numbers such as primes that have attributes no one gave them?</description>
       <dc:creator>Alec Wilkinson</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:58:56 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 18:19:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Numbers</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18Wilkinson/18Wilkinson-moth-v2.jpg" width="151"></media:content>

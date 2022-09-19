@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 17:02:12 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 17:01:43 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 17:45:12 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 17:43:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Rescue Operations Underway as Rain Batters Puerto Rico, Governor Says</title>
+      <title>Hurricane Fiona Batters Puerto Rico and the Dominican Republic</title>
       <link>https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/us/hurricane-fiona-puerto-rico" rel="standout"></atom:link>
       <description>Hurricane Fiona left Puerto Rico with a knocked-out energy grid. More than 1,000 stranded residents in 25 municipalities were rescued, the governor said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:57:21 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:43:20 +0000</pubDate>
     </item>
     <item>
       <title>Fiona hits the Dominican Republic, setting off damaging mudslides.</title>
@@ -36,20 +36,45 @@
       <media:description>Strong winds hitting the beach in Nagua, Dominican Republic, on Monday morning.</media:description>
     </item>
     <item>
-      <title>Hurricane Maria Anniversary: Fiona Brings Back Painful Memories</title>
-      <link>https://www.nytimes.com/2022/09/19/us/hurricane-maria-anniversary-puerto-rico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/hurricane-maria-anniversary-puerto-rico.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-maria-anniversary-puerto-rico.html" rel="standout"></atom:link>
-      <description>Hurricane Maria landed in Puerto Rico as a Category 4 storm on Sept. 20, 2017.</description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:19:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <title>See the Destruction Left in Hurricane Fiona’s Wake</title>
+      <link>https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/hurricane-fiona-destruction-photos.html" rel="standout"></atom:link>
+      <description>Photos and video show the extent of the damage, including in Puerto Rico, the Dominican Republic and Guadeloupe.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 17:32:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadeloupe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-maria-history1/19fiona-maria-history1-moth.jpg" width="151"></media:content>
-      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
-      <media:description>Fallen trees and debris in San Juan in September 2017 after Hurricane Maria made landfall as a Category 4 storm.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Punta Cana (Dominican Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Juan (Puerto Rico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/fiona-hurricane-photos1/merlin_213449580_0cdfd45c-bb5e-4240-ac87-79211d4e476e-moth.jpg" width="151"></media:content>
+      <media:credit>Ricardo Rojas/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Puerto Rico’s Power Grid Was Fragile  Even Before Hurricane Fiona</title>
+      <link>https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-ricos-power-grid-fiona-hurricane.html" rel="standout"></atom:link>
+      <description>The island’s electrical grid has been crippled by a series of storms and other woes, including mismanagement.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 16:58:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Army Corps of Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Puerto Rico Electric Power Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LUMA Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Whitefish Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19fiona-power-history2/19fiona-power-history2-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Rojas/Associated Press</media:credit>
+      <media:description>Cutting a downed electrical pole in Cayey, Puerto Rico, on Sunday.</media:description>
     </item>
     <item>
       <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
@@ -58,7 +83,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
       <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
       <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:33:46 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:06:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
@@ -112,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/business/media/russia-war-food-supply-chain-disinformation.html" rel="standout"></atom:link>
       <description>As the war in Ukraine has put pressure on the global markets for food, Russia has spread conspiracy theories that blame the West.</description>
       <dc:creator>Jeremy W. Peters</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:18 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:38:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
@@ -203,7 +228,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/nyregion/eric-adams-migrants-cruise-ships.html" rel="standout"></atom:link>
       <description>New York City’s shelter system has been overwhelmed with new arrivals, but advocates for the homeless say the idea is insulting.</description>
       <dc:creator>Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:40:32 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:38:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
@@ -296,7 +321,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/trump-desantis-graham-federer.html" rel="standout"></atom:link>
       <description>The former president has company in the nether regions.</description>
       <dc:creator>Gail Collins and Bret Stephens</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 16:52:29 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:04:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -319,7 +344,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html" rel="standout"></atom:link>
       <description>As equinox nears, the lovely cycle life is happening just behind the place in my garden where the goldenrod and the asters look so beautiful together.</description>
       <dc:creator>Margaret Renkl</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:14 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:17:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
@@ -354,13 +379,13 @@
       <media:description>Gina McCarthy at the Natural Resources Defense Council in 2020.</media:description>
     </item>
     <item>
-      <title>Our Predecessors Built a World of Winners and Losers. It’s Time for Something Different</title>
+      <title>Our Predecessors Built a World of Winners and Losers. It’s Time for Something Different.</title>
       <link>https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html" rel="standout"></atom:link>
       <description>As the world transitions to recovery from the pandemic, the inequities are only widening, both between and within countries.</description>
       <dc:creator>Darren Walker</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:44:07 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:32:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
@@ -549,6 +574,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
@@ -560,7 +587,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
       <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
       <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:09:50 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 17:09:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
@@ -659,20 +686,24 @@
       <media:credit>Keith Negley</media:credit>
     </item>
     <item>
-      <title>Bharti Kher’s Multi-Headed Goddess Statue Arrives at Central Park</title>
-      <link>https://www.nytimes.com/2022/09/15/arts/design/bharti-kher-statue-central-park-india.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/arts/design/bharti-kher-statue-central-park-india.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/arts/design/bharti-kher-statue-central-park-india.html" rel="standout"></atom:link>
-      <description>A multi-headed mother figure by the sculptor Bharti Kher has arrived at Central Park. Its message is open to interpretation — and comfortable with contradiction.</description>
-      <dc:creator>Siddhartha Mitter</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 18:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kher, Bharti (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Art Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <title>Alan Cumming Uses Dance to Get at the Truth of Robert Burns</title>
+      <link>https://www.nytimes.com/2022/09/14/arts/dance/alan-cumming-steven-hoggett-robert-burns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/arts/dance/alan-cumming-steven-hoggett-robert-burns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/arts/dance/alan-cumming-steven-hoggett-robert-burns.html" rel="standout"></atom:link>
+      <description>“Burn” is an unlikely hybrid: A movement-focused show performed by a famous actor with no dance training, about a man whose medium was words.</description>
+      <dc:creator>Roslyn Sulcas</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 14:33:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Burn (Dance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cumming, Alan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoggett, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joyce Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, Robert (1759-96)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Edinburgh International Festival</category>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 14:26:48 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 14:25:24 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 14:47:34 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 14:44:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
-      <description>After a funeral service for the queen at Westminster Abbey and a procession across central London, her coffin has been transferred to Windsor Castle, outside the capital.</description>
+      <description>After a funeral service for the queen at Westminster Abbey and a procession across central London, her coffin is being transferred to Windsor Castle, outside the capital.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:25:24 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:42:19 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Moscow targeted a power complex that contains Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:23:00 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:44:08 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -44,7 +44,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
       <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:58:43 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:33:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
@@ -68,7 +68,7 @@
       <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:12:26 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:44:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -98,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
       <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
       <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:09:49 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:09:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
@@ -111,7 +111,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Lucia Solis, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
+      <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
     </item>
     <item>
       <title>Bus Taking People to Quarantine Crashes in China, Killing 27</title>
@@ -145,6 +145,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Geneva Conventions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-graves1-sub/18ukraine-graves1-sub-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Numbers, not names, on makeshift grave markers near Izium last week.</media:description>
@@ -1025,28 +1027,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/04/multimedia/16ukraine-briefing-griner-topart/04griner-blog-promo-145pm-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner, a W.N.B.A. star, in a court building outside Moscow in August. She has been held in Russia since mid-February.</media:description>
-    </item>
-    <item>
-      <title>Putin Threatens to Escalate War as India Distances Itself From Russia</title>
-      <link>https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/putin-modi-war-ukraine.html" rel="standout"></atom:link>
-      <description>After India’s prime minister said that now is not the time for war, an increasingly isolated Mr. Putin threatened “more serious” actions in Ukraine while insisting he was ready for talks.</description>
-      <dc:creator>Anton Troianovski, Mujib Mashal and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 03:21:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/16putin-1/16putin-1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Sergei Bobylev</media:credit>
-      <media:description>Prime Minister Narendra Modi of India, who met President Vladimir V. Putin on Friday, told the Russian president that “today’s era is not of war.”</media:description>
     </item>
   </channel>
 </rss>

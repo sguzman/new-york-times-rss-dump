@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 11:10:16 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 11:06:18 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 11:28:06 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 11:19:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -31,6 +31,46 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-graves1-sub/18ukraine-graves1-sub-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Numbers, not names, on makeshift grave markers near Izium last week.</media:description>
+    </item>
+    <item>
+      <title>After Hurricane Fiona, Puerto Rico Could Be Without Power For Days </title>
+      <link>https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html" rel="standout"></atom:link>
+      <description>The storm moved west into the Dominican Republic, as conditions in Puerto Rico remained too dangerous for repair workers early Monday.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 10:43:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19xp-puertorico-image01/19xp-puertorico-image01-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Rojas/Associated Press</media:credit>
+      <media:description>A road flooded by the rains of Hurricane Fiona in Cayey, Puerto Rico, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>In Recovery After Storm, Alaska Faces Hard Days Ahead</title>
+      <link>https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html" rel="standout"></atom:link>
+      <description>Geography and climate add to the challenges for the hard-hit isolated communities as the cold months draw closer.</description>
+      <dc:creator>Emily Schwing</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 06:44:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/00alaska-storm/00alaska-storm-moth.jpg" width="151"></media:content>
+      <media:credit>The Nome Nugget</media:credit>
+      <media:description>The storm over the weekend was one of the worst to hit Alaska in decades.</media:description>
     </item>
     <item>
       <title>Europe’s Energy Crisis Forces Factories to Go Dark</title>
@@ -76,46 +116,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/business/FOOD-DISINFO-06/FOOD-DISINFO-06-moth.jpg" width="151"></media:content>
       <media:credit>Amr Nabil/Associated Press</media:credit>
       <media:description>A farm in Egypt. The country is trying to increase its domestic wheat production as the war in Ukraine has strained supplies of the grain.</media:description>
-    </item>
-    <item>
-      <title>After Hurricane Fiona, Puerto Rico Could Be Without Power For Days </title>
-      <link>https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html" rel="standout"></atom:link>
-      <description>The storm moved west into the Dominican Republic, as conditions in Puerto Rico remained too dangerous for repair workers early Monday.</description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:43:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19xp-puertorico-image01/19xp-puertorico-image01-moth.jpg" width="151"></media:content>
-      <media:credit>Stephanie Rojas/Associated Press</media:credit>
-      <media:description>A road flooded by the rains of Hurricane Fiona in Cayey, Puerto Rico, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>In Recovery After Storm, Alaska Faces Hard Days Ahead</title>
-      <link>https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/alaska-recovery-typhoon-merbok.html" rel="standout"></atom:link>
-      <description>Geography and climate add to the challenges for the hard-hit isolated communities as the cold months draw closer.</description>
-      <dc:creator>Emily Schwing</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 06:44:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/00alaska-storm/00alaska-storm-moth.jpg" width="151"></media:content>
-      <media:credit>The Nome Nugget</media:credit>
-      <media:description>The storm over the weekend was one of the worst to hit Alaska in decades.</media:description>
     </item>
     <item>
       <title>Where 6 Investigations Into Donald Trump Stand</title>
@@ -350,7 +350,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/18/opinion/biden-invention-arpa-h.html" rel="standout"></atom:link>
       <description>A liberalism that is as ambitious about solving problems through invention as it is through redistribution would be powerful indeed.</description>
       <dc:creator>Ezra Klein</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 13:06:50 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 11:19:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>

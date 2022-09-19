@@ -7,32 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 15:50:36 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 15:50:29 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 16:31:20 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 16:30:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Updates: Service Is Held for Queen Elizabeth II at Windsor, Her Final Resting Place</title>
+      <title>Updates: Queen Elizabeth II’s Coffin Is Lowered Into Royal Vault, Her Final Resting Place</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
-      <description>After a state funeral at Westminster Abbey and a procession across central London, the ceremony at Windsor Castle will be followed by a private interment.</description>
+      <description>After a state funeral at Westminster Abbey and a procession across central London, the last public ceremony at Windsor Castle will be followed by a private interment.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:50:29 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:26:39 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
     <item>
-      <title>Russian Strike Damages Hydroelectric Station Near 2nd Nuclear Site</title>
+      <title>Russian Missile Strikes 2nd Nuclear Site, Increasing Safety Concerns</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
-      <description>Moscow targeted a power complex that contains Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
+      <description>Moscow damaged a hydroelectric station near Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:30:19 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:30:10 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -68,7 +68,7 @@
       <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:48:37 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 16:20:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -108,7 +108,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marquez, Francia</category>
       <category domain="">viche</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
@@ -206,9 +205,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/00skorea-yoon-09/00skorea-yoon-09-moth.jpg" width="151"></media:content>
       <media:credit>Woohae Cho for The New York Times</media:credit>
       <media:description>President Yoon Suk Yeol of South Korea. </media:description>
@@ -351,6 +348,7 @@
       <dc:creator>Liz Alderman</dc:creator>
       <pubDate>Mon, 19 Sep 2022 09:00:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
@@ -360,7 +358,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/19eu-manufacturing-1/19eu-manufacturing-1-moth.jpg" width="151"></media:content>
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
       <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
@@ -372,7 +369,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html" rel="standout"></atom:link>
       <description>In her new poetry collection, “The Rupture Tense,” Xie peeks at the past — her family’s, and China’s — to examine the consequences of “how we see, what we see, and also what we allow to remain unseen.”</description>
       <dc:creator>Han Zhang</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 09:00:17 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:53:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
@@ -500,6 +497,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier in front of a hotel in Kramatorsk on Sunday. It was struck by a Russian missile overnight.</media:description>

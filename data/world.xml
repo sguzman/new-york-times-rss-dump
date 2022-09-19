@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 09:01:07 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 08:55:39 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 09:39:12 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 09:07:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/18/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Ukraine has been pushing a counteroffensive in the Kherson region, but Russia had been preparing for weeks and there was no indication of a mass withdrawal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 05:04:48 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 09:07:31 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-briefing-promo1/18ukraine-briefing-promo1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A guided missile struck overnight next to the Kramatorsk Hotel in Donetsk Province, eastern Ukraine, causing extensive damage to the hotel and surrounding buildings.</media:description>
@@ -282,6 +282,48 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16LEBANON-BANKS-PROMO/16LEBANON-BANKS-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Al Jadeed/Via Reuters</media:credit>
+    </item>
+    <item>
+      <title>Europe’s Energy Crisis Forces Factories to Go Dark</title>
+      <link>https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html" rel="standout"></atom:link>
+      <description>Manufacturers are furloughing workers and shutting down lines because they can’t pay the gas and electric charges.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/19eu-manufacturing-1/19eu-manufacturing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
+    </item>
+    <item>
+      <title>Jenny Xie Explores the Subversive Power of the Concealed and the Overlooked</title>
+      <link>https://www.nytimes.com/2022/09/19/books/jenny-xie-explores-the-subversive-power-of-the-concealed-and-the-overlooked.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/books/jenny-xie-explores-the-subversive-power-of-the-concealed-and-the-overlooked.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/books/jenny-xie-explores-the-subversive-power-of-the-concealed-and-the-overlooked.html" rel="standout"></atom:link>
+      <description>In her new poetry collection, “The Rupture Tense,” Xie peeks at the past — her family’s, and China’s — to examine the consequences of “how we see, what we see, and also what we allow to remain unseen.”</description>
+      <dc:creator>Han Zhang</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cultural Revolution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Zhensheng (1940- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xie, Jenny (Author)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/books/19xie-1/19xie-1-moth.jpg" width="151"></media:content>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <media:description>“A lot of things remained hidden by people who became accustomed to living inside these dead silences,” Xie said.</media:description>
     </item>
     <item>
       <title>Bus Taking People to Quarantine Crashes in China, Killing 27</title>
@@ -1021,43 +1063,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16queen-queue-image02/16queen-queue-image02-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The line along the Thames on Thursday. The estimated wait time for people joining it on Friday evening was 24 hours.</media:description>
-    </item>
-    <item>
-      <title>Floods in Central Italy Leave at Least 9 Dead</title>
-      <link>https://www.nytimes.com/2022/09/16/world/europe/italy-storms-floods.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/world/europe/italy-storms-floods.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/world/europe/italy-storms-floods.html" rel="standout"></atom:link>
-      <description>The downpour was the latest in a summer of extreme weather events. Streets were turned into rivers, bridges and highways were blocked and thousands were left without power.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 16:15:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16italy-storms-image05/16italy-storms-image05-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Di Meo/EPA, via Shutterstock</media:credit>
-      <media:description>Flash flooding on the Sanguerone River in Sassoferrato, central Italy, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Profiting in Congress</title>
-      <link>https://www.nytimes.com/2022/09/16/briefing/congress-stock-trading.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/briefing/congress-stock-trading.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/briefing/congress-stock-trading.html" rel="standout"></atom:link>
-      <description>Dozens of lawmakers trade stocks related to their work, and it’s harming trust in the government.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Fri, 16 Sep 2022 10:06:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/multimedia/16-THE-MORNING-NL-PROMO/16-THE-MORNING-NL-1-moth.jpg" width="151"></media:content>
-      <media:credit>Tom Brenner for The New York Times</media:credit>
-      <media:description>Members of Congress can buy and sell stocks with few restrictions.</media:description>
     </item>
   </channel>
 </rss>

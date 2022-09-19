@@ -3,25 +3,25 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 19 Sep 2022 14:47:34 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Sep 2022 14:44:08 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2022 15:22:56 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2022 15:22:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Updates: Queen Elizabeth II’s Coffin Arrives at Windsor, Her Final Resting Place</title>
+      <title>Updates: Service Is Held for Queen Elizabeth II at Windsor, Her Final Resting Place</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
-      <description>After a funeral service for the queen at Westminster Abbey and a procession across central London, her coffin is being transferred to Windsor Castle, outside the capital.</description>
+      <description>After a funeral ceremony for the queen at Westminster Abbey and a procession across central London, her coffin has been transferred to Windsor Castle, outside the capital.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:42:19 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:22:42 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>Moscow targeted a power complex that contains Ukraine’s second biggest nuclear plant after the occupied Zaporizhzhia site.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:44:08 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:22:51 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -44,7 +44,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
       <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 14:33:14 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 14:56:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
@@ -79,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
       <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
       <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:50:40 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:03:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
@@ -120,7 +120,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/china-bus-crash-covid.html" rel="standout"></atom:link>
       <description>The deaths renewed an anguished debate over the price of China’s “zero Covid” policy.</description>
       <dc:creator>Vivian Wang and Joy Dong</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 12:03:05 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 15:01:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guiyang (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guizhou (China)</category>
@@ -471,8 +471,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html" rel="standout"></atom:link>
       <description>The things that made the queen the queen.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 13:58:12 +0000</pubDate>
+      <dc:creator>Louis Lucero II</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:22:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>

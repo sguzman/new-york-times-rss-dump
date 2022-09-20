@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 13:33:09 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 13:24:18 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 14:13:31 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 14:04:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -118,7 +118,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Martha&#39;s Vineyard (Mass)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salazar, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salazar, Javier (1970- )</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19migrants-investigation/19migrants-investigation-moth.jpg" width="151"></media:content>
       <media:credit>Sam Owens/The San Antonio Express-News via AP</media:credit>
       <media:description>“They had a right not to be preyed on and played for a fool,” Sheriff Javier Salazar of Bexar County said.</media:description>
@@ -285,24 +285,6 @@
       <media:description>Pollsters are setting sail yet again this year. Is it a little scary? Yes. </media:description>
     </item>
     <item>
-      <title>What Comes Next in the Fed’s Fight Against Inflation?</title>
-      <link>https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html" rel="standout"></atom:link>
-      <description>Wall Street will watch the central bank’s economic forecasts closely on Wednesday, when another jumbo-size rate increase is expected.</description>
-      <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/business/20dc-fed01/20dc-fed01-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>A shopper in New York last month. Consumer spending has cooled, but it hasn’t tanked despite the Federal Reserve’s efforts to tamp down growth.</media:description>
-    </item>
-    <item>
       <title>The Godwit’s 7,000-Mile Journey: A Migration That Breaks Records</title>
       <link>https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html</guid>
@@ -364,7 +346,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/glenn-youngkin-midterms-trump.html" rel="standout"></atom:link>
       <description>The governor believes he needs to cater to and actually support election questioners and deniers to have a shot at leading the Republican Party.</description>
       <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:19 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 14:04:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
@@ -422,7 +404,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ezra-klein-podcast-jesse-jenkins.html" rel="standout"></atom:link>
       <description>The energy expert Jesse Jenkins walks me through the path to our climate goals.</description>
       <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:55:24 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 13:51:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jesse Jenkins</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
@@ -515,6 +497,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/sports/16multiday-ultras1/16multiday-ultras1-moth.jpg" width="151"></media:content>
       <media:credit>Michelle Gustafson for The New York Times</media:credit>
       <media:description>Race participants start the race for the first annual GOMU 48-Hour World Championships, an ultramarathon in Hainesport, N.J.</media:description>
+    </item>
+    <item>
+      <title>What Comes Next in the Fed’s Fight Against Inflation?</title>
+      <link>https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html" rel="standout"></atom:link>
+      <description>Wall Street will watch the central bank’s economic forecasts closely on Wednesday, when another jumbo-size rate increase is expected.</description>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/business/20dc-fed01/20dc-fed01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>A shopper in New York last month. Consumer spending has cooled, but it hasn’t tanked despite the Federal Reserve’s efforts to tamp down growth.</media:description>
     </item>
     <item>
       <title>From Coronation to Funeral: Bookends to the Life of a Queen, and a Generation</title>

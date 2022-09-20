@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 09:36:31 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 09:00:32 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 09:56:47 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 09:55:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>A Ukrainian official said that of 146 bodies exhumed so far in a northeastern city, most were civilians and some had been tortured.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 07:20:43 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 09:53:56 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -261,6 +261,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
+    </item>
+    <item>
+      <title>Adnan Syed, Freed</title>
+      <link>https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html" rel="standout"></atom:link>
+      <description>We talk with Sarah Koenig, host of the “Serial” podcast.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:55:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koenig, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19-the-morning-nl-syed/19-the-morning-nl-syed-moth.jpg" width="151"></media:content>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <media:description>Adnan Syed walking out of the courthouse yesterday.</media:description>
     </item>
     <item>
       <title>How a 79-year-old Film Director Learned to “Fly” on a Trapeze</title>

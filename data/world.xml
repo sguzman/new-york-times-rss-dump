@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 19:51:51 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 19:50:32 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 20:24:51 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 20:21:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>With Ukrainian forces on the offensive in the east and south, the Kremlin could use the votes to try to justify absorbing occupied parts of Ukraine and a possible escalation of the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 19:50:32 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:21:12 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-briefing-header/20ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A street in Bakhmut, Ukraine, on Monday.</media:description>
@@ -33,10 +33,29 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>The French president said no nations should be indifferent to the war in Ukraine as world leaders addressed a long list of global issues at the U.N. General Assembly.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 19:45:52 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:18:45 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20unga-briefing-Macron230pm/20unga-briefing-Macron230pm-moth.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>President Emmanuel Macron of France speaking at the 77th session of the United Nations General Assembly in New York City on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Prime Minister Liz Truss Pivots From Queen’s Funeral to U.K.’s Crises</title>
+      <link>https://www.nytimes.com/2022/09/20/world/europe/truss-britain-queen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/truss-britain-queen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/truss-britain-queen.html" rel="standout"></atom:link>
+      <description>Liz Truss’s government will roll out major initiatives to confront an array of economic and social problems: soaring energy costs, surging inflation and pressure on public services.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 20:15:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20uk-next-1/20uk-next-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Toby Melville</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain is in New York this week, where she is holding diplomatic meetings on the sidelines of the United Nations General Assembly.</media:description>
     </item>
     <item>
       <title>Egypt Feels Pain of Global Disruptions Wrought by War and Pandemic</title>
@@ -96,7 +115,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 15:41:13 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:18:45 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -236,23 +255,29 @@
       <media:description>People rushed into the streets in Mexico City after a magnitude 7.6 earthquake struck Mexico’s central Pacific coast on Monday.</media:description>
     </item>
     <item>
-      <title>Is Choosing Medically Assisted Death Too Easy in Canada?</title>
-      <link>https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html" rel="standout"></atom:link>
-      <description>Since the government expanded the eligibility for assisted death last year to include those with disabilities, critics have been saying there should be more checks and balances.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 18:54:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
+      <title>U.S. Shores Up Ukraine Aid as Energy Crisis in Europe Looms</title>
+      <link>https://www.nytimes.com/2022/09/20/us/politics/biden-gas-russia-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/us/politics/biden-gas-russia-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/biden-gas-russia-europe.html" rel="standout"></atom:link>
+      <description>The Biden administration is trying to keep its allies on board as the Russian invasion has sent energy prices soaring.</description>
+      <dc:creator>Chris Cameron and Helene Cooper</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 20:03:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/politics/00dc-military-europe1/00dc-military-europe1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A Ukrainian solder near the city of Izium. A large share of the weapons that Ukraine’s military has received have come from the United States. </media:description>
     </item>
     <item>
       <title>Apps Like Flashfood and Too Good to Go Let You Buy Food That Was Going to be Thrown Away</title>
@@ -300,7 +325,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/ukraine-bilohorivka-russia.html" rel="standout"></atom:link>
       <description>The Ukrainian military has not declared victory yet in Bilohorivka, given that control over towns has proved tenuous in the past. Reclaiming it would signal that Russia no longer has full control of the Luhansk region.</description>
       <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 19:07:12 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 19:53:38 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/20ukraine-briefing-fighting/19Russia-Ukraine-war-briefing-NL-3-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>Civilians watched from a street corner in Bakhmut as Ukrainian military vehicles headed on Monday in the direction of the front line in the Donbas region.</media:description>
@@ -829,26 +854,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18queen-biden1/18queen-biden1-moth.jpg" width="151"></media:content>
       <media:credit>Kenny Holston for The New York Times</media:credit>
       <media:description>President Biden signing the official condolence book for Queen Elizabeth II at Lancaster House in London on Sunday.</media:description>
-    </item>
-    <item>
-      <title>The Singular Offense of the Mass Grave</title>
-      <link>https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html" rel="standout"></atom:link>
-      <description>Violent loss is even more devastating when the dead are disposed of without identification. When Russians pull out in Ukraine, they leave a trail of anonymous death.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 23:26:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geneva Conventions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-graves1-sub/18ukraine-graves1-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Numbers, not names, on makeshift grave markers near Izium last week.</media:description>
     </item>
   </channel>
 </rss>

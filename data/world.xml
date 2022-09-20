@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 11:54:15 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 11:52:52 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 12:45:57 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 12:41:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>As Ukrainian forces attempted to reclaim occupied territory, Moscow-backed officials appeared to be speeding up efforts to have parts of Ukraine annexed by the Kremlin.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 11:52:52 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 12:40:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-briefing-header/20ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A street in Bakhmut, Ukraine, on Monday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>For the first time in three years, world leaders are convening in New York to discuss sweeping crises that include climate change, food insecurity and the war in Ukraine.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 11:28:03 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 12:40:59 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/live-blog-20220920-united-nations-general-assembly-header-01/live-blog-20220920-united-nations-general-assembly-header-01-moth.jpg" width="151"></media:content>
       <media:credit>Yuki Iwamura/Agence France-Presse — Getty Images</media:credit>
       <media:description>U.N. Headquarters in New York City.</media:description>
@@ -57,17 +57,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-lede-video-new/19queen-lede-video-new-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Queen Elizabeth II Is Buried at Windsor Alongside Her Husband, Prince Philip</title>
-      <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
-      <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 11:39:38 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
-      <media:credit>James Hill for The New York Times</media:credit>
     </item>
     <item>
       <title>Protests Erupt in Iranian Cities After Woman’s Death in Custody</title>
@@ -102,6 +91,17 @@
       <media:description>Dates and other dried fruit on sale at a market in central Cairo. In March, the Egyptian central bank devalued the currency by about 14 percent and prices shot up.</media:description>
     </item>
     <item>
+      <title>Queen Elizabeth II Is Buried at Windsor Alongside Her Husband, Prince Philip</title>
+      <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
+      <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 12:34:51 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+    </item>
+    <item>
       <title>In One Corner of Kosovo, Cheers Still Ring Out for Putin</title>
       <link>https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</guid>
@@ -125,17 +125,14 @@
       <description>A powerful Russian missile hit 300 yards from the plant far from the front lines, Ukraine said, a reminder that despite its recent retreat, Russia can still threaten nuclear sites.</description>
       <dc:creator>Marc Santora</dc:creator>
       <pubDate>Mon, 19 Sep 2022 23:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">South Ukraine Nuclear Power Plant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-ledeall-top/19ukraine-ledeall-top-moth.jpg" width="151"></media:content>
       <media:credit>Olga Yakimovich/Reuters</media:credit>
       <media:description>The South Ukraine Nuclear Power Plant in Yuzhnoukrainsk, Ukraine, about 70 miles north of the city of Mykolaiv, in 2015.</media:description>
@@ -259,6 +256,15 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
+    </item>
+    <item>
+      <title>1922: Ex-Kaiser to Marry Princess Hermine</title>
+      <link>https://www.nytimes.com/2022/09/20/world/1922-ex-kaiser-to-marry-princess-hermine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/1922-ex-kaiser-to-marry-princess-hermine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/1922-ex-kaiser-to-marry-princess-hermine.html" rel="standout"></atom:link>
+      <description>Wilhelm II, who abdicated as emperor of Germany in the midst of defeat in World War I, had become a widower in 1921.</description>
+      <dc:creator>The International Herald Tribune</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 12:12:05 +0000</pubDate>
     </item>
     <item>
       <title>Sarah Koenig, the Host of ‘Serial,’ Talks About Adnan Syed’s Release</title>
@@ -972,35 +978,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-ledeall6/17ukraine-ledeall6-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian emergency services workers collecting unexploded ordnance from the side of the road near Izium on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Zaporizhzhia Nuclear Plant Has Power Restored, Watchdog Says</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html" rel="standout"></atom:link>
-      <description>Maintaining power at Europe’s largest nuclear plant has been crucial to prevent a meltdown in the shadow of fighting nearby.</description>
-      <dc:creator>Ben Shpigel</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 20:49:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-Zaporizhzhia/17ukraine-briefing-Zaporizhzhia-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>A motorcade transporting experts with the International Atomic Energy Agency arrived at the Zaporizhzhia Nuclear Power Plant outside the Russian-controlled city of Enerhodar, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Nancy Pelosi visits Armenia after outbreak of deadly fighting with Azerbaijan.</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Sat, 17 Sep 2022 20:17:38 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-pelosi-in-armenia-version/17ukraine-briefing-pelosi-in-armenia-version-moth.jpg" width="151"></media:content>
-      <media:credit>PHOTOLURE, via Associated Press</media:credit>
-      <media:description>In a photo provided by the Armenian government, Speaker Nancy Pelosi was greeted by Alen Simonyan, the president of the National Assembly, on Saturday outside Yerevan, Armenia’s capital.</media:description>
     </item>
   </channel>
 </rss>

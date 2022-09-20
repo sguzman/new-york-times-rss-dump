@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 16:58:39 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 16:58:00 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 17:28:46 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 17:26:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/covid-data-outbreaks.html" rel="standout"></atom:link>
       <description>Major data gaps, the result of decades of underinvestment in public health, have undercut the government response to the coronavirus and now to monkeypox.</description>
       <dc:creator>Sharon LaFraniere</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 16:56:52 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 17:20:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
@@ -170,7 +170,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/nyregion/nyc-subway-security-cameras.html" rel="standout"></atom:link>
       <description>Gov. Kathy Hochul said the installations, which grew from a pilot project after a mass shooting in Brooklyn, would allay riders’ anxiety.</description>
       <dc:creator>Patrick McGeehan and Luis Ferré-Sadurní</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 16:29:17 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 16:59:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Brooklyn, NY, Subway Shooting (April 12, 2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
@@ -180,6 +180,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20ny-camera-mta/20ny-camera-mta-moth-v2.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Stations in the subway system are outfitted with cameras, but cars have been a blind spot.</media:description>
+    </item>
+    <item>
+      <title>N.Y.C. Ends Private Employer Vaccine Mandate</title>
+      <link>https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html" rel="standout"></atom:link>
+      <description>Mayor Eric Adams received the new booster on Tuesday, as he ended the Covid vaccine mandate and continued to roll back pandemic restrictions.</description>
+      <dc:creator>Sharon Otterman and Emma G. Fitzsimmons</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 17:26:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/nyregion/20ny-pandemic/20ny-pandemic-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Seng for The New York Times</media:credit>
+      <media:description>The Hebrew Home at Riverdale in New York began administering the new bivalent booster shots to residents and workers last week.</media:description>
     </item>
     <item>
       <title>The Godwit’s 7,000-Mile Journey: A Migration That Breaks Records</title>
@@ -294,7 +312,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/patagonia-yvon-chouinard-tom-brokaw.html" rel="standout"></atom:link>
       <description>Yvon Chouinard has given away his company in his fight to save the planet.</description>
       <dc:creator>Tom Brokaw</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 12:55:22 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 17:08:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -307,7 +325,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tompkins, Douglas (1943- )</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/00brokaw/00brokaw-moth.jpg" width="151"></media:content>
       <media:credit>Laure Joliet for The New York Times</media:credit>
-      <media:description>Yvon Chouinard in the original Tin Shed the blacksmith shop where he forged pitons for climbing.</media:description>
+      <media:description>Yvon Chouinard in the original Tin Shed, the blacksmith shop where he forged pitons for climbing.</media:description>
     </item>
     <item>
       <title>Sweden’s Far Right Is Rising</title>
@@ -327,6 +345,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/19asbrink/18asbrink-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>Supporters of the Sweden Democrats political party during its election night rally.</media:description>
+    </item>
+    <item>
+      <title>“Historical Ecology” Can Help Us Save Our Oceans, Now</title>
+      <link>https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html" rel="standout"></atom:link>
+      <description>“Historical ecology” can help us save the seas.</description>
+      <dc:creator>John Waldman</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
     </item>
     <item>
       <title>Glenn Youngkin Is Playing a Dangerous Game</title>
@@ -351,24 +381,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/20bouie-1/20bouie-1-moth.jpg" width="151"></media:content>
       <media:credit>Emily Elconin for The New York Times</media:credit>
       <media:description>Gov. Glenn Youngkin of Virginia, speaking in Michigan at a “Red Wave Party.” </media:description>
-    </item>
-    <item>
-      <title>Don’t Let Republicans Off the Hook on Same-Sex Marriage</title>
-      <link>https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/republicans-same-sex-marriage.html" rel="standout"></atom:link>
-      <description>Democrats are letting the G.O.P. off easily by postponing a vote until after the midterms.</description>
-      <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 18:48:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/opinion/19paulNew/19paulNew-moth.jpg" width="151"></media:content>
-      <media:credit>Michael Reynolds/EPA, via Shutterstock</media:credit>
     </item>
     <item>
       <title>‘Serial’ Investigates Why Adnan Syed Was Released From Prison</title>
@@ -434,7 +446,7 @@
       <atom:link href="https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html" rel="standout"></atom:link>
       <description>Fiona strengthened early Tuesday after knocking out power to most of Puerto Rico and bringing heavy rain to the Dominican Republic.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 16:43:14 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 16:58:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
@@ -565,22 +577,23 @@
       <media:credit>Keith Negley</media:credit>
     </item>
     <item>
-      <title>Can Tony Gilroy Bring New Hope to ‘Star Wars’?</title>
-      <link>https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html" rel="standout"></atom:link>
-      <description>The “Michael Clayton” and “Bourne Legacy” filmmaker returns to the world he helped establish in “Rogue One” with a new Disney+ series, “Andor.”</description>
-      <dc:creator>Dave Itzkoff</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gilroy, Tony</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney Plus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lucasfilm Ltd</category>
+      <title>Their Dad Was Like a Brother. Now Pacman Jones Is Family.</title>
+      <link>https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html" rel="standout"></atom:link>
+      <description>Adam Jones and Chris Henry were once N.F.L. poster athletes for misdeeds. Raising Henry’s children alongside his own, Jones is hoping to help them all avoid the same mistakes.</description>
+      <dc:creator>Jonathan Abrams</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 15:05:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Chris (1983-2009)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Adam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Andor (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/arts/18tony-gilroy/18tony-gilroy-moth.jpg" width="151"></media:content>
-      <media:credit>Tom Jamieson for The New York Times</media:credit>
-      <media:description>Tony Gilroy’s new “Star Wars” series, “Andor,” is less interested in lightsaber duels than in the details of day-to-day life on distant planets.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cincinnati Bengals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/sports/19pacman1-alt/merlin_211930350_d91956ed-cb20-44bf-8dd6-6f0ea825acab-moth.jpg" width="151"></media:content>
+      <media:credit>Megan Jelinger for The New York Times</media:credit>
+      <media:description>Adam Jones (who is known widely as Pacman), left, DeMarcus Henry, middle, and Chris Henry Jr., right, at West Clermont High’s football stadium in Batavia, Ohio.</media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

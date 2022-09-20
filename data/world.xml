@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 06:48:33 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 05:07:38 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 07:26:40 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 07:20:43 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:43:48 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 07:20:43 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -90,13 +90,31 @@
       <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
     </item>
     <item>
+      <title>Protests Erupt in Iranian Cities After Woman’s Death in Custody</title>
+      <link>https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
+      <description>The 22-year-old’s death sparked outrage across social, religious and political factions. Four people were reported to have been killed by the security forces.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 06:50:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19iran-protests-01/19iran-protests-01-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A protest in downtown Tehran on Monday.</media:description>
+    </item>
+    <item>
       <title>Russian Setbacks Are Hampering Army Recruitment, Says Pentagon Official</title>
       <link>https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>A Ukrainian official said that of 146 bodies exhumed so far in a northeastern city, most were civilians and some had been tortured.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 05:07:38 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 07:20:43 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
@@ -124,6 +142,17 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19Afghan-Prisoner-image/19Afghan-Prisoner-image-moth.jpg" width="151"></media:content>
       <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
       <media:description>Bashir Noorzai, who was convicted of drug trafficking in the United States in 2008, attends his release ceremony at the Intercontinental Hotel in Kabul on Monday.</media:description>
+    </item>
+    <item>
+      <title>United Nations: What to Expect at the General Assembly This Week</title>
+      <link>https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</link>
+      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</guid>
+      <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
+      <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 07:20:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
@@ -194,34 +223,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-scene-top/19queen-scene-top-moth.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
       <media:description>After the state funeral service for Queen Elizabeth II at Westminster Abbey in London on Monday, her coffin was taken on a gun carriage to Wellington Arch.</media:description>
-    </item>
-    <item>
-      <title>Windsor, Queen’s Final Resting Place, Has a Long Association With Her</title>
-      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html" rel="standout"></atom:link>
-      <description>Queen Elizabeth spent much time as the castle outside London. Her husband is also buried there.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 20:38:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor Castle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-windsor-live/19queen-windsor-live-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>As they did in London, crowds gathered on Monday at Windsor Castle to say goodbye to Queen Elizabeth II.</media:description>
-    </item>
-    <item>
-      <title>United Nations: What to Expect at the General Assembly This Week</title>
-      <link>https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</link>
-      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</guid>
-      <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
-      <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:03:48 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
-      <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Earthquake Shakes Mexico on Anniversary of 2 Major Temblors</title>
@@ -334,6 +335,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/092022ambriefing-asia-promo1/20ambriefing-asia-queen-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The Queen’s coffin was moved from the gun carriage to a hearse before traveling on to Windsor on Monday.</media:description>
+    </item>
+    <item>
+      <title>Windsor, Queen’s Final Resting Place, Has a Long Association With Her</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth spent much time as the castle outside London. Her husband is also buried there.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:38:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor Castle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-windsor-live/19queen-windsor-live-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>As they did in London, crowds gathered on Monday at Windsor Castle to say goodbye to Queen Elizabeth II.</media:description>
     </item>
     <item>
       <title>In the eastern Donbas, a slew of contradictions.</title>
@@ -969,26 +987,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/multimedia/17ukraine-briefing-bakhmut-topart/17ukraine-briefing-bakhmut-topart-moth.jpg" width="151"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>A Ukrainian armored vehicle rolled through the streets of Bakhmut, Ukraine, on Thursday as the town remained under assault by Russian forces.</media:description>
-    </item>
-    <item>
-      <title>Prince William and Prince Harry Stood Vigil Over the Queen at Westminster Hall</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html" rel="standout"></atom:link>
-      <description>Prince William and Prince Harry stood vigil over their grandmother, Queen Elizabeth II, at Westminster Hall as mourners streamed in to pay their respects.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 10:03:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17queen-scene1/17queen-scene1-moth.jpg" width="151"></media:content>
-      <media:credit>Jeff J Mitchell/Getty Images</media:credit>
-      <media:description>The line to see Queen Elizabeth II lying in state at Westminster Hall stretched for miles along the south bank of the Thames on Saturday in London.</media:description>
     </item>
   </channel>
 </rss>

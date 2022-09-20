@@ -7,115 +7,51 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 09:46:16 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 09:00:19 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 10:16:20 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 10:00:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>On Anniversary of Hurricane Maria, Storm Leaves Puerto Rico in the Dark</title>
-      <link>https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html" rel="standout"></atom:link>
-      <description>Hurricane Fiona reminded residents that the agonizingly slow work of giving the island a stable power grid remained unfinished.</description>
-      <dc:creator>Laura N. Pérez Sánchez, Patricia Mazzei and Erika P. Rodriguez</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:04:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19puerto-rico-1/19puerto-rico-1-moth.jpg" width="151"></media:content>
-      <media:credit>Erika P. Rodríguez For The New York Times</media:credit>
+      <title>Lack of Data Still Blunts US Response to Outbreaks</title>
+      <link>https://www.nytimes.com/2022/09/20/us/politics/covid-data-outbreaks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/us/politics/covid-data-outbreaks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/covid-data-outbreaks.html" rel="standout"></atom:link>
+      <description>Major data gaps, the result of decades of underinvestment in public health, have undercut the government response to the coronavirus and now to monkeypox.</description>
+      <dc:creator>Sharon LaFraniere</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kaiser Permanente</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/us/politics/00dc-covid-data1/00dc-covid-data1-moth.jpg" width="151"></media:content>
+      <media:credit>Ash Adams for The New York Times</media:credit>
+      <media:description>A lab technician sequencing Covid-19 samples at the Alaska State Public Health Laboratory in Anchorage.</media:description>
     </item>
     <item>
-      <title>Three Reasons for Puerto Rico’s Power Outage</title>
-      <link>https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/climate/puerto-rico-hurricane-fiona.html" rel="standout"></atom:link>
-      <description>Hurricane Fiona’s devastation partly reflects several factors that preceded the storm.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:26:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/climate/19cli-puertoricovulnerable2/19cli-puertoricovulnerable2-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Arduengo/Reuters</media:credit>
-      <media:description>Darkness in Guayanilla, Puerto Rico, after Hurricane Fiona made landfall on Sunday. More than a million people were still without power on Monday.</media:description>
-    </item>
-    <item>
-      <title>Hurricane Fiona Grows to Category 3 in the Caribbean</title>
-      <link>https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html</guid>
-      <atom:link href="https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html" rel="standout"></atom:link>
-      <description>Fiona strengthened as it neared Turks and Caicos early Tuesday. It had knocked out power to most of Puerto Rico and brought heavy rain to the Dominican Republic.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 08:27:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadeloupe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Croix (US Virgin Islands)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20xp-fiona-top/20xp-fiona-top-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Rojas/Reuters</media:credit>
-      <media:description>Debris on the seashore of Punta Cana, Dominican Republic, on Monday, as Hurricane Fiona passed through.</media:description>
-    </item>
-    <item>
-      <title>Strike Near Another Ukrainian Nuclear Plant Escalates Fears of Disaster</title>
-      <link>https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html" rel="standout"></atom:link>
-      <description>A powerful Russian missile hit 300 yards from the plant far from the front lines, Ukraine said, a reminder that despite its recent retreat, Russia can still threaten nuclear sites.</description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 23:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">South Ukraine Nuclear Power Plant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-ledeall-top/19ukraine-ledeall-top-moth.jpg" width="151"></media:content>
-      <media:credit>Olga Yakimovich/Reuters</media:credit>
-      <media:description>The South Ukraine Nuclear Power Plant in Yuzhnoukrainsk, Ukraine, about 70 miles north of the city of Mykolaiv, in 2015.</media:description>
-    </item>
-    <item>
-      <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
-      <link>https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
-      <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
-      <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 20:47:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00UkraineGlass01/00UkraineGlass01-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Huylebroek for The New York Times</media:credit>
-      <media:description>Workmen installed new windows on the eighth floor of an apartment complex that was damaged by Russian bombings in the northern city of Chernihiv.</media:description>
+      <title>Biden Says the Pandemic Is Over. But at Least 400 People Are Dying Daily.</title>
+      <link>https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html" rel="standout"></atom:link>
+      <description>The president made the remark in an interview that aired on CBS’s “60 Minutes” on Sunday night. By Monday, the backlash was in full swing.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 23:52:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Fatigue Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-biden-covid_4/merlin_203693628_0411624a-ff51-49e2-aa45-5f7806ec3f2e-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>Covid-19 patients being treated at Providence St. Mary Medical Center in Apple Valley, Calif.</media:description>
     </item>
     <item>
       <title>In One Corner of Kosovo, Cheers Still Ring Out for Putin</title>
@@ -132,51 +68,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18kosovo-russia-01b/18kosovo-russia-01b-moth.jpg" width="151"></media:content>
       <media:credit>Armend Nimani for The New York Times</media:credit>
       <media:description>Statues in Mitrovica honor Prince Lazar, left, a Christian Serb ruler at the Battle of Kosovo in 1389 and Grigory Scherbina, right, a Russian envoy to the region.</media:description>
-    </item>
-    <item>
-      <title>Judge Vacates Adnan Syed’s Murder Conviction, Subject of ‘Serial’ Podcast</title>
-      <link>https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html" rel="standout"></atom:link>
-      <description>Mr. Syed, 41, had been serving a life sentence for the 1999 murder of his high school classmate Hae Min Lee. The judge gave prosecutors 30 days to proceed with a new trial or drop the case.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 22:43:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prosecutorial Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Hae Min (1980-99)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosby, Marilyn J (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilds, Jay (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serial Productions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19xp-syed1/19xp-syed1-moth.jpg" width="151"></media:content>
-      <media:credit>Ting Shen for The New York Times</media:credit>
-      <media:description>Adnan Syed walks out of the Baltimore City Circuit court after a judge overturned his conviction after 23 years.</media:description>
-    </item>
-    <item>
-      <title>Adnan Syed’s Legal Journey: a Timeline</title>
-      <link>https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html</guid>
-      <atom:link href="https://www.nytimes.com/article/adnan-syed-serial-timeline-serial.html" rel="standout"></atom:link>
-      <description>The defendant, who was the subject of the 2014 podcast “Serial,” had been serving a life sentence for the 1999 murder of his high school classmate Hae Min Lee.</description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 08:44:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supreme Courts (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Hae Min (1980-99)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosby, Marilyn J (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Serial (Radio Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19xp-syed1/19xp-syed1-moth.jpg" width="151"></media:content>
-      <media:credit>Ting Shen for The New York Times</media:credit>
-      <media:description>Adnan Syed walks out of the Baltimore City Circuit court after a judge overturned his conviction after 23 years.</media:description>
     </item>
     <item>
       <title>Videos Show Trump Allies Handling Georgia Voting Equipment</title>
@@ -270,24 +161,169 @@
       <media:description>A group of undocumented migrants from Mexico and Guatemala being processed and detained by the Border Patrol in Sierra Vista, Ariz., in July.</media:description>
     </item>
     <item>
-      <title>Thousands Pay Tribute as Britain Says Final Farewell to Queen Elizabeth</title>
-      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
-      <description>More than 100 world leaders, including President Biden, attended the funeral for Queen Elizabeth II, and Britons lined the streets for a procession that took her to her final resting place at Windsor Castle.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:49:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-lede-video-new/19queen-lede-video-new-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <title>Sarah Koenig, the Host of ‘Serial,’ Talks About Adnan Syed’s Release</title>
+      <link>https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html" rel="standout"></atom:link>
+      <description>We talk with Sarah Koenig, host of the “Serial” podcast.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:55:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koenig, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19-the-morning-nl-syed/19-the-morning-nl-syed-moth.jpg" width="151"></media:content>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <media:description>Adnan Syed walking out of the courthouse yesterday.</media:description>
+    </item>
+    <item>
+      <title>Judge Vacates Adnan Syed’s Murder Conviction, Subject of ‘Serial’ Podcast</title>
+      <link>https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/adnan-syed-murder-conviction-overturned.html" rel="standout"></atom:link>
+      <description>Mr. Syed, 41, had been serving a life sentence for the 1999 murder of his high school classmate Hae Min Lee. The judge gave prosecutors 30 days to proceed with a new trial or drop the case.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 22:43:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prosecutorial Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Hae Min (1980-99)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mosby, Marilyn J (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilds, Jay (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serial Productions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19xp-syed1/19xp-syed1-moth.jpg" width="151"></media:content>
+      <media:credit>Ting Shen for The New York Times</media:credit>
+      <media:description>Adnan Syed walks out of the Baltimore City Circuit court after a judge overturned his conviction after 23 years.</media:description>
+    </item>
+    <item>
+      <title>When Fossils Are Accidentally Dug Up, the Job Site Becomes a Science Lab</title>
+      <link>https://www.nytimes.com/2022/09/20/us/construction-paleontology-mastodon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/us/construction-paleontology-mastodon.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/us/construction-paleontology-mastodon.html" rel="standout"></atom:link>
+      <description>Several significant discoveries have started with a construction worker unearthing a bone and calling in an expert.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 07:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dinosaurs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mammoth Site (Hot Springs, SD)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gray Fossil Site (Gray, Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kent City (Mich)</category>
+      <category domain="">Mastodons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/00mastodons-1/00mastodons-1-moth.jpg" width="151"></media:content>
+      <media:credit>Nic Antaya for The New York Times</media:credit>
+      <media:description>The newly discovered mastodon will join others already on display.</media:description>
+    </item>
+    <item>
+      <title>How a Quebec Lithium Mine May Help Make Electric Cars Affordable</title>
+      <link>https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html" rel="standout"></atom:link>
+      <description>The project also illustrates how difficult it is to get lithium out of the ground and break China’s dominance in processing the metal and turning it into batteries.</description>
+      <dc:creator>Jack Ewing and Brendan George Ko For The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 07:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lithium (Metal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Albemarle Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sayona Mining Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Piedmont Lithium Co</category>
+    </item>
+    <item>
+      <title>Billions in Climate Deal Funding Could Help Protect U.S. Coastal Cities</title>
+      <link>https://www.nytimes.com/2022/09/20/us/politics/climate-law-coastal-projects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/us/politics/climate-law-coastal-projects.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/climate-law-coastal-projects.html" rel="standout"></atom:link>
+      <description>Communities across the country hope to tap into funds from Democrats’ new climate law to restore coastal habitats, part of a program that emphasizes nature-based solutions.</description>
+      <dc:creator>Stephanie Lai</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Jobs Plan (2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Army Corps of Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Conservancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/us/politics/16dc-resilience-2/merlin_213214779_8a17363d-1ca9-4668-9ab8-8f903d0acb53-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Angotti-Jones for The New York Times</media:credit>
+      <media:description>Claire Arre, a marine biologist in Orange County, Calif., aims to combat climate change using nature instead of human-engineered construction.</media:description>
+    </item>
+    <item>
+      <title>On Anniversary of Hurricane Maria, Storm Leaves Puerto Rico in the Dark</title>
+      <link>https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/puerto-rico-power-hurricane-fiona.html" rel="standout"></atom:link>
+      <description>Hurricane Fiona reminded residents that the agonizingly slow work of giving the island a stable power grid remained unfinished.</description>
+      <dc:creator>Laura N. Pérez Sánchez, Patricia Mazzei and Erika P. Rodriguez</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:04:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19puerto-rico-1/19puerto-rico-1-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodríguez For The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Hurricane Fiona Grows to Category 3 in the Caribbean</title>
+      <link>https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html</guid>
+      <atom:link href="https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html" rel="standout"></atom:link>
+      <description>Fiona strengthened as it neared Turks and Caicos early Tuesday. It had knocked out power to most of Puerto Rico and brought heavy rain to the Dominican Republic.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 08:27:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadeloupe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Croix (US Virgin Islands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20xp-fiona-top/20xp-fiona-top-moth.jpg" width="151"></media:content>
+      <media:credit>Ricardo Rojas/Reuters</media:credit>
+      <media:description>Debris on the seashore of Punta Cana, Dominican Republic, on Monday, as Hurricane Fiona passed through.</media:description>
+    </item>
+    <item>
+      <title>What Comes Next in the Fed’s Fight Against Inflation?</title>
+      <link>https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/business/economy/federal-reserve-preview-forecasts.html" rel="standout"></atom:link>
+      <description>Wall Street will watch the central bank’s economic forecasts closely on Wednesday, when another jumbo-size rate increase is expected.</description>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/business/20dc-fed01/20dc-fed01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>A shopper in New York last month. Consumer spending has cooled, but it hasn’t tanked despite the Federal Reserve’s efforts to tamp down growth.</media:description>
     </item>
     <item>
       <title>From Coronation to Funeral: Bookends to the Life of a Queen, and a Generation</title>
@@ -320,61 +356,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/arts/19queen-choreog1/19queen-choreog1-moth.jpg" width="151"></media:content>
       <media:credit>Jeff J Mitchell/Pool via REUTERS</media:credit>
       <media:description>Pallbearers carrying Queen Elizabeth’s coffin into St. George’s Chapel in Windsor.</media:description>
-    </item>
-    <item>
-      <title>Biden Says the Pandemic Is Over. But at Least 400 People Are Dying Daily.</title>
-      <link>https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/biden-covid-pandemic-over.html" rel="standout"></atom:link>
-      <description>The president made the remark in an interview that aired on CBS’s “60 Minutes” on Sunday night. By Monday, the backlash was in full swing.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 23:52:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Fatigue Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-biden-covid_4/merlin_203693628_0411624a-ff51-49e2-aa45-5f7806ec3f2e-moth.jpg" width="151"></media:content>
-      <media:credit>Mario Tama/Getty Images</media:credit>
-      <media:description>Covid-19 patients being treated at Providence St. Mary Medical Center in Apple Valley, Calif.</media:description>
-    </item>
-    <item>
-      <title>Law Enforcement Funding Package Splits Democrats Ahead of Midterm Elections</title>
-      <link>https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/police-democrats-congress-midterms.html" rel="standout"></atom:link>
-      <description>A measure to provide more money for local police departments has become mired in a long-running debate among Democrats about the politics of crime, as Republicans step up attacks.</description>
-      <dc:creator>Annie Karni and Stephanie Lai</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 23:27:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-policefunding_2/19dc-policefunding_2-moth.jpg" width="151"></media:content>
-      <media:credit>David Dee Delgado/Reuters</media:credit>
-      <media:description>Police officers confronting demonstrators in Grand Rapids, Mich., in April. Legislation to increase funding for local police departments has stalled on Capitol Hill.</media:description>
-    </item>
-    <item>
-      <title>Milly Alcock and Emily Carey Say Goodbye to ‘House of the Dragon’</title>
-      <link>https://www.nytimes.com/2022/09/19/arts/television/house-of-the-dragon-milly-alcock-emily-carey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/arts/television/house-of-the-dragon-milly-alcock-emily-carey.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/arts/television/house-of-the-dragon-milly-alcock-emily-carey.html" rel="standout"></atom:link>
-      <description>In a joint interview, Milly Alcock and Emily Carey discussed their now-completed stint in the HBO epic. “We were forced to hang on to each other for dear life,” Alcock said.</description>
-      <dc:creator>Sean T. Collins</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 01:20:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of the Dragon (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alcock, Milly (2000- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carey, Emily (2003- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/arts/19dragonQA-2/19dragonQA-2-moth.jpg" width="151"></media:content>
-      <media:credit>Kalpesh Lathigra for The New York Times</media:credit>
-      <media:description>“We’re very lucky in that we get along in real life, so the chemistry came very organically,” Carey said.</media:description>
     </item>
     <item>
       <title>Don’t Let Republicans Off the Hook on Same-Sex Marriage</title>
@@ -482,9 +463,9 @@
       <link>https://www.nytimes.com/2022/09/20/opinion/ezra-klein-podcast-jesse-jenkins.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ezra-klein-podcast-jesse-jenkins.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ezra-klein-podcast-jesse-jenkins.html" rel="standout"></atom:link>
-      <description>To combat climate change, the energy expert Jesse Jenkins explains how we will need to completely rewire America.</description>
+      <description>The energy expert Jesse Jenkins walks me through the path to our climate goals.</description>
       <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:13 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 09:55:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jesse Jenkins</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
@@ -499,24 +480,6 @@
       <category domain="">climate</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/20eks-jenkins-image-audio-app/20eks-jenkins-image-audio-app-moth.jpg" width="151"></media:content>
       <media:credit>The Andlinger Center</media:credit>
-    </item>
-    <item>
-      <title>Our Predecessors Built a World of Winners and Losers. It’s Time for Something Different.</title>
-      <link>https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/global-development-ford-foundation.html" rel="standout"></atom:link>
-      <description>As the world transitions to recovery from the pandemic, the inequities are only widening, both between and within countries.</description>
-      <dc:creator>Darren Walker</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 22:38:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/19ford/merlin_196611603_ddf59b10-88cf-4443-a055-0d5d3eb1b4d0-moth.jpg" width="151"></media:content>
-      <media:credit>James Estrin/The New York Times</media:credit>
-      <media:description>A protest last year about making the Pfizer Covid-19 vaccine more accessible to poor countries.</media:description>
     </item>
     <item>
       <title>You Cannot Be Too Cynical About Trump (or His Imitators)</title>
@@ -542,115 +505,67 @@
       <media:description>Volunteers and migrants in Edgartown, Mass.</media:description>
     </item>
     <item>
-      <title>NYC Pizza Guide: the Best Clam Pie, Brooklyn Openings and More</title>
-      <link>https://www.nytimes.com/2022/09/13/dining/nyc-pizza-guide-best-clam-pie.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/dining/nyc-pizza-guide-best-clam-pie.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/dining/nyc-pizza-guide-best-clam-pie.html" rel="standout"></atom:link>
-      <description>The most important pizza goings-on across New York City.</description>
-      <dc:creator>Nikita Richardson</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 00:42:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <title>At Summer’s End, a Moment of Wild Surprise</title>
+      <link>https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/opinion/summer-equinox.html" rel="standout"></atom:link>
+      <description>As equinox nears, the lovely cycle life is happening just behind the place in my garden where the goldenrod and the asters look so beautiful together.</description>
+      <dc:creator>Margaret Renkl</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 17:17:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/19renkl-1/19renkl-1-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Greene</media:credit>
+    </item>
+    <item>
+      <title>‘Serial’ Investigates Why Adnan Syed Was Released From Prison</title>
+      <link>https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html" rel="standout"></atom:link>
+      <description>After decades of proclaiming his innocence and a podcast series dedicated to his case, a Mr. Syed won a reversal of his murder conviction.</description>
+      <pubDate>Tue, 20 Sep 2022 10:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/podcasts/20daily-1/20SERIAL-syed-release-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Carlos Barria/Reuters</media:credit>
+      <media:description>Adnan Syed, the subject of the first season of “Serial,” leaving Baltimore City Circuit Court after a judge overturned his conviction. He had served 23 years in prison.</media:description>
+    </item>
+    <item>
+      <title>Ultramarathon Runners Won’t Give Up Their Sport</title>
+      <link>https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html" rel="standout"></atom:link>
+      <description>Last year, the ultramarathon governing body dumped many multiday races from their catalog. So a group of fringe runners created their own championship, and just kept running.</description>
+      <dc:creator>Jared Beasley</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 00:45:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultramarathon Running</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/sports/16multiday-ultras1/16multiday-ultras1-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Gustafson for The New York Times</media:credit>
+      <media:description>Race participants start the race for the first annual GOMU 48-Hour World Championships, an ultramarathon in Hainesport, N.J.</media:description>
+    </item>
+    <item>
+      <title>Perfectly Reasonable Question: Can We Trust the Polls?</title>
+      <link>https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html" rel="standout"></atom:link>
+      <description>Polling error is not inevitable, and there are signs that 2022 may be different.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-    </item>
-    <item>
-      <title>The Future of San Francisco’s Fog and More: The Week in Narrated Articles</title>
-      <link>https://www.nytimes.com/2022/09/16/podcasts/san-francisco-fog-ukraine-monkey-pox-narrated-articles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/podcasts/san-francisco-fog-ukraine-monkey-pox-narrated-articles.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/podcasts/san-francisco-fog-ukraine-monkey-pox-narrated-articles.html" rel="standout"></atom:link>
-      <description>Five articles from around The Times, narrated just for you.</description>
-      <pubDate>Fri, 16 Sep 2022 10:22:14 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/climate/16narrated-1/14CLI-FOG-promo1-moth.jpg" width="151"></media:content>
-      <media:credit>Nina Riggio for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Vegetarian Recipes for Cozy Days</title>
-      <link>https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/dining/vegetarian-recipes-for-cozy-days.html" rel="standout"></atom:link>
-      <description>Soups, stews and comforting, feel-good foods for after a storm.</description>
-      <dc:creator>Tejal Rao</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 17:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/02/27/dining/27kitchrex-b-copy/27kitchrex-b-moth.jpg" width="151"></media:content>
-      <media:credit>David Malosh for The New York Times. Food Stylist: Simon Andrews.</media:credit>
-    </item>
-    <item>
-      <title>Do You Know Someone Who Has Died of Covid Recently? We Want to Hear From You.</title>
-      <link>https://www.nytimes.com/2022/09/13/reader-center/latest-covid-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/13/reader-center/latest-covid-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/13/reader-center/latest-covid-deaths.html" rel="standout"></atom:link>
-      <description>New York Times reporters are looking for people who will share the stories and experiences of loved ones who have recently died.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 13 Sep 2022 21:54:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/19/science/13covid-deaths/merlin_189185988_ff363078-2b37-403c-bf15-d40d33f99fa4-moth.jpg" width="151"></media:content>
-      <media:credit>Isadora Kosofsky for The New York Times</media:credit>
-      <media:description>The Rose River Memorial in Los Angeles, created in 2021 by the artist Marcos Lutyens, honored lives taken by Covid.</media:description>
-    </item>
-    <item>
-      <title>Protests Erupt in Iranian Cities After Woman’s Death in Custody</title>
-      <link>https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
-      <description>The 22-year-old’s death sparked outrage across social, religious and political factions. Four people were reported to have been killed by the security forces.</description>
-      <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 06:50:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19iran-protests-01/19iran-protests-01-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>A protest in downtown Tehran on Monday.</media:description>
-    </item>
-    <item>
-      <title>Physics Body Concedes Mistakes in Study of Missile Defense</title>
-      <link>https://www.nytimes.com/2022/09/19/science/missile-defense-north-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/science/missile-defense-north-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/science/missile-defense-north-korea.html" rel="standout"></atom:link>
-      <description>Two scientists said the American Physical Society had erred in evaluating their plan to use drones to shoot down North Korean long-range missiles.</description>
-      <dc:creator>William J. Broad</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 21:30:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Physical Society</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garwin, Richard L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Postol, Theodore A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lamb, Frederick K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/science/19interceptors1/19interceptors1-moth.jpg" width="151"></media:content>
-      <media:credit>KCNA, via Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>An image released by North Korea’s state-run Korean Central News Agency showed the test launch of an intercontinental ballistic missile.</media:description>
-    </item>
-    <item>
-      <title>Pentagon Orders Review of Its Overseas Social Media Campaigns</title>
-      <link>https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html" rel="standout"></atom:link>
-      <description>The move comes after Twitter and Facebook shut down misleading accounts that they determined were sending messages to promote U.S. foreign policy.</description>
-      <dc:creator>Julian E. Barnes and Sheera Frenkel</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 23:01:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-military1/19dc-military1-moth.jpg" width="151"></media:content>
-      <media:credit>Stefani Reynolds for The New York Times</media:credit>
-      <media:description>The Pentagon has ordered a review of secretive operations to influence populations overseas after White House officials expressed concerns.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20up-trust-polling1/20up-trust-polling1-moth.jpg" width="151"></media:content>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>Pollsters are setting sail yet again this year. Is it a little scary? Yes. </media:description>
     </item>
     <item>
       <title>This Acrobatic Hunting Trick Is Straight Out of the Spider-Verse</title>
@@ -668,6 +583,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+    </item>
+    <item>
+      <title>The Redistricting Mess Comes to New York’s City Council</title>
+      <link>https://www.nytimes.com/2022/09/20/nyregion/redistricting-city-council-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/nyregion/redistricting-city-council-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/nyregion/redistricting-city-council-nyc.html" rel="standout"></atom:link>
+      <description>The Council’s 51 districts are being redrawn, but an initial effort that put Manhattan’s upscale Sutton Place in a Queens district drew lots of criticism.</description>
+      <dc:creator>Jeffery C. Mays</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20nyc-redistrict/20nyc-redistrict-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Kelly/Reuters</media:credit>
+      <media:description>The city’s redistricting commission on Thursday is set to release a revised version of proposed boundaries for City Council districts.</media:description>
     </item>
     <item>
       <title>What is E.M.D.R.? Understanding the Trauma Therapy Practice</title>

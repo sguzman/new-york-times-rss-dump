@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 02:29:16 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 01:49:50 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 04:26:40 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 04:01:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -260,6 +260,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
+    </item>
+    <item>
+      <title>In One Corner of Kosovo, Cheers Still Ring Out for Putin</title>
+      <link>https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html" rel="standout"></atom:link>
+      <description>Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign that broke Serbia’s grip on the territory, see President Vladimir V. Putin’s Russia as a potential savior.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kosovo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18kosovo-russia-01b/18kosovo-russia-01b-moth.jpg" width="151"></media:content>
+      <media:credit>Armend Nimani for The New York Times</media:credit>
+      <media:description>Statues in Mitrovica honor Prince Lazar, left, a Christian Serb ruler at the Battle of Kosovo in 1389 and Grigory Scherbina, right, a Russian envoy to the region.</media:description>
     </item>
     <item>
       <title>Pentagon Orders Review of Its Overseas Social Media Campaigns</title>
@@ -982,28 +998,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ITALY-STATUES1/17ITALY-STATUES1-moth.jpg" width="151"></media:content>
       <media:credit>Emanuele Antonio Minerva and Agnese Sbaffi/Italian Ministry of Culture</media:credit>
       <media:description>Orpheus and the Sirens</media:description>
-    </item>
-    <item>
-      <title>What’s Behind the Success of the Far-Right Sweden Democrats?</title>
-      <link>https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html" rel="standout"></atom:link>
-      <description>Campaigning on issues like immigration, religion, crime and the cost of environmental rules, the Sweden Democrats, a party with neo-Nazi roots, built its support.</description>
-      <dc:creator>Steven Erlanger and Christina Anderson</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 01:25:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17SWEDEN1/17SWEDEN1-moth.jpg" width="151"></media:content>
-      <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A campaign poster for the Sweden Democrats with the slogan “Sweden Will Be Great Again” on a bus stop in Stockholm last month.</media:description>
     </item>
   </channel>
 </rss>

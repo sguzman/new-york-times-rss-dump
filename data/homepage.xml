@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 23:15:38 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 22:59:50 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 23:40:32 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 23:39:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/trump-declassification-documents.html" rel="standout"></atom:link>
       <description>The former president insists he shouldn’t have to state in a legal proceeding that he declassified the documents, while casting doubt on their status.</description>
       <dc:creator>Alan Feuer and Charlie Savage</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 22:57:15 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 23:30:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
@@ -136,13 +136,33 @@
       <media:description>Cheri Beasley arriving for a campaign event at Johnson C. Smith University in Charlotte, N.C., on Friday. She is running for Senate as a judge above the fray.</media:description>
     </item>
     <item>
+      <title>Donors Worry About a Cash Crunch for Voter Registration Groups</title>
+      <link>https://www.nytimes.com/2022/09/20/us/politics/voter-registration-fundraising.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/us/politics/voter-registration-fundraising.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/voter-registration-fundraising.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 23:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Open Society Foundations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20onpolitics-registration/20onpolitics-registration-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <media:description>In 2020, foundations and private donors poured millions into democracy-related projects, including voter registration. But now some of that money may be drying up. </media:description>
+    </item>
+    <item>
       <title>N.Y.C. Subway System to Install Security Cameras in Train Cars</title>
       <link>https://www.nytimes.com/2022/09/20/nyregion/nyc-subway-security-cameras.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/nyregion/nyc-subway-security-cameras.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/20/nyregion/nyc-subway-security-cameras.html" rel="standout"></atom:link>
-      <description>Gov. Kathy Hochul said the installations, which grew from a pilot project after a mass shooting in Brooklyn, would allay riders’ anxiety.</description>
-      <dc:creator>Patrick McGeehan and Luis Ferré-Sadurní</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 16:59:36 +0000</pubDate>
+      <description>Gov. Kathy Hochul said the installations, which grew from a pilot project after a mass shooting in Brooklyn, would allay riders’ anxieties.</description>
+      <dc:creator>Ana Ley</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 23:21:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Brooklyn, NY, Subway Shooting (April 12, 2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
@@ -152,24 +172,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20ny-camera-mta/20ny-camera-mta-moth-v2.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Stations in the subway system are outfitted with cameras, but cars have been a blind spot.</media:description>
-    </item>
-    <item>
-      <title>N.Y.C. Ends Private Employer Vaccine Mandate</title>
-      <link>https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/nyregion/private-employer-vaccine-mandate.html" rel="standout"></atom:link>
-      <description>Mayor Eric Adams received the new booster on Tuesday, as he ended the Covid vaccine mandate and continued to roll back pandemic restrictions.</description>
-      <dc:creator>Sharon Otterman and Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:47:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/nyregion/20ny-pandemic/20ny-pandemic-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Seng for The New York Times</media:credit>
-      <media:description>The Hebrew Home at Riverdale in New York began administering the new bivalent booster shots to residents and workers last week.</media:description>
     </item>
     <item>
       <title>Apps Like Flashfood and Too Good to Go Let You Buy Food That Was Going to be Thrown Away</title>
@@ -243,22 +245,22 @@
       <media:credit>Illustration by Tyler Comrie. Photographs from Getty Images</media:credit>
     </item>
     <item>
-      <title>Mental Health in America: The Politics of ‘Insight’</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html" rel="standout"></atom:link>
-      <description>Psychiatry too often ignores how a patient’s perspective can depend on culture, race, ethnicity and faith.</description>
-      <dc:creator>Rachel Aviv</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 17:43:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Schizophrenia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saks, Elyn R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/sunday/20Aviv-R/20Aviv-R-moth.jpg" width="151"></media:content>
-      <media:credit>Katrien De Blauwer</media:credit>
+      <title>Letter From Europe: We Still Don’t Know How the Ukraine War Ends</title>
+      <link>https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html" rel="standout"></atom:link>
+      <description>But here are three possibilities.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 23:20:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/20friedman1/20friedman1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A man painting over the Russian flag in a recently recaptured Ukrainian village.</media:description>
     </item>
     <item>
       <title>Yvon Chouinard Is the Founder of Patagonia. He’s Also My ‘Dirtbag’ Friend.</title>
@@ -302,16 +304,22 @@
       <media:description>Supporters of the Sweden Democrats political party during its election night rally.</media:description>
     </item>
     <item>
-      <title>“Historical Ecology” Can Help Us Save Our Oceans, Now</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ocean-environment-pollution.html" rel="standout"></atom:link>
-      <description>“Historical ecology” can help us save the seas.</description>
-      <dc:creator>John Waldman</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <title>Mental Health in America: The Politics of ‘Insight’</title>
+      <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-insight.html" rel="standout"></atom:link>
+      <description>Psychiatry too often ignores how a patient’s perspective can depend on culture, race, ethnicity and faith.</description>
+      <dc:creator>Rachel Aviv</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 17:43:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Schizophrenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saks, Elyn R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/sunday/20Aviv-R/20Aviv-R-moth.jpg" width="151"></media:content>
+      <media:credit>Katrien De Blauwer</media:credit>
     </item>
     <item>
       <title>Glenn Youngkin Is Playing a Dangerous Game</title>
@@ -456,21 +464,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bermuda</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19xp-fiona/19xp-fiona-moth.jpg" width="151"></media:content>
       <media:credit>Reuters</media:credit>
-      <media:description>Damage from Hurricane Fiona at Turks and Caicos Island on Tuesday.</media:description>
+      <media:description>Damage from Hurricane Fiona at Punta Cana in the Dominican Republic on Tuesday.</media:description>
     </item>
     <item>
-      <title>Egypt Feels Pain of Global Disruptions Wrought by War and Pandemic</title>
-      <link>https://www.nytimes.com/2022/09/20/world/middleeast/egypt-economy-ukraine-war-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/middleeast/egypt-economy-ukraine-war-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/world/middleeast/egypt-economy-ukraine-war-pandemic.html" rel="standout"></atom:link>
-      <description>The country’s economy has been very hard hit by cascading crises which have disrupted worldwide trade.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 19:27:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00egypt-economy-image06/00egypt-economy-image06-moth.jpg" width="151"></media:content>
-      <media:credit>Khaled Desouki/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Dates and other dried fruit on sale at a market in central Cairo. In March, the Egyptian central bank devalued the currency by about 14 percent and prices shot up.</media:description>
+      <title>Real Estate Developments Bounce Back in New York City</title>
+      <link>https://www.nytimes.com/2022/09/18/realestate/nyc-development-rentals-condos-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/realestate/nyc-development-rentals-condos-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/realestate/nyc-development-rentals-condos-covid.html" rel="standout"></atom:link>
+      <description>But everything is not as it was, with Covid both accelerating some nascent trends and pushing builders in new directions.</description>
+      <dc:creator>Stefanos Chen</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Condominiums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
     <item>
       <title>Do Antidepressants Work for Severe PMS?</title>
@@ -568,23 +575,22 @@
       <media:credit>Monica Garwood</media:credit>
     </item>
     <item>
-      <title>Their Dad Was Like a Brother. Now Pacman Jones Is Family.</title>
-      <link>https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/sports/football/pacman-jones-chris-henry.html" rel="standout"></atom:link>
-      <description>Adam Jones and Chris Henry were once N.F.L. poster athletes for misdeeds. Raising Henry’s children alongside his own, Jones is hoping to help them all avoid the same mistakes.</description>
-      <dc:creator>Jonathan Abrams</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 15:05:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Chris (1983-2009)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Adam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cincinnati Bengals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/sports/19pacman1-alt/merlin_211930350_d91956ed-cb20-44bf-8dd6-6f0ea825acab-moth.jpg" width="151"></media:content>
-      <media:credit>Megan Jelinger for The New York Times</media:credit>
-      <media:description>Adam Jones (who is known widely as Pacman), left, DeMarcus Henry, middle, and Chris Henry Jr., right, at West Clermont High’s football stadium in Batavia, Ohio.</media:description>
+      <title>In Istanbul’s Private Retreats of the Sultans, Time Stands Still</title>
+      <link>https://www.nytimes.com/2022/09/20/travel/istanbul-kasir.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/travel/istanbul-kasir.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/travel/istanbul-kasir.html" rel="standout"></atom:link>
+      <description>The elegant pavilions and summer palaces known as kasir offer a glimpse of history and an intimate and enticing slice of Ottoman life.</description>
+      <dc:creator>Lisa Morrow</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 14:07:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ottoman Empire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/travel/00istanbul-kasri8/merlin_211839093_87991acc-82d4-469a-b1eb-dfbdc7bc9a0c-moth.jpg" width="151"></media:content>
+      <media:credit>Bradley Secker for The New York Times</media:credit>
+      <media:description>Hidiv Kasri, in Beykoz on the Asian side of Istanbul, was built by the Egyptians looking to court Turkish power to their side. </media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

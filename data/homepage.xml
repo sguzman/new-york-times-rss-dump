@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 22:15:12 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 22:03:07 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 22:45:15 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 22:25:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/pandemic-aid-fraud-minnesota.html" rel="standout"></atom:link>
       <description>The defendants were charged with stealing $240 million intended to feed children, in what appears to be the largest theft so far from a pandemic-era program.</description>
       <dc:creator>David A. Fahrenthold</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:17:23 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 22:25:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Feeding Our Future</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
@@ -78,6 +78,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/politics/00dc-military-europe1/00dc-military-europe1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian solder near the city of Izium. A large share of the weapons that Ukraine’s military has received have come from the United States. </media:description>
+    </item>
+    <item>
+      <title>Health Panel Recommends Anxiety Screening for All Adults Under 65</title>
+      <link>https://www.nytimes.com/2022/09/20/health/anxiety-screening-recommendation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/health/anxiety-screening-recommendation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/health/anxiety-screening-recommendation.html" rel="standout"></atom:link>
+      <description>The guidance comes as Americans are coping with illness, isolation and loss from the pandemic, as well as other stressors like inflation and rising crime.</description>
+      <dc:creator>Emily Baumgaertner</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 22:05:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Preventive Services Task Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/science/20anxiety/20anxiety-moth.jpg" width="151"></media:content>
+      <media:credit>iStock/Getty</media:credit>
+      <media:description>The U.S. Preventive Services Task Force recommendation is intended to help identify warning signs during routine examinations.</media:description>
     </item>
     <item>
       <title>The Enduring Wisdom of ‘Goodnight Moon’</title>
@@ -150,24 +170,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/nyregion/20ny-pandemic/20ny-pandemic-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Seng for The New York Times</media:credit>
       <media:description>The Hebrew Home at Riverdale in New York began administering the new bivalent booster shots to residents and workers last week.</media:description>
-    </item>
-    <item>
-      <title>The Godwit’s 7,000-Mile Journey: A Migration That Breaks Records</title>
-      <link>https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/science/migratory-birds-godwits.html" rel="standout"></atom:link>
-      <description>Researchers marvel at the bird’s record-holding migratory flight of 7,000 or so miles from Alaska to New Zealand at this time of year. No eating or refueling along the way.</description>
-      <dc:creator>Jim Robbins</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 07:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/science/00bird-migration-02/00bird-migration-02-moth.jpg" width="151"></media:content>
-      <media:credit> Malcolm Schuyl/Alamy</media:credit>
-      <media:description>Looking for an endless summer, the bar-tailed godwit flies 7,000 miles each year, from Alaska to New Zealand, to breed and raise its young. </media:description>
     </item>
     <item>
       <title>Apps Like Flashfood and Too Good to Go Let You Buy Food That Was Going to be Thrown Away</title>
@@ -336,50 +338,61 @@
       <media:description>Gov. Glenn Youngkin of Virginia, speaking in Michigan at a “Red Wave Party.” </media:description>
     </item>
     <item>
-      <title>Sarah Koenig, the Host of ‘Serial,’ Talks About Adnan Syed’s Release</title>
-      <link>https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html" rel="standout"></atom:link>
-      <description>We talk with Sarah Koenig, host of the “Serial” podcast.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 10:16:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koenig, Sarah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/20-adnan-syed-promo-morning/20-adnan-syed-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Ting Shen for The New York Times</media:credit>
-      <media:description>Adnan Syed, whose case was chronicled on the podcast “Serial,” exited the courthouse to a crowd of supporters on Monday.</media:description>
+      <title>Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2022/09/20/briefing/russia-annexation-votes-minnesota-covid-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/briefing/russia-annexation-votes-minnesota-covid-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/briefing/russia-annexation-votes-minnesota-covid-fraud.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 22:06:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20evening-briefing-nl-RUS/20evening-briefing-nl-RUS-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>An apartment building was heavily damaged by Russian bombs overnight in Bakhmut.</media:description>
     </item>
     <item>
-      <title>‘Serial’ Investigates Why Adnan Syed Was Released From Prison</title>
-      <link>https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/podcasts/the-daily/adnan-syed-serial-conviction-overturned.html" rel="standout"></atom:link>
-      <description>After decades of proclaiming his innocence and a podcast series dedicated to his case, a Mr. Syed won a reversal of his murder conviction.</description>
-      <pubDate>Tue, 20 Sep 2022 11:13:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/podcasts/20daily-1/20daily-1-moth-v5.jpg" width="151"></media:content>
-      <media:credit>Ting Shen for The New York Times</media:credit>
-      <media:description>Adnan Syed, the subject of the first season of “Serial,” leaving Baltimore City Circuit Court after a judge overturned his conviction. He had served 23 years in prison.</media:description>
+      <title>Andrew Sean Greer on Writing ‘Less’</title>
+      <link>https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html" rel="standout"></atom:link>
+      <description>The novelist discusses his Pulitzer-winning comedy about the travels and travails of a heartbroken writer, and William Finnegan talks about surfing.</description>
+      <pubDate>Fri, 16 Sep 2022 16:37:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
     </item>
     <item>
-      <title>Ultramarathon Runners Won’t Give Up Their Sport</title>
-      <link>https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/17/sports/multiday-ultramarathons.html" rel="standout"></atom:link>
-      <description>Last year, the ultramarathon governing body dumped many multiday races from their catalog. So a group of fringe runners created their own championship, and just kept running.</description>
-      <dc:creator>Jared Beasley</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 00:45:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultramarathon Running</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/sports/16multiday-ultras1/16multiday-ultras1-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle Gustafson for The New York Times</media:credit>
-      <media:description>Race participants start the race for the first annual GOMU 48-Hour World Championships, an ultramarathon in Hainesport, N.J.</media:description>
+      <title>Who gets to use gas?</title>
+      <link>https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html" rel="standout"></atom:link>
+      <description>Some African countries, which have done little to cause the climate crisis, say they should. Many climate activists on the continent call the idea “folly.” We unpack the debate.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 10:49:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/climate/20cli-newsletter-gas/20cli-newsletter-gas-moth.jpg" width="151"></media:content>
+      <media:credit>Sunday Alamba/Associated Press</media:credit>
+      <media:description>Gas flares in Idu, a town in the Niger Delta of Nigeria.</media:description>
+    </item>
+    <item>
+      <title>Perfectly Reasonable Question: Can We Trust the Polls?</title>
+      <link>https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html" rel="standout"></atom:link>
+      <description>Polling error is not inevitable, and there are signs that 2022 may be different.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20up-trust-polling1/20up-trust-polling1-moth.jpg" width="151"></media:content>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <media:description>Pollsters are setting sail yet again this year. Is it a little scary? Yes. </media:description>
     </item>
     <item>
       <title>Prime Minister Liz Truss Pivots From Queen’s Funeral to U.K.’s Crises</title>
@@ -430,7 +443,7 @@
       <atom:link href="https://www.nytimes.com/article/tropical-storm-fiona-hurricane.html" rel="standout"></atom:link>
       <description>Fiona strengthened early Tuesday after knocking out power to most of Puerto Rico and bringing heavy rain to the Dominican Republic. It was expected to reach Bermuda by Thursday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 22:03:07 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 22:24:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
@@ -441,9 +454,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bermuda</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20xp-fiona-top/20xp-fiona-top-moth.jpg" width="151"></media:content>
-      <media:credit>Ricardo Rojas/Reuters</media:credit>
-      <media:description>Debris on the seashore of Punta Cana, Dominican Republic, on Monday, as Hurricane Fiona passed through.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19xp-fiona/19xp-fiona-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Damage from Hurricane Fiona at Turks and Caicos Island on Tuesday.</media:description>
     </item>
     <item>
       <title>Egypt Feels Pain of Global Disruptions Wrought by War and Pandemic</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 20:24:51 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 20:21:12 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 20:46:30 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 20:43:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/ukraine-russia-war" rel="standout"></atom:link>
       <description>With Ukrainian forces on the offensive in the east and south, the Kremlin could use the votes to try to justify absorbing occupied parts of Ukraine and a possible escalation of the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:21:12 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:42:23 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-briefing-header/20ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A street in Bakhmut, Ukraine, on Monday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly" rel="standout"></atom:link>
       <description>The French president said no nations should be indifferent to the war in Ukraine as world leaders addressed a long list of global issues at the U.N. General Assembly.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:18:45 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:41:41 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20unga-briefing-Macron230pm/20unga-briefing-Macron230pm-moth.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>President Emmanuel Macron of France speaking at the 77th session of the United Nations General Assembly in New York City on Tuesday.</media:description>
@@ -115,7 +115,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
       <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:18:45 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:43:33 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
       <media:credit>James Hill for The New York Times</media:credit>
     </item>
@@ -654,7 +654,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html" rel="standout"></atom:link>
       <description>Manufacturers are furloughing workers and shutting down lines because they can’t pay the gas and electric charges.</description>
       <dc:creator>Liz Alderman</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 19:04:14 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 19:04:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -800,12 +800,14 @@
       <atom:link href="https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html" rel="standout"></atom:link>
       <description>The things that made the queen the queen.</description>
       <dc:creator>Louis Lucero II</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 15:22:14 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 20:28:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/fashion/19QUEEN-ICONOGRAPHY-top/19QUEEN-ICONOGRAPHY-top-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Symbols</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/fashion/19QUEEN-ICONOGRAPHY-top/19QUEEN-ICONOGRAPHY-top-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Rebecca Naden</media:credit>
     </item>
     <item>
@@ -832,28 +834,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier in front of a hotel in Kramatorsk on Sunday. It was struck by a Russian missile overnight.</media:description>
-    </item>
-    <item>
-      <title>Biden Pays Homage to Queen Elizabeth as ‘Decent, Honorable’</title>
-      <link>https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html" rel="standout"></atom:link>
-      <description>The U.S. president will be one of dozens of world leaders attending the funeral on Monday for a royal who had ruled for nearly as long as the president has lived.</description>
-      <dc:creator>Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Sun, 18 Sep 2022 22:10:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18queen-biden1/18queen-biden1-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>President Biden signing the official condolence book for Queen Elizabeth II at Lancaster House in London on Sunday.</media:description>
     </item>
   </channel>
 </rss>

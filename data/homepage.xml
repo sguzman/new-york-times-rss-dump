@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 20 Sep 2022 10:41:24 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Sep 2022 10:39:12 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2022 11:11:28 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 11:03:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -245,6 +245,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Albemarle Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sayona Mining Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Piedmont Lithium Co</category>
+      <category domain="">future of transportation</category>
     </item>
     <item>
       <title>Billions in Climate Deal Funding Could Help Protect U.S. Coastal Cities</title>
@@ -428,7 +429,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/patagonia-yvon-chouinard-tom-brokaw.html" rel="standout"></atom:link>
       <description>Yvon Chouinard has given away his company in his fight to save the planet.</description>
       <dc:creator>Tom Brokaw</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 10:30:07 +0000</pubDate>
+      <pubDate>Tue, 20 Sep 2022 11:03:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -695,23 +696,22 @@
       <media:credit>Keith Negley</media:credit>
     </item>
     <item>
-      <title>Jenny Xie Explores the Subversive Power of the Concealed and the Overlooked</title>
-      <link>https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html" rel="standout"></atom:link>
-      <description>In her new poetry collection, “The Rupture Tense,” Xie peeks at the past — her family’s, and China’s — to examine the consequences of “how we see, what we see, and also what we allow to remain unseen.”</description>
-      <dc:creator>Han Zhang</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 19:42:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cultural Revolution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Zhensheng (1940- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xie, Jenny (Author)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/books/19xie-1/19xie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>“A lot of things remained hidden by people who became accustomed to living inside these dead silences,” Xie said.</media:description>
+      <title>Can Tony Gilroy Bring New Hope to ‘Star Wars’?</title>
+      <link>https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/15/arts/television/star-wars-andor-tony-gilroy.html" rel="standout"></atom:link>
+      <description>The “Michael Clayton” and “Bourne Legacy” filmmaker returns to the world he helped establish in “Rogue One” with a new Disney+ series, “Andor.”</description>
+      <dc:creator>Dave Itzkoff</dc:creator>
+      <pubDate>Thu, 15 Sep 2022 09:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gilroy, Tony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lucasfilm Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Andor (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/arts/18tony-gilroy/18tony-gilroy-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Jamieson for The New York Times</media:credit>
+      <media:description>Tony Gilroy’s new “Star Wars” series, “Andor,” is less interested in lightsaber duels than in the details of day-to-day life on distant planets.</media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

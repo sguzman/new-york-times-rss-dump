@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 08:34:40 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 07:45:49 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 08:57:28 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 08:47:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -152,6 +152,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20unga-briefing-Macron230pm/20unga-briefing-Macron230pm-moth.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>President Emmanuel Macron of France speaking at the 77th session of the United Nations General Assembly in New York City on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>On a Grim Anniversary, 230 Pilot Whales Are Stranded in Tasmania</title>
+      <link>https://www.nytimes.com/2022/09/21/world/australia/stranded-whales-tasmania.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/australia/stranded-whales-tasmania.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/australia/stranded-whales-tasmania.html" rel="standout"></atom:link>
+      <description>“At least 95 percent will die, because the ocean’s just so fierce,” said a boat skipper on the scene, where 470 whales were also beached in 2020.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 08:47:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Die-Offs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tasmania (Australia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20oz-whales-01/20oz-whales-01-moth.jpg" width="151"></media:content>
+      <media:credit>Department of Natural Resources and Environment Tasmania, via Associated Press</media:credit>
+      <media:description>Pilot whales stranded on the western coast of Tasmania on Wednesday.</media:description>
     </item>
     <item>
       <title>German Government Nationalizes Uniper in Move to Secure Energy Supply</title>
@@ -707,24 +724,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-russia-china/19ukraine-briefing-russia-china-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Sergei Bobylev</media:credit>
       <media:description>President Vladimir V. Putin of Russia and Xi Jinping, China’s leader, met in Uzbekistan last week.</media:description>
-    </item>
-    <item>
-      <title>McDonald’s Begins to Reopen Restaurants in Ukraine This Week</title>
-      <link>https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html" rel="standout"></atom:link>
-      <description>Three outlets will open in Kyiv for delivery, before a wider reopening in the capital and west of the country over the next two months.</description>
-      <dc:creator>Isabella Simonetti</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 19:16:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19ukraine-mcdonalds/19ukraine-mcdonalds-moth.jpg" width="151"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>All 109 McDonald’s restaurants in Ukraine closed after Russia invaded in February.</media:description>
     </item>
   </channel>
 </rss>

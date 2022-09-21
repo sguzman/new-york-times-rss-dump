@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 17:42:26 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 17:35:45 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 17:55:13 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 17:55:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -99,7 +99,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/interest-rates-inflation.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/21/business/interest-rates-inflation.html" rel="standout"></atom:link>
       <description>The Federal Reserve is raising interest rates to fight inflation. Some economists want more; some politicians want less. What’s the logic?</description>
-      <pubDate>Wed, 21 Sep 2022 15:00:03 +0000</pubDate>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 17:51:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
@@ -141,10 +142,10 @@
       <media:description>A video of Tariq, 7, took off online when he shared his love of corn. </media:description>
     </item>
     <item>
-      <title>Suns and Mercury Owner Robert Sarver Plans to Sell Teams Amid Scandal</title>
-      <link>https://www.nytimes.com/2022/09/21/sports/basketball/nba-robert-sarver-phoenix-suns-sell-team.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/sports/basketball/nba-robert-sarver-phoenix-suns-sell-team.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/sports/basketball/nba-robert-sarver-phoenix-suns-sell-team.html" rel="standout"></atom:link>
+      <title>Robert Sarver to Tell Phoenix Suns and Mercury Teams Amid Scandal</title>
+      <link>https://www.nytimes.com/2022/09/21/sports/basketball/robert-sarver-phoenix-suns-mercury.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/sports/basketball/robert-sarver-phoenix-suns-mercury.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/sports/basketball/robert-sarver-phoenix-suns-mercury.html" rel="standout"></atom:link>
       <description>Robert Sarver, the majority owner of the N.B.A. and W.N.B.A. teams in Phoenix, had been fined $10 million and suspended for using racist slurs and mistreating employees for years.</description>
       <dc:creator>Scott Cacciola</dc:creator>
       <pubDate>Wed, 21 Sep 2022 17:27:19 +0000</pubDate>
@@ -168,7 +169,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/arts/ernest-hemingway-archive-penn-state.html" rel="standout"></atom:link>
       <description>The trove of items deposited in Key West, now part of a new archive at Penn State, includes four unpublished short stories, drafts of manuscripts and boxes of personal effects.</description>
       <dc:creator>Robert K. Elder</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 17:26:09 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 17:45:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania State University</category>
@@ -447,16 +448,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/business/china-covid-zero-policy-bus-crash.html" rel="standout"></atom:link>
       <description>A bus heading to a quarantine facility crashed, killing 27. The Chinese public saw themselves in the victims: a country being held hostage by the government’s harsh policy.</description>
       <dc:creator>Li Yuan</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 12:20:29 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 17:54:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/21newworld-1/21newworld-1-moth.jpg" width="151"></media:content>
-      <media:credit>Andy Wong/Associated Press</media:credit>
-      <media:description>Waiting in line for a routine Covid test in Beijing. China has faced nearly three years of constant lockdowns, mass testing and quarantines under its “zero Covid” policy.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/21Newworld-iilo/21Newworld-iilo-moth.jpg" width="151"></media:content>
+      <media:credit>Xinmei Liu</media:credit>
     </item>
     <item>
       <title>How MLB Authenticates Balls Like Aaron Judge’s 60th Homer</title>
@@ -496,24 +496,22 @@
       <media:description>Yeshiva University in New York is in a legal fight with an L.G.B.T.Q. student organization.</media:description>
     </item>
     <item>
-      <title>A Horse’s Collapse Rekindles Debate about Carriage Rides in New York’s Central Park</title>
-      <link>https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html" rel="standout"></atom:link>
-      <description>The horses have charmed tourists since the 19th century, but detractors say there is abuse and exploitation. Drivers say they are animal lovers doing their best.</description>
-      <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 15:02:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Society for the Prevention of Cruelty to Animals</category>
-      <category domain="">future of transportation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/nyregion/18carriage-horses1/18carriage-horses1-moth.jpg" width="151"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>Christina Hansen drives her horse, Oreo, across Manhattan.</media:description>
+      <title>Allan M. Siegal, Influential Watchdog Inside The Times, Dies at 82</title>
+      <link>https://www.nytimes.com/2022/09/21/business/media/allan-m-siegal-influential-watchdog-inside-the-times-dies-at-82.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/media/allan-m-siegal-influential-watchdog-inside-the-times-dies-at-82.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/business/media/allan-m-siegal-influential-watchdog-inside-the-times-dies-at-82.html" rel="standout"></atom:link>
+      <description>As a top editor who was both feared and revered at the newspaper for decades, he left a deep imprint as its arbiter of language, taste, tone and ethics.</description>
+      <dc:creator>Todd S. Purdum</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 17:39:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Siegal, Allan M. (1940-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pentagon Papers</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/obituaries/21Siegal1/21Siegal1-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>The longtime New York Times assistant managing editor Allan M. Siegal in the Times newsroom in 1987. “Being fair is better than being first,” he would say.</media:description>
     </item>
     <item>
       <title>Do Antidepressants Work for Severe PMS?</title>

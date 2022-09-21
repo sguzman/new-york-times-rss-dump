@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 13:53:19 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 13:52:47 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 14:30:20 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 14:29:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/21/world/russia-ukraine-war-putin" rel="standout"></atom:link>
       <description>In a rare address to the nation, the Russian president railed against the West for providing Ukraine with arms and made a veiled threat of using nuclear weapons. Russia’s defense minister put the number of new call-ups at 300,000.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 13:50:12 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 14:29:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-briefing-header/21ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers securing an area on Tuesday in Kupiansk, a town in eastern Ukraine that was retaken from Russian forces.</media:description>
@@ -31,12 +31,12 @@
       <link>https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden" rel="standout"></atom:link>
-      <description>The day’s topics at the United Nations will include a heavy dose of the Ukraine war, and a session on climate change.</description>
+      <description>The day’s topics at the United Nations General Assembly will include a heavy dose of the Ukraine war, and a session on climate change.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 13:52:47 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-header-8am/21unga-blog-header-8am-moth.jpg" width="151"></media:content>
-      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The United Nations headquarters building from across the East River in New York City on Tuesday.</media:description>
+      <pubDate>Wed, 21 Sep 2022 14:26:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-header-10am/21unga-blog-header-10am-moth.jpg" width="151"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Ebrahim Raisi, Iran’s President, made his first appearance at the United Nations headquarters in New York on Wednesday.</media:description>
     </item>
     <item>
       <title>Victims Recall Life in the Philippines Under Marcos’s Martial Law</title>
@@ -88,17 +88,18 @@
       <dc:creator>Anton Troianovski</dc:creator>
       <pubDate>Wed, 21 Sep 2022 00:36:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Dmitri A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-ledeal-2/20ukraine-ledeal-2-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Ermochenko/Reuters</media:credit>
       <media:description>A billboard in Luhansk, Ukraine, on Tuesday advertising “The Future of the Luhansk People’s Republic.” Luhansk is the capital of one of the two provinces of eastern Ukraine with Russian-backed insurgencies that President Vladimir V. Putin declared independent in February.</media:description>
@@ -191,7 +192,13 @@
       <description>The country’s economy has been very hard hit by cascading crises which have disrupted worldwide trade.</description>
       <dc:creator>The New York Times</dc:creator>
       <pubDate>Tue, 20 Sep 2022 19:27:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00egypt-economy-image06/00egypt-economy-image06-moth.jpg" width="151"></media:content>
       <media:credit>Khaled Desouki/Agence France-Presse — Getty Images</media:credit>
@@ -205,10 +212,15 @@
       <description>Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign that broke Serbia’s grip on the territory, see President Vladimir V. Putin’s Russia as a potential savior.</description>
       <dc:creator>Andrew Higgins</dc:creator>
       <pubDate>Tue, 20 Sep 2022 04:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kosovo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18kosovo-russia-01b/18kosovo-russia-01b-moth.jpg" width="151"></media:content>
       <media:credit>Armend Nimani for The New York Times</media:credit>
       <media:description>Statues in Mitrovica honor Prince Lazar, left, a Christian Serb ruler at the Battle of Kosovo in 1389 and Grigory Scherbina, right, a Russian envoy to the region.</media:description>
@@ -248,6 +260,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/arts/RSC-LEADER01/RSC-LEADER01-moth.jpg" width="151"></media:content>
       <media:credit>Seamus Ryan</media:credit>
       <media:description>Daniel Evans and Tamara Harvey will start work as the Royal Shakespeare Company’s new artistic directors in June.</media:description>
+    </item>
+    <item>
+      <title>The Theater at War</title>
+      <link>https://www.nytimes.com/2022/09/21/theater/burnt-city-theater-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/theater/burnt-city-theater-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/theater/burnt-city-theater-war.html" rel="standout"></atom:link>
+      <description>In shows like “The Burnt City,” the chaos of war meets the curated artifice of performance, our critic writes. But “Oresteia” took a different view, and the audience was better for it.</description>
+      <dc:creator>Maya Phillips</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 14:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Punchdrunk Theatricals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Burnt City (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Oresteia (Play)</category>
     </item>
     <item>
       <title>Analysis: A Cornered Putin Is More Dangerous Than Ever</title>
@@ -439,19 +464,20 @@
       <description>The Biden administration is trying to keep its allies on board as the Russian invasion has sent energy prices soaring.</description>
       <dc:creator>Chris Cameron and Helene Cooper</dc:creator>
       <pubDate>Wed, 21 Sep 2022 10:08:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/politics/00dc-military-europe1/00dc-military-europe1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A Ukrainian solder near the city of Izium. A large share of the weapons that Ukraine’s military has received have come from the United States. </media:description>

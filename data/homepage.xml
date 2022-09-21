@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 10:13:52 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 09:14:50 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 10:44:05 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 10:30:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -341,7 +341,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html" rel="standout"></atom:link>
       <description>Has the term become so expansive as to be meaningless?</description>
       <dc:creator>Huw Green</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 10:14:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
@@ -388,12 +388,50 @@
       <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
     </item>
     <item>
+      <title>A Shrinking Margin</title>
+      <link>https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html" rel="standout"></atom:link>
+      <description>Democrats lost ground with Hispanic voters in 2020. It doesn’t seem to have been a blip.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 10:28:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21-THE-MORNING-NL-hisp-vote/21-THE-MORNING-NL-hisp-vote-moth.jpg" width="151"></media:content>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>Eric Trump in 2020 at a Latinos for Trump event in Phoenix.</media:description>
+    </item>
+    <item>
+      <title>How Border Politics Landed in Martha’s Vineyard</title>
+      <link>https://www.nytimes.com/2022/09/21/podcasts/the-daily/migrants-marthas-vineyard-desantis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/podcasts/the-daily/migrants-marthas-vineyard-desantis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/podcasts/the-daily/migrants-marthas-vineyard-desantis.html" rel="standout"></atom:link>
+      <description>Two conservative governors are trying to make undocumented immigration a problem for blue states, not just red ones.</description>
+      <dc:creator>Michael Barbaro, Rob Szypko, Sydney Harper, Mooj Zadie, Will Reid, Liz O. Baylen, Marion Lozano, Rowan Niemisto and Chris Wood</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Martha&#39;s Vineyard (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21daily-migrants/21daily-migrants-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Cosby for The New York Times</media:credit>
+      <media:description>A mother and daughter who were among the migrants flown to Martha’s Vineyard from Florida taking in the view last week as a ferry left the island.</media:description>
+    </item>
+    <item>
       <title>‘Serial:’ Season 1</title>
       <link>https://www.nytimes.com/2022/09/20/podcasts/serial-adnan-syed.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/podcasts/serial-adnan-syed.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/20/podcasts/serial-adnan-syed.html" rel="standout"></atom:link>
-      <description>A high school senior named Hae Min Lee disappeared one day after school in 1999, in Baltimore County, Md. A month later, her body was found in a city park. She’d been strangled. Her 17-year-old ex-boyfriend, Adnan Syed, was charged with murder, and within a year, he was sentenced to life in prison. The case against him was largely based on the story of one witness, Adnan’s friend Jay, who testified that he had helped Adnan bury Hae’s body. But Adnan has always maintained that he had nothing to do with Hae’s death. Some people believe he has been telling the truth. Many others don’t.</description>
-      <pubDate>Tue, 20 Sep 2022 09:03:11 +0000</pubDate>
+      <description>Serial is a podcast from the creators of This American Life, hosted by Sarah Koenig. Serial tells one story — a true story — over the course of a season.</description>
+      <dc:creator>Serial Productions</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 10:22:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
@@ -405,49 +443,16 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Who gets to use gas?</title>
-      <link>https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/climate/who-gets-to-use-gas.html" rel="standout"></atom:link>
-      <description>Some African countries, which have done little to cause the climate crisis, say they should. Many climate activists on the continent call the idea “folly.” We unpack the debate.</description>
-      <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 10:49:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <title>Dates With a Book, Meals for Roller Skaters and More Reader Requests</title>
+      <link>https://www.nytimes.com/2022/09/20/dining/dates-with-a-book-meals-for-roller-skaters-and-more-reader-requests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/dining/dates-with-a-book-meals-for-roller-skaters-and-more-reader-requests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/dining/dates-with-a-book-meals-for-roller-skaters-and-more-reader-requests.html" rel="standout"></atom:link>
+      <description>Looking to celebrate a quiet birthday on your own? No problem.</description>
+      <dc:creator>Nikita Richardson</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 21:10:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/climate/20cli-newsletter-gas/20cli-newsletter-gas-moth.jpg" width="151"></media:content>
-      <media:credit>Sunday Alamba/Associated Press</media:credit>
-      <media:description>Gas flares in Idu, a town in the Niger Delta of Nigeria.</media:description>
-    </item>
-    <item>
-      <title>Andrew Sean Greer on Writing ‘Less’</title>
-      <link>https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/16/books/review/andrew-sean-greer-on-writing-less.html" rel="standout"></atom:link>
-      <description>The novelist discusses his Pulitzer-winning comedy about the travels and travails of a heartbroken writer, and William Finnegan talks about surfing.</description>
-      <pubDate>Fri, 16 Sep 2022 16:37:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-    </item>
-    <item>
-      <title>Perfectly Reasonable Question: Can We Trust the Polls?</title>
-      <link>https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/upshot/polling-midterms-trust.html" rel="standout"></atom:link>
-      <description>Polling error is not inevitable, and there are signs that 2022 may be different.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 09:00:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20up-trust-polling1/20up-trust-polling1-moth.jpg" width="151"></media:content>
-      <media:credit>Adam Dean for The New York Times</media:credit>
-      <media:description>Pollsters are setting sail yet again this year. Is it a little scary? Yes. </media:description>
     </item>
     <item>
       <title>Health Panel Recommends Anxiety Screening for All Adults Under 65</title>

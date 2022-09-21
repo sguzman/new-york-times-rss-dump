@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 09:33:43 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 08:47:16 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 09:53:49 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 09:00:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -194,21 +194,81 @@
       <media:description>Levitan first had the idea for “Reboot” during the controversy in which Roseanne Barr was fired from her own revived sitcom.</media:description>
     </item>
     <item>
-      <title>Is America Really in a Mental Health Crisis?</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html" rel="standout"></atom:link>
-      <description>Many in power would prefer to kick questions like “What caused the mental health crisis?” and “Who benefits?” out of sight. Don’t let them.</description>
-      <dc:creator>Danielle Carr</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:16:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/sunday/20Carr/20Carr-moth.jpg" width="151"></media:content>
-      <media:credit>Nico Krijno</media:credit>
+      <title>Three Paths Toward an Endgame for Putin’s War</title>
+      <link>https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html" rel="standout"></atom:link>
+      <description>But here are three possibilities.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 01:08:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/20friedman1/20friedman1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A man painting over the Russian flag in a recently recaptured Ukrainian village.</media:description>
+    </item>
+    <item>
+      <title>Inside the Completely Legal G.O.P. Plot to Destroy American Democracy</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html" rel="standout"></atom:link>
+      <description>Imagine a legal January 6. It’s bureaucratic, boring, invisible, and it might actually succeed.</description>
+      <dc:creator>Johnny Harris and Michelle Cottle</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
+    </item>
+    <item>
+      <title>Can Republicans Tax the Rich?</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html" rel="standout"></atom:link>
+      <description>The continuing quest for a conservative policy reformation, and its continuing problems.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Gains Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cotton, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21douthat1/21doutaht1-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>We’re Losing the Luxury of a Summer Spent Outdoors</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html" rel="standout"></atom:link>
+      <description>For children growing up in the American West, it isn’t a question of what you want to do outdoors; it’s a question of whether you can even go outside.</description>
+      <dc:creator>Emma Pattee</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Chelan (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18Pattee/18Pattee-moth.jpg" width="151"></media:content>
+      <media:credit>Tracy Barbutes/Reuters</media:credit>
     </item>
     <item>
       <title>The Border Crisis Could Still Be Biden’s Opportunity</title>
@@ -231,65 +291,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
     </item>
     <item>
-      <title>Three Paths Toward an Endgame for Putin’s War</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html" rel="standout"></atom:link>
-      <description>But here are three possibilities.</description>
-      <dc:creator>Thomas L. Friedman</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 01:08:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/20friedman1/20friedman1-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>A man painting over the Russian flag in a recently recaptured Ukrainian village.</media:description>
-    </item>
-    <item>
-      <title>Yvon Chouinard Is the Founder of Patagonia. He’s Also My ‘Dirtbag’ Friend.</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/patagonia-yvon-chouinard-tom-brokaw.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/patagonia-yvon-chouinard-tom-brokaw.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/patagonia-yvon-chouinard-tom-brokaw.html" rel="standout"></atom:link>
-      <description>Yvon Chouinard has given away his company in his fight to save the planet.</description>
-      <dc:creator>Tom Brokaw</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 17:08:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Esprit Holdings Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard Business School</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Face, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patagonia Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chouinard, Yvon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tompkins, Douglas (1943- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/00brokaw/00brokaw-moth.jpg" width="151"></media:content>
-      <media:credit>Laure Joliet for The New York Times</media:credit>
-      <media:description>Yvon Chouinard in the original Tin Shed, the blacksmith shop where he forged pitons for climbing.</media:description>
-    </item>
-    <item>
-      <title>Sweden’s Far Right Is Rising</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/sweden-democrats-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/sweden-democrats-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/sweden-democrats-elections.html" rel="standout"></atom:link>
-      <description>The idea of Sweden as a land of equal opportunity, safe from the plagues of extreme left or extreme right that haunt other countries, is gone.</description>
-      <dc:creator>Elisabeth Asbrink</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 18:34:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/19asbrink/18asbrink-moth.jpg" width="151"></media:content>
-      <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Supporters of the Sweden Democrats political party during its election night rally.</media:description>
-    </item>
-    <item>
       <title>Is There Too Much ‘Mental Health’ Awareness in the United States?</title>
       <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html</guid>
@@ -306,28 +307,41 @@
       <media:credit>Illustration by Tyler Comrie. Photographs from Getty Images</media:credit>
     </item>
     <item>
-      <title>Glenn Youngkin Is Playing a Dangerous Game</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/glenn-youngkin-midterms-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/glenn-youngkin-midterms-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/glenn-youngkin-midterms-trump.html" rel="standout"></atom:link>
-      <description>The governor believes he needs to cater to and actually support election questioners and deniers to have a shot at leading the Republican Party.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 14:04:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 1948</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Humphrey, Hubert H Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thurmond, Strom</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/20bouie-1/20bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Emily Elconin for The New York Times</media:credit>
-      <media:description>Gov. Glenn Youngkin of Virginia, speaking in Michigan at a “Red Wave Party.” </media:description>
+      <title>Are There Better Places to Put Large Solar Farms Than These Forests?</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/environment/solar-panels-virginia-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/environment/solar-panels-virginia-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/environment/solar-panels-virginia-climate-change.html" rel="standout"></atom:link>
+      <description>For the great promise of renewable energy to be realized, states like Virginia must create an environment where solar, nature and people can peaceably coexist.</description>
+      <dc:creator>Gabriel Popkin</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/opinion/14popkin-image2/14popkin-image2-moth.jpg" width="151"></media:content>
+      <media:credit>Melissa Lyttle for The New York Times</media:credit>
+      <media:description>Twitty’s Creek Solar, a 134-acre, 15-megawatt installation along Highway 59, is the first solar project operating in Charlotte County, Va.</media:description>
+    </item>
+    <item>
+      <title>My Teachers Made Me Who I Am</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html" rel="standout"></atom:link>
+      <description>In the midst of a debate about the content being presented in America’s schools, the equally pressing issue of how teachers teach is in danger of being lost. </description>
+      <dc:creator>Esau McCaulley</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21McCaulley-1/21McCaulley-1-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
     </item>
     <item>
       <title>‘Serial:’ Season 1</title>

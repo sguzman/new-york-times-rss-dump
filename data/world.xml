@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 11:52:11 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 11:50:23 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 12:49:34 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 12:48:50 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,22 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/21/world/russia-ukraine-war-putin" rel="standout"></atom:link>
       <description>In a rare address to the nation, the Russian president railed against the West for providing Ukraine with arms and made a veiled threat of using nuclear weapons. Russia’s defense minister put the number of new call-ups at 300,000.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 11:50:23 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 12:48:50 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-briefing-header/21ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers securing an area on Tuesday in Kupiansk, a town in eastern Ukraine that was retaken from Russian forces.</media:description>
+    </item>
+    <item>
+      <title>U.N. Updates: Biden to Address General Assembly on Day of Ukraine Debates</title>
+      <link>https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden" rel="standout"></atom:link>
+      <description>World leaders, including the presidents of Ukraine and Iran, are due to discuss the war in Ukraine, food and energy crises, and climate change.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 12:45:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-header-8am/21unga-blog-header-8am-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The United Nations headquarters building from across the East River in New York City on Tuesday.</media:description>
     </item>
     <item>
       <title>Victims Recall Life in the Philippines Under Marcos’s Martial Law</title>
@@ -43,6 +55,50 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+    </item>
+    <item>
+      <title>Russia Signals Annexation of Parts of Ukraine, Raising Stakes in Fighting</title>
+      <link>https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html" rel="standout"></atom:link>
+      <description>Kremlin-backed officials in four partially occupied regions announced referendums on joining Russia, as Moscow tightens its grip and hints at escalation.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 00:36:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Dmitri A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-ledeal-2/20ukraine-ledeal-2-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>A billboard in Luhansk, Ukraine, on Tuesday advertising “The Future of the Luhansk People’s Republic.” Luhansk is the capital of one of the two provinces of eastern Ukraine with Russian-backed insurgencies that President Vladimir V. Putin declared independent in February.</media:description>
+    </item>
+    <item>
+      <title>French Left Lawmaker Admits Slapping Wife, and Party Leader Defends Him</title>
+      <link>https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html" rel="standout"></atom:link>
+      <description>Jean-Luc Mélenchon, the leader of the leftist France Unbowed party, expressed “trust” and “affection” for Adrien Quatennens, setting off a firestorm.</description>
+      <dc:creator>Aurelien Breeden and Catherine Porter</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 10:35:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20france-abuse-1/20france-abuse-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Adrien Quatennens, shown last month speaking in the National Assembly in Paris, said he would step down from his role as a top coordinator for the France Unbowed party.</media:description>
     </item>
     <item>
       <title>Russia’s Invasion Shadows U.N. Assembly Amid ‘Colossal Global Dysfunction’</title>
@@ -120,6 +176,22 @@
       <media:description>Dates and other dried fruit on sale at a market in central Cairo. In March, the Egyptian central bank devalued the currency by about 14 percent and prices shot up.</media:description>
     </item>
     <item>
+      <title>In One Corner of Kosovo, Cheers Still Ring Out for Putin</title>
+      <link>https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html" rel="standout"></atom:link>
+      <description>Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign that broke Serbia’s grip on the territory, see President Vladimir V. Putin’s Russia as a potential savior.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kosovo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18kosovo-russia-01b/18kosovo-russia-01b-moth.jpg" width="151"></media:content>
+      <media:credit>Armend Nimani for The New York Times</media:credit>
+      <media:description>Statues in Mitrovica honor Prince Lazar, left, a Christian Serb ruler at the Battle of Kosovo in 1389 and Grigory Scherbina, right, a Russian envoy to the region.</media:description>
+    </item>
+    <item>
       <title>Protests Erupt in Iran After Woman’s Death in Custody</title>
       <link>https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html</guid>
@@ -138,52 +210,97 @@
       <media:description>A protest in downtown Tehran on Monday.</media:description>
     </item>
     <item>
-      <title>In One Corner of Kosovo, Cheers Still Ring Out for Putin</title>
-      <link>https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html" rel="standout"></atom:link>
-      <description>Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign that broke Serbia’s grip on the territory, see President Vladimir V. Putin’s Russia as a potential savior.</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 04:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <title>Royal Shakespeare Company Names Two Directors for Top Job</title>
+      <link>https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html" rel="standout"></atom:link>
+      <description>In an unusual move for a major British theater, Daniel Evans and Tamara Harvey will jointly helm the major British theater troupe.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 05:33:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Shakespeare Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harvey, Tamara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doran, Gregory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stratford-upon-Avon (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/arts/RSC-LEADER01/RSC-LEADER01-moth.jpg" width="151"></media:content>
+      <media:credit>Seamus Ryan</media:credit>
+      <media:description>Daniel Evans and Tamara Harvey will start work as the Royal Shakespeare Company’s new artistic directors in June.</media:description>
+    </item>
+    <item>
+      <title>Mexico Has Tequila. Peru, Pisco. In Colombia, a Push for Viche, Now Legal.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
+      <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
+      <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 17:09:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marquez, Francia</category>
+      <category domain="">viche</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
+    </item>
+    <item>
+      <title>Analysis: A Cornered Putin Is More Dangerous Than Ever</title>
+      <link>https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>In a major speech, he recast the war in Ukraine and made clear that it could spread.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 12:36:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kosovo</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18kosovo-russia-01b/18kosovo-russia-01b-moth.jpg" width="151"></media:content>
-      <media:credit>Armend Nimani for The New York Times</media:credit>
-      <media:description>Statues in Mitrovica honor Prince Lazar, left, a Christian Serb ruler at the Battle of Kosovo in 1389 and Grigory Scherbina, right, a Russian envoy to the region.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/00putin-speeches-topart/00putin-speeches-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Gavriil Grigorov</media:credit>
+      <media:description>By calling up roughly 300,000 reservists to fight, and abandoning the objective of demilitarizing and “de-Nazifying” Ukraine, President Vladimir Putin of Russia acknowledged the reality and growing resistance of a unified Ukraine.</media:description>
     </item>
     <item>
-      <title>U.N. General Assembly: France and Turkey Cast Themselves as Peacemakers in Russia’s War</title>
-      <link>https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly" rel="standout"></atom:link>
-      <description>On Tuesday, President Emmanuel Macron of France suggested that “neutral” nations in the war in Ukraine were complicit, and President Recep Tayyip Erdogan of Turkey portrayed himself as a mediator in the conflict.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 09:15:02 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20unga-briefing-Macron230pm/20unga-briefing-Macron230pm-moth.jpg" width="151"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>President Emmanuel Macron of France speaking at the 77th session of the United Nations General Assembly in New York City on Tuesday.</media:description>
+      <title>German Far-Right Politicians Cancel Trip to Russian-Occupied Part of Donbas</title>
+      <link>https://www.nytimes.com/2022/09/21/world/europe/germany-afd-trip-ukraine-canceled.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/germany-afd-trip-ukraine-canceled.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/germany-afd-trip-ukraine-canceled.html" rel="standout"></atom:link>
+      <description>The planned visit by state politicians of the Alternative for Germany party was controversial, with critics saying it would chip away at national unity over Ukraine.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 12:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/21ukraine-briefing-afd-image/16ukraine-briefing-carousel9-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Volunteers helping to evacuate civilians from Bakhmut, a Ukrainian-controlled city in Donbas that has endured relentless Russian shelling. </media:description>
     </item>
     <item>
-      <title>French Left Lawmaker Admits Slapping Wife, and Party Leader Defends Him</title>
-      <link>https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html" rel="standout"></atom:link>
-      <description>Jean-Luc Mélenchon, the leader of the leftist France Unbowed party, expressed “trust” and “affection” for Adrien Quatennens, setting off a firestorm.</description>
-      <dc:creator>Aurelien Breeden and Catherine Porter</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 10:35:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20france-abuse-1/20france-abuse-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Adrien Quatennens, shown last month speaking in the National Assembly in Paris, said he would step down from his role as a top coordinator for the France Unbowed party.</media:description>
+      <title>Iran’s President Speaks at U.N. as Protests Rock His Nation</title>
+      <link>https://www.nytimes.com/2022/09/21/world/middleeast/iran-united-nations-raisi-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/middleeast/iran-united-nations-raisi-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/middleeast/iran-united-nations-raisi-protests.html" rel="standout"></atom:link>
+      <description>The Iranian president, who came to power last year, will address the assembly amid large demonstrations at home and international pressure to revive the Iran nuclear deal.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 12:20:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21unga-blog-iran/21unga-blog-iran-moth.jpg" width="151"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>President Ebrahim Raisi of Iran at a news conference in Tehran last month.</media:description>
     </item>
     <item>
       <title>A Shrinking Margin</title>
@@ -192,7 +309,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html" rel="standout"></atom:link>
       <description>Democrats lost ground with Hispanic voters in 2020. It doesn’t seem to have been a blip.</description>
       <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 10:28:40 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 12:43:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -201,6 +318,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21-THE-MORNING-NL-hisp-vote/21-THE-MORNING-NL-hisp-vote-moth.jpg" width="151"></media:content>
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
       <media:description>Eric Trump in 2020 at a Latinos for Trump event in Phoenix.</media:description>
+    </item>
+    <item>
+      <title>Global leaders condemn planned referendums in Russian-occupied parts of Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/21/world/europe/global-leaders-condemn-planned-referendums-in-russian-occupied-parts-of-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/global-leaders-condemn-planned-referendums-in-russian-occupied-parts-of-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/global-leaders-condemn-planned-referendums-in-russian-occupied-parts-of-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 07:32:49 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-briefing-annexation-reax/merlin_213289989_1b596850-30e9-43ce-a061-578015e0dce8-moth.jpg" width="151"></media:content>
+      <media:credit>Alexei Alexandrov/Associated Press</media:credit>
+      <media:description>A vehicle on fire after shelling in the Russian-occupied area of Donetsk in Ukraine on Saturday.</media:description>
     </item>
     <item>
       <title>Russia’s gas cutoff is ravaging manufacturers in Europe.</title>
@@ -225,48 +354,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/21ambriefing-europe-nl-promo-sept/20ukraine-briefing-annexation-topart-sub-moth.jpg" width="151"></media:content>
       <media:credit>Olga Maltseva/Agence France-Presse — Getty Images</media:credit>
       <media:description>Occupation officials in four Ukrainian regions announced on Tuesday plans to hold referendums to join Russia.</media:description>
-    </item>
-    <item>
-      <title>Royal Shakespeare Company Names Two Directors for Top Job</title>
-      <link>https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html" rel="standout"></atom:link>
-      <description>In an unusual move for a major British theater, Daniel Evans and Tamara Harvey will jointly helm the major British theater troupe.</description>
-      <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 05:33:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Shakespeare Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harvey, Tamara</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doran, Gregory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stratford-upon-Avon (England)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/arts/RSC-LEADER01/RSC-LEADER01-moth.jpg" width="151"></media:content>
-      <media:credit>Seamus Ryan</media:credit>
-      <media:description>Daniel Evans and Tamara Harvey will start work as the Royal Shakespeare Company’s new artistic directors in June.</media:description>
-    </item>
-    <item>
-      <title>Russia Signals Annexation of Parts of Ukraine, Raising Stakes in Fighting</title>
-      <link>https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html" rel="standout"></atom:link>
-      <description>Kremlin-backed officials in four partially occupied regions announced referendums on joining Russia, as Moscow tightens its grip and hints at escalation.</description>
-      <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 00:36:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Dmitri A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20ukraine-ledeal-2/20ukraine-ledeal-2-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>A billboard in Luhansk, Ukraine, on Tuesday advertising “The Future of the Luhansk People’s Republic.” Luhansk is the capital of one of the two provinces of eastern Ukraine with Russian-backed insurgencies that President Vladimir V. Putin declared independent in February.</media:description>
     </item>
     <item>
       <title>Al Gore Calls the World Bank Chief a ‘Climate Denier’</title>
@@ -707,25 +794,23 @@
       <media:description>A road outside Chasiv Yar with mountains of slag visible on the horizon.</media:description>
     </item>
     <item>
-      <title>Mexico Has Tequila. Peru, Pisco. In Colombia, a Push for Viche, Now Legal.</title>
-      <link>https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
-      <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
-      <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 19 Sep 2022 17:09:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marquez, Francia</category>
-      <category domain="">viche</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
+      <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
+      <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
+      <dc:creator>Jeffrey Gettleman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:47:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00UkraineGlass01/00UkraineGlass01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Workmen installed new windows on the eighth floor of an apartment complex that was damaged by Russian bombings in the northern city of Chernihiv.</media:description>
     </item>
   </channel>
 </rss>

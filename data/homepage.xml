@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 15:44:55 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 15:36:30 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 16:21:20 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 16:06:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/us/politics/trump-declassification-documents.html" rel="standout"></atom:link>
       <description>The former president insists he shouldn’t have to state in a legal proceeding that he declassified the documents, while casting doubt on their status.</description>
       <dc:creator>Alan Feuer and Charlie Savage</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 23:30:13 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 15:45:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
@@ -79,37 +79,34 @@
       <media:description>Car dealers have been paying higher inventory costs but charging consumers even more, earning record profits.</media:description>
     </item>
     <item>
-      <title>U.S. Gas Prices End Streak of Declines Just Short of 100 Days</title>
-      <link>https://www.nytimes.com/2022/09/21/business/gas-prices-decline-streak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/gas-prices-decline-streak.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/business/gas-prices-decline-streak.html" rel="standout"></atom:link>
-      <description>Falling fuel costs have recently helped temper overall inflation, but the effect may be waning.</description>
-      <dc:creator>Isabella Simonetti</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 08:38:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <title>How Will Interest Rate Increases Impact Inflation?</title>
+      <link>https://www.nytimes.com/2022/09/21/business/inflation-rate-increases-why.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/inflation-rate-increases-why.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/business/inflation-rate-increases-why.html" rel="standout"></atom:link>
+      <description>The Federal Reserve is raising interest rates to fight inflation. Some economists want more; some politicians want less. What’s the logic?</description>
+      <pubDate>Wed, 21 Sep 2022 15:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Automobile Assn</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/multimedia/gasprices/gasprices-moth.jpg" width="151"></media:content>
-      <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
-      <media:description>Gas prices peaked at just above $5 a gallon in June and had fallen steadily since.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
     </item>
     <item>
-      <title>U.K. Cuts Energy Bills for Companies Through Winter</title>
-      <link>https://www.nytimes.com/2022/09/21/business/uk-energy-bills-tax-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/uk-energy-bills-tax-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/business/uk-energy-bills-tax-cuts.html" rel="standout"></atom:link>
-      <description>After freezing energy bills for households, the British government said it would “stop businesses collapsing” by limiting an expected rise in the price of electricity and natural gas.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 13:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/21uk-energy-relief-sub/merlin_211647588_3e1fd972-5f3a-42f6-8cc4-e1f9e05edc2d-moth.jpg" width="151"></media:content>
-      <media:credit>Alice Zoo for The New York Times</media:credit>
-      <media:description>Commuters in London’s Embankment district in August. The U.K. government announced it would cut energy bills for companies through winter.</media:description>
+      <title>What Fed Rate Increases Mean for Mortgages, Credit Cards and More</title>
+      <link>https://www.nytimes.com/2022/09/21/business/fed-rate-increases-mortgages-credit-cards.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/fed-rate-increases-mortgages-credit-cards.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/business/fed-rate-increases-mortgages-credit-cards.html" rel="standout"></atom:link>
+      <description>Savers will benefit and borrowers can expect to pay more on credit cards, student loans and other forms of debt.</description>
+      <dc:creator>Tara Siegel Bernard</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 16:03:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit Cards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Financing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
     </item>
     <item>
       <title>What Hemingway Left in Sloppy Joe’s Bar 80 Years Ago</title>
@@ -130,6 +127,23 @@
       <media:description>Ernest Hemingway served as a war correspondent during the Spanish Civil War.</media:description>
     </item>
     <item>
+      <title>TikTok’s Corn Kid Is Doing Just Fine</title>
+      <link>https://www.nytimes.com/2022/09/21/style/corn-kid-tariq-tiktok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/style/corn-kid-tariq-tiktok.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/style/corn-kid-tariq-tiktok.html" rel="standout"></atom:link>
+      <description>He went viral this summer for his love of corn. Now it’s back to business as usual: elementary school.</description>
+      <dc:creator>Madison Malone Kircher</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 15:37:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cameo (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro-Barnum, Julian</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/fashion/21CORN-KID2/21CORN-KID2-moth.jpg" width="151"></media:content>
+      <media:credit>OK McCausland for The New York Times</media:credit>
+      <media:description>A video of Tariq, 7, took off online when he shared his love of corn. </media:description>
+    </item>
+    <item>
       <title>In New Film, Former Employee Says Mario Batali Sexually Assaulted Her</title>
       <link>https://www.nytimes.com/2022/09/21/dining/mario-batali-film-sexual-assault.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/dining/mario-batali-film-sexual-assault.html</guid>
@@ -147,7 +161,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedman, Ken</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotted Pig (Manhattan, NY, Restaurant)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/dining/20batali-tv1/20batali-tv1-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Suarez / Discovery+ </media:credit>
+      <media:credit>Victor Tadashi Suarez / Discovery+ </media:credit>
       <media:description>It took five years after the #MeToo movement began for Eva DeVirgilis, who worked for Mario Batali, to go public with her account.</media:description>
     </item>
     <item>
@@ -167,26 +181,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/21newworld-1/21newworld-1-moth.jpg" width="151"></media:content>
       <media:credit>Andy Wong/Associated Press</media:credit>
       <media:description>Waiting in line for a routine Covid test in Beijing. China has faced nearly three years of constant lockdowns, mass testing and quarantines under its “zero Covid” policy.</media:description>
-    </item>
-    <item>
-      <title>A Horse’s Collapse Rekindles Debate about Carriage Rides in New York’s Central Park</title>
-      <link>https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html" rel="standout"></atom:link>
-      <description>The horses have charmed tourists since the 19th century, but detractors say there is abuse and exploitation. Drivers say they are animal lovers doing their best.</description>
-      <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 15:02:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Society for the Prevention of Cruelty to Animals</category>
-      <category domain="">future of transportation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/nyregion/18carriage-horses1/18carriage-horses1-moth.jpg" width="151"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>Christina Hansen drives her horse, Oreo, across Manhattan.</media:description>
     </item>
     <item>
       <title>Aaron Judge’s 60th Homer Came In Huge Win for Yankees</title>
@@ -224,17 +218,21 @@
       <media:description>Home run balls like this one, which was hit in a game between the Yankees and the Milwaukee Brewers on Saturday, are authenticated as real and then get a special hologram with encoded data.</media:description>
     </item>
     <item>
-      <title>Our Favorite Simple Recipes With 7 Ingredients or Fewer</title>
-      <link>https://www.nytimes.com/article/favorite-simple-recipes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/favorite-simple-recipes.html</guid>
-      <atom:link href="https://www.nytimes.com/article/favorite-simple-recipes.html" rel="standout"></atom:link>
-      <description>These 24 recipes show you how to make the very most of very little.</description>
-      <dc:creator>Krysten Chambrot</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 19:40:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/dining/20SEVENING-Promo1/20SEVENING-Promo1-moth.jpg" width="151"></media:content>
-      <media:credit>David Malosh for The New York Times. Food Stylist: Simon Andrews.</media:credit>
+      <title>Book Review: ‘Bold Ventures,’ by Charlotte Van den Broeck</title>
+      <link>https://www.nytimes.com/2022/09/18/books/bold-ventures-architectural-failures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/books/bold-ventures-architectural-failures.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/books/bold-ventures-architectural-failures.html" rel="standout"></atom:link>
+      <description>Charlotte Van den Broeck’s “Bold Ventures” is an idiosyncratic tour of architectural misfires, dotted with its author’s personal anxieties.</description>
+      <dc:creator>Alexandra Jacobs</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 18:15:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bold Ventures: Thirteen Tales of Architectural Tragedy (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van den Broeck, Charlotte</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McKay, David (Translator)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/books/18vandenbroeck3/18vandenbroeck3-moth.jpg" width="151"></media:content>
+      <media:credit>MG White/Shutterstock</media:credit>
+      <media:description>The twisted spire on the 400-year-old Church of St. Omer in Verchin, France, which embarrassed the chief mason who built it.</media:description>
     </item>
     <item>
       <title>Three Paths Toward an Endgame for Putin’s War</title>
@@ -262,7 +260,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html" rel="standout"></atom:link>
       <description>Imagine a legal January 6. It’s bureaucratic, boring, invisible, and it might actually succeed.</description>
       <dc:creator>Johnny Harris and Michelle Cottle</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 15:52:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
@@ -271,85 +269,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/autossell/op-goptakeover-thumb2/op-goptakeover-thumb2-moth.png" width="151"></media:content>
-    </item>
-    <item>
-      <title>Can Republicans Tax the Rich?</title>
-      <link>https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html" rel="standout"></atom:link>
-      <description>The continuing quest for a conservative policy reformation, and its continuing problems.</description>
-      <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 15:36:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Gains Tax</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cotton, Tom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21rossnew/21rossnew-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>We’re Losing the Luxury of a Summer Spent Outdoors</title>
-      <link>https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html" rel="standout"></atom:link>
-      <description>For children growing up in the American West, it isn’t a question of what you want to do outdoors; it’s a question of whether you can even go outside.</description>
-      <dc:creator>Emma Pattee</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 09:00:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Chelan (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18Pattee/18Pattee-moth.jpg" width="151"></media:content>
-      <media:credit>Tracy Barbutes/Reuters</media:credit>
-    </item>
-    <item>
-      <title>The Border Crisis Could Still Be Biden’s Opportunity</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html" rel="standout"></atom:link>
-      <description>But first it would help to admit that the border is not secure.</description>
-      <dc:creator>Bret Stephens</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 02:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
-    </item>
-    <item>
-      <title>Is There Too Much ‘Mental Health’ Awareness in the United States?</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-awareness.html" rel="standout"></atom:link>
-      <description>Has the term become so expansive as to be meaningless?</description>
-      <dc:creator>Huw Green</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 15:27:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/sunday/20Green/20Green-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Tyler Comrie. Photographs from Getty Images</media:credit>
     </item>
     <item>
       <title>Are There Better Places to Put Large Solar Farms Than These Forests?</title>
@@ -378,15 +297,98 @@
       <link>https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/21/opinion/school-teachers-quality.html" rel="standout"></atom:link>
-      <description>In the midst of a debate about the content being presented in America’s schools, the equally pressing issue of how teachers teach is in danger of being lost. </description>
+      <description>In the midst of a debate about the content being presented in America’s schools, the equally pressing issue of how teachers teach is in danger of being lost.</description>
       <dc:creator>Esau McCaulley</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 16:06:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21McCaulley-1/21McCaulley-1-moth.jpg" width="151"></media:content>
       <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>We’re Losing the Luxury of a Summer Spent Outdoors</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/wildfires-climate-change-summer.html" rel="standout"></atom:link>
+      <description>For children growing up in the American West, it isn’t a question of what you want to do outdoors; it’s a question of whether you can even go outside.</description>
+      <dc:creator>Emma Pattee</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Chelan (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/opinion/18Pattee/18Pattee-moth.jpg" width="151"></media:content>
+      <media:credit>Tracy Barbutes/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Can Republicans Tax the Rich?</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-national-conservatives-policy.html" rel="standout"></atom:link>
+      <description>The continuing quest for a conservative policy reformation, and its continuing problems.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 15:36:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Gains Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cotton, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21rossnew/21rossnew-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>After Dobbs: Feminism Beyond the Gender Binary</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html" rel="standout"></atom:link>
+      <description>Jennifer Finney Boylan and Thomas Page McBee on what the feminist movement owes the trans community.</description>
+      <dc:creator>‘The Argument’</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="">nonbinary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boylan, Jennifer Finney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McBee, Thomas Page</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21argument-feminism2-image/21argument-feminism2-image-moth.jpg" width="151"></media:content>
+      <media:credit>Angela Weiss/Agence France-Presses via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Border Crisis Could Still Be Biden’s Opportunity</title>
+      <link>https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/desantis-migrants-marthas-vineyard.html" rel="standout"></atom:link>
+      <description>But first it would help to admit that the border is not secure.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 02:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
     </item>
     <item>
       <title>A Shrinking Margin</title>
@@ -456,6 +458,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
     </item>
     <item>
+      <title>A Horse’s Collapse Rekindles Debate about Carriage Rides in New York’s Central Park</title>
+      <link>https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/nyregion/carriage-horses-new-york.html" rel="standout"></atom:link>
+      <description>The horses have charmed tourists since the 19th century, but detractors say there is abuse and exploitation. Drivers say they are animal lovers doing their best.</description>
+      <dc:creator>Sarah Maslin Nir</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 15:02:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Society for the Prevention of Cruelty to Animals</category>
+      <category domain="">future of transportation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/nyregion/18carriage-horses1/18carriage-horses1-moth.jpg" width="151"></media:content>
+      <media:credit>Lucia Vazquez for The New York Times</media:credit>
+      <media:description>Christina Hansen drives her horse, Oreo, across Manhattan.</media:description>
+    </item>
+    <item>
       <title>Victims Recall Life in the Philippines Under Marcos’s Martial Law</title>
       <link>https://www.nytimes.com/2022/09/21/world/asia/philippines-victims-marcos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/asia/philippines-victims-marcos.html</guid>
@@ -509,26 +531,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20oz-whales-01/20oz-whales-01-moth.jpg" width="151"></media:content>
       <media:credit>Department of Natural Resources and Environment Tasmania, via Associated Press</media:credit>
       <media:description>Pilot whales stranded on the western coast of Tasmania on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>N.F.L. Players Union Quietly Seeks New Leadership</title>
-      <link>https://www.nytimes.com/2022/09/21/sports/football/nfl-union-demaurice-smith.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/sports/football/nfl-union-demaurice-smith.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/sports/football/nfl-union-demaurice-smith.html" rel="standout"></atom:link>
-      <description>The group’s executive director, DeMaurice Smith, was nearly ousted from the role after negotiating a contentious 2020 labor deal. Candidates are lining up to replace him as soon as next year.</description>
-      <dc:creator>Ken Belson</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 13:24:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League Players Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, DeMaurice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winslow, Kellen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schaub, Matt</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/sports/21nfl-desmith1-print/merlin_201729915_42797197-3972-4dae-a31f-4b7d48ec6888-moth.jpg" width="151"></media:content>
-      <media:credit>Rob Carr/Getty Images</media:credit>
-      <media:description>DeMaurice Smith, executive director of the N.F.L. Players Association, led negotiations with team owners that added a 17th regular season game to the schedule.</media:description>
     </item>
     <item>
       <title>Do Antidepressants Work for Severe PMS?</title>

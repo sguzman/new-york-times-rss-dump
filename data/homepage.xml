@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 21 Sep 2022 13:34:32 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Sep 2022 13:33:09 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 14:14:09 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 14:12:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,13 +43,16 @@
       <description>The former president insists he shouldn’t have to state in a legal proceeding that he declassified the documents, while casting doubt on their status.</description>
       <dc:creator>Alan Feuer and Charlie Savage</dc:creator>
       <pubDate>Tue, 20 Sep 2022 23:30:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dearie, Raymond J</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/politics/20dc-investigate1/20dc-investigate1-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>No credible evidence has emerged to support former President Donald J. Trump’s claim that he had a standing order to declassify everything he took from the Oval Office.</media:description>
@@ -203,6 +206,24 @@
       <media:description>Christina Hansen drives her horse, Oreo, across Manhattan.</media:description>
     </item>
     <item>
+      <title>Aaron Judge’s 60th Homer Came In Huge Win for Yankees</title>
+      <link>https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html" rel="standout"></atom:link>
+      <description>By joining Roger Maris and Babe Ruth as the only A.L. players with 60-homer seasons, Judge showed once again that no team does big moments quite like the Yankees.</description>
+      <dc:creator>Tyler Kepner</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 14:12:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruth, Babe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maris, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Mike</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21kepner-judge-60-alttop/21kepner-judge-60-alttop-moth.jpg" width="151"></media:content>
+      <media:credit>Jamie Squire/Getty Images</media:credit>
+      <media:description>Aaron Judge took a moment on Tuesday to enjoy his 60th home run of the season. Celebrating got easier when Giancarlo Stanton hit a walk-off grand slam.</media:description>
+    </item>
+    <item>
       <title>Our Favorite Simple Recipes With 7 Ingredients or Fewer</title>
       <link>https://www.nytimes.com/article/favorite-simple-recipes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/favorite-simple-recipes.html</guid>
@@ -222,13 +243,14 @@
       <atom:link href="https://www.nytimes.com/2022/09/20/opinion/ukraine-putin.html" rel="standout"></atom:link>
       <description>But here are three possibilities.</description>
       <dc:creator>Thomas L. Friedman</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 01:08:48 +0000</pubDate>
+      <pubDate>Wed, 21 Sep 2022 14:00:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/20friedman1/20friedman1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A man painting over the Russian flag in a recently recaptured Ukrainian village.</media:description>
@@ -248,6 +270,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/autossell/op-goptakeover-thumb2/op-goptakeover-thumb2-moth.png" width="151"></media:content>
     </item>
     <item>
       <title>Can Republicans Tax the Rich?</title>
@@ -451,22 +474,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
     </item>
     <item>
-      <title>Aaron Judge’s 60th Homer Came In Huge Win for Yankees</title>
-      <link>https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/sports/baseball/aaron-judge-yankees-60-homers.html" rel="standout"></atom:link>
-      <description>By joining Roger Maris and Babe Ruth as the only A.L. players with 60-homer seasons, Judge showed once again that no team does big moments quite like the Yankees.</description>
-      <dc:creator>Tyler Kepner</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 13:10:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruth, Babe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maris, Roger</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Mike</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21kepner-judge-60-alttop/21kepner-judge-60-alttop-moth.jpg" width="151"></media:content>
-      <media:credit>Jamie Squire/Getty Images</media:credit>
-      <media:description>Aaron Judge took a moment on Tuesday to enjoy his 60th home run of the season. Celebrating got easier when Giancarlo Stanton hit a walk-off grand slam.</media:description>
+      <title>L.G.B.T.Q. Club Proposes a Compromise to Yeshiva University</title>
+      <link>https://www.nytimes.com/2022/09/21/nyregion/yeshiva-university-lgbtq-club.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/nyregion/yeshiva-university-lgbtq-club.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/nyregion/yeshiva-university-lgbtq-club.html" rel="standout"></atom:link>
+      <description>The Modern Orthodox Jewish university in Manhattan had said it would halt the activities of all undergraduate clubs rather than sanction the gay student organization. The students say they will delay seeking recognition if the other clubs can resume.</description>
+      <dc:creator>Liam Stack</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 13:51:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeshiva University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Becket Fund for Religious Liberty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21yeshiva-lgbtq/21yeshiva-lgbtq-moth.jpg" width="151"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>Yeshiva University in New York is in a legal fight with an L.G.B.T.Q. student organization.</media:description>
     </item>
     <item>
       <title>On a Grim Anniversary, 230 Pilot Whales Are Stranded in Tasmania</title>

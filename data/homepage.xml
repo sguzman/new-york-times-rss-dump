@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 22:52:41 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 22:44:41 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 23:13:43 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 23:07:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,6 +41,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/00dc-fedassess01/00dc-fedassess01-moth.jpg" width="151"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
       <media:description>Volunteers at a food bank in London. The Bank of England on Thursday raised interest rates by half a point to 2.25 percent, even as it said that the United Kingdom might already be in a recession.</media:description>
+    </item>
+    <item>
+      <title>Pandemic Unemployment Fraud Estimate Is Raised to $45.6 Billion</title>
+      <link>https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html" rel="standout"></atom:link>
+      <description>A federal watchdog tripled its earlier estimate of benefits that the U.S. government paid to people who weren’t entitled to them.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 20:29:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inspectors General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/22UI-FRAUD/22UI-FRAUD--moth.jpg" width="151"></media:content>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
     </item>
     <item>
       <title>Russian Men, Fearing Ukraine Draft, Seek Refuge Abroad</title>
@@ -81,26 +98,6 @@
       <media:description>A list of the items seized when the F.B.I. conducted a search at Mar-a-Lago, former President Donald J. Trump’s club and residence in Palm Beach, Fla.</media:description>
     </item>
     <item>
-      <title>Trump Support Remains Unmoved by Investigations, Poll Finds</title>
-      <link>https://www.nytimes.com/2022/09/22/upshot/donald-trump-approval-poll.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/upshot/donald-trump-approval-poll.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/upshot/donald-trump-approval-poll.html" rel="standout"></atom:link>
-      <description>Even during peak crises during his presidency, views of him were static. Post-presidency polls have continued the trend.</description>
-      <dc:creator>Ruth Igielnik</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 20:43:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22up-poll-trump-1-aff3/22up-poll-trump-1-aff3-moth.jpg" width="151"></media:content>
-      <media:credit>Hannah Beier for The New York Times</media:credit>
-      <media:description>The loyalty of supporters of Donald J. Trump has long been evident in his favorability ratings.</media:description>
-    </item>
-    <item>
       <title>World Bank Leader, Accused of Climate Denial, Offers a New Response</title>
       <link>https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html</guid>
@@ -138,42 +135,6 @@
       <media:description>The eruption of the Hunga Tonga–Hunga Haʻapai volcano in the Pacific Ocean, seen by a Japanese satellite on Jan. 15.</media:description>
     </item>
     <item>
-      <title>Why Omicron Might Stick Around</title>
-      <link>https://www.nytimes.com/2022/09/22/science/omicron-covid-variant.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/science/omicron-covid-variant.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/science/omicron-covid-variant.html" rel="standout"></atom:link>
-      <description>Omicron, the 13th named variant of the coronavirus, seems to have a remarkable capacity to evolve new tricks.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 13:45:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/science/00omicron1/00omicron1-moth.jpg" width="151"></media:content>
-      <media:credit>Kim Raff for The New York Times</media:credit>
-      <media:description>Booster shots administered from a mobile clinic in Salt Lake City this month. One of Covid’s newest subvariants can evade immune responses better than all earlier forms of Omicron.</media:description>
-    </item>
-    <item>
-      <title>Pandemic Unemployment Fraud Estimate Is Raised to $45.6 Billion</title>
-      <link>https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/business/unemployment-insurance-fraud-pandemic.html" rel="standout"></atom:link>
-      <description>A federal watchdog tripled its earlier estimate of benefits that the U.S. government paid to people who weren’t entitled to them.</description>
-      <dc:creator>Niraj Chokshi</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 20:29:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inspectors General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/22UI-FRAUD/22UI-FRAUD--moth.jpg" width="151"></media:content>
-      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
-    </item>
-    <item>
       <title>2 Michael Jackson Impersonators Look Identical. The Resemblance Ends There.</title>
       <link>https://www.nytimes.com/2022/09/22/world/americas/michael-jackson-impersonators-buenos-aires.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/americas/michael-jackson-impersonators-buenos-aires.html</guid>
@@ -196,6 +157,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanco, Leo (Singer)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00Argentina-MJs_Profile-promo/00Argentina-MJs_Profile-promo-moth.jpg" width="151"></media:content>
       <media:description>Leo Blanco is a Michael Jackson impersonator in Buenos Aires, Argentina.</media:description>
+    </item>
+    <item>
+      <title>House Passes Police Funding Bills, With Democratic Rifts on Vivid Display</title>
+      <link>https://www.nytimes.com/2022/09/22/us/politics/house-passes-police-funding-bills.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/house-passes-police-funding-bills.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/house-passes-police-funding-bills.html" rel="standout"></atom:link>
+      <description>Progressive objections to the legislation threatened to sink it at the last moment, prompting a scramble among Democrats that highlighted the party’s divisions over policing.</description>
+      <dc:creator>Annie Karni and Stephanie Lai</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 22:56:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Progressive Caucus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gottheimer, Joshua S (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jayapal, Pramila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pressley, Ayanna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spanberger, Abigail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Ilhan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/22dc-PoliceFunding_1/merlin_204317859_9a8a4cf6-266f-4f15-87ee-46f98ec7fb5e-moth.jpg" width="151"></media:content>
+      <media:credit>Chet Strange/Getty Images</media:credit>
+      <media:description>The House on Thursday passed legislation to increase funding for local police departments, but progressives initially balked at sending money to police departments without stronger accountability measures to address excessive use of force or other misconduct.</media:description>
     </item>
     <item>
       <title>Herschel Walker’s Company Said It Donated Profits, but Evidence Is Scant</title>
@@ -234,24 +218,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/22dc-retirements1/22dc-retirements1-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker/Getty Images</media:credit>
       <media:description>Representative Cheri Bustos and Steny Hoyer, the House majority leader, in March. Ms. Bustos is retiring at the end of her term.</media:description>
-    </item>
-    <item>
-      <title>For First Time in at Least 25 Years, No Democrat Has Top Grade From N.R.A.</title>
-      <link>https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html" rel="standout"></atom:link>
-      <description>Not a single Democrat running for Congress received an A in the group’s candidate ratings, which were once a powerful influence in U.S. elections.</description>
-      <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:46:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rifle Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/00pol-nra-photo-1-2e92/00pol-nra-photo-1-2e92-moth.jpg" width="151"></media:content>
-      <media:credit>Meridith Kohut for The New York Times</media:credit>
-      <media:description>Protesters at a National Rifle Association convention in Houston in May. Republicans have always supported the N.R.A. in larger numbers, but the group used to have some Democratic backing, too.</media:description>
     </item>
     <item>
       <title>Mississippi Welfare Scandal Spreads Well Beyond Brett Favre</title>
@@ -418,7 +384,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/opinion/puerto-rico-fiona-power-luma.html" rel="standout"></atom:link>
       <description>It is our own people who rob and abuse us. </description>
       <dc:creator>Israel Meléndez Ayala</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 20:10:26 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 23:00:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LUMA Energy</category>

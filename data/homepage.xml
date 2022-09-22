@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 10:13:26 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 10:00:12 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 10:45:10 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 10:28:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -85,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html" rel="standout"></atom:link>
       <description>In a major speech, he recast the war in Ukraine and made clear it could spread.</description>
       <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 09:09:59 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 10:28:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -370,6 +370,48 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/autossell/op-goptakeover-thumb2/op-goptakeover-thumb2-moth.png" width="151"></media:content>
     </item>
     <item>
+      <title>Bad to Worse for Russia</title>
+      <link>https://www.nytimes.com/2022/09/22/briefing/ukraine-war-putin-troops-mobilization.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/briefing/ukraine-war-putin-troops-mobilization.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/briefing/ukraine-war-putin-troops-mobilization.html" rel="standout"></atom:link>
+      <description>Vladimir Putin’s call-up of more troops highlights Russia’s continuing struggles in Ukraine.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 10:23:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22-THE-MORNING-NL-ukz-kupia-1-8ccc-promo/22-THE-MORNING-NL-ukz-kupia-1-8ccc-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian solders riding in Kupiansk, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Putin’s Escalation of the War in Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/22/podcasts/the-daily/ukraine-putin-russia-nuclear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/podcasts/the-daily/ukraine-putin-russia-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/podcasts/the-daily/ukraine-putin-russia-nuclear.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin has announced the mobilization of 300,000 Russians in an attempt to bolster his faltering invasion.</description>
+      <dc:creator>Sabrina Tavernise, Nina Feldman, Luke Vander Ploeg, Will Reid, Jessica Cheung, Lisa Chow, John Ketchum, Marion Lozano and Chris Wood</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 10:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/podcasts/22daily-1/22DAILY-russia-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Police officers detained a demonstrator during a rally in Moscow on Wednesday to protest the mobilization. Until now, the Kremlin has insisted that no one would be forced to fight in Ukraine.</media:description>
+    </item>
+    <item>
       <title>Welcome to Wrexham: It’s the Future</title>
       <link>https://www.nytimes.com/2022/09/16/sports/soccer/welcome-to-wrexham-reynolds-mcelhenney.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/16/sports/soccer/welcome-to-wrexham-reynolds-mcelhenney.html</guid>
@@ -387,51 +429,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
     </item>
     <item>
-      <title>Modern Love Podcast: How to Feel Yourself</title>
-      <link>https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html" rel="standout"></atom:link>
-      <description>At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.</description>
-      <pubDate>Wed, 21 Sep 2022 20:02:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/27/fashion/21MODERNLOVE-PODCAST/21MODERNLOVE-PODCAST-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Brian Rea</media:credit>
-    </item>
-    <item>
-      <title>For Churches, Abortion Politics Is a Double-Edged Sword</title>
-      <link>https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html" rel="standout"></atom:link>
-      <description>Ireland and Poland went in entirely opposite directions on abortion. Why?</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 18:10:08 +0000</pubDate>
+      <title>Elise Stefanik Says She’s Confident a Republican Wave Is Coming to the House</title>
+      <link>https://www.nytimes.com/2022/09/21/us/politics/elise-stefanik-house-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/us/politics/elise-stefanik-house-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/us/politics/elise-stefanik-house-republicans.html" rel="standout"></atom:link>
+      <description>Representative Elise Stefanik, the No. 3 House Republican, also spoke about her PAC’s success in backing female candidates, 23 of whom are running in the fall.</description>
+      <dc:creator>Blake Hounshell and Annie Karni</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 23:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21Interpreter-NL-01b/21Interpreter-NL-01b-moth.jpg" width="151"></media:content>
-      <media:credit>Jeff J Mitchell/Getty Images</media:credit>
-      <media:description>Supporters celebrate at Dublin Castle after a constitutional amendment legalizing abortion passed in 2018.</media:description>
-    </item>
-    <item>
-      <title>What Did You Wear to That Wedding?</title>
-      <link>https://www.nytimes.com/2022/09/15/style/wedding-dress-code-readers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/15/style/wedding-dress-code-readers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/15/style/wedding-dress-code-readers.html" rel="standout"></atom:link>
-      <description>Were you invited to a wedding with a nontraditional dress code (think: desert chic or coastal glam)? We want to see what you wore.</description>
-      <dc:creator>Emma Grillo</dc:creator>
-      <pubDate>Thu, 15 Sep 2022 09:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dress Codes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/fashion/WED-DRESSCODE-CALLOUT/WED-DRESSCODE-CALLOUT-moth.jpg" width="151"></media:content>
-      <media:credit>Roger Kisby for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stefanik, Elise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elevate PAC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21onpolitics-stefanik-flores/21onpolitics-stefanik-flores-moth.jpg" width="151"></media:content>
+      <media:credit>Shuran Huang for The New York Times</media:credit>
+      <media:description>Representative Elise Stefanik at an event in June for the newly elected Representative Mayra Flores, right, whose candidacy Stefanik’s political action committee had supported.</media:description>
     </item>
     <item>
       <title>A Girl Survived a Suicide Bombing in Afghanistan. Then She Vanished in Texas.</title>

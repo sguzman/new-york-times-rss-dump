@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 18:47:10 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 18:43:31 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 19:08:36 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 18:58:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -101,6 +101,24 @@
       <media:description>David Malpass was nominated to lead the World Bank in 2019 by former President Donald J. Trump. </media:description>
     </item>
     <item>
+      <title>The Tonga Volcano Shook the World. It May Also Affect the Climate.</title>
+      <link>https://www.nytimes.com/2022/09/22/climate/tonga-volcano-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/climate/tonga-volcano-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/climate/tonga-volcano-climate.html" rel="standout"></atom:link>
+      <description>Scientists say water vapor injected into the stratosphere by the volcanic eruption in January may have a slight, though temporary, warming effect.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 18:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tonga</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/climate/22cli-volcano1/Nasa-moth.jpg" width="151"></media:content>
+      <media:credit>National Institute Of Information and Communications Technology, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>The eruption of the Hunga Tonga–Hunga Haʻapai volcano in the Pacific Ocean, seen by a Japanese satellite on Jan. 15.</media:description>
+    </item>
+    <item>
       <title>Why Omicron Might Stick Around</title>
       <link>https://www.nytimes.com/2022/09/22/science/omicron-covid-variant.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/science/omicron-covid-variant.html</guid>
@@ -179,6 +197,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/00pol-walkercharity-photo01/00pol-walkercharity-photo01-moth.jpg" width="151"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Herschel Walker at a state Republican Party event in Perry, Ga., last month. As a business owner, he pledged that 15 percent of his company’s profits would go to charities.</media:description>
+    </item>
+    <item>
+      <title>For First Time in at Least 25 Years, No Democrat Has Top Grade From N.R.A.</title>
+      <link>https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/nra-ratings-grades-democrats.html" rel="standout"></atom:link>
+      <description>Not a single Democrat running for Congress received an A in the group’s candidate ratings, which were once a powerful influence in U.S. elections.</description>
+      <dc:creator>Maggie Astor</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 16:46:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rifle Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/00pol-nra-photo-1-2e92/00pol-nra-photo-1-2e92-moth.jpg" width="151"></media:content>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>Protesters at a National Rifle Association convention in Houston in May. Republicans have always supported the N.R.A. in larger numbers, but the group used to have some Democratic backing, too.</media:description>
     </item>
     <item>
       <title>Judge Temporarily Suspends Indiana Abortion Ban</title>

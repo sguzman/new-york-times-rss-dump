@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 14:35:46 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 14:26:04 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 14:50:48 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 14:42:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -189,7 +189,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/business/economy/fed-rates-inflation-powell.html" rel="standout"></atom:link>
       <description>Federal Reserve officials made another large rate increase and signaled more to come, pledging to quash inflation despite expected pain.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 23:30:00 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:42:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -316,6 +316,25 @@
       <media:credit>Sean Gallup/Getty Images</media:credit>
     </item>
     <item>
+      <title>Public Schools Will Be on the Ballot in November</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/midterms-schools-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/midterms-schools-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/midterms-schools-parents.html" rel="standout"></atom:link>
+      <description>Some parents have already voted with their feet.</description>
+      <dc:creator>Jessica Grose</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 16:30:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Critical Race Theory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Schooling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21grose-image/21grose-image-moth.jpg" width="151"></media:content>
+      <media:credit>Eleanor Davis</media:credit>
+    </item>
+    <item>
       <title>The Midlife Crisis Is Very Real and Nothing to Be Laughed At</title>
       <link>https://www.nytimes.com/2022/09/21/opinion/midlife-crisis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/midlife-crisis.html</guid>
@@ -329,6 +348,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Bureau of Economic Research</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/21coy-image/21coy-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>I Have Worked, Played and Loved in Other Countries Because I Can’t at Home</title>
+      <link>https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html" rel="standout"></atom:link>
+      <description>In Singapore, queers see progress only from a distance. </description>
+      <dc:creator>Joel Tan</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 12:33:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Hsien Loong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22tan-image/22tan-image-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Jasjyot Singh Hans</media:credit>
     </item>
     <item>
       <title>Herschel Walker Says He’s ‘Not That Smart.’ I Believe Him.</title>
@@ -349,21 +383,6 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>I Have Worked, Played and Loved in Other Countries Because I Can’t at Home</title>
-      <link>https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/opinion/international-world/singapore-gay.html" rel="standout"></atom:link>
-      <description>In Singapore, queers see progress only from a distance. </description>
-      <dc:creator>Joel Tan</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 12:33:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Hsien Loong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22tan-image/22tan-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Jasjyot Singh Hans</media:credit>
-    </item>
-    <item>
       <title>How Big Were Pandemic Learning Losses, Really?</title>
       <link>https://www.nytimes.com/2022/09/21/opinion/pandemic-learning-loss.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/pandemic-learning-loss.html</guid>
@@ -379,24 +398,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oster, Emily</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21wallace-wells-image/21wallace-wells-image-moth.jpg" width="151"></media:content>
       <media:credit>Ibrahim Rayintakath</media:credit>
-    </item>
-    <item>
-      <title>Inside the Completely Legal G.O.P. Plot to Destroy American Democracy</title>
-      <link>https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/republicans-democracy-elections-bannon.html" rel="standout"></atom:link>
-      <description>Imagine a legal January 6. It’s bureaucratic, boring, invisible, and it might actually succeed.</description>
-      <dc:creator>Johnny Harris and Michelle Cottle</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 15:52:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/autossell/op-goptakeover-thumb2/op-goptakeover-thumb2-moth.png" width="151"></media:content>
     </item>
     <item>
       <title>Putin’s Escalation of the War in Ukraine</title>

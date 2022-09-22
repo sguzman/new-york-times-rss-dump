@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 17:01:19 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 16:54:56 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 17:41:23 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 17:31:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,7 +88,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html" rel="standout"></atom:link>
       <description>David Malpass touched off a furor, including calls for his removal, when he refused to acknowledge that fossil fuels are warming the planet. On Thursday, he restated his position.</description>
       <dc:creator>David Gelles and Alan Rappeport</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:54:56 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:26:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -144,13 +144,71 @@
       <media:description>Leo Blanco is a Michael Jackson impersonator in Buenos Aires, Argentina.</media:description>
     </item>
     <item>
-      <title>In Mississippi, Welfare for the Well-Connected as a Scandal Spreads</title>
+      <title>What Alex Jones Said About Sandy Hook</title>
+      <link>https://www.nytimes.com/2022/09/22/us/politics/heres-what-jones-has-said-about-sandy-hook.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/heres-what-jones-has-said-about-sandy-hook.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/heres-what-jones-has-said-about-sandy-hook.html" rel="standout"></atom:link>
+      <description>Alex Jones spent years accusing the family members of Sandy Hook shooting victims of being actors in a hoax and suggesting that their children were still alive.</description>
+      <dc:creator>Elizabeth Williamson</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 17:17:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Alex (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Robbie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Emilie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infowars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22alexjones-live-quotes-01-1-89a2/22alexjones-live-quotes-01-1-89a2-moth.jpg" width="151"></media:content>
+      <media:credit>Yehyun Kim for The New York Times</media:credit>
+      <media:description>Sandy Hook elementary school in Newtown, Conn. The original school building was torn down after the 2012 mass shooting, and this new building reopened in 2016.</media:description>
+    </item>
+    <item>
+      <title>Herschel Walker’s Company Said It Donated Profits, but Evidence Is Scant</title>
+      <link>https://www.nytimes.com/2022/09/22/us/politics/herschel-walker-charity-donations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/herschel-walker-charity-donations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/herschel-walker-charity-donations.html" rel="standout"></atom:link>
+      <description>The Georgia Republican candidate claimed his business donated 15 percent of its profits to charities. Three of the four groups named as recipients say they didn’t receive money.</description>
+      <dc:creator>David A. Fahrenthold and Shane Goldmacher</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 17:24:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/00pol-walkercharity-photo01/00pol-walkercharity-photo01-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Herschel Walker at a state Republican Party event in Perry, Ga., last month. As a business owner, he pledged that 15 percent of his company’s profits would go to charities.</media:description>
+    </item>
+    <item>
+      <title>Judge Temporarily Suspends Indiana Abortion Ban</title>
+      <link>https://www.nytimes.com/2022/09/22/us/indiana-abortion-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/indiana-abortion-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/indiana-abortion-ban.html" rel="standout"></atom:link>
+      <description>The state prohibition had been in effect for only a week, and now abortions are legal again while a court fight goes forward.</description>
+      <dc:creator>Eliza Fawcett</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 16:59:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hanlon, Kelsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holcomb, Eric (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fisher, Thomas M. (lawyer)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/00indiana-abortion/merlin_210615942_45621524-4dd9-4e69-9406-89cd4d7092ce-moth.jpg" width="151"></media:content>
+      <media:credit>Kaiti Sullivan for The New York Times</media:credit>
+      <media:description>Abortion rights protesters gathered at a rally held at the Indiana Statehouse in July.</media:description>
+    </item>
+    <item>
+      <title>In Mississippi, Welfare for the Well Connected as a Scandal Spreads</title>
       <link>https://www.nytimes.com/2022/09/22/us/brett-favre-welfare-mississippi.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/brett-favre-welfare-mississippi.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/22/us/brett-favre-welfare-mississippi.html" rel="standout"></atom:link>
       <description>Millions earmarked for the needy in the nation’s poorest state instead went to projects that benefited the well-to-do, the state alleges, including a volleyball stadium at Brett Favre’s alma mater.</description>
       <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:45:56 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:01:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Southern Mississippi</category>
@@ -351,7 +409,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/podcasts/the-daily/ukraine-putin-russia-nuclear.html" rel="standout"></atom:link>
       <description>President Vladimir V. Putin has announced the mobilization of 300,000 Russians in an attempt to bolster his faltering invasion.</description>
       <dc:creator>Sabrina Tavernise, Nina Feldman, Luke Vander Ploeg, Will Reid, Jessica Cheung, Lisa Chow, John Ketchum, Marion Lozano and Chris Wood</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 10:00:09 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:11:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -407,6 +465,29 @@
       <media:description>Representative Elise Stefanik at an event in June for the newly elected Representative Mayra Flores, right, whose candidacy Stefanik’s political action committee had supported.</media:description>
     </item>
     <item>
+      <title>Bill to Grant Afghan Evacuees a Path to Residency Hits Snags</title>
+      <link>https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html" rel="standout"></atom:link>
+      <description>The White House and members of both parties had hoped to attach the legislation to a must-pass spending bill this month. But some Republicans have raised security concerns.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 17:31:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/22dc-cong-afghans1/22dc-cong-afghans1-moth.jpg" width="151"></media:content>
+      <media:credit>Valerie Plesch for The New York Times</media:credit>
+      <media:description>Doug Kennedy, a veteran who served in Afghanistan, traveled from Maine to the Capitol to demonstrate in favor of the Afghan Adjustment Act.</media:description>
+    </item>
+    <item>
       <title>‘The Bus Left Us’: Family Caught in Immigration Battle Reaches New York</title>
       <link>https://www.nytimes.com/video/us/100000008535943/migrants-texas-dc-nyc-bus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/us/100000008535943/migrants-texas-dc-nyc-bus.html</guid>
@@ -419,43 +500,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/video/102404_vid_migrants/102404_vid_migrants-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Salazar/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Virginia Thomas Agrees to Interview With Jan. 6 Panel</title>
-      <link>https://www.nytimes.com/2022/09/21/us/politics/virginia-thomas-jan-6-panel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/us/politics/virginia-thomas-jan-6-panel.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/us/politics/virginia-thomas-jan-6-panel.html" rel="standout"></atom:link>
-      <description>The committee has sought for months to interview Ms. Thomas, the wife of Justice Clarence Thomas, about her involvement in efforts to overturn the 2020 election.</description>
-      <dc:creator>Luke Broadwater and Maggie Haberman</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 01:41:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Virginia Lamp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eastman, John C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Clarence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/us/politics/21dc-ginni-1/21dc-ginni-1-moth.jpg" width="151"></media:content>
-      <media:credit>Photo by Drew Angerer/Getty Images</media:credit>
-      <media:description>Virginia Thomas with her husband, Justice Clarence Thomas. Her cooperation comes as the Jan. 6 committee is entering its final months of work.</media:description>
-    </item>
-    <item>
-      <title>A Girl Survived a Suicide Bombing in Afghanistan. Then She Vanished in Texas.</title>
-      <link>https://www.nytimes.com/2022/09/22/us/missing-girl-afghanistan-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/missing-girl-afghanistan-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/us/missing-girl-afghanistan-texas.html" rel="standout"></atom:link>
-      <description>Lina Sardar Khil was 3 when she barely escaped a terrorist attack during the fall of Afghanistan. While living in San Antonio, she went out to play — and has not been seen since.</description>
-      <dc:creator>Edgar Sandoval and Zabihullah Ghazi</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Center for Missing and Exploited Children</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/us/00missing-girl-park/00missing-girl-park-moth.jpg" width="151"></media:content>
-      <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>The area near where Lina Sardar Khil disappeared from her family’s apartment complex in San Antonio.</media:description>
     </item>
     <item>
       <title>Europe’s Shrinking Waterways Reveal Treasures, and Experts Are Worried</title>
@@ -476,6 +520,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/multimedia/00xp-waterways-NEWTOP/00xp-waterways-NEWTOP-moth.jpg" width="151"></media:content>
       <media:credit>Miguel Riopa/Agence France-Presse — Getty Images</media:credit>
       <media:description>The underwater ruins of the village of Aceredo emerged due to the low water level of the Lindoso reservoir in northwestern Spain.</media:description>
+    </item>
+    <item>
+      <title>What to Know About Protests in Iran</title>
+      <link>https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html" rel="standout"></atom:link>
+      <description>Dozens of cities have been embroiled in protests that were prompted by a young woman’s death in custody but have escalated amid anger over religious rules and a rock-bottom economy.</description>
+      <dc:creator>Cora Engelbrecht and Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 16:44:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basij</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/xxiran-protest-explainer/merlin_213594909_b622e093-30f1-4eb4-a1c1-999fffbdae7a-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.</media:description>
     </item>
     <item>
       <title>Speeding Up Your Daily Walk Could Have Big Benefits</title>

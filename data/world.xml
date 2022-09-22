@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 17:15:22 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 17:13:14 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 17:51:38 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 17:51:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/22/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>Russians were receiving draft papers a day after Putin escalated the war and announced a mobilization of up to 300,000 more soldiers.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 17:13:14 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22ukraine-briefing-header/22ukraine-briefing-header-moth.jpg" width="151"></media:content>
-      <media:credit>Tyler Hicks/The New York Times</media:credit>
-      <media:description>Ukrainian soldiers in Bakhmut on Wednesday.</media:description>
+      <pubDate>Thu, 22 Sep 2022 17:51:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-carousel-12pm-3-ffdb/22ukraine-briefing-carousel-12pm-3-ffdb-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
     <item>
       <title>What to Know About Protests in Iran</title>
@@ -140,7 +139,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/northern-ireland-census-catholics-protestants.html" rel="standout"></atom:link>
       <description>Newly released census results may fuel calls for a referendum on uniting Ireland, experts say, but not right away.</description>
       <dc:creator>Megan Specia and Ed O’Loughlin</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:55:47 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:28:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belfast (Northern Ireland)</category>
@@ -151,6 +150,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22nireland-census/22nireland-census-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Sinn Féin campaign posters and a Republican mural on Falls Road, a Catholic stronghold in Belfast, earlier this year.</media:description>
+    </item>
+    <item>
+      <title>Russian Men, Fearing Ukraine Draft, Seek Refuge Abroad</title>
+      <link>https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html" rel="standout"></atom:link>
+      <description>Vladimir V. Putin’s new military call-up has sent young men who don’t want to fight in Ukraine heading to the borders.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 17:50:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22turkey-ukraine-flights/22turkey-ukraine-flights-moth.jpg" width="151"></media:content>
+      <media:credit>Ozan Kose/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Istanbul International Airport. With the government replenishing its military in Ukraine, some Russian men have headed for the borders.</media:description>
     </item>
     <item>
       <title>In Cambodia, the Khmer Rouge Trials Come to an End</title>
@@ -281,35 +296,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
-      <title>Protests in Iran Intensify Over the Death of Mahsa Amini in Custody</title>
-      <link>https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
-      <description>Unrest has spread to dozens of cities, with at least seven people killed, according to witnesses, rights groups and video posted on social media.</description>
-      <dc:creator>Cora Engelbrecht and Farnaz Fassihi</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 08:39:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21iran-protests/21iran-protests-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in Tehran on Thursday. Unrest erupted last weekend after Mahsa Amini died in police custody following an arrest under the law on head scarves.</media:description>
-    </item>
-    <item>
       <title>Bill to Grant Afghan Evacuees a Path to Residency Hits Snags</title>
       <link>https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html" rel="standout"></atom:link>
       <description>The White House and members of both parties had hoped to attach the legislation to a must-pass spending bill this month. But some Republicans have raised security concerns.</description>
       <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 17:12:36 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:31:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
@@ -332,7 +325,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html" rel="standout"></atom:link>
       <description>David Malpass touched off a furor, including calls for his removal, when he refused to acknowledge that fossil fuels are warming the planet. On Thursday, he restated his position.</description>
       <dc:creator>David Gelles and Alan Rappeport</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:54:56 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 17:26:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -766,6 +759,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
     </item>
     <item>
+      <title>Protests in Iran Intensify Over the Death of Mahsa Amini in Custody</title>
+      <link>https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
+      <description>Unrest has spread to dozens of cities, with at least seven people killed, according to witnesses, rights groups and video posted on social media.</description>
+      <dc:creator>Cora Engelbrecht and Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 08:39:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21iran-protests/21iran-protests-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in Tehran on Thursday. Unrest erupted last weekend after Mahsa Amini died in police custody following an arrest under the law on head scarves.</media:description>
+    </item>
+    <item>
       <title>Book Review: ‘The Story of Russia’ by Orlando Figes</title>
       <link>https://www.nytimes.com/2022/09/21/books/review/the-story-of-russia-orlando-figes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/books/review/the-story-of-russia-orlando-figes.html</guid>
@@ -934,18 +949,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-briefing-annexation-reax/merlin_213289989_1b596850-30e9-43ce-a061-578015e0dce8-moth.jpg" width="151"></media:content>
       <media:credit>Alexei Alexandrov/Associated Press</media:credit>
       <media:description>A vehicle on fire after shelling in the Russian-occupied area of Donetsk in Ukraine on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Russia’s gas cutoff is ravaging manufacturers in Europe.</title>
-      <link>https://www.nytimes.com/2022/09/21/world/europe/russias-gas-cutoff-is-ravaging-manufacturers-in-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/russias-gas-cutoff-is-ravaging-manufacturers-in-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/russias-gas-cutoff-is-ravaging-manufacturers-in-europe.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Liz Alderman</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 05:42:21 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/19ukraine-briefing-eu-manufacturing-version/19ukraine-briefing-eu-manufacturing-version-moth.jpg" width="151"></media:content>
-      <media:credit>Andrea Mantovani for The New York Times</media:credit>
-      <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
     </item>
   </channel>
 </rss>

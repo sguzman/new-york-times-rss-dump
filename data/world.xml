@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 13:49:07 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 13:42:47 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 14:26:26 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 14:24:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/22/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>School buses were reportedly bringing recruits to training grounds, a day after Moscow escalated its war effort by announcing the mobilization of up to 300,000 more soldiers.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 13:42:47 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:24:22 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22ukraine-briefing-header/22ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>Ukrainian soldiers in Bakhmut on Wednesday.</media:description>
@@ -176,17 +176,16 @@
       <description>Giorgia Meloni, the nationalist politician who is the front-runner to become prime minister, sees “The Lord of the Rings” as not just a series of novels, but also a sacred text.</description>
       <dc:creator>Jason Horowitz</dc:creator>
       <pubDate>Thu, 22 Sep 2022 01:04:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fairy Tales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20italy-meloni-hobbit1/20italy-meloni-hobbit1-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>As a youth activist, Giorgia Meloni revered “The Lord of the Rings” and other works by the British writer J.R.R. Tolkien.</media:description>
@@ -217,13 +216,15 @@
       <description>Unrest has spread to dozens of cities, with at least seven people killed, according to witnesses, rights groups and video posted on social media.</description>
       <dc:creator>Cora Engelbrecht and Farnaz Fassihi</dc:creator>
       <pubDate>Thu, 22 Sep 2022 08:39:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21iran-protests/21iran-protests-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
@@ -267,6 +268,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20france-abuse-1/20france-abuse-1-moth.jpg" width="151"></media:content>
       <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
       <media:description>Adrien Quatennens, shown last month speaking in the National Assembly in Paris, said he would step down from his role as a top coordinator for the France Unbowed party.</media:description>
+    </item>
+    <item>
+      <title>Waves of Russian Men Flee, Fearing Call-Up to Fight in Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/22/world/europe/russia-men-flee-war-mobilization.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/russia-men-flee-war-mobilization.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/russia-men-flee-war-mobilization.html" rel="standout"></atom:link>
+      <description>Since the announcement of a new troop call-up, civilians have realized they could not count on staying out of their country’s invasion of Ukraine.</description>
+      <dc:creator>Ben Hubbard and Ivan Nechepurenko</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 14:23:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conscientious Objectors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22ukraine-briefing-istanbul-image/22ukraine-briefing-istanbul-image-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Passengers at Moscow’s Domodedovo airport in March.</media:description>
     </item>
     <item>
       <title>Andy Byford, Ex-M.T.A. Leader, Steps Down as London Transport Commissioner</title>
@@ -329,7 +347,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/russia-ukraine-medvedchuk-released.html" rel="standout"></atom:link>
       <description>The Ukrainian politician and oligarch had acted as the Kremlin’s primary agent of influence in Ukraine for years.</description>
       <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 11:04:43 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:17:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
@@ -521,9 +539,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21ukraine-briefing-protests-topart-1-e9f9/21ukraine-briefing-protests-topart-1-e9f9-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-russia-thurs-image-1-1a36/22ukraine-briefing-russia-thurs-image-1-1a36-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Police officers arrested several people at a Moscow protest against the “partial mobilization” announced by President Vladimir V. Putin on Wednesday.</media:description>
+      <media:description>Police officers detaining a man after calls to protest against the call-up of reservists, in Moscow, on Wednesday. At least 1,312 people were detained, according to the human rights watchdog OVD-Info.</media:description>
     </item>
     <item>
       <title>10 Prisoners, Including Americans, Have Been Released in a Russia-Ukraine Exchange</title>

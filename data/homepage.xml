@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 14:50:48 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Sep 2022 14:42:07 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 15:11:10 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 15:06:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -76,6 +76,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/us/politics/21dc_investigate_1/merlin_211637355_628b2351-1f66-4000-a0d6-a1e55901d7ee-moth.jpg" width="151"></media:content>
       <media:credit>Chandan Khanna/Agence France-Presse — Getty Images</media:credit>
       <media:description>A supporter of former President Donald J. Trump driving through West Palm Beach, Fla.</media:description>
+    </item>
+    <item>
+      <title>Presidential Power to Declassify Information, Explained</title>
+      <link>https://www.nytimes.com/2022/08/14/us/politics/trump-classified-documents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/14/us/politics/trump-classified-documents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/14/us/politics/trump-classified-documents.html" rel="standout"></atom:link>
+      <description>In an interview, Mr. Trump again insisted that “I declassified everything.” He added that as president, “you can declassify just by saying ‘it’s declassified’ — even by thinking about it.”</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 14:47:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/13/us/politics/13dc-classified/13dc-classified--moth.jpg" width="151"></media:content>
+      <media:credit>Jim Bourg/Reuters</media:credit>
+      <media:description>A list of the items seized when the F.B.I. conducted a search at Mar-a-Lago, former President Donald J. Trump’s club and residence in Palm Beach, Fla.</media:description>
     </item>
     <item>
       <title>Trump Support Remains Unmoved by Investigations, Poll Finds</title>
@@ -183,24 +205,6 @@
       <media:description>The Federal Reserve chairman, Paul Volcker, spoke to demonstrators protesting high interest rates in Washington in April 1980. Mr. Volcker faced frequent protests early in his term.</media:description>
     </item>
     <item>
-      <title>The Fed Intensifies Its Battle Against Inflation</title>
-      <link>https://www.nytimes.com/2022/09/21/business/economy/fed-rates-inflation-powell.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/business/economy/fed-rates-inflation-powell.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/business/economy/fed-rates-inflation-powell.html" rel="standout"></atom:link>
-      <description>Federal Reserve officials made another large rate increase and signaled more to come, pledging to quash inflation despite expected pain.</description>
-      <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 14:42:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/-21vid-fed-interest-rate-clip/-21vid-fed-interest-rate-clip-moth.jpg" width="151"></media:content>
-      <media:credit>Drew Angerer/Getty Images</media:credit>
-    </item>
-    <item>
       <title>Bank of England Raises Interest Rates to 2.25%</title>
       <link>https://www.nytimes.com/2022/09/22/business/bank-of-england-interest-rates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/business/bank-of-england-interest-rates.html</guid>
@@ -217,20 +221,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/22bank-of-england-sub/merlin_213601155_0eafc200-1d95-4df2-8143-29534fdeea14-moth.jpg" width="151"></media:content>
       <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
       <media:description>The British central bank has been fighting high inflation by raising interest rates seven times since December.</media:description>
-    </item>
-    <item>
-      <title>Japan Intervenes to Prop Up the Sliding Yen</title>
-      <link>https://www.nytimes.com/2022/09/22/business/japan-yen-currency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/business/japan-yen-currency.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/business/japan-yen-currency.html" rel="standout"></atom:link>
-      <description>The currency’s decline to a point not seen in 24 years prompted the rare action as officials keep interest rates low.</description>
-      <dc:creator>Ben Dooley</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 12:57:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/22japan-yen/22japan-yen-moth.jpg" width="151"></media:content>
-      <media:credit>Kim Kyung-Hoon/Reuters</media:credit>
     </item>
     <item>
       <title>The 25 Most Influential Postwar Women’s Wear Collections</title>
@@ -296,24 +286,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gingrich, Newt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowe, Olympia J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Margaret Chase</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22smith-image/22smith-image-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22smith-image/22smith-image-moth-v2.jpg" width="151"></media:content>
       <media:credit>Illustration by Sam Whitney/The New York Times; image by Mint Images via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Russia’s Putin Is in Trouble</title>
-      <link>https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html" rel="standout"></atom:link>
-      <description>The ground beneath his feet has started to shift.</description>
-      <dc:creator>Marlene Laruelle</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 05:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/00laruelle/00laruelle-moth.jpg" width="151"></media:content>
-      <media:credit>Sean Gallup/Getty Images</media:credit>
     </item>
     <item>
       <title>Public Schools Will Be on the Ballot in November</title>
@@ -333,6 +307,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21grose-image/21grose-image-moth.jpg" width="151"></media:content>
       <media:credit>Eleanor Davis</media:credit>
+    </item>
+    <item>
+      <title>Russia’s Putin Is in Trouble</title>
+      <link>https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/opinion/russia-ukraine-putin.html" rel="standout"></atom:link>
+      <description>The ground beneath his feet has started to shift.</description>
+      <dc:creator>Marlene Laruelle</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 05:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/00laruelle/00laruelle-moth.jpg" width="151"></media:content>
+      <media:credit>Sean Gallup/Getty Images</media:credit>
     </item>
     <item>
       <title>The Midlife Crisis Is Very Real and Nothing to Be Laughed At</title>
@@ -371,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/opinion/herschel-walker-smart.html" rel="standout"></atom:link>
       <description>Walker is attempting to lower the bar of the upcoming debate so low so that anyone, even Walker, can clear it.</description>
       <dc:creator>Charles M. Blow</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 01:55:50 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 14:58:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -389,7 +379,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/21/opinion/pandemic-learning-loss.html" rel="standout"></atom:link>
       <description>Despite the Covid disruption, school test score declines look pretty modest.</description>
       <dc:creator>David Wallace-Wells</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 11:33:02 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 15:06:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>

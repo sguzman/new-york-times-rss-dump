@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 20:40:41 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 20:36:58 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 20:54:55 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 20:51:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -108,6 +108,25 @@
       <media:description>Russian conscripts watching a tank biathlon at army games in the Moscow region last month.</media:description>
     </item>
     <item>
+      <title>Trump Is Battling a N.Y. Law Used to Take on Corporate Giants</title>
+      <link>https://www.nytimes.com/2022/09/23/nyregion/donald-trump-letitia-james-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/nyregion/donald-trump-letitia-james-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/nyregion/donald-trump-letitia-james-lawsuit.html" rel="standout"></atom:link>
+      <description>The lawsuit filed this week by the state’s attorney general, Letitia James, is based on the same statute that was used against Exxon Mobil, Juul and UBS.</description>
+      <dc:creator>Ben Protess, William K. Rashbaum and Rebecca Davis O’Brien</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 20:35:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/nyregion/23trump-james1/23trump-james1-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Attorney General Letitia James of New York described the “broad and special powers” she is granted by a state law aimed at reining in corporate malfeasance.</media:description>
+    </item>
+    <item>
       <title>As Trump’s Legal Woes Mount, So Do Financial Pressures on Him</title>
       <link>https://www.nytimes.com/2022/09/22/us/politics/trump-finances-lawsuits.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/trump-finances-lawsuits.html</guid>
@@ -136,34 +155,13 @@
       <media:description>The numerous investigations and lawsuits swirling around former President Donald J. Trump are creating new and significant financial pressures on him.</media:description>
     </item>
     <item>
-      <title>Trump Claims He Declassified Documents, but His Lawyers Don’t</title>
-      <link>https://www.nytimes.com/2022/09/22/us/politics/trump-documents-declassification.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/trump-documents-declassification.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/us/politics/trump-documents-declassification.html" rel="standout"></atom:link>
-      <description>Judges this week highlighted the gap between Mr. Trump’s public claims that he declassified everything and his lawyers’ reluctance to repeat that claim in a courtroom.</description>
-      <dc:creator>Glenn Thrush, Alan Feuer and Charlie Savage</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 00:19:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dearie, Raymond J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/22dc-documents1/22dc-documents1-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Bourg/Reuters</media:credit>
-      <media:description>A detailed property inventory of documents and other items seized from former President Donald J. Trump’s Mar-a-Lago estate.</media:description>
-    </item>
-    <item>
       <title>Hilary Mantel, Prize-Winning Author Known for ‘Wolf Hall,’ Dies at 70</title>
       <link>https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html" rel="standout"></atom:link>
       <description>The two-time Booker Prize-winning author was known for “Wolf Hall” and two other novels based on the life of Thomas Cromwell.</description>
       <dc:creator>Alex Marshall and Alexandra Alter</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 20:36:58 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 20:46:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mantel, Hilary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
@@ -173,7 +171,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/MANTEL-DEAD/MANTEL-DEAD-moth.jpg" width="151"></media:content>
       <media:credit>Ellie Smith for The New York Times</media:credit>
-      <media:description>Hilary Mantel in 2020.</media:description>
+      <media:description>The author Hilary Mantel in 2020.</media:description>
     </item>
     <item>
       <title>Hilary Mantel Books, Reviews and Interviews: A Reading Guide</title>
@@ -411,24 +409,6 @@
       <media:credit>Andrew Kelly/Reuters</media:credit>
     </item>
     <item>
-      <title>Biden Has Helped the Quiet Revolution of Giving People Money</title>
-      <link>https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html" rel="standout"></atom:link>
-      <description>Dozens of pilot programs and the success of the Child Tax Credit show the merits of a guaranteed income.</description>
-      <dc:creator>Farhad Manjoo</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 19:20:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Welfare (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Tax Credits and Stipends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="">universal basic income</category>
-      <category domain="">child poverty</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/23manjoo5/23manjoo5-moth.jpg" width="151"></media:content>
-      <media:credit>Cavan Images/Getty Images</media:credit>
-    </item>
-    <item>
       <title>Putin Will Get Whatever Result He Wants </title>
       <link>https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html</guid>
@@ -466,6 +446,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/23mcwhorter-image/23mcwhorter-image-moth.jpg" width="151"></media:content>
       <media:credit>Delcan and Co</media:credit>
+    </item>
+    <item>
+      <title>Biden Has Helped the Quiet Revolution of Giving People Money</title>
+      <link>https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html" rel="standout"></atom:link>
+      <description>Dozens of pilot programs and the success of the Child Tax Credit show the merits of a guaranteed income.</description>
+      <dc:creator>Farhad Manjoo</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 19:20:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Welfare (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Tax Credits and Stipends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="">universal basic income</category>
+      <category domain="">child poverty</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/23manjoo5/23manjoo5-moth.jpg" width="151"></media:content>
+      <media:credit>Cavan Images/Getty Images</media:credit>
     </item>
     <item>
       <title>I Don’t Need My Life to Be Remarkable</title>

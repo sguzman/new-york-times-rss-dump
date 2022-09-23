@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 05:49:41 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 05:41:31 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 06:39:12 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 06:03:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -343,7 +343,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html" rel="standout"></atom:link>
       <description>Starting on Friday, people in four occupied regions of Ukraine will “vote” on whether to become a part of Russia. Here’s what that really means.</description>
       <dc:creator>Sasha Vasilyuk</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 05:00:03 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 05:00:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>

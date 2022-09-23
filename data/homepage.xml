@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 04:30:04 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 04:09:01 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 05:49:41 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 05:41:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -66,7 +66,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html" rel="standout"></atom:link>
       <description>As Vladimir Putin’s “special military operation” enters a new chapter, Russians are being plucked from villages around the country for training and military service.</description>
       <dc:creator>Anton Troianovski, Valerie Hopkins, Ivan Nechepurenko and Alina Lobzina</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 23:39:58 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 04:52:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -284,6 +284,25 @@
       <media:description>James O’Keefe, the founder of Project Veritas, calls his employees journalists but has come under fire for their deceptive practices.</media:description>
     </item>
     <item>
+      <title>Japan to Fully Reopen in October, as Asian Holdouts Dwindle</title>
+      <link>https://www.nytimes.com/2022/09/23/business/asia-travel-reopening-japan-taiwan-hong-kong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/business/asia-travel-reopening-japan-taiwan-hong-kong.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/business/asia-travel-reopening-japan-taiwan-hong-kong.html" rel="standout"></atom:link>
+      <description>Japan will allow visitors to travel freely for the first time in nearly two and a half years. Taiwan announced an end to quarantines, and Hong Kong was expected to follow.</description>
+      <dc:creator>Ben Dooley</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 05:31:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23asia-covid-01/23asia-covid-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Sensoji Temple, a popular tourist attraction in Tokyo.</media:description>
+    </item>
+    <item>
       <title>Zach Bryan Is Music’s Most Reluctant New Star</title>
       <link>https://www.nytimes.com/2022/09/22/arts/music/zach-bryan-american-heartbreak.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/arts/music/zach-bryan-american-heartbreak.html</guid>
@@ -316,6 +335,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22lozada/22lozada-moth.jpg" width="151"></media:content>
       <media:credit>Anthony Eslick</media:credit>
+    </item>
+    <item>
+      <title>Putin Is Not Liberating My Family. He Is Subjugating Them.</title>
+      <link>https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/international-world/ukraine-referendum-donbas-putin.html" rel="standout"></atom:link>
+      <description>Starting on Friday, people in four occupied regions of Ukraine will “vote” on whether to become a part of Russia. Here’s what that really means.</description>
+      <dc:creator>Sasha Vasilyuk</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 05:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/23vasilyuk/23vasilyuk-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A mural in a police station in Kupiansk, Ukraine, depicts a Russian soldier and a woman holding a Soviet flag.</media:description>
     </item>
     <item>
       <title>What Explains the Alarming Democrat-on-Democrat Sabotage in North Carolina?</title>
@@ -402,21 +441,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/22tan-image/22tan-image-moth-v3.jpg" width="151"></media:content>
       <media:credit>Jasjyot Singh Hans</media:credit>
-    </item>
-    <item>
-      <title>The Midlife Crisis Is Very Real and Nothing to Be Laughed At</title>
-      <link>https://www.nytimes.com/2022/09/21/opinion/midlife-crisis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/midlife-crisis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/midlife-crisis.html" rel="standout"></atom:link>
-      <description>It may be a result of our affluent world. Or it may be biological.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 19:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Bureau of Economic Research</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/21coy-image/21coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
     <item>
       <title>Betrayal and Blackouts in Puerto Rico</title>
@@ -517,6 +541,27 @@
       <media:description>Celtics Coach Ime Udoka spent nine seasons as an assistant coach in the N.B.A. before Boston hired him as its head coach in June 2021.</media:description>
     </item>
     <item>
+      <title>Apple to Sponsor the Super Bowl Halftime Show</title>
+      <link>https://www.nytimes.com/2022/09/23/technology/apple-nfl-super-bowl.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/technology/apple-nfl-super-bowl.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/technology/apple-nfl-super-bowl.html" rel="standout"></atom:link>
+      <description>Apple’s pursuit of an N.F.L. media package has broadened to include a sponsorship of one of TV’s most-watched events.</description>
+      <dc:creator>Tripp Mickle</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 05:41:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Super Bowl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple TV Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/business/apple-superbowl-01/apple-superbowl-01-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>Jennifer Lopez performing in the Super Bowl halftime show in 2020. The N.F.L. is offering sponsorship of the event for roughly $50 million, people familiar with the talks said.</media:description>
+    </item>
+    <item>
       <title>Officials Hopeful That Monkeypox Can Be Eliminated in the U.S.</title>
       <link>https://www.nytimes.com/2022/09/22/us/politics/monkeypox-elimination.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/us/politics/monkeypox-elimination.html</guid>
@@ -532,28 +577,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22dc-monkeypox-photo-1-f8c9/22dc-monkeypox-photo-1-f8c9-moth.jpg" width="151"></media:content>
       <media:credit>Seth Wenig/Associated Press</media:credit>
       <media:description>A monkeypox vaccination clinic in Newark last month. The United States accounts for more than a third of the roughly 65,000 monkeypox cases reported worldwide.</media:description>
-    </item>
-    <item>
-      <title>California Regents Hear Out Pac-12 on U.C.L.A.’s Move to Big Ten</title>
-      <link>https://www.nytimes.com/2022/09/22/sports/ncaafootball/ucla-big-ten-uc-regents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/sports/ncaafootball/ucla-big-ten-uc-regents.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/sports/ncaafootball/ucla-big-ten-uc-regents.html" rel="standout"></atom:link>
-      <description>The leaders of the sprawling University of California educational system are considering whether they should halt the move by U.C.L.A.</description>
-      <dc:creator>Billy Witz</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 01:05:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Big Ten Conference</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific-12 Conference</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Los Angeles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Berkeley</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kliavkoff, George</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ucla-bigten01-1-5b90/22ucla-bigten01-1-5b90-moth.jpg" width="151"></media:content>
-      <media:credit>Gary A. Vasquez/USA Today Sports, via Reuters</media:credit>
-      <media:description>U.C.L.A., which plays some of its football games at the Rose Bowl in Pasadena, Calif., has struggled with attendance at the start of this season.</media:description>
     </item>
     <item>
       <title>Saving Whales From Ship Collisions With Warnings and Letter Grades</title>
@@ -667,7 +690,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/22/style/joan-didion-memorial.html" rel="standout"></atom:link>
       <description>Among the well-wishers at Joan Didion’s memorial service in New York.</description>
       <dc:creator>Jacob Bernstein</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 18:39:37 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 04:52:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Didion, Joan</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/fashion/22DIDION3/22DIDION3-moth.jpg" width="151"></media:content>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 19:14:33 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 19:01:50 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 19:35:11 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 19:29:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -157,13 +157,13 @@
       <media:description>A detailed property inventory of documents and other items seized from former President Donald J. Trump’s Mar-a-Lago estate.</media:description>
     </item>
     <item>
-      <title>Hilary Mantel, Prize-Winning Author of Historical Fiction, Dies at 70</title>
+      <title>Hilary Mantel, Prize-Winning Author Known for ‘Wolf Hall,’ Dies at 70</title>
       <link>https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/23/books/hilary-mantel-dead.html" rel="standout"></atom:link>
       <description>The two-time Booker Prize-winning author was known for “Wolf Hall” and two other novels based on the life of Thomas Cromwell.</description>
       <dc:creator>Alex Marshall and Alexandra Alter</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 17:58:55 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 17:58:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mantel, Hilary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
@@ -214,12 +214,17 @@
     </item>
     <item>
       <title>Climate Activist Sets Himself on Fire at the Laver Cup</title>
-      <link>https://www.nytimes.com/live/2022/09/23/sports/roger-federer-nadal-laver-cup/laver-cup-climate-activist-set-himself-on-fire</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/23/sports/roger-federer-nadal-laver-cup/laver-cup-climate-activist-set-himself-on-fire</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/23/sports/roger-federer-nadal-laver-cup/laver-cup-climate-activist-set-himself-on-fire" rel="standout"></atom:link>
-      <description></description>
+      <link>https://www.nytimes.com/2022/09/23/sports/tennis/laver-cup-fire-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/sports/tennis/laver-cup-fire-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/sports/tennis/laver-cup-fire-protest.html" rel="standout"></atom:link>
+      <description>The protest disrupted the tournament on a day when Roger Federer was scheduled to play the last competitive match of his career.</description>
       <dc:creator>Andrew Das</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 18:49:59 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 19:15:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23federer-climate-protest-1-4935/23federer-climate-protest-1-4935-moth.jpg" width="151"></media:content>
+      <media:credit>John Walton/Press Association, via Associated Press</media:credit>
     </item>
     <item>
       <title>Alex Jones Says He’s ‘Done’ Apologizing to Sandy Hook Families</title>
@@ -412,15 +417,15 @@
       <atom:link href="https://www.nytimes.com/2022/09/23/opinion/columnists/child-tax-credit-basic-income.html" rel="standout"></atom:link>
       <description>Dozens of pilot programs and the success of the Child Tax Credit show the merits of a guaranteed income.</description>
       <dc:creator>Farhad Manjoo</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 14:18:06 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 19:20:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Welfare (US)</category>
-      <category domain="">universal basic income</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Tax Credits and Stipends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="">universal basic income</category>
       <category domain="">child poverty</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23manjoo5/23manjoo5-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/23manjoo5/23manjoo5-moth.jpg" width="151"></media:content>
       <media:credit>Cavan Images/Getty Images</media:credit>
     </item>
     <item>
@@ -586,7 +591,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/23/sports/basketball/ime-udoka-boston-celtics.html" rel="standout"></atom:link>
       <description>The Celtics said Udoka violated unspecified team rules, prompting a one-year suspension.</description>
       <dc:creator>Scott Cacciola</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 18:12:45 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 19:29:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Celtics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Udoka, Ime</category>

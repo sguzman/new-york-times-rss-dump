@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 14:32:28 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 14:27:37 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 14:58:23 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 14:52:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/23/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>The plans for referendums on becoming part of Russia were met with international condemnation. The process is expected to culminate with the annexation of an area larger than Portugal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 14:27:37 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 14:47:58 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-promo-9am/23ukraine-briefing-promo-9am-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -296,6 +296,27 @@
       <media:description>Istanbul International Airport. With the government replenishing its military in Ukraine, some Russian men have headed for the borders.</media:description>
     </item>
     <item>
+      <title>On a Corpse’s Wrist, an Emblem of Ukrainian Fortitude</title>
+      <link>https://www.nytimes.com/2022/09/23/world/europe/ukraine-war-graves-bracelet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/world/europe/ukraine-war-graves-bracelet.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/world/europe/ukraine-war-graves-bracelet.html" rel="standout"></atom:link>
+      <description>When they pulled Serhiy Sova’s body from a grave in Izium, his wrist bore a bracelet in Ukraine’s colors, given to him by his children. The image has transfixed the nation.</description>
+      <dc:creator>Marc Santora and Anna Lukinova</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 14:52:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/us/politics/23ukraine-bracelet/16ukraine-briefing-promo-330PM-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Investigators exhumed bodies at the site of a mass grave in Izium this month.</media:description>
+    </item>
+    <item>
       <title>Abel Selaocoe Finds a Home in Improvisation</title>
       <link>https://www.nytimes.com/2022/09/23/arts/music/abel-selaocoe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/arts/music/abel-selaocoe.html</guid>
@@ -469,12 +490,12 @@
       <description>David Malpass touched off a furor, including calls for his removal, when he refused to acknowledge that fossil fuels are warming the planet.</description>
       <dc:creator>David Gelles and Alan Rappeport</dc:creator>
       <pubDate>Thu, 22 Sep 2022 22:15:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malpass, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malpass, David</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/climate/22cli-malpass1/22cli-malpass1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Smialowski/Agence France-Presse — Getty Images</media:credit>
@@ -934,30 +955,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-Iran-speech-01/21unga-blog-Iran-speech-01-moth.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>President Ebrahim Raisi of Iran made his first appearance at the United Nations headquarters in New York on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Biden Criticizes Iran and China on Human Rights and Security Issues</title>
-      <link>https://www.nytimes.com/2022/09/21/world/unga-biden-iran-and-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/unga-biden-iran-and-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/unga-biden-iran-and-china.html" rel="standout"></atom:link>
-      <description>President Biden said that Washington “will be unabashed in promoting” a vision of a free world.</description>
-      <dc:creator>Edward Wong and Michael Crowley</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 03:42:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-biden-iran-china-01/21unga-blog-biden-iran-china-01-moth.jpg" width="151"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>“We will not allow Iran to acquire a nuclear weapon,” President Biden said, adding, “I continue to believe diplomacy is the best way to achieve this outcome.”</media:description>
     </item>
   </channel>
 </rss>

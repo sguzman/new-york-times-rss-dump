@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 20:25:07 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Sep 2022 19:55:24 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2022 20:45:25 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2022 20:44:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/23/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>Residents in Russian-occupied territories said their homeland was being usurped by force in what they called a sham vote. Russia announced that some workers will be exempt from the draft.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 19:55:24 +0000</pubDate>
+      <pubDate>Fri, 23 Sep 2022 20:44:26 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-promo-9am/23ukraine-briefing-promo-9am-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -154,12 +154,17 @@
       <description>Rev. Mpho Tutu van Furth, an Episcopal priest who is married to a woman, said the funeral of her godfather was moved to his garden to allow her to participate.</description>
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Fri, 23 Sep 2022 19:54:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mpho Tutu van Furth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu, Desmond M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu van Furth, Mpho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Church of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyon, Martin (d 2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tutu/23uk-tutu-moth.jpg" width="151"></media:content>
       <media:credit>Lerato Maduna/Foto24/Gallo Images, via Getty Images</media:credit>
       <media:description>Rev. Mpho Tutu van Furth, right, with her wife, Marceline Tutu van Furth, in Cape Town in 2016.</media:description>
@@ -262,9 +267,7 @@
       <description>Two imitators of the King of Pop in Buenos Aires offer a study in contrasts, reflective of Argentina’s deep economic divide. One man financed 13 surgeries, while the other draws on his sideburns.</description>
       <dc:creator>Jack Nicas and Anita Pouchard Serra</dc:creator>
       <pubDate>Fri, 23 Sep 2022 12:09:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Impersonators and Impressionists (Entertainment)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Careers and Professions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Street Performers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
@@ -276,6 +279,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Alan (Singer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanco, Leo (Singer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00Argentina-MJs_Profile-promo/00Argentina-MJs_Profile-promo-moth.jpg" width="151"></media:content>
       <media:description>Leo Blanco is a Michael Jackson impersonator in Buenos Aires, Argentina.</media:description>
     </item>
@@ -318,6 +322,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/arts/23amal-notebook2/23amal-notebook2-moth.jpg" width="151"></media:content>
       <media:credit>Amir Hamja for The New York Times</media:credit>
       <media:description>Little Amal walking along Central Park West in Manhattan.</media:description>
+    </item>
+    <item>
+      <title>Berlusconi Draws Backlash for Saying Putin Was ‘Pushed’ to Invade Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/23/world/europe/berlusconi-putin-russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/world/europe/berlusconi-putin-russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/world/europe/berlusconi-putin-russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Italy’s former prime minister said that the Russian president was “pushed” to invade Ukraine, remarks that drew fierce criticism days before an election.</description>
+      <dc:creator>Gaia Pianigiani</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 20:26:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-berlusconi-topart-2/23ukraine-briefing-berlusconi-topart-2-moth.jpg" width="151"></media:content>
+      <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Italy’s former prime minister, Silvio Berlusconi, said President Vladimir V. Putin of Russia was “pushed” to invade Ukraine.</media:description>
     </item>
     <item>
       <title>Abel Selaocoe Finds a Home in Improvisation</title>
@@ -525,12 +541,14 @@
       <description>Newly released census results may fuel calls for a referendum on uniting Ireland, experts say, but not right away.</description>
       <dc:creator>Megan Specia and Ed O’Loughlin</dc:creator>
       <pubDate>Thu, 22 Sep 2022 21:22:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protestant Churches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belfast (Northern Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinn Fein</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22nireland-census/22nireland-census-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
@@ -766,12 +784,8 @@
       <description>In towns reclaimed from Russian occupation, Ukrainian officials are working to identify — and punish — those who helped the enemy. It’s dividing some communities.</description>
       <dc:creator>Andrew E. Kramer, Maria Varenikova and Nicole Tung</dc:creator>
       <pubDate>Thu, 22 Sep 2022 16:07:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -963,21 +977,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/multimedia/21unga-blog-kenya/21unga-blog-kenya-moth-v2.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Kenya’s newly elected president, William Ruto, addressing world leaders at the 77th session of the United Nations General Assembly on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>At Least 1,252 People Are Detained in Protests in Russia</title>
-      <link>https://www.nytimes.com/2022/09/22/world/europe/russia-protests-arrests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/russia-protests-arrests.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/russia-protests-arrests.html" rel="standout"></atom:link>
-      <description>Protesters show their disapproval of the policy announced by President Vladimir V. Putin on Wednesday morning that would press 300,000 people into military service.</description>
-      <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 11:33:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-russia-thurs-image-1-1a36/22ukraine-briefing-russia-thurs-image-1-1a36-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Police officers detaining a man after calls to protest against the call-up of reservists, in Moscow, on Wednesday. At least 1,312 people were detained, according to the human rights watchdog OVD-Info.</media:description>
     </item>
   </channel>
 </rss>

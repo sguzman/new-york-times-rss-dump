@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 20:15:15 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 20:07:43 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 20:37:55 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 20:27:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -337,7 +337,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/opinion/23brooks1/23brooks1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Smialowski/Agence France-Presse&amp;mdash;Getty Images</media:credit>
     </item>
@@ -534,48 +533,89 @@
       <media:description>The saxophonist Pharoah Sanders in Brooklyn in 2015.</media:description>
     </item>
     <item>
-      <title>Is It Covid or the Flu? How to Tell Symptoms Apart</title>
-      <link>https://www.nytimes.com/article/covid-flu-symptoms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/covid-flu-symptoms.html</guid>
-      <atom:link href="https://www.nytimes.com/article/covid-flu-symptoms.html" rel="standout"></atom:link>
-      <description>There are slight differences in symptoms, but the best way to tell which infection you have is through a test.</description>
+      <title>Is Natural Wine Actually Better for You?</title>
+      <link>https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html" rel="standout"></atom:link>
+      <description>Fewer headaches. Less severe hangovers. Better gut health. How do these health claims stack up against the science?</description>
+      <dc:creator>Jesse Hirsch</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 18:34:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beverages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/well/16scam-natural-wine/16scam-natural-wine-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Tyler Comrie; Photograph by Getty Images</media:credit>
+    </item>
+    <item>
+      <title>When Should I Get the New Bivalent Booster?</title>
+      <link>https://www.nytimes.com/article/bivalent-booster-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/bivalent-booster-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/article/bivalent-booster-covid.html" rel="standout"></atom:link>
+      <description>You are allowed to get the shot two months after a previous dose, but some experts suggest waiting a little longer.</description>
       <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 18:36:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <pubDate>Tue, 20 Sep 2022 21:18:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/well/24covid-ongoing-flu-differences1/24covid-ongoing-flu-differences1-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20covid-ongoing-replace-boosters2/20covid-ongoing-replace-boosters2-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
     </item>
     <item>
-      <title>Fall Is the Season for Building Mindfulness and Resilience</title>
-      <link>https://www.nytimes.com/2022/09/21/well/live/fall-autumn-mindfulness.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/well/live/fall-autumn-mindfulness.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/well/live/fall-autumn-mindfulness.html" rel="standout"></atom:link>
-      <description>Yes, the easy summer days are behind us. But if you’re willing to brave the chill, autumn holds a special set of rewards.</description>
-      <dc:creator>Erik Vance</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 09:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasonal Affective Disorder (SAD)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-    </item>
-    <item>
-      <title>Is It Possible to Exercise Too Much?</title>
-      <link>https://www.nytimes.com/2022/01/04/well/move/too-much-exercise.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/01/04/well/move/too-much-exercise.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/01/04/well/move/too-much-exercise.html" rel="standout"></atom:link>
-      <description>And if so, how can I tell if I’m overdoing it?</description>
-      <dc:creator>Christie Aschwanden</dc:creator>
-      <pubDate>Tue, 11 Jan 2022 15:51:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <title>How to Exercise Safely Outside in the Fall and Winter</title>
+      <link>https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html" rel="standout"></atom:link>
+      <description>Here are a few ways to protect yourself from the elements, oncoming traffic and other threats that ramp up in the fall and winter months.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 01:56:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/04/well/04askwell-exercise-promo/04askwell-exercise-promo-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold and Cold Spells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frostbite</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/well/22Well-NL-ExerciseSafety/22Well-NL-ExerciseSafety-moth.jpg" width="151"></media:content>
+      <media:credit>Guillem Casasús</media:credit>
+    </item>
+    <item>
+      <title>‘Preventative’ Botox: Do Injections Work to Reduce Wrinkles?</title>
+      <link>https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html" rel="standout"></atom:link>
+      <description>Or are injections just a temporary, addictive fix?</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Tue, 22 Mar 2022 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Botox (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Face</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Surgery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/14/well/14askwell-botox-promo/14askwell-botox-promo-moth.jpg" width="151"></media:content>
       <media:credit>Aileen Son for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>What to Know About Fentanyl and Why It’s So Dangerous</title>
+      <link>https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html" rel="standout"></atom:link>
+      <description>Drug overdoses have reached record highs. Experts offer tips to talk about opioids with your family.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Fri, 20 May 2022 15:27:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/24/well/19Well-NL-Fentanyl/19Well-NL-Fentanyl-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Nicolas Ortega, Photograph by Getty Images </media:credit>
     </item>
     <item>
       <title>Guns, Gorillas and Netflix: A Belgian Prince in Congo</title>

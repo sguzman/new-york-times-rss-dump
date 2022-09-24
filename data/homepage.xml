@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 23:14:49 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 23:06:53 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 23:41:09 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 23:25:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -367,6 +367,39 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
+      <title>Let’s Talk About the Economic Roots of White Supremacy</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/labor-union-racism-history.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/labor-union-racism-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/labor-union-racism-history.html" rel="standout"></atom:link>
+      <description>It’s not just about racism.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 14:56:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thurmond, Strom</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/24bouie-newsletter-1/24bouie-newsletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Bettmann/Getty Images</media:credit>
+      <media:description>The Dixiecrats: College students at the 1948 Southern Democratic Convention.</media:description>
+    </item>
+    <item>
+      <title>Since You’ve Been Gone: What’s Next for the Royal Corgis?</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/corgi-dog-royal-family-queen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/corgi-dog-royal-family-queen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/corgi-dog-royal-family-queen.html" rel="standout"></atom:link>
+      <description>Considering the future of the short yet noble canines.</description>
+      <dc:creator>Emily Flake</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 23:24:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/opinion/sunday/22Flake-05/22Flake-05-moth-v3.jpg" width="151"></media:content>
+    </item>
+    <item>
       <title>How Do You Handle a Wounded Putin?</title>
       <link>https://www.nytimes.com/2022/09/23/opinion/wounded-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/wounded-putin.html</guid>
@@ -382,42 +415,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/opinion/23brooks1/23brooks1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Smialowski/Agence France-Presse&amp;mdash;Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Hilary Mantel Was the Magician and the Spell</title>
-      <link>https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html" rel="standout"></atom:link>
-      <description>Part of the particular wonder of reading her is the knowledge that no one else has ever written like that before nor will again.</description>
-      <dc:creator>Kamila Shamsie</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 19:29:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mantel, Hilary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wolf Hall (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cromwell, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry VIII, King of England</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/24shamsie-2/24shamsie-2-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Andrea Artz/laif, via Redux</media:credit>
-      <media:description>The author Hilary Mantel in 2020.</media:description>
-    </item>
-    <item>
-      <title>Fed Chairs Are People, Too</title>
-      <link>https://www.nytimes.com/2022/09/23/opinion/jerome-powell-rates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/jerome-powell-rates.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/jerome-powell-rates.html" rel="standout"></atom:link>
-      <description>Economic theory alone may not explain Jerome Powell’s actions.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 19:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Volcker, Paul A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Open Market Committee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Summers, Lawrence H</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/opinion/23coy-image2/23coy-image2-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by mikroman6 and Andrii-Oliinyk via Getty Images</media:credit>
     </item>
     <item>
       <title>What Issue Is Most On Your Mind for the Midterm Elections?</title>

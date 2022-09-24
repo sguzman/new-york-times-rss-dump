@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 22:49:06 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 22:41:58 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 23:14:49 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 23:06:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -204,19 +204,25 @@
       <media:description>Barack Obama on the campaign trail in 2008, when a book titled “The Emerging Democratic Majority” seemed prophetic.</media:description>
     </item>
     <item>
-      <title>Federer’s Goodbye a Reminder of the Events and Shots That Make His Legacy</title>
-      <link>https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html" rel="standout"></atom:link>
-      <description>Federer kept alive a one-handed backhand, tried rushing the net on returns and helped popularize the between-the-legs shot. And with the Laver Cup, he showed that tournaments can be different, too.</description>
-      <dc:creator>Christopher Clarey</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 20:54:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Tennis Professionals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Team8</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/sports/23federer-vid-sub/23federer-vid-sub-moth.jpg" width="151"></media:content>
-      <media:credit>James Hill for The New York Times</media:credit>
+      <title>Puerto Ricans Fear Extended Blackout After Hurricane Fiona</title>
+      <link>https://www.nytimes.com/2022/09/24/us/puerto-rico-power-outages.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/us/puerto-rico-power-outages.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/us/puerto-rico-power-outages.html" rel="standout"></atom:link>
+      <description>Residents, who pay some of the highest electricity rates in the United States, say they have little patience for the kind of outages they faced after Hurricane Maria.</description>
+      <dc:creator>Laura N. Pérez Sánchez</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 22:56:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Fiona (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LUMA Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Puerto Rico Electric Power Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierluisi, Pedro R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Juan (Puerto Rico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/24pr-power2-print/24pr-power-01-1-4b06-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <media:description>Dennis Rodríguez’s home, in the center of San Juan, has been without power since Hurricane Fiona hit Puerto Rico last week.</media:description>
     </item>
     <item>
       <title>Louise Fletcher, 88, Dies; Oscar Winner for ‘One Flew Over the Cuckoo’s Nest’</title>
@@ -272,6 +278,26 @@
       <media:description>The author and her husband, Andrew, at work on their marriage.</media:description>
     </item>
     <item>
+      <title>In Washington State, the Midterm Race Between Joe Kent and Marie Gluesenkamp Perez Has It All</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html" rel="standout"></atom:link>
+      <description>This congressional race in Washington State shows the November elections in microcosm.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 22:59:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kent, Joe (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gluesenkamp Perez, Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23Goldberg-combo/23Goldberg-combo-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Lucier for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Putin and Trump, the Solo Soulless Saboteurs</title>
       <link>https://www.nytimes.com/2022/09/24/opinion/putin-trump-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/putin-trump-ukraine.html</guid>
@@ -286,26 +312,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/24Dowd-1/24Dowd-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Yury Kochetkov</media:credit>
-    </item>
-    <item>
-      <title>Want to Understand the 2022 Midterms? Meet Joe and Marie.</title>
-      <link>https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html" rel="standout"></atom:link>
-      <description>This congressional race in Washington State shows the November elections in microcosm.</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 17:39:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kent, Joe (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gluesenkamp Perez, Marie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23Goldberg-combo/23Goldberg-combo-moth.jpg" width="151"></media:content>
-      <media:credit>Amanda Lucier for The New York Times</media:credit>
     </item>
     <item>
       <title>This Threat to Democracy Is Hiding in Plain Sight</title>
@@ -479,56 +485,59 @@
       <media:description>Canada’s farmers are expected to harvest near-record yields this year.</media:description>
     </item>
     <item>
-      <title>‘Somebody Planted the Guns’: In Canada, a Raided, Distrusting Village Blames the Police</title>
-      <link>https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html" rel="standout"></atom:link>
-      <description>When a cache of weapons was found in a tiny Canadian village that has become a symbol of the far right, it didn’t take long for new conspiracy theories to start circulating.</description>
-      <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 20:42:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24canada-coutts-top/24canada-coutts-top-moth.jpg" width="151"></media:content>
-      <media:credit>Amber Bracken for The New York Times</media:credit>
-      <media:description>The village of Coutts, Alberta, on the border with Montana, was the site of a large weapons seizure and of antigovernment protests this winter.</media:description>
+      <title>Federer’s Goodbye a Reminder of the Events and Shots That Make His Legacy</title>
+      <link>https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/sports/tennis/roger-federer-career.html" rel="standout"></atom:link>
+      <description>Federer kept alive a one-handed backhand, tried rushing the net on returns and helped popularize the between-the-legs shot. And with the Laver Cup, he showed that tournaments can be different, too.</description>
+      <dc:creator>Christopher Clarey</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 20:54:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Tennis Professionals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Team8</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Federer, Roger</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/sports/23federer-vid-sub/23federer-vid-sub-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Fight Between Armenia and Azerbaijan, Explained</title>
-      <link>https://www.nytimes.com/article/armenia-azerbaijan-clashes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/armenia-azerbaijan-clashes.html</guid>
-      <atom:link href="https://www.nytimes.com/article/armenia-azerbaijan-clashes.html" rel="standout"></atom:link>
-      <description>The hostilities that flared again last week reflect decades of animosity over a mountain region, but the consequences could be far wider. Here’s a guide.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 14:30:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Armenians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aliyev, Ilham H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00armenia-explainer/00armenia-explainer-moth.jpg" width="151"></media:content>
-      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A firefighter among the ruins of a house destroyed by shelling in Sotk, Armenia, last week.</media:description>
+      <title>Dragon Fruit Is Showing Up All Over. So Why Are Farmers Leaving the Business?</title>
+      <link>https://www.nytimes.com/2022/09/23/dining/dragon-fruit-farmers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/dining/dragon-fruit-farmers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/dining/dragon-fruit-farmers.html" rel="standout"></atom:link>
+      <description>The flavor is a fixture on drink menus. But competition from abroad has South Florida growers rethinking their commitment to a once-lucrative crop that requires a lot of investment and care.</description>
+      <dc:creator>Christina Morales</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 17:07:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cacti (Plants)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="">Dragon Fruit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Homestead (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/dining/22Dragon-Fruit-vid1-cover/22Dragon-Fruit-vid1-cover-moth.png" width="151"></media:content>
+      <media:credit>Alfonso Duran for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Pharoah Sanders, Whose Saxophone Was a Force of Nature, Dies at 81</title>
+      <link>https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html" rel="standout"></atom:link>
+      <description>He first gained wide recognition for his work with John Coltrane. He went on to a fertile, prolific career, releasing dozens of albums as a leader.</description>
+      <dc:creator>Jon Pareles</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 22:53:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Pharoah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Karma (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coltrane, John</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/-1-1be1/-1-1be1-moth.jpg" width="151"></media:content>
+      <media:credit>Sam Polcer for The New York Times</media:credit>
+      <media:description>The saxophonist Pharoah Sanders in Brooklyn in 2015.</media:description>
     </item>
     <item>
       <title>For N.F.L. Kickers, Showing Too Much Leg Could Hurt Their Pockets</title>
@@ -549,25 +558,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Giants</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/sports/21nfl-uniforms-1/21nfl-uniforms-1-moth.jpg" width="151"></media:content>
       <media:credit>Joshua Bessex/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Pharoah Sanders, Whose Saxophone Was a Force of Nature, Dies at 81</title>
-      <link>https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/arts/music/pharoah-sanders-dead.html" rel="standout"></atom:link>
-      <description>He first gained wide recognition for his work with John Coltrane and went on to a fertile, prolific career, releasing dozens of albums as a leader.</description>
-      <dc:creator>Jon Pareles</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 16:07:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Pharoah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Karma (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coltrane, John</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/-1-1be1/-1-1be1-moth.jpg" width="151"></media:content>
-      <media:credit>Sam Polcer for The New York Times</media:credit>
-      <media:description>The saxophonist Pharoah Sanders in Brooklyn in 2015.</media:description>
     </item>
     <item>
       <title>Is Natural Wine Actually Better for You?</title>
@@ -655,26 +645,20 @@
       <media:credit>Illustration by Nicolas Ortega, Photograph by Getty Images </media:credit>
     </item>
     <item>
-      <title>Guns, Gorillas and Netflix: A Belgian Prince in Congo</title>
-      <link>https://www.nytimes.com/2022/09/22/style/congo-belgian-prince.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/style/congo-belgian-prince.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/style/congo-belgian-prince.html" rel="standout"></atom:link>
-      <description>Emmanuel de Merode is trying to protect Virunga National Park, catching the eye of Hollywood, and its philanthropists, along the way. “Complicated” doesn’t even begin to describe the story.</description>
-      <dc:creator>Adam Popescu</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 15:51:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Affleck, Ben</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fossey, Dian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goodall, Jane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/fashion/00CONGO-PRINCE6/merlin_213075774_3de7e8f8-eaa0-476e-9d3b-cd5929c99a76-moth.jpg" width="151"></media:content>
-      <media:credit>Brent Stirton/Getty Images</media:credit>
-      <media:description>Emmanuel de Merode, the director of Virunga National Park, with the conservation rangers in the park.</media:description>
+      <title>How a Sooty Old Piano Helped Beth Orton Reach a New Creative Peak</title>
+      <link>https://www.nytimes.com/2022/09/21/arts/music/beth-orton-weather-alive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/arts/music/beth-orton-weather-alive.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/arts/music/beth-orton-weather-alive.html" rel="standout"></atom:link>
+      <description>With a vintage upright and painstakingly assembled songs, the English folk-pop-electronic songwriter’s eighth studio album, “Weather Alive,” is her best.</description>
+      <dc:creator>Jon Pareles</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 20:20:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orton, Beth (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Weather Alive (Album)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/arts/21beth-orton8/21beth-orton8-moth.jpg" width="151"></media:content>
+      <media:credit>Rosie Marks for The New York Times</media:credit>
+      <media:description>“I was like, ‘OK, I don’t know how to play this instrument, but wow, it just sounds so beautiful,’” Orton said of her piano.</media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

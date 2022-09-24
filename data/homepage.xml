@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 15:11:46 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 14:57:13 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 15:37:58 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 15:25:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -84,11 +84,10 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/us/politics/gop-senate-fundraising-money.html" rel="standout"></atom:link>
       <description>Their fund-raising dwarfed by their Democratic rivals, Republican nominees including Blake Masters and Mehmet Oz have been in Washington gathering cash from lobbyists.</description>
       <dc:creator>Jonathan Martin</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 07:00:06 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 07:00:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masters, Blake (1986- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laxalt, Adam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
@@ -96,9 +95,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/00gopmoney-masters-1-96cb/00gopmoney-masters-1-96cb-moth.jpg" width="151"></media:content>
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
       <media:description>Blake Masters, the Republican nominee for Senate in Arizona, meeting voters in Sun City West, Ariz., in June. This week, he has been in Washington trying to make up a large fund-raising gap with his opponent, Senator Mark Kelly.</media:description>
@@ -323,6 +324,25 @@
       <media:credit>Illustration by Rebecca Chew/The New York Times; photograph by Stephen Maturen, via Getty Images</media:credit>
     </item>
     <item>
+      <title>Want to Understand the 2022 Midterms? Meet Joe and Marie.</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html" rel="standout"></atom:link>
+      <description>This congressional race in Washington State shows the November elections in microcosm.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 15:23:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kent, Joe (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marie Gluesenkamp Perez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23Goldberg-combo/23Goldberg-combo-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Lucier for The New York Times</media:credit>
+    </item>
+    <item>
       <title>How Do You Handle a Wounded Putin?</title>
       <link>https://www.nytimes.com/2022/09/23/opinion/wounded-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/wounded-putin.html</guid>
@@ -357,45 +377,22 @@
       <media:credit>Hannah McKay/Reuters</media:credit>
     </item>
     <item>
-      <title>The Wrong Trump Judge at the Right Time Can Wreak Havoc</title>
-      <link>https://www.nytimes.com/2022/09/23/opinion/cannon-trump-federal-judges.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/cannon-trump-federal-judges.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/cannon-trump-federal-judges.html" rel="standout"></atom:link>
-      <description>To solve the problem of hyperpartisan judges, expand the federal judiciary. </description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 21:55:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23bouie-1/23bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Kelly/Reuters</media:credit>
-    </item>
-    <item>
-      <title>I Don’t Need My Life to Be Remarkable</title>
-      <link>https://www.nytimes.com/2022/09/23/opinion/rosh-hashana-cancer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/rosh-hashana-cancer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/opinion/rosh-hashana-cancer.html" rel="standout"></atom:link>
-      <description>I’ve come to see the wisdom in not just seeking, but finding, joy in the mundane.</description>
-      <dc:creator>Sarah Wildman</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 18:18:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rosh Hashana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yom Kippur</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liver Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/opinion/23wildman/23wildman-moth.jpg" width="151"></media:content>
-      <media:credit>Karlotta Freier</media:credit>
+      <title>Hilary Mantel Was the Magician and the Spell</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/hilary-mantel-dead.html" rel="standout"></atom:link>
+      <description>Part of the particular wonder of reading her is the knowledge that no one else has ever written like that before nor will again.</description>
+      <dc:creator>Kamila Shamsie</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 15:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mantel, Hilary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wolf Hall (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cromwell, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry VIII, King of England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/24shamsie-2/24shamsie-2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrea Artz/laif, via Redux</media:credit>
+      <media:description>The author Hilary Mantel in 2020.</media:description>
     </item>
     <item>
       <title>Fed Chairs Are People, Too</title>

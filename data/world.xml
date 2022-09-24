@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 12:40:17 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 12:40:16 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 13:21:49 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 13:12:27 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html" rel="standout"></atom:link>
       <description>Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 11:50:02 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 13:12:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
@@ -113,10 +113,9 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>The fighting continued even as Russian proxies in four Ukrainian provinces began what Western officials have called “sham” referendums to join Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 12:40:16 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/24ukraine-briefing-sectionfront/23ukraine-briefing-carousel-4-630PM-moth.jpg" width="151"></media:content>
+      <pubDate>Sat, 24 Sep 2022 13:08:00 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-carousel-9am-1-db77/24ukraine-briefing-carousel-9am-1-db77-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Russian military vehicles in Izium.</media:description>
     </item>
     <item>
       <title>Major Covid Holdouts in Asia Drop Border Restrictions</title>
@@ -432,6 +431,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/books/23Mantel-appreciation-sub/23Mantel-appreciation-sub-moth.jpg" width="151"></media:content>
       <media:credit>David Levenson/Getty Images</media:credit>
       <media:description>Hilary Mantel “was unsentimental, forthright, unafraid of stating her sometimes fierce views.”</media:description>
+    </item>
+    <item>
+      <title>Group of 7 countries condemn ‘sham’ referendums in Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/24/world/europe/group-of-7-countries-condemn-sham-referendums-in-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/group-of-7-countries-condemn-sham-referendums-in-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/group-of-7-countries-condemn-sham-referendums-in-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 20:30:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-g7-condemnation-1-5e96/23ukraine-briefing-g7-condemnation-1-5e96-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Construction workers lineup to cast ballots at a mobile polling station in Russian-controlled Mariupol in eastern Ukraine on Friday. The referendum has been called a sham by the G7.</media:description>
     </item>
     <item>
       <title>Is Little Amal Getting Lost in New York?</title>
@@ -752,9 +763,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/xxiran-protest-explainer/merlin_213594909_b622e093-30f1-4eb4-a1c1-999fffbdae7a-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24iran-protests1/24iran-protests1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.</media:description>
+      <media:description>Demonstrators on the streets of Tehran this past week. Protests spurred by a woman’s death in custody have expanded to include outrage over economic problems and frustration with moral strictures.</media:description>
     </item>
     <item>
       <title>World Bank Leader, Accused of Climate Denial, Offers a New Response</title>
@@ -1019,23 +1030,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-collaboration01-promo/21ukraine-collaboration01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Truss Pledges to Support Ukraine in Speech at U.N. General Assembly</title>
-      <link>https://www.nytimes.com/2022/09/21/world/europe/liz-truss-speech-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/liz-truss-speech-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/liz-truss-speech-ukraine.html" rel="standout"></atom:link>
-      <description>The prime minister of Britain also restated a promise to raise Britain’s spending on defense to 3 percent of G.D.P. by 2030, a commitment long urged by the United States,.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 03:05:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21unga-blog-UK-liz-truss/21unga-blog-UK-liz-truss-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Stefan Rousseau</media:credit>
-      <media:description>Prime Minister Liz Truss of Britain with Prime Minister Denys Shmyhal of Ukraine in New York on Tuesday. Ms. Truss pledged strong support for Ukraine.</media:description>
     </item>
   </channel>
 </rss>

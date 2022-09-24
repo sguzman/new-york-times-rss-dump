@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 14:18:13 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 14:15:34 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 14:38:05 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 14:37:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,13 +43,14 @@
       <description>Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
       <pubDate>Sat, 24 Sep 2022 13:12:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24iran-protests1/24iran-protests1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Demonstrators on the streets of Tehran this past week. Protests spurred by a woman’s death in custody have expanded to include outrage over economic problems and frustration with moral strictures.</media:description>
@@ -113,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>The fighting continued even as Russian proxies in four Ukrainian provinces began what Western officials have called “sham” referendums to join Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 14:15:34 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 14:37:51 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-carousel-9am-1-db77/24ukraine-briefing-carousel-9am-1-db77-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -298,6 +299,34 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tax-newnew/23uk-tax-newnew-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Dylan Martinez</media:credit>
       <media:description>Prime Minister Liz Truss of Britain, second from left, and Chancellor of the Exchequer Kwasi Kwarteng, right, during a visit to a modular building manufacturing company, in Northfleet, England, on Friday.</media:description>
+    </item>
+    <item>
+      <title>The Fight Between Armenia and Azerbaijan, Explained</title>
+      <link>https://www.nytimes.com/article/armenia-azerbaijan-clashes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/armenia-azerbaijan-clashes.html</guid>
+      <atom:link href="https://www.nytimes.com/article/armenia-azerbaijan-clashes.html" rel="standout"></atom:link>
+      <description>The hostilities that flared again last week reflect decades of animosity over a mountain region, but the consequences could be far wider. Here’s a guide.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 14:30:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Armenians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aliyev, Ilham H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00armenia-explainer/00armenia-explainer-moth.jpg" width="151"></media:content>
+      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A firefighter among the ruins of a house destroyed by shelling in Sotk, Armenia, last week.</media:description>
     </item>
     <item>
       <title>‘Somebody Planted the Guns’: In Canada, a Raided, Distrusting Village Blames the Police</title>
@@ -781,21 +810,22 @@
       <media:description>A child diagnosed with cholera is treated at a hospital in Syria&#39;s Deir al-Zour province.</media:description>
     </item>
     <item>
-      <title>What to Know About Protests in Iran</title>
+      <title>Protests in Iran: What to Know</title>
       <link>https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html" rel="standout"></atom:link>
       <description>Dozens of cities have been embroiled in protests that were prompted by a young woman’s death in custody but that have escalated amid anger over religious rules and a rock-bottom economy.</description>
       <dc:creator>Cora Engelbrecht and Farnaz Fassihi</dc:creator>
       <pubDate>Sat, 24 Sep 2022 05:17:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basij</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basij</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24iran-protests1/24iran-protests1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Demonstrators on the streets of Tehran this past week. Protests spurred by a woman’s death in custody have expanded to include outrage over economic problems and frustration with moral strictures.</media:description>
@@ -1035,18 +1065,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-security-council-new-topart/22ukraine-briefing-security-council-new-topart-moth.jpg" width="151"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>The United Nations Security Council met in New York on Thursday to discuss allegations of human rights violations and war crimes in Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Your Thursday Briefing</title>
-      <link>https://www.nytimes.com/2022/09/22/briefing/putin-ukraine-russia-puerto-rico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/briefing/putin-ukraine-russia-puerto-rico.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/briefing/putin-ukraine-russia-puerto-rico.html" rel="standout"></atom:link>
-      <description>A warning from Vladimir Putin.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 04:50:21 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22AM-euro-brf-Putin-promo/22AM-euro-brf-Putin-1-e5f3-moth.jpg" width="151"></media:content>
-      <media:credit>Russian Presidential Press Service, via Associated Press</media:credit>
-      <media:description>Calling up 300,000 reservists, President Vladimir V. Putin of Russia tacitly acknowledged both Russia’s struggles and the existence of a unified Ukraine.</media:description>
     </item>
   </channel>
 </rss>

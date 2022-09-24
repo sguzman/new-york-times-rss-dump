@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 17:35:26 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 17:11:10 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 18:29:05 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 17:53:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html" rel="standout"></atom:link>
       <description>Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.</description>
       <dc:creator>Farnaz Fassihi and Jane Arraf</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 15:52:45 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 17:53:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>Witnesses and Ukrainian officials described intimidating scenes in Russian-occupied parts of Ukraine where what Western officials have called “sham” referendums are taking place.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 17:11:10 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 17:51:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-carousel-9am-1-db77/24ukraine-briefing-carousel-9am-1-db77-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -895,9 +895,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basij</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24iran-protests1/24iran-protests1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/xxiran-protest-explainer/merlin_213594909_b622e093-30f1-4eb4-a1c1-999fffbdae7a-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Demonstrators on the streets of Tehran this past week. Protests spurred by a woman’s death in custody have expanded to include outrage over economic problems and frustration with moral strictures.</media:description>
+      <media:description>Protesters in the streets of Tehran on Wednesday. The protests have grown to encapsulate a wide range of grievances against the government.</media:description>
     </item>
     <item>
       <title>World Bank Leader, Accused of Climate Denial, Offers a New Response</title>
@@ -1012,26 +1012,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22-THE-MORNING-NL-ukz-kupia-1-8ccc-promo/22-THE-MORNING-NL-ukz-kupia-1-8ccc-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian solders riding in Kupiansk, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Europe’s Shrinking Waterways Reveal Treasures, and Experts Are Worried</title>
-      <link>https://www.nytimes.com/2022/09/22/world/europe/europe-rivers-reservoirs-drought.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/europe-rivers-reservoirs-drought.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/europe-rivers-reservoirs-drought.html" rel="standout"></atom:link>
-      <description>Drought combined with extreme heat this summer have painted a dramatic picture of Europe’s drying rivers and reservoirs.</description>
-      <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 13:39:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="">Dolmen of Guadalperal</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/multimedia/00xp-waterways-NEWTOP/00xp-waterways-NEWTOP-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Miguel Riopa/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The underwater ruins of the village of Aceredo emerged due to the low water level of the Lindoso reservoir in northwestern Spain.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 15:43:23 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 15:20:24 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 16:31:13 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 16:25:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,8 +41,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests.html" rel="standout"></atom:link>
       <description>Iranians fed up with oppressive rules and a battered economy have faced bullets, tear gas and arrests to demand an end to the Islamic Republic’s rule.</description>
-      <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 13:12:27 +0000</pubDate>
+      <dc:creator>Farnaz Fassihi and Jane Arraf</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 15:52:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/italy-election-fascism-meloni.html" rel="standout"></atom:link>
       <description>With the hard-right candidate Giorgia Meloni ahead before Sunday’s election, Italy could get its first leader whose party traces its roots to the wreckage of Fascism.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 09:00:25 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 16:15:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>The fighting continued even as Russian proxies in four Ukrainian provinces began what Western officials have called “sham” referendums to join Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 15:20:24 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 16:25:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-carousel-9am-1-db77/24ukraine-briefing-carousel-9am-1-db77-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -237,13 +237,18 @@
       <description>Waste from a diamond mine in South Africa grew ever higher as the ownership changed from De Beers to a billionaire to a Dubai-based retailer. The mining town paid the price.</description>
       <dc:creator>John Eligon, Lynsey Chutel and Ilan Godfrey</dc:creator>
       <pubDate>Fri, 23 Sep 2022 12:39:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jagersfontein (South Africa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diamonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rupert, Johann (1950- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">De Beers Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reinet Investments SCA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stargems Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/00safrica-dam-collapse-promo/00safrica-dam-collapse-7-moth.jpg" width="151"></media:content>
       <media:credit>Ilan Godfrey for The New York Times</media:credit>
       <media:description>When a dam at a diamond mine burst in September in Jagersfontein, South Africa, it coated houses, cars and possessions in six miles of muck. At least one person died.</media:description>
@@ -387,12 +392,9 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/jewish-pilgrims-rosh-hashana.html" rel="standout"></atom:link>
       <description>Tens of thousands of Hasidic Jews traditionally travel to Uman to mark Rosh Hashana with a visit to the burial site of a revered 18th-century rabbi.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 08:45:23 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 16:08:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rosh Hashana</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-rosh-hashanah-topart-1-746c/22ukraine-briefing-rosh-hashanah-topart-1-746c-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman/Getty Images</media:credit>
-      <media:description>Jewish pilgrims outside the tomb of Rabbi Nachman in Uman, Ukraine, in 2020. </media:description>
     </item>
     <item>
       <title>More Than 700 Children Have Died in a Measles Outbreak in Zimbabwe</title>
@@ -455,6 +457,18 @@
       <media:description>Voters on Friday at a mobile polling station during the referendum on joining Russia, in Luhansk, Ukraine. </media:description>
     </item>
     <item>
+      <title>On a corpse’s wrist, an emblem of Ukrainian fortitude.</title>
+      <link>https://www.nytimes.com/2022/09/24/world/europe/on-a-corpses-wrist-an-emblem-of-ukrainian-fortitude.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/on-a-corpses-wrist-an-emblem-of-ukrainian-fortitude.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/on-a-corpses-wrist-an-emblem-of-ukrainian-fortitude.html" rel="standout"></atom:link>
+      <description>When they pulled Serhiy Sova’s body from a grave in Izium, his wrist bore a bracelet in Ukraine’s colors, given to him by his children. The image has transfixed the nation.</description>
+      <dc:creator>Marc Santora and Anna Lukinova</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 08:48:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23ukraine-briefing-bracelet-VERSION-topart/23ukraine-briefing-bracelet-VERSION-topart-moth.jpg" width="151"></media:content>
+      <media:credit>via Oksana Sova</media:credit>
+      <media:description>Serhiy Sova, whose body was exhumed in Izium earlier this month, in 2019. He was a trainer and breeder of dogs.</media:description>
+    </item>
+    <item>
       <title>Putin’s Draft Draws Resistance in Russia’s Far-Flung Regions</title>
       <link>https://www.nytimes.com/2022/09/23/world/europe/russia-draft-ukraine-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/world/europe/russia-draft-ukraine-putin.html</guid>
@@ -510,6 +524,18 @@
       <description></description>
       <dc:creator>Ivan Nechepurenko</dc:creator>
       <pubDate>Fri, 23 Sep 2022 20:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Referendums in Russian-occupied Ukraine evoke fear, anger and defiance.</title>
+      <link>https://www.nytimes.com/2022/09/24/world/europe/referendums-in-russian-occupied-ukraine-evoke-fear-anger-and-defiance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/referendums-in-russian-occupied-ukraine-evoke-fear-anger-and-defiance.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/referendums-in-russian-occupied-ukraine-evoke-fear-anger-and-defiance.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Dan Bilefsky, Cora Engelbrecht and Maria Varenikova</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 20:43:58 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-voices-topart-b-1-f664/23ukraine-briefing-voices-topart-b-1-f664-moth.jpg" width="151"></media:content>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <media:description>Residents of Luhansk, Ukraine, voted in a referendum organized by Russian authorities on Friday. Polling stations were installed across Russian-occupied Ukrainian territory for referendums on annexation by Russia.</media:description>
     </item>
     <item>
       <title>Is Little Amal Getting Lost in New York?</title>
@@ -1024,49 +1050,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/world/00India-Factchecker1/00India-Factchecker1-moth.jpg" width="151"></media:content>
       <media:credit>Atul Loke for The New York Times</media:credit>
       <media:description>Alt News staff members in Ahmedabad, India. The site has debunked hundreds of cases of bogus information in India.</media:description>
-    </item>
-    <item>
-      <title>In Cambodia, the Khmer Rouge Trials Come to an End</title>
-      <link>https://www.nytimes.com/2022/09/22/world/asia/cambodia-khmer-rouge-tribunal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/asia/cambodia-khmer-rouge-tribunal.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/asia/cambodia-khmer-rouge-tribunal.html" rel="standout"></atom:link>
-      <description>The last surviving leader of the regime that killed 1.7 million Cambodians lost his appeal on Thursday. Some victims think the long, expensive tribunal was a hollow exercise.</description>
-      <dc:creator>Seth Mydans</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 08:05:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Khmer Rouge</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pol Pot</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khieu Samphan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nuon Chea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaing Guek Eav</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hun Sen</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22cambodia-tribunal-HFO-06/22cambodia-tribunal-HFO-06-moth.jpg" width="151"></media:content>
-      <media:credit>Nhet Sok Heng/Extraordinary Chambers in the Courts of Cambodia, via Associated Press</media:credit>
-      <media:description>Khieu Samphan, 91, the last surviving Khmer Rouge leader, during his hearing at the Extraordinary Chambers in the Courts of Cambodia in Phnom Penh on Thursday.</media:description>
-    </item>
-    <item>
-      <title>North Korea Denies U.S. Claims of Arms Sales to Russia</title>
-      <link>https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html" rel="standout"></atom:link>
-      <description>Pyongyang accused the United States of spreading “reckless” rumors, but added that it had the right to build and export arms.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 19:48:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22nkorea-03/22nkorea-03-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Alexander Zemlianichenko</media:credit>
-      <media:description>President Vladimir V. Putin of Russia and the North Korean leader, Kim Jong-un, in Vladivostok, Russia, in 2019.</media:description>
     </item>
   </channel>
 </rss>

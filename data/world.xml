@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 09:42:42 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 09:01:56 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 10:24:55 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 10:20:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>As Moscow  lays the groundwork to formally annex parts of Ukraine, Mr. Zelensky asked his citizens to engage in sabotage.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 09:01:56 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 10:10:44 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/24ukraine-briefing-sectionfront/23ukraine-briefing-carousel-4-630PM-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Russian military vehicles in Izium.</media:description>
@@ -309,6 +309,30 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tax-newnew/23uk-tax-newnew-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Dylan Martinez</media:credit>
       <media:description>Prime Minister Liz Truss of Britain, second from left, and Chancellor of the Exchequer Kwasi Kwarteng, right, during a visit to a modular building manufacturing company, in Northfleet, England, on Friday.</media:description>
+    </item>
+    <item>
+      <title>How to Slow Down</title>
+      <link>https://www.nytimes.com/2022/09/24/briefing/field-sketching-slowing-down.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/briefing/field-sketching-slowing-down.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/briefing/field-sketching-slowing-down.html" rel="standout"></atom:link>
+      <description>In an age of instant everything, drawing invites us to slow down and appreciate the world around us.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 10:20:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>A Year When Everything Is Going Right for Western Canada’s Farmers</title>
+      <link>https://www.nytimes.com/2022/09/24/world/canada/a-year-when-everything-is-going-right-for-western-canadas-farmers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/canada/a-year-when-everything-is-going-right-for-western-canadas-farmers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/canada/a-year-when-everything-is-going-right-for-western-canadas-farmers.html" rel="standout"></atom:link>
+      <description>This year’s harvest will be bountiful, with prices more than offsetting increased costs for items like fuel.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 10:00:01 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24canadaletter-farm/24canadaletter-farm-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>Canada’s farmers are expected to harvest near-record yields this year.</media:description>
     </item>
     <item>
       <title>Defying Travel Warnings, Hasidic Jewish Pilgrims Flock to Ukraine.</title>
@@ -1013,29 +1037,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-ledeall-top/21ukraine-ledeall-top-moth.jpg" width="151"></media:content>
       <media:credit>Olga Maltseva/Agence France-Presse — Getty Images</media:credit>
       <media:description>A recruitment poster for the Russian military in Saint Petersburg this week.</media:description>
-    </item>
-    <item>
-      <title>Biden Paints Russia as a Threat to the World in U.N. Speech </title>
-      <link>https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html" rel="standout"></atom:link>
-      <description>President Biden portrayed Russia as the chief threat to global peace and renewed warnings that “a nuclear war cannot be won.”</description>
-      <dc:creator>Jim Tankersley, David E. Sanger and Farnaz Fassihi</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 01:02:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21unga-ledeall-top/merlin_213563364_cf64d217-55e8-4735-973b-0c96da350ba2-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden told the United Nations General Assembly in New York on Wednesday that the West “will stand in solidarity against Russia’s aggression.”</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 08:27:59 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 08:18:36 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 08:53:22 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 08:50:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>As Moscow  lays the groundwork to formally annex parts of Ukraine, Mr. Zelensky asked his citizens to engage in sabotage.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 08:18:36 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 08:50:19 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24ukraine-briefing-header/24ukraine-briefing-sectionfront-promo-moth.jpg" width="151"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Ukrainian soldiers during a mission on the Kherson front on Wednesday.</media:description>
@@ -304,6 +304,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00Argentina-MJs_Profile-promo/00Argentina-MJs_Profile-promo-moth.jpg" width="151"></media:content>
       <media:description>Leo Blanco is a Michael Jackson impersonator in Buenos Aires, Argentina.</media:description>
+    </item>
+    <item>
+      <title>Defying Travel Warnings, Hasidic Jewish Pilgrims Flock to Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/24/world/europe/jewish-pilgrims-rosh-hashana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/jewish-pilgrims-rosh-hashana.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/jewish-pilgrims-rosh-hashana.html" rel="standout"></atom:link>
+      <description>Tens of thousands of Hasidic Jews traditionally travel to Uman to mark Rosh Hashana with a visit to the burial site of a revered 18th-century rabbi.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 08:45:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rosh Hashana</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-rosh-hashanah-topart-1-746c/22ukraine-briefing-rosh-hashanah-topart-1-746c-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman/Getty Images</media:credit>
+      <media:description>Jewish pilgrims outside the tomb of Rabbi Nachman in Uman, Ukraine, in 2020. </media:description>
     </item>
     <item>
       <title>More Than 700 Children Have Died in a Measles Outbreak in Zimbabwe</title>

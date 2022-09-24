@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 13:52:54 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 13:34:40 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 14:18:13 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 14:15:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -113,7 +113,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>The fighting continued even as Russian proxies in four Ukrainian provinces began what Western officials have called “sham” referendums to join Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 13:08:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 14:15:34 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-carousel-9am-1-db77/24ukraine-briefing-carousel-9am-1-db77-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -246,16 +246,16 @@
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Fri, 23 Sep 2022 21:56:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Church of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu, Desmond M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu van Furth, Mpho</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyon, Martin (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tutu/23uk-tutu-moth.jpg" width="151"></media:content>
       <media:credit>Lerato Maduna/Foto24/Gallo Images, via Getty Images</media:credit>
       <media:description>Rev. Mpho Tutu van Furth, right, with her wife, Marceline Tutu van Furth, in Cape Town in 2016.</media:description>
@@ -467,6 +467,15 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/23ukraine-briefing-g7-condemnation-1-5e96/23ukraine-briefing-g7-condemnation-1-5e96-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Construction workers lineup to cast ballots at a mobile polling station in Russian-controlled Mariupol in eastern Ukraine on Friday. The referendum has been called a sham by the G7.</media:description>
+    </item>
+    <item>
+      <title>Russian aviation scientist dies, adding to a series of suspicious deaths.</title>
+      <link>https://www.nytimes.com/2022/09/24/world/europe/russian-aviation-scientist-dies-adding-to-a-series-of-suspicious-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/russian-aviation-scientist-dies-adding-to-a-series-of-suspicious-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/russian-aviation-scientist-dies-adding-to-a-series-of-suspicious-deaths.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 20:26:37 +0000</pubDate>
     </item>
     <item>
       <title>Is Little Amal Getting Lost in New York?</title>
@@ -1038,22 +1047,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22AM-euro-brf-Putin-promo/22AM-euro-brf-Putin-1-e5f3-moth.jpg" width="151"></media:content>
       <media:credit>Russian Presidential Press Service, via Associated Press</media:credit>
       <media:description>Calling up 300,000 reservists, President Vladimir V. Putin of Russia tacitly acknowledged both Russia’s struggles and the existence of a unified Ukraine.</media:description>
-    </item>
-    <item>
-      <title>As Russia Retreats, a Question Lingers: Who Counts as a Collaborator?</title>
-      <link>https://www.nytimes.com/2022/09/22/world/europe/ukraine-collaborators-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/ukraine-collaborators-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/ukraine-collaborators-russia.html" rel="standout"></atom:link>
-      <description>In towns reclaimed from Russian occupation, Ukrainian officials are working to identify — and punish — those who helped the enemy. It’s dividing some communities.</description>
-      <dc:creator>Andrew E. Kramer, Maria Varenikova and Nicole Tung</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:07:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/21ukraine-collaboration01-promo/21ukraine-collaboration01-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

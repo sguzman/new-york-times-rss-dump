@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 13:21:49 +0000</lastBuildDate>
-    <pubDate>Sat, 24 Sep 2022 13:12:27 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2022 13:52:54 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2022 13:34:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -245,13 +245,13 @@
       <description>Rev. Mpho Tutu van Furth, an Episcopal priest who is married to a woman, said the funeral of her godfather was moved to his garden to allow her to participate.</description>
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Fri, 23 Sep 2022 21:56:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Church of England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anglican Churches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu, Desmond M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tutu van Furth, Mpho</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Church of England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -298,6 +298,30 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tax-newnew/23uk-tax-newnew-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Dylan Martinez</media:credit>
       <media:description>Prime Minister Liz Truss of Britain, second from left, and Chancellor of the Exchequer Kwasi Kwarteng, right, during a visit to a modular building manufacturing company, in Northfleet, England, on Friday.</media:description>
+    </item>
+    <item>
+      <title>‘Somebody Planted the Guns’: In Canada, a Raided, Distrusting Village Blames the Police</title>
+      <link>https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/world/canada/freedom-convoy-coutts-alberta.html" rel="standout"></atom:link>
+      <description>When a cache of weapons was found in a tiny Canadian village that has become a symbol of the far right, it didn’t take long for new conspiracy theories to start circulating.</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 13:22:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24canada-coutts-top/24canada-coutts-top-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>The village of Coutts, Alberta, on the border with Montana, was the site of a large weapons seizure and of antigovernment protests this winter.</media:description>
     </item>
     <item>
       <title>How to Slow Down</title>

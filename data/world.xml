@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 04:14:32 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 04:05:28 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 05:23:09 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 05:16:46 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -203,7 +203,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/24/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>Witnesses and Ukrainian officials described intimidating scenes in Russian-occupied parts of Ukraine where what Western officials have called “sham” referendums are taking place. Protests against Putin’s mobilization policy continue across Russia.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 00:43:37 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 05:08:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-1230pm-2-ef5b/24ukraine-briefing-1230pm-2-ef5b-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -365,6 +365,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23uk-tax-newnew/23uk-tax-newnew-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Dylan Martinez</media:credit>
       <media:description>Prime Minister Liz Truss of Britain, second from left, and Chancellor of the Exchequer Kwasi Kwarteng, right, during a visit to a modular building manufacturing company, in Northfleet, England, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Super Typhoon Noru Heads for Philippines After ‘Explosive’ Surge</title>
+      <link>https://www.nytimes.com/2022/09/25/world/asia/typhoon-noru-philippines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/asia/typhoon-noru-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/world/asia/typhoon-noru-philippines.html" rel="standout"></atom:link>
+      <description>Forecasters warned of heavy rains and winds that could bring flooding and landslides to densely populated areas of the country.</description>
+      <dc:creator>Jason Gutierrez</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 05:16:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manila (Philippines)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25philippines/25philippines-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Tristan Espiritu/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Emergency crews preparing boats and other gear on Sunday in Quezon City, the Philippines, ahead of a storm’s landfall.</media:description>
     </item>
     <item>
       <title>The New India: Expanding Influence Abroad, Straining Democracy at Home</title>
@@ -1035,25 +1050,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/climate/22cli-malpass1/22cli-malpass1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Smialowski/Agence France-Presse — Getty Images</media:credit>
       <media:description>David Malpass was nominated to lead the World Bank in 2019 by former President Donald J. Trump. </media:description>
-    </item>
-    <item>
-      <title>Ukrainian Soldiers Are Freed. Joy Ripples Across the Country.</title>
-      <link>https://www.nytimes.com/2022/09/22/world/europe/ukraine-soldiers-freed-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/ukraine-soldiers-freed-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/ukraine-soldiers-freed-russia.html" rel="standout"></atom:link>
-      <description>After the largest prisoner exchange of the war, Ukrainians celebrated while anger coursed through the ranks of Russian mercenaries and military bloggers.</description>
-      <dc:creator>Maria Varenikova and Marc Santora</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 16:02:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedchuk, Viktor V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22ukraine-briefing-pow-release-topart-1-7f85/22ukraine-briefing-pow-release-topart-1-7f85-moth.jpg" width="151"></media:content>
-      <media:credit>Ministry of Internal Affairs of Ukraine, via Shutterstock</media:credit>
-      <media:description>Azov battalion officers, including the commander, Denys Prokopenko, middle, spoke after being released in a prisoner exchange between Russia and Ukraine on Thursday.</media:description>
     </item>
   </channel>
 </rss>

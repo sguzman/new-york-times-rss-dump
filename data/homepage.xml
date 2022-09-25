@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 19:46:56 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 19:43:08 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 20:13:48 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 20:07:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -37,14 +37,16 @@
       <atom:link href="https://www.nytimes.com/2022/09/25/us/sundance-jihad-rehab-meg-smaker.html" rel="standout"></atom:link>
       <description>The film festival gave Meg Smaker’s “Jihad Rehab” a coveted spot in its 2022 lineup, but apologized after an outcry over her race and her approach.</description>
       <dc:creator>Michael Powell</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 08:15:12 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 19:49:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jihad Rehab (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smaker, Meg</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arab-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sundance Film Festival (Park City, Utah)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Disney, Abigail (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/opinion/00jihad_rehab/00jihad_rehab-moth.jpg" width="151"></media:content>
       <media:credit>Tai Power Seeff for The New York Times</media:credit>
       <media:description>After criticism by Arab American and Muslim filmmakers led to the film being shunned by festivals, Meg Smaker renamed her documentary “The UnRedacted.”</media:description>
@@ -101,17 +103,21 @@
       <description>With the help of a consulting firm, the Providence hospital system trained staff to wring money out of patients, even those eligible for free care.</description>
       <dc:creator>Jessica Silver-Greenberg and Katie Thomas</dc:creator>
       <pubDate>Sat, 24 Sep 2022 16:12:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Providence Health &amp; Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McKinsey &amp; Co</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debt Collection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debt Collection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Providence Health &amp; Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McKinsey &amp; Co</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Providence Alaska Medical Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/business/00hospitals-providence/00hospitals-providence-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by Mel Haasch; Photographs by Jovelle Tamayo for The New York Times</media:credit>
     </item>

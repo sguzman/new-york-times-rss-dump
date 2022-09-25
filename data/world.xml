@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 19:52:29 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 19:49:27 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 20:21:52 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 20:08:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/italy-elections" rel="standout"></atom:link>
       <description>Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-right leader with post-Fascist roots. She would be the nation’s first female prime minister.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 19:46:21 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 20:07:19 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-header2/25italy-briefing-header2-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>A polling station on Sunday in Rome.</media:description>
@@ -75,13 +75,13 @@
       <media:description>Giorgia Meloni often talks with pride about how she started the Brothers of Italy party and rose to the top of national politics without any special treatment.</media:description>
     </item>
     <item>
-      <title>Russia Steps Up Conscription in Occupied Areas, Ukrainians Say</title>
+      <title>Russia Seeks to Force Ukrainians to Fight Their Countrymen</title>
       <link>https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news" rel="standout"></atom:link>
-      <description>Occupying forces are rounding up men to fight even as they force residents to vote in a staged referendum on joining Russia, according to Ukrainian officials, witnesses and rights groups.</description>
+      <description>Russia is stepping up its conscription efforts even as it forces residents to vote in staged referendums that could lead to annexation, according to Ukrainian officials, witnesses and rights groups.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 19:49:27 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 19:58:10 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25ukraine-briefing-header/25ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Remnants of St. George’s monastery in Dolyna, Ukraine, on Saturday.</media:description>
@@ -604,7 +604,8 @@
       <atom:link href="https://www.nytimes.com/2022/09/24/world/canada/a-year-when-everything-is-going-right-for-western-canadas-farmers.html" rel="standout"></atom:link>
       <description>This year’s harvest will be bountiful, with prices more than offsetting increased costs for items like fuel.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 10:00:01 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 10:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24canadaletter-farm/24canadaletter-farm-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>Canada’s farmers are expected to harvest near-record yields this year.</media:description>

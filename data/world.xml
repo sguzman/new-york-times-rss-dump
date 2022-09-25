@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 19:17:12 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 19:13:10 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 19:35:43 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 19:33:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: Italy Votes in Pivotal Election for Europe</title>
+      <title>Italy Live Updates: Vote Coming to a Close in Pivotal Election for Europe</title>
       <link>https://www.nytimes.com/live/2022/09/25/world/italy-elections</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/25/world/italy-elections</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/italy-elections" rel="standout"></atom:link>
       <description>Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-right leader with post-Fascist roots. She would be the nation’s first female prime minister.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 19:02:41 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 19:23:45 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-header2/25italy-briefing-header2-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>A polling station on Sunday in Rome.</media:description>
@@ -85,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news" rel="standout"></atom:link>
       <description>Occupying forces are rounding up men to fight even as they force residents to vote in a staged referendum on joining Russia, according to Ukrainian officials, witnesses and rights groups.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 19:13:10 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 19:33:17 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25ukraine-briefing-header/25ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Remnants of St. George’s monastery in Dolyna, Ukraine, on Saturday.</media:description>
@@ -141,15 +141,15 @@
       <description>As India rises, Prime Minister Narendra Modi has faced little pushback as he weaponizes institutions to consolidate power and entrench his Hindu nationalist vision.</description>
       <dc:creator>Mujib Mashal</dc:creator>
       <pubDate>Sun, 25 Sep 2022 01:50:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00india-diplo-01/merlin_213249408_2c1ea36f-61d6-4a98-8d6e-50bce472c45b-moth.jpg" width="151"></media:content>
       <media:credit>Sergei Bobylev/Sputnik/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia meeting in Uzbekistan this month.</media:description>
@@ -244,16 +244,17 @@
       <description>The fallout from Shinzo Abe’s death has taken a number of unexpected turns, casting a critical light on both his long-governing party and a fringe religious group.</description>
       <dc:creator>Motoko Rich and Ben Dooley</dc:creator>
       <pubDate>Sat, 24 Sep 2022 22:32:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kishida, Fumio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religious Cults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Soka Gakkai</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unification Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kishida, Fumio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yamagami, Tetsuya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24japan-abe1/merlin_213425511_a67a67a5-1866-449f-85f2-4a96f6270f67-moth.jpg" width="151"></media:content>
       <media:credit>Noriko Hayashi for The New York Times</media:credit>
       <media:description>A protest against the planned state funeral for Shinzo Abe, Japan’s former prime minister, in Tokyo on Monday. Many are voicing their critique of his actions in life by opposing the effort to honor him in death.</media:description>
@@ -533,6 +534,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/climate/24cli-environmentaljustice1/24cli-environmentaljustice1-moth.jpg" width="151"></media:content>
       <media:credit>Carolyn Kaster/Associated Press</media:credit>
       <media:description>“Regulations in the past may not have been as protective of some communities,” said Michael S. Regan, the E.P.A. head.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Defense Ministry shakes up its leadership.</title>
+      <link>https://www.nytimes.com/2022/09/25/world/europe/russias-defense-ministry-shakes-up-its-leadership.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/europe/russias-defense-ministry-shakes-up-its-leadership.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/world/europe/russias-defense-ministry-shakes-up-its-leadership.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 08:59:23 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24ukraine-briefing-russia-MOD-topart/24ukraine-briefing-russia-MOD-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Sergei Karpukhin/Reuters</media:credit>
+      <media:description>Colonel-General Mikhail Y. Mizintsev was announced as Russia’s new deputy defense minister on Saturday.</media:description>
     </item>
     <item>
       <title>‘Somebody Planted the Guns’: In Canada, a Raided, Distrusting Village Blames the Police</title>
@@ -1019,34 +1032,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/23myanm-01/23myanm-01-moth.jpg" width="151"></media:content>
       <media:credit>Social Media, via Reuters</media:credit>
       <media:description>Damage from the Sept. 16 attack on a school in Let Yet Kone village, in the Sagaing region of central Myanmar. </media:description>
-    </item>
-    <item>
-      <title>Winter is coming, windows are shattered, and Ukraine is running short on glass.</title>
-      <link>https://www.nytimes.com/2022/09/23/world/europe/winter-is-coming-windows-are-shattered-and-ukraine-is-running-short-on-glass.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/world/europe/winter-is-coming-windows-are-shattered-and-ukraine-is-running-short-on-glass.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/world/europe/winter-is-coming-windows-are-shattered-and-ukraine-is-running-short-on-glass.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jeffrey Gettleman</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 07:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Covid Holdouts in Asia Drop Border Restrictions</title>
-      <link>https://www.nytimes.com/2022/09/23/world/asia/asia-travel-reopening-japan-taiwan-hong-kong.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/world/asia/asia-travel-reopening-japan-taiwan-hong-kong.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/world/asia/asia-travel-reopening-japan-taiwan-hong-kong.html" rel="standout"></atom:link>
-      <description>Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to bolster their economies and play catch-up with much of the world.</description>
-      <dc:creator>Alexandra Stevenson and Ben Dooley</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 19:53:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24sky2art/23asi-05-moth.jpg" width="151"></media:content>
-      <media:credit>Kimimasa Mayama/EPA, via Shutterstock</media:credit>
-      <media:description>Tourists in the Asakusa district of Tokyo this month.</media:description>
     </item>
   </channel>
 </rss>

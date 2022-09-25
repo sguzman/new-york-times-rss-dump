@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 19:24:01 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 19:09:52 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 19:38:34 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 19:36:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -144,24 +144,20 @@
       <description>With the hard-right candidate Giorgia Meloni ahead before Sunday’s election, Italy could get its first leader whose party traces its roots to the wreckage of Fascism.</description>
       <dc:creator>Jason Horowitz</dc:creator>
       <pubDate>Sat, 24 Sep 2022 16:15:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">League (Italian Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eco, Umberto</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24italy-facist-memory/24italy-facist-memory-moth.jpg" width="151"></media:content>
       <media:credit>Andreas Solaro/Agence France-Presse — Getty Images</media:credit>
       <media:description>Supporters of Giorgia Meloni at a joint rally on Thursday for the Brothers of Italy, League and Forza Italia parties in Rome.</media:description>
@@ -222,6 +218,43 @@
       <media:description>From left, Simu Liu, Ego Nwodim and Andy Richter, ready to test their smarts on the new “Celebrity Jeopardy!”</media:description>
     </item>
     <item>
+      <title>Beto O’Rourke Condemns Dehumanizing Stunts</title>
+      <link>https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/opinion/beto-orourke-governors-race.html" rel="standout"></atom:link>
+      <description>In an interview, he told me about how he views his campaign to unseat Greg Abbott, the Republican governor of Texas.</description>
+      <dc:creator>Charles M. Blow</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 19:23:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Rourke, Beto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Paso, Tex, Shooting (2019)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/opinion/25blow1/25blow1-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>In Washington State, the Midterm Race Between Joe Kent and Marie Gluesenkamp Perez Has It All</title>
+      <link>https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html" rel="standout"></atom:link>
+      <description>This congressional race in Washington State shows the November elections in microcosm.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Sat, 24 Sep 2022 22:59:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kent, Joe (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gluesenkamp Perez, Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23Goldberg-combo/23Goldberg-combo-moth.jpg" width="151"></media:content>
+      <media:credit>Amanda Lucier for The New York Times</media:credit>
+    </item>
+    <item>
       <title>This Threat to Democracy Is Hiding in Plain Sight</title>
       <link>https://www.nytimes.com/2022/09/23/opinion/trump-big-lie-elections.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/opinion/trump-big-lie-elections.html</guid>
@@ -250,26 +283,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23GOPsteal-still/23GOPsteal-still-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by Rebecca Chew/The New York Times; photograph by Stephen Maturen, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>In Washington State, the Midterm Race Between Joe Kent and Marie Gluesenkamp Perez Has It All</title>
-      <link>https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/opinion/house-republican-elections.html" rel="standout"></atom:link>
-      <description>This congressional race in Washington State shows the November elections in microcosm.</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 22:59:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kent, Joe (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gluesenkamp Perez, Marie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/opinion/23Goldberg-combo/23Goldberg-combo-moth.jpg" width="151"></media:content>
-      <media:credit>Amanda Lucier for The New York Times</media:credit>
     </item>
     <item>
       <title>What Putin’s Nuclear Threat Means for Ukraine and the U.S. </title>
@@ -311,17 +324,6 @@
       <media:credit>Matija Medved</media:credit>
     </item>
     <item>
-      <title>Do Not Bring Your ‘Whole Self’ to Work</title>
-      <link>https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html" rel="standout"></atom:link>
-      <description>Beware the latest fad from Human Resources.</description>
-      <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 10:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Conditions and Trends</category>
-    </item>
-    <item>
       <title>My Parents Are Hackers Out of Necessity</title>
       <link>https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/opinion/skateboarding-disability-hacks.html</guid>
@@ -333,6 +335,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Skateboarding</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cerebral Palsy</category>
+    </item>
+    <item>
+      <title>Do Not Bring Your ‘Whole Self’ to Work</title>
+      <link>https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/opinion/business-economics/work-office-whole-self.html" rel="standout"></atom:link>
+      <description>Beware the latest fad from Human Resources.</description>
+      <dc:creator>Pamela Paul</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 10:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Conditions and Trends</category>
     </item>
     <item>
       <title>Putin and Trump, the Solo Soulless Saboteurs</title>
@@ -352,23 +365,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/opinion/24Dowd-1/24Dowd-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Yury Kochetkov</media:credit>
-    </item>
-    <item>
-      <title>Is America Really in a Mental Health Crisis?</title>
-      <link>https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/20/opinion/us-mental-health-politics.html" rel="standout"></atom:link>
-      <description>Many in power would prefer to kick questions like “What caused the mental health crisis?” and “Who benefits?” out of sight. Don’t let them.</description>
-      <dc:creator>Danielle Carr</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 20:16:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/opinion/sunday/20Carr/20Carr-moth.jpg" width="151"></media:content>
-      <media:credit>Nico Krijno</media:credit>
     </item>
     <item>
       <title>The Morning: The back story of the migrant buses</title>

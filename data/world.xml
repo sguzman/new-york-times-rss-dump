@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 11:15:16 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 11:12:29 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 11:42:10 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 11:28:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/italy-elections" rel="standout"></atom:link>
       <description>Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-right leader with post-Fascist roots. She would be the nation’s first female prime minister.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 11:12:29 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 11:28:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-header2/25italy-briefing-header2-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>A polling station on Sunday in Rome.</media:description>
@@ -298,6 +298,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/00safrica-dam-collapse-promo/00safrica-dam-collapse-7-moth.jpg" width="151"></media:content>
       <media:credit>Ilan Godfrey for The New York Times</media:credit>
       <media:description>When a dam at a diamond mine burst in September in Jagersfontein, South Africa, it coated houses, cars and possessions in six miles of muck. At least one person died.</media:description>
+    </item>
+    <item>
+      <title>The Morning: The back story of the migrant buses</title>
+      <link>https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html" rel="standout"></atom:link>
+      <description>Republican governors’ immigration stunts are actually helping some migrants.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 11:28:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25-the-morning-nl-Alejos1-1-7778-promo/25-the-morning-nl-Alejos1-1-7778-moth.jpg" width="151"></media:content>
+      <media:credit>Oliver Contreras for The New York Times</media:credit>
+      <media:description>Lever Alejos, 29, from Venezuela, is one of the thousands of migrants who arrived on buses sent by the governors of Texas and Arizona last month near Capitol Hill.</media:description>
     </item>
     <item>
       <title>Exploring ‘The Land of Morning Calm’</title>
@@ -962,22 +979,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/23ambriefing-asia-nl-THURS-PROMO/22turkey-ukraine-flights4-moth.jpg" width="151"></media:content>
       <media:credit>Olga Maltseva/Agence France-Presse — Getty Images</media:credit>
       <media:description>A billboard in St. Petersburg promoting military service.</media:description>
-    </item>
-    <item>
-      <title>Russian Men, Fearing Ukraine Draft, Seek Refuge Abroad</title>
-      <link>https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html" rel="standout"></atom:link>
-      <description>Vladimir V. Putin’s new military call-up has sent young men who don’t want to fight in Ukraine heading to the borders.</description>
-      <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Thu, 22 Sep 2022 20:45:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/22turkey-ukraine-flights/22turkey-ukraine-flights-moth.jpg" width="151"></media:content>
-      <media:credit>Ozan Kose/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Istanbul International Airport. With the government replenishing its military in Ukraine, some Russian men have headed for the borders.</media:description>
     </item>
   </channel>
 </rss>

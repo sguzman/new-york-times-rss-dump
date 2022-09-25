@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 19:38:34 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 19:36:28 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 19:46:56 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 19:43:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,11 +22,12 @@
       <description>The economics of the housing market, and the local rules that shape it, have squeezed out entry-level homes.</description>
       <pubDate>Sun, 25 Sep 2022 16:15:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/g-0-promo/g-0-promo-moth.jpg" width="151"></media:content>
     </item>
     <item>
@@ -367,23 +368,6 @@
       <media:credit>Pool photo by Yury Kochetkov</media:credit>
     </item>
     <item>
-      <title>The Morning: The back story of the migrant buses</title>
-      <link>https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html" rel="standout"></atom:link>
-      <description>Republican governors’ immigration stunts are actually helping some migrants.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 11:28:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25-the-morning-nl-Alejos1-1-7778-promo/25-the-morning-nl-Alejos1-1-7778-moth.jpg" width="151"></media:content>
-      <media:credit>Oliver Contreras for The New York Times</media:credit>
-      <media:description>Lever Alejos, 29, from Venezuela, is one of the thousands of migrants who arrived on buses sent by the governors of Texas and Arizona last month near Capitol Hill.</media:description>
-    </item>
-    <item>
       <title>The Sunday Read: ‘The Quest by Circadian Medicine to Make the Most of Our Body Clocks’</title>
       <link>https://www.nytimes.com/2022/09/25/podcasts/the-daily/body-clocks-circadian-medicine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/podcasts/the-daily/body-clocks-circadian-medicine.html</guid>
@@ -398,6 +382,40 @@
       <media:credit>Concept by Pablo Delcan. Photo Illustration by Bobby Doherty for The New York Times. </media:credit>
     </item>
     <item>
+      <title>Modern Love Podcast: How to Feel Yourself</title>
+      <link>https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html" rel="standout"></atom:link>
+      <description>At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.</description>
+      <pubDate>Wed, 21 Sep 2022 20:02:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/27/fashion/21MODERNLOVE-PODCAST/21MODERNLOVE-PODCAST-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+    <item>
+      <title>After Dobbs: Feminism Beyond the Gender Binary</title>
+      <link>https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/opinion/after-dobbs-feminism-beyond-the-gender-binary.html" rel="standout"></atom:link>
+      <description>Jennifer Finney Boylan and Thomas Page McBee on what the feminist movement owes the trans community.</description>
+      <dc:creator>‘The Argument’</dc:creator>
+      <pubDate>Wed, 21 Sep 2022 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="">nonbinary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boylan, Jennifer Finney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McBee, Thomas Page</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/opinion/21argument-feminism2-image/21argument-feminism2-image-moth.jpg" width="151"></media:content>
+      <media:credit>Angela Weiss/Agence France-Presses via Getty Images</media:credit>
+    </item>
+    <item>
       <title>You Need Only 7 Ingredients</title>
       <link>https://www.nytimes.com/2022/09/23/dining/you-need-only-7-ingredients.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/dining/you-need-only-7-ingredients.html</guid>
@@ -410,27 +428,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/25/dining/nb-orange-and-turmeric-chicken/merlin_207648057_ab4f8964-94a7-4246-a5fb-77484042845e-moth.jpg" width="151"></media:content>
       <media:credit>Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.</media:credit>
-    </item>
-    <item>
-      <title>A global ‘disconnect’ in full view</title>
-      <link>https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/climate/unga-climate-week.html" rel="standout"></atom:link>
-      <description>World leaders gathered in New York this week. Developing countries took the opportunity to demand more support and stronger action.</description>
-      <dc:creator>Manuela Andreoni</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 17:31:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malpass, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/climate/23cli-newsletter1/merlin_213504483_faa9b376-f16b-4c47-917b-ea28783ff307-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>António Guterres, the United Nations secretary general, on Tuesday at the 77th session of the General Assembly. He called the climate crisis the “defining issue of our time.”</media:description>
     </item>
     <item>
       <title>Silicon Valley Slides Back Into ‘Bro’ Culture</title>

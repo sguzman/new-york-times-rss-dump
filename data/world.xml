@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 11:53:05 +0000</lastBuildDate>
-    <pubDate>Sun, 25 Sep 2022 11:49:57 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Sep 2022 12:41:45 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Sep 2022 12:35:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/25/world/italy-elections" rel="standout"></atom:link>
       <description>Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-right leader with post-Fascist roots. She would be the nation’s first female prime minister.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 11:45:50 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 12:35:08 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-header2/25italy-briefing-header2-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>A polling station on Sunday in Rome.</media:description>
@@ -97,7 +97,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00india-diplo-01/merlin_213249408_2c1ea36f-61d6-4a98-8d6e-50bce472c45b-moth.jpg" width="151"></media:content>
-      <media:credit>Sergei Bobylev/Sputnik, via EPA, via Shutterstock</media:credit>
+      <media:credit>Sergei Bobylev/Sputnik/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia meeting in Uzbekistan this month.</media:description>
     </item>
     <item>
@@ -298,6 +298,29 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/00safrica-dam-collapse-promo/00safrica-dam-collapse-7-moth.jpg" width="151"></media:content>
       <media:credit>Ilan Godfrey for The New York Times</media:credit>
       <media:description>When a dam at a diamond mine burst in September in Jagersfontein, South Africa, it coated houses, cars and possessions in six miles of muck. At least one person died.</media:description>
+    </item>
+    <item>
+      <title>In Italy’s Election, Politicians Use TikTok to Seek Votes</title>
+      <link>https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html" rel="standout"></atom:link>
+      <description>Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday’s elections. Hilarity ensued.</description>
+      <dc:creator>Gaia Pianigiani</dc:creator>
+      <pubDate>Sun, 25 Sep 2022 12:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">League (Italian Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25italy-briefing-tiktok-effect/merlin_213618411_e3b664fd-881d-4bec-be4f-5a227f7c46fb-moth.jpg" width="151"></media:content>
+      <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Silvio Berlusconi’s TikTok profile is brimming with jokes, clips from TV appearances and videos shot in a studio.</media:description>
     </item>
     <item>
       <title>The Morning: The back story of the migrant buses</title>

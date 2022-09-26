@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 19:26:16 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 19:16:30 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 19:52:02 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 19:49:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/26/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Crimean Tatars and other minorities have been disproportionally targeted by the draft, which faces growing opposition in Russia. Edward Snowden, who has lived in Russia since 2013, had his request for citizenship granted by the Kremlin.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:13:56 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 19:49:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
@@ -62,6 +62,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+    </item>
+    <item>
+      <title>Iran Strikes Kurdish Separatist Groups in Northern Iraq</title>
+      <link>https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html" rel="standout"></atom:link>
+      <description>The death of a young Iranian Kurdish woman in police custody has set off an intense wave of protests across Iran over the past 10 days, igniting fury particularly in the country’s Kurdish minority community.</description>
+      <dc:creator>Cora Engelbrecht and Jane Arraf</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 17:37:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26IRAN-1/26IRAN-1-moth.jpg" width="151"></media:content>
+      <media:credit>Safin Hamed/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Women protesting the killing of Mahsa Amini in Erbil, the capital of the semiautonomous Kurdistan region in northern Iraq, on Saturday.</media:description>
     </item>
     <item>
       <title>4 Years After Thrilling Cave Rescue, Sleepy Park Readies for Onslaught</title>
@@ -146,6 +167,27 @@
       <media:description>Giorgia Meloni holding a sign reading “Thank you Italy” at a news conference on Monday. She is almost certain to become Italy’s first female prime minister.</media:description>
     </item>
     <item>
+      <title>Iran Protests Are Fueled in Part by Kurdish Anger</title>
+      <link>https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html" rel="standout"></atom:link>
+      <description>The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.</description>
+      <dc:creator>Jane Arraf and Farnaz Fassihi</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 12:55:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25iran-kurds1/25iran-kurds1-moth.jpg" width="151"></media:content>
+      <media:credit>Safin Hamed/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in Erbil, the capital of Iraq’s semiautonomous Kurdistan Region, burning an Iranian flag on Saturday.</media:description>
+    </item>
+    <item>
       <title>To Defend Democracy, Is Brazil’s Top Court Going Too Far?</title>
       <link>https://www.nytimes.com/2022/09/26/world/americas/bolsonaro-brazil-supreme-court.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/americas/bolsonaro-brazil-supreme-court.html</guid>
@@ -195,48 +237,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ITALY-RUSSIA-image1/26ITALY-RUSSIA-image1-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>Giorgia Meloni on Monday after early projections had her coalition winning a majority in Italy’s Parliament. She has unambiguously criticized Russia’s aggression in Ukraine. </media:description>
-    </item>
-    <item>
-      <title>Iran Strikes Kurdish Separatist Groups in Northern Iraq</title>
-      <link>https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html" rel="standout"></atom:link>
-      <description>The death of a young Iranian Kurdish woman in police custody has set off an intense wave of protests across Iran over the past 10 days, igniting fury particularly in the country’s Kurdish minority community.</description>
-      <dc:creator>Cora Engelbrecht and Jane Arraf</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 17:37:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26IRAN-1/26IRAN-1-moth.jpg" width="151"></media:content>
-      <media:credit>Safin Hamed/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Women protesting the killing of Mahsa Amini in Erbil, the capital of the semiautonomous Kurdistan region in northern Iraq, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Iran Protests Are Fueled in Part by Kurdish Anger</title>
-      <link>https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html" rel="standout"></atom:link>
-      <description>The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.</description>
-      <dc:creator>Jane Arraf and Farnaz Fassihi</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 12:55:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25iran-kurds1/25iran-kurds1-moth.jpg" width="151"></media:content>
-      <media:credit>Safin Hamed/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in Erbil, the capital of Iraq’s semiautonomous Kurdistan Region, burning an Iranian flag on Saturday.</media:description>
     </item>
     <item>
       <title>Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.</title>

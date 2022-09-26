@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 15:57:25 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 15:56:45 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 16:41:38 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 16:35:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/26/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>A shooting in Siberia reflected growing anger over Russia’s mobilization of hundreds of thousands of civilians, as its army struggles in Ukraine.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 15:56:45 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 16:35:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
@@ -200,6 +200,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/00senegal-fery-add6/00senegal-fery-add6-moth.jpg" width="151"></media:content>
       <media:credit>Carmen Abd Ali for The New York Times</media:credit>
       <media:description>The Kantene cemetery in Ziguinchor, Senegal, has 42 graves of victims of the wreck. Artists paid tribute to the deceased by painting on the walls this year.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Ian Could Gain Strength Rapidly. Here’s Why. </title>
+      <link>https://www.nytimes.com/2022/09/26/climate/hurricane-ian-rapid-intensification.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/climate/hurricane-ian-rapid-intensification.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/climate/hurricane-ian-rapid-intensification.html" rel="standout"></atom:link>
+      <description>Storms that intensify quickly and unpredictably present a big problem for public safety officials, who have less time to assess threats.</description>
+      <dc:creator>Elena Shao</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 16:20:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/climate/26cli-intensification1/26cli-intensification1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Felix/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A firefighter in Bourg, La., during Hurricane Ida last year. Wind speeds in the storm rose to 150 miles per hour, from 85 m.p.h., in less than 24 hours.</media:description>
     </item>
     <item>
       <title>Strong Dollar Is Good for the US but Bad for the World</title>
@@ -1027,18 +1045,6 @@
       <pubDate>Sat, 24 Sep 2022 16:08:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rosh Hashana</category>
-    </item>
-    <item>
-      <title>Zelensky tells Ukrainians living under occupation to avoid conscription ‘by any means.’</title>
-      <link>https://www.nytimes.com/2022/09/24/world/europe/zelensky-tells-ukrainians-living-under-occupation-to-avoid-conscription-by-any-means.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/zelensky-tells-ukrainians-living-under-occupation-to-avoid-conscription-by-any-means.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/zelensky-tells-ukrainians-living-under-occupation-to-avoid-conscription-by-any-means.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Victoria Kim and Maria Varenikova</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 14:15:33 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24ukraine-briefing-zelensky1/24ukraine-briefing-zelensky1-moth.jpg" width="151"></media:content>
-      <media:credit>Yasuyoshi Chiba/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Cheering at passing military vehicles on Friday in Chuhuiv, in the Kharkiv region of Ukraine.</media:description>
     </item>
   </channel>
 </rss>

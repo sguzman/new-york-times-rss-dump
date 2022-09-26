@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 19:46:01 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 19:39:10 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 20:12:55 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 20:06:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,8 +21,13 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/us/politics/white-house-student-loan-forgiveness.html" rel="standout"></atom:link>
       <description>The estimate by the nonpartisan Congressional Budget Office renewed the debate between supporters of debt forgiveness and those who say the initiative amounts to reckless spending.</description>
       <dc:creator>Katie Rogers</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:39:10 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 19:51:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pell Grants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Budget Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-studentloans/merlin_212310183_6795fd7e-9b96-42f8-a625-85dffefc9daa-moth.jpg" width="151"></media:content>
       <media:credit>Lawren Simmons for The New York Times</media:credit>
       <media:description>Students at Florida A&amp;M University in Tallahassee. The Congressional Budget Office estimated that President Biden’s student loan forgiveness plan could cost about $400 billion.</media:description>
@@ -34,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/business/economy/us-dollar-global-impact.html" rel="standout"></atom:link>
       <description>The Federal Reserve may have no choice but to wage a relentless inflation fight, but countries rich and poor are feeling the pain of plunging currencies.</description>
       <dc:creator>Patricia Cohen</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 15:28:20 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 20:00:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
@@ -56,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/ukraine-donbas-russia-lyman-bakhmut.html" rel="standout"></atom:link>
       <description>The battle for the critical Donbas region in Ukraine is centered on two strategically important cities: Lyman, held by the Russians, and Bakhmut, held by Ukraine. The fighting over the cities is fierce as both armies race to claim new ground.</description>
       <dc:creator>Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 18:37:48 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 19:59:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
@@ -220,6 +225,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Key West (Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pasco County (Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hillsborough County (Fla)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/oakImage-1664203391154/oakImage-1664203391154-moth.jpg" width="151"></media:content>
+      <media:credit>National Oceanic and Atmospheric Administration</media:credit>
+      <media:description>Hurricane Ian over the central Caribbean on Monday. The storm is expected to grow stronger in the coming days.</media:description>
     </item>
     <item>
       <title>How New Mexico’s Largest Wildfire Set Off a Drinking Water Crisis</title>
@@ -246,7 +254,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/world/middleeast/iran-iraq-protests-kurdistan-separatists.html" rel="standout"></atom:link>
       <description>The death of a young Iranian Kurdish woman in police custody has set off an intense wave of protests across Iran over the past 10 days, igniting fury particularly in the country’s Kurdish minority community.</description>
       <dc:creator>Cora Engelbrecht and Jane Arraf</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 17:37:57 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 20:06:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -575,13 +583,13 @@
       <media:description>Hector Bonilla, among the first applicants for a recreational dispensary license, said he was arrested and charged with possession of marijuana decades earlier. </media:description>
     </item>
     <item>
-      <title>How to Watch NASA’s DART Spacecraft Slam Into an Asteroid</title>
+      <title>NASA Is About to Crash Into an Asteroid. Here’s How to Watch.</title>
       <link>https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html" rel="standout"></atom:link>
       <description>The DART mission has been flying to its target since launching last year. On Monday night, it will connect.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 14:48:19 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 20:04:27 +0000</pubDate>
       <category domain="">Double Asteroid Redirection Test</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>

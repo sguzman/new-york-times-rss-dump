@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 20:12:55 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 20:06:03 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 20:42:38 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 20:37:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,9 +28,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Budget Office</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-studentloans/merlin_212310183_6795fd7e-9b96-42f8-a625-85dffefc9daa-moth.jpg" width="151"></media:content>
-      <media:credit>Lawren Simmons for The New York Times</media:credit>
-      <media:description>Students at Florida A&amp;M University in Tallahassee. The Congressional Budget Office estimated that President Biden’s student loan forgiveness plan could cost about $400 billion.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-biden-promo/26dc-biden-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
     </item>
     <item>
       <title>Strong Dollar Is Good for the US but Bad for the World</title>
@@ -230,22 +229,23 @@
       <media:description>Hurricane Ian over the central Caribbean on Monday. The storm is expected to grow stronger in the coming days.</media:description>
     </item>
     <item>
-      <title>How New Mexico’s Largest Wildfire Set Off a Drinking Water Crisis</title>
-      <link>https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html" rel="standout"></atom:link>
-      <description>In a community ravaged by fire, floods and contaminated drinking water, residents wonder, ‘What’s next?’ And who will pick up the bill?</description>
-      <dc:creator>Simon Romero</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 17:15:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (NM)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/00nm-nowater-12/merlin_213490539_7d6d4074-6716-467d-8d72-72c28396d345-moth.jpg" width="151"></media:content>
-      <media:credit>Adria Malcolm for The New York Times</media:credit>
-      <media:description>Part of the burn scar from the Calf Canyon/Hermits Peak fire in northern New Mexico.</media:description>
+      <title>How to Evacuate With Pets During a Hurricane or Other Disaster</title>
+      <link>https://www.nytimes.com/2022/09/26/us/pets-evacuation-help.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/us/pets-evacuation-help.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/us/pets-evacuation-help.html" rel="standout"></atom:link>
+      <description>Owners should make every attempt not to leave their pets behind, animal advocates say. You can avoid the worst by planning ahead.</description>
+      <dc:creator>Christine Chung</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 12:54:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/09/multimedia/09xp-pets-dogs/09xp-pets-dogs-moth.jpg" width="151"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>Dogs being evacuated from rising floodwaters after Hurricane Florence moved through North Carolina in 2018. Preparation is key to a safe evacuation with your pets, experts say.</media:description>
     </item>
     <item>
       <title>Iran Strikes Kurdish Separatist Groups in Northern Iraq</title>
@@ -275,7 +275,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/us/politics/republicans-crime-midterms.html" rel="standout"></atom:link>
       <description>With images of lawlessness, G.O.P. candidates are pressing the issue in places where worries about public safety are omnipresent. Democrats, on the defensive, are promising to fund the police.</description>
       <dc:creator>Lisa Lerer and Jonathan Weisman</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:19:15 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 20:34:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
@@ -441,7 +441,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/opinion/trump-biden-desantis-abbott.html" rel="standout"></atom:link>
       <description>He is not the only politician in America, even if it sometimes feels that way. </description>
       <dc:creator>Gail Collins and Bret Stephens</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 15:06:55 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 20:23:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
@@ -565,6 +565,45 @@
       <media:description>Grand Central Station in New York City.</media:description>
     </item>
     <item>
+      <title>How New Mexico’s Largest Wildfire Set Off a Drinking Water Crisis</title>
+      <link>https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/us/new-mexico-las-vegas-fire-water.html" rel="standout"></atom:link>
+      <description>In a community ravaged by fire, floods and contaminated drinking water, residents wonder, ‘What’s next?’ And who will pick up the bill?</description>
+      <dc:creator>Simon Romero</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 17:15:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (NM)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/us/00nm-nowater-12/merlin_213490539_7d6d4074-6716-467d-8d72-72c28396d345-moth.jpg" width="151"></media:content>
+      <media:credit>Adria Malcolm for The New York Times</media:credit>
+      <media:description>Part of the burn scar from the Calf Canyon/Hermits Peak fire in northern New Mexico.</media:description>
+    </item>
+    <item>
+      <title>Monkeypox Appears to Recede, but Risks and Uncertainties Linger</title>
+      <link>https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/health/monkeypox-vaccine.html" rel="standout"></atom:link>
+      <description>Scientists do not yet know how well the vaccine and the drug used to treat the infection are working. Two new trials will provide answers.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/science/26monkeypox1/26monkeypox1-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>Workers prepare the Jynneos monkeypox vaccine at a vaccination site in Los Angeles last month. Though cases seem to be receding, recent reports suggest that a single dose may not be protective enough.</media:description>
+    </item>
+    <item>
       <title>‘Let’s Do It Legit’: Drug Arrestees Vie for First New York Pot Licenses</title>
       <link>https://www.nytimes.com/2022/09/26/nyregion/weed-license-war-on-drugs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/nyregion/weed-license-war-on-drugs.html</guid>
@@ -581,42 +620,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/nyregion/00NY-APPLICANTS/00NY-APPLICANTS-moth.jpg" width="151"></media:content>
       <media:credit>Elias Williams for The New York Times</media:credit>
       <media:description>Hector Bonilla, among the first applicants for a recreational dispensary license, said he was arrested and charged with possession of marijuana decades earlier. </media:description>
-    </item>
-    <item>
-      <title>NASA Is About to Crash Into an Asteroid. Here’s How to Watch.</title>
-      <link>https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/science/nasa-dart-asteroid.html" rel="standout"></atom:link>
-      <description>The DART mission has been flying to its target since launching last year. On Monday night, it will connect.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 20:04:27 +0000</pubDate>
-      <category domain="">Double Asteroid Redirection Test</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/24/science/24sci-dart-vidcover/24sci-dart-vidcover-moth.jpg" width="151"></media:content>
-      <media:credit>NASA/Johns Hopkins/APL</media:credit>
-    </item>
-    <item>
-      <title>Jim Florio, New Jersey Governor Undone by Tax Hike, Dies at 85</title>
-      <link>https://www.nytimes.com/2022/09/26/nyregion/jim-florio-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/nyregion/jim-florio-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/nyregion/jim-florio-dead.html" rel="standout"></atom:link>
-      <description>A Democrat, he had successes on gun control, the environment and property-tax relief, but after raising income and sales taxes, he lost a bid for re-election.</description>
-      <dc:creator>Joseph P. Fried</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 18:40:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Florio, James J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/03/obituaries/00florio1/00florio1-moth.jpg" width="151"></media:content>
-      <media:credit>Laura Pedrick for The New York Times</media:credit>
-      <media:description>Jim Florio and his wife, Lucinda, rear, at a New Jersey Democratic Party event in Camden in 1999. He said he had no choice but to raise taxes to balance the state budget after taking office in 1990.</media:description>
     </item>
     <item>
       <title>To Defend Democracy, Is Brazil’s Top Court Going Too Far?</title>

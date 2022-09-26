@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Sep 2022 15:43:40 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Sep 2022 15:31:21 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 16:21:22 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 16:14:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html" rel="standout"></atom:link>
       <description>U.S. manufacturing is experiencing a rebound, with companies adding workers amid high consumer demand for products.</description>
       <dc:creator>Jim Tankersley, Alan Rappeport and Ana Swanson</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 07:00:12 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 16:11:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -93,7 +93,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/european-union-italy-meloni.html" rel="standout"></atom:link>
       <description>Giorgia Meloni, poised to be the country’s first far-right leader since Mussolini, says she supports Ukraine and has moderated her harsh views on Europe, but there are doubts, given her partners.</description>
       <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 14:03:52 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 15:48:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -152,6 +152,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25dc-biden-nuclear-1-ae73/25dc-biden-nuclear-1-ae73-moth.jpg" width="151"></media:content>
       <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
       <media:description>Jake Sullivan, the national security adviser, this month. American intelligence officials say they still believe the chances that nuclear weapons will be used in the conflict are low.</media:description>
@@ -307,30 +308,13 @@
       <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
     </item>
     <item>
-      <title>School Shooting in Russia Leaves at Least 15 Dead</title>
-      <link>https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html" rel="standout"></atom:link>
-      <description>An unidentified gunman entered a school in the city of Izhevsk, killing six adults and seven children, according to federal investigators.</description>
-      <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 15:15:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.</media:description>
-    </item>
-    <item>
       <title>The End of the $25,000 NFL Rookie Dinner?</title>
       <link>https://www.nytimes.com/2022/09/26/dining/nfl-rookie-dinner.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/dining/nfl-rookie-dinner.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/26/dining/nfl-rookie-dinner.html" rel="standout"></atom:link>
       <description>Young athletes are expected to treat their veteran teammates to an exorbitant meal. Is it a form of team bonding — or hazing by another name?</description>
       <dc:creator>Priya Krishna</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 14:16:22 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 15:55:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Sports)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
@@ -386,7 +370,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/opinion/dominic-rapini-secretary-state-trump.html" rel="standout"></atom:link>
       <description>Republican Dominic Rapini is unlikely to become Connecticut’s secretary of state, but election-denying candidacies like his are still damaging.</description>
       <dc:creator>Chris Geidner</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 09:05:39 +0000</pubDate>
+      <pubDate>Mon, 26 Sep 2022 15:58:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -479,7 +463,6 @@
       <description>Times reporters make sense of what’s happening.</description>
       <dc:creator>David Leonhardt</dc:creator>
       <pubDate>Mon, 26 Sep 2022 10:33:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
@@ -535,6 +518,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/business/xxreturn_callout/xxreturn_callout-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Grand Central Station in New York City.</media:description>
+    </item>
+    <item>
+      <title>School Shooting in Russia Leaves at Least 15 Dead</title>
+      <link>https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/russia-school-shooting.html" rel="standout"></atom:link>
+      <description>An unidentified gunman entered a school in the city of Izhevsk, killing six adults and seven children, according to federal investigators.</description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 15:15:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.</media:description>
     </item>
     <item>
       <title>Hurricane Ian Strengthens as Its Path Begins to Take Shape</title>
@@ -595,89 +595,94 @@
       <media:description>Jim Florio and his wife, Lucinda, rear, during a New Jersey Democratic Party event in Camden in 1999. He said he had no choice but to raise taxes to balance the state budget after taking office in 1990.</media:description>
     </item>
     <item>
-      <title>Is Natural Wine Actually Better for You?</title>
-      <link>https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/well/eat/natural-wine-health-hangovers.html" rel="standout"></atom:link>
-      <description>Fewer headaches. Less severe hangovers. Better gut health. How do these health claims stack up against the science?</description>
-      <dc:creator>Jesse Hirsch</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 18:34:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beverages</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/well/16scam-natural-wine/16scam-natural-wine-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Tyler Comrie; Photograph by Getty Images</media:credit>
-    </item>
-    <item>
-      <title>When Should I Get the New Bivalent Booster?</title>
-      <link>https://www.nytimes.com/article/bivalent-booster-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/bivalent-booster-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/article/bivalent-booster-covid.html" rel="standout"></atom:link>
-      <description>You are allowed to get the shot two months after a previous dose, but some experts suggest waiting a little longer.</description>
+      <title>UTI Treatment: What to Know About Supplements and Prevention</title>
+      <link>https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html" rel="standout"></atom:link>
+      <description>More than half of American women will have a urinary tract infection during their lives. But can supplements really stave that off?</description>
       <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Tue, 20 Sep 2022 21:18:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/multimedia/20covid-ongoing-replace-boosters2/20covid-ongoing-replace-boosters2-moth.jpg" width="151"></media:content>
-      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <pubDate>Mon, 26 Sep 2022 15:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urinary Tract</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bladder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/well/WELL-UTI/WELL-UTI-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>How to Exercise Safely Outside in the Fall and Winter</title>
-      <link>https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/well/live/exercise-safety-fall-winter.html" rel="standout"></atom:link>
-      <description>Here are a few ways to protect yourself from the elements, oncoming traffic and other threats that ramp up in the fall and winter months.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 01:56:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold and Cold Spells</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frostbite</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/well/22Well-NL-ExerciseSafety/22Well-NL-ExerciseSafety-moth.jpg" width="151"></media:content>
-      <media:credit>Guillem Casasús</media:credit>
-    </item>
-    <item>
-      <title>‘Preventative’ Botox: Do Injections Work to Reduce Wrinkles?</title>
-      <link>https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/03/22/well/live/preventative-botox-wrinkles.html" rel="standout"></atom:link>
-      <description>Or are injections just a temporary, addictive fix?</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Tue, 22 Mar 2022 07:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Botox (Drug)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Face</category>
+      <title>Know Your Uterus</title>
+      <link>https://www.nytimes.com/article/uterus-conditions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/uterus-conditions.html</guid>
+      <atom:link href="https://www.nytimes.com/article/uterus-conditions.html" rel="standout"></atom:link>
+      <description>Endometriosis, fibroid tumors and structural anomalies are just a few conditions that can impact uterine health.</description>
+      <dc:creator>Katherine Hobson</dc:creator>
+      <pubDate>Sat, 18 Apr 2020 21:34:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uterine Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uterus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastic Surgery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/14/well/14askwell-botox-promo/14askwell-botox-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
-      <title>What to Know About Fentanyl and Why It’s So Dangerous</title>
-      <link>https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/05/19/well/live/what-is-fentanyl.html" rel="standout"></atom:link>
-      <description>Drug overdoses have reached record highs. Experts offer tips to talk about opioids with your family.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 20 May 2022 15:27:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/24/well/19Well-NL-Fentanyl/19Well-NL-Fentanyl-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Nicolas Ortega, Photograph by Getty Images </media:credit>
+      <title>Postpartum Body Changes You Should Know About</title>
+      <link>https://www.nytimes.com/article/postpartum-body.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/postpartum-body.html</guid>
+      <atom:link href="https://www.nytimes.com/article/postpartum-body.html" rel="standout"></atom:link>
+      <description>From separated abs to pelvic floor issues, what to look out for after having a baby.</description>
+      <dc:creator>Anna Nowogrodzki</dc:creator>
+      <pubDate>Fri, 08 May 2020 15:33:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Caesarean Section</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cribs (Baby Beds)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vagina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preeclampsia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breastfeeding</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+    </item>
+    <item>
+      <title>This Chemical Can Impair Fertility, but It’s Hard to Avoid</title>
+      <link>https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html" rel="standout"></atom:link>
+      <description>Hormone-disrupting phthalates can be found in everything from plastics and household goods to personal care products. Studies have shown they may be harmful to women’s reproductive systems.</description>
+      <dc:creator>Liza Gross</dc:creator>
+      <pubDate>Mon, 13 Sep 2021 15:23:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Perfumes and Fragrances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Containers and Packaging</category>
+    </item>
+    <item>
+      <title>Polycystic Ovary Syndrome: What It Is, How to Manage It</title>
+      <link>https://www.nytimes.com/article/polycystic-ovary-syndrome.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/polycystic-ovary-syndrome.html</guid>
+      <atom:link href="https://www.nytimes.com/article/polycystic-ovary-syndrome.html" rel="standout"></atom:link>
+      <description>Often misunderstood and misdiagnosed, PCOS can play havoc with your fertility. Here’s how to recognize the symptoms and take action to protect your reproductive health.</description>
+      <dc:creator>Hilda Hutcherson</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 06:13:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Estrogen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insulin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polycystic Ovary Syndrome</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/02/multimedia/4parenting-pcos/4parenting-pcos-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Mildenberg</media:credit>
     </item>
     <item>
       <title>The Met Opera Takes on ‘Medea’ in the Shadow of Maria Callas</title>

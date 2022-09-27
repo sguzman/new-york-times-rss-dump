@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 15:47:56 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 15:29:15 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 16:25:09 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 16:23:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Biden Is Hoping Small Changes Go a Long Way on Immigration</title>
+      <link>https://www.nytimes.com/2022/09/27/us/politics/biden-immigration-asylum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/us/politics/biden-immigration-asylum.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/us/politics/biden-immigration-asylum.html" rel="standout"></atom:link>
+      <description>The United States has started to allow people to apply for asylum under a new process that the secretary of homeland security hopes can help fix the current “very broken system.”</description>
+      <dc:creator>Michael D. Shear and Miriam Jordan</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 16:07:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mayorkas, Alejandro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/us/politics/25dc-biden-immig_1/25dc-biden-immig_1-moth.jpg" width="151"></media:content>
+      <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
+      <media:description>Asylum-seeking migrants walked out of the Rio Grande to turn themselves in to U.S. Border Patrol agents and request asylum in El Paso, Texas, this month.</media:description>
+    </item>
     <item>
       <title>Lawmakers Propose Measure to Avert Government Shutdown</title>
       <link>https://www.nytimes.com/2022/09/27/us/politics/congress-vote-government-shutdown.html</link>
@@ -36,34 +58,25 @@
       <media:description>Funding for the government is set to run out when a new fiscal year begins on Saturday.</media:description>
     </item>
     <item>
-      <title>An Israel-Lebanon Border Deal Could Increase Natural Gas Supplies</title>
-      <link>https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html" rel="standout"></atom:link>
-      <description>Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.</description>
-      <dc:creator>Clifford Krauss</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 15:02:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/business/00israel-gas/00israel-gas-moth.jpg" width="151"></media:content>
-      <media:credit>Ariel Schalit/Associated Press</media:credit>
-      <media:description>An Israeli naval vessel patrolling near a production platform in the Leviathan gas field in the Mediterranean Sea off Israel’s northern coast.</media:description>
+      <title>The Stolen Babies of Spain</title>
+      <link>https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/magazine/spain-stolen-babies.html" rel="standout"></atom:link>
+      <description>Under Francisco Franco’s rule, thousands of newborns were secretly taken from hospitals and sold to wealthy Catholic families. Now they are beginning to uncover their own histories.</description>
+      <dc:creator>Nicholas Casey</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 15:58:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spanish Civil War (1936-39)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adoptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franco, Francisco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/magazine/02Babies-02-copy/02Babies-02-copy-moth-v7.jpg" width="151"></media:content>
+      <media:credit>Lydia Metral for The New York Times. Source photograph from Ana Belén Pintado.</media:credit>
+      <media:description>Ana Belén Pintado as a young girl.</media:description>
     </item>
     <item>
       <title>House Jan. 6 Panel Faces Key Decisions as It Wraps Up Work</title>
@@ -142,6 +155,25 @@
       <media:description>A Chinese ship fishing off the west coast of South America in July 2021.</media:description>
     </item>
     <item>
+      <title>Inflation Has Hit Tenants Hard. What About Their Landlords?</title>
+      <link>https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html" rel="standout"></atom:link>
+      <description>Publicly traded corporate landlords are reporting some of their highest margins ever, while smaller operators say rent increases are eaten up by costs.</description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 15:17:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landlords</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/business/00landlords-01/00landlords-01-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Beaven for The New York Times</media:credit>
+      <media:description>Ryan Vienneau and his wife own 11 apartments in and around Saratoga Springs, N.Y.</media:description>
+    </item>
+    <item>
       <title>NASA Smashes Into an Asteroid, Completing a Mission to Save a Future Day</title>
       <link>https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/science/dart-nasa-asteroid-dimorphos-contact.html</guid>
@@ -158,44 +190,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26asteroid-promo-1-219f/26asteroid-promo-1-219f-moth-v2.png" width="151"></media:content>
       <media:credit>NASA/Johns Hopkins APL</media:credit>
       <media:description>The asteroid Dimorphos 11 seconds before NASA’s DART spacecraft collided with it on Monday.</media:description>
-    </item>
-    <item>
-      <title>Jails Boss Pushed for Dying Man’s Release to Limit Rikers Death Count</title>
-      <link>https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html" rel="standout"></atom:link>
-      <description>Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the department’s count.”</description>
-      <dc:creator>Jan Ransom</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 14:57:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Guards and Corrections Officers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Correction Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rikers Island Prison Complex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Molina, Louis A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/us/00rikers-1/00rikers-1-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Seng for The New York Times</media:credit>
-      <media:description>Louis A. Molina, commissioner of the New York City Department of Corrections, at a news conference at Rikers Island after three incarcerated inmates died in June.</media:description>
-    </item>
-    <item>
-      <title>Biden’s Support for Iran Protesters Comes After Bitter Lessons of 2009</title>
-      <link>https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html" rel="standout"></atom:link>
-      <description>President Biden has quickly backed demonstrators in Iran. When the country faced similar unrest 13 years ago, U.S. officials feared such a strong approach would be counterproductive.</description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 23:46:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-PREXY_1/merlin_213653337_22be910f-2dbc-4fc3-990a-5024026034d0-moth.jpg" width="151"></media:content>
-      <media:credit>Wana News Agency/Via Reuters</media:credit>
-      <media:description>Protests in Tehran last week. The Biden administration has pushed to get satellite systems into the hands of anti-government officials in Iran.</media:description>
     </item>
     <item>
       <title>Fetterman-vs.-Oz Campaign Turns to a Focus on Criminal Justice</title>
@@ -218,6 +212,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/00pol-fetterman-crime-photo01-1-ce04/00pol-fetterman-crime-photo01-1-ce04-moth.jpg" width="151"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>Lee Horton, left, and his brother Dennis Horton in Philadelphia on Friday. They are working on John Fetterman’s campaign for Senate.</media:description>
+    </item>
+    <item>
+      <title>Are Political Winds Blowing in Republicans’ Favor Again?</title>
+      <link>https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/upshot/republicans-midterm-elections.html" rel="standout"></atom:link>
+      <description>There are some signs of a drift toward issues where the party has an advantage, like the economy and immigration.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/multimedia/27up-gopinflate2-1-b797/27up-gopinflate2-1-b797-moth.jpg" width="151"></media:content>
+      <media:credit>Gabby Jones for The New York Times</media:credit>
+      <media:description>Food prices, stock prices and other economic factors may be top priorities for voters in November. </media:description>
     </item>
     <item>
       <title>Meta Removes Chinese Effort to Influence U.S. Elections</title>
@@ -421,6 +437,44 @@
       <media:credit>Brian Rea</media:credit>
     </item>
     <item>
+      <title>Biden’s Support for Iran Protesters Comes After Bitter Lessons of 2009</title>
+      <link>https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/us/politics/biden-iran-protesters.html" rel="standout"></atom:link>
+      <description>President Biden has quickly backed demonstrators in Iran. When the country faced similar unrest 13 years ago, U.S. officials feared such a strong approach would be counterproductive.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 23:46:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-PREXY_1/merlin_213653337_22be910f-2dbc-4fc3-990a-5024026034d0-moth.jpg" width="151"></media:content>
+      <media:credit>Wana News Agency/Via Reuters</media:credit>
+      <media:description>Protests in Tehran last week. The Biden administration has pushed to get satellite systems into the hands of anti-government officials in Iran.</media:description>
+    </item>
+    <item>
+      <title>Jails Boss Pushed for Dying Man’s Release to Limit Rikers Death Count</title>
+      <link>https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html" rel="standout"></atom:link>
+      <description>Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the department’s count.”</description>
+      <dc:creator>Jan Ransom</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 14:57:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Guards and Corrections Officers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Correction Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rikers Island Prison Complex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Molina, Louis A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/us/00rikers-1/00rikers-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Seng for The New York Times</media:credit>
+      <media:description>Louis A. Molina, commissioner of the New York City Department of Corrections, at a news conference at Rikers Island after three incarcerated inmates died in June.</media:description>
+    </item>
+    <item>
       <title>How About Them Apples? Research Orchards Chart a Fruit’s Future.</title>
       <link>https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html</guid>
@@ -464,144 +518,91 @@
       <media:description>Victoria Makhandule, center, a volunteer with the Treatment Action Campaign, hopes injectable PrEP will soon be available in Soweto, South Africa.</media:description>
     </item>
     <item>
-      <title>U.S. Suit Over Alliance of American Airlines and JetBlue Goes to Trial</title>
-      <link>https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/business/jetblue-american-airlines-antitrust.html" rel="standout"></atom:link>
-      <description>The Justice Department antitrust case contends that the carriers’ cooperation in Boston and New York reduces competition.</description>
-      <dc:creator>Niraj Chokshi</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 07:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JetBlue Airways Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Loyalty Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/business/00airlines-antitrust-print/00airlines-antitrust-moth.jpg" width="151"></media:content>
-      <media:credit>Stefani Reynolds for The New York Times</media:credit>
-      <media:description>The Justice Department is seeking to nullify an alliance between JetBlue and American in the Northeast.</media:description>
-    </item>
-    <item>
-      <title>Dating Apps Thrive in China, but Not Just for Romance</title>
-      <link>https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html" rel="standout"></atom:link>
-      <description>China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.</description>
-      <dc:creator>Chang Che and Zixu Wang</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blued (Mobile App)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Douyin (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netease.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tinder (Mobile App)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tencent Holdings Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/00datingapps-china-03/00datingapps-china-03-moth.jpg" width="151"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>Qu Tongzhou, 28, a Shanghai resident. She recently used dating apps to make friends as she went on a trip to western China.</media:description>
-    </item>
-    <item>
-      <title>UTI Treatment: What to Know About Supplements and Prevention</title>
-      <link>https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/well/eat/uti-treatment-supplements.html" rel="standout"></atom:link>
-      <description>More than half of American women will have a urinary tract infection during their lives. But can supplements really stave that off?</description>
-      <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 15:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urinary Tract</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <title>Is Matcha Good for You?</title>
+      <link>https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/well/eat/matcha-health-benefits.html" rel="standout"></atom:link>
+      <description>The brightly colored powdered green tea has become popular among health-conscious consumers. Does it have any nutritional benefits?</description>
+      <dc:creator>Annie Sneed</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Foods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antioxidants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Caffeine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bladder</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/well/WELL-UTI/WELL-UTI-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/06ASKWELL-MATCHA1/06ASKWELL-MATCHA1-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
     </item>
     <item>
-      <title>Know Your Uterus</title>
-      <link>https://www.nytimes.com/article/uterus-conditions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/uterus-conditions.html</guid>
-      <atom:link href="https://www.nytimes.com/article/uterus-conditions.html" rel="standout"></atom:link>
-      <description>Endometriosis, fibroid tumors and structural anomalies are just a few conditions that can impact uterine health.</description>
-      <dc:creator>Katherine Hobson</dc:creator>
-      <pubDate>Sat, 18 Apr 2020 21:34:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uterine Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uterus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <title>Is It Better to Cook With Coconut Oil or Olive Oil?</title>
+      <link>https://www.nytimes.com/2017/12/22/well/eat/is-it-better-to-cook-with-coconut-oil-or-olive-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/22/well/eat/is-it-better-to-cook-with-coconut-oil-or-olive-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2017/12/22/well/eat/is-it-better-to-cook-with-coconut-oil-or-olive-oil.html" rel="standout"></atom:link>
+      <description>Proponents of coconut oil point out that it is rich in phytochemicals with healthful properties. But so is olive oil.</description>
+      <dc:creator>Sophie Egan</dc:creator>
+      <pubDate>Mon, 04 Jan 2021 14:16:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oils and Fats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olive Oil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coconuts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antioxidants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/12/26/science/26-ask-oil/26-ask-oil-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrew Scrivani for The New York Times</media:credit>
     </item>
     <item>
-      <title>Postpartum Body Changes You Should Know About</title>
-      <link>https://www.nytimes.com/article/postpartum-body.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/postpartum-body.html</guid>
-      <atom:link href="https://www.nytimes.com/article/postpartum-body.html" rel="standout"></atom:link>
-      <description>From separated abs to pelvic floor issues, what to look out for after having a baby.</description>
-      <dc:creator>Anna Nowogrodzki</dc:creator>
-      <pubDate>Fri, 08 May 2020 15:33:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Caesarean Section</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cribs (Baby Beds)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vagina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preeclampsia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breastfeeding</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <title>How Much Sugar Is in a Glass of Wine?</title>
+      <link>https://www.nytimes.com/2017/05/26/well/eat/how-much-sugar-is-in-a-glass-of-wine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/05/26/well/eat/how-much-sugar-is-in-a-glass-of-wine.html</guid>
+      <atom:link href="https://www.nytimes.com/2017/05/26/well/eat/how-much-sugar-is-in-a-glass-of-wine.html" rel="standout"></atom:link>
+      <description>Winemakers may add sugar to wine to “improve” the taste, and sugar content can vary widely.</description>
+      <dc:creator>Sophie Egan</dc:creator>
+      <pubDate>Fri, 26 May 2017 10:00:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/04/26/science/ask-wine-photo/ask-wine-photo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
     </item>
     <item>
-      <title>This Chemical Can Impair Fertility, but It’s Hard to Avoid</title>
-      <link>https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html</guid>
-      <atom:link href="https://www.nytimes.com/2020/08/25/parenting/fertility-pregnancy-phthalates-toxic-chemicals.html" rel="standout"></atom:link>
-      <description>Hormone-disrupting phthalates can be found in everything from plastics and household goods to personal care products. Studies have shown they may be harmful to women’s reproductive systems.</description>
-      <dc:creator>Liza Gross</dc:creator>
-      <pubDate>Mon, 13 Sep 2021 15:23:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Perfumes and Fragrances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Containers and Packaging</category>
+      <title>Is Alkaline Water Really Better for You?</title>
+      <link>https://www.nytimes.com/2018/04/27/well/eat/alkaline-water-health-benefits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/04/27/well/eat/alkaline-water-health-benefits.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/04/27/well/eat/alkaline-water-health-benefits.html" rel="standout"></atom:link>
+      <description>What’s behind the claims that alkaline water will “energize” and “detoxify” the body and lead to “superior hydration”?</description>
+      <dc:creator>Alice Callahan</dc:creator>
+      <pubDate>Sat, 09 Jun 2018 00:27:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/05/01/well/01ask-water/ask-water-moth.jpg" width="151"></media:content>
+      <media:credit>iStock</media:credit>
     </item>
     <item>
-      <title>Polycystic Ovary Syndrome: What It Is, How to Manage It</title>
-      <link>https://www.nytimes.com/article/polycystic-ovary-syndrome.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/polycystic-ovary-syndrome.html</guid>
-      <atom:link href="https://www.nytimes.com/article/polycystic-ovary-syndrome.html" rel="standout"></atom:link>
-      <description>Often misunderstood and misdiagnosed, PCOS can play havoc with your fertility. Here’s how to recognize the symptoms and take action to protect your reproductive health.</description>
-      <dc:creator>Hilda Hutcherson</dc:creator>
-      <pubDate>Wed, 15 Dec 2021 06:13:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Estrogen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <title>Testosterone Levels: Can Specific Foods or Diets Boost Them?</title>
+      <link>https://www.nytimes.com/2021/11/02/well/male-testosterone-levels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/well/male-testosterone-levels.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/well/male-testosterone-levels.html" rel="standout"></atom:link>
+      <description>What you eat or drink may affect levels of the male sex hormone, but whether a diet can increase libido or energy depends on many things.</description>
+      <dc:creator>Randi Hutter Epstein, M.D.</dc:creator>
+      <pubDate>Wed, 03 Nov 2021 16:10:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Testosterone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insulin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polycystic Ovary Syndrome</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/02/multimedia/4parenting-pcos/4parenting-pcos-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle Mildenberg</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Calories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veganism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fatigue</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/well/02askwell-testosterone-promo/02askwell-testosterone-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
       <title>The Magnificent Poem Jars of David Drake, Center Stage at the Met</title>

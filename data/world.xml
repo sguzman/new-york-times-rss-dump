@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 14:46:25 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 14:45:17 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 15:26:24 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 15:25:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/27/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Ukraine and Poland blamed Russia after leaks were found in two gas pipelines under the Baltic Sea.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 14:26:06 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 15:25:58 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-briefing-header/merlin_213736314_0f3c6a2f-aa97-4d78-93e0-39d6c4449f15-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier on one of the destroyed main bridges in Bakhmut, Ukraine, on Saturday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/26/world/middleeast/women-iran-protests-hijab.html" rel="standout"></atom:link>
       <description>Women have been casting off their legally required head scarves, forming the primary image of the protests. But grievances against a repressive regime go far beyond the hijab.</description>
       <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 01:25:44 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 15:00:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
@@ -368,19 +368,49 @@
       <media:description>Qu Tongzhou, 28, a Shanghai resident. She recently used dating apps to make friends as she went on a trip to western China.</media:description>
     </item>
     <item>
+      <title>An Israel-Lebanon Border Deal Could Increase Natural Gas Supplies</title>
+      <link>https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html" rel="standout"></atom:link>
+      <description>Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 15:02:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/business/00israel-gas/00israel-gas-moth.jpg" width="151"></media:content>
+      <media:credit>Ariel Schalit/Associated Press</media:credit>
+      <media:description>An Israeli naval vessel patrolling near a production platform in the Leviathan gas field in the Mediterranean Sea off Israel’s northern coast.</media:description>
+    </item>
+    <item>
       <title>Mete Coban Is Working to Engage Younger Voters in British Politics</title>
       <link>https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html" rel="standout"></atom:link>
       <description>Mete Coban got into politics in his teens. Now, he’s working to encourage a similar drive in young voters.</description>
       <dc:creator>Farah Nayeri</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:22 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 09:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coban, Mete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coban, Mete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-coban-inyt1/28sp-democraxy-coban-inyt1-moth.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/Agence France-Presse &amp;mdash; Getty Images</media:credit>
@@ -1146,25 +1176,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25italy-briefing-lede-new/25italy-briefing-lede-new-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>Giorgia Meloni at a press conference she gave after early projections had her coalition winning a majority in Parliament, in Rome early Monday.</media:description>
-    </item>
-    <item>
-      <title> South Korea Travel Guide: Exploring ‘The Land of Morning Calm’</title>
-      <link>https://www.nytimes.com/2022/09/25/travel/korea-land-of-morning-calm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/travel/korea-land-of-morning-calm.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/travel/korea-land-of-morning-calm.html" rel="standout"></atom:link>
-      <description>A traveler gets beyond Seoul’s sprawl to explore tranquil thatched mountain hamlets, peaceful Buddhist temples and unhurried ‘slow food’ towns in rural South Korea.</description>
-      <dc:creator>Adam H. Graham</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 14:37:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean Food (Cuisine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Slow Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/travel/00Rural-Korea5/merlin_163120896_775dade7-629f-491d-a0e9-a8960cb06a20-moth.jpg" width="151"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>Visitors explore the pine forest at Andong Hahoe Hanok Village, a UNESCO World Heritage site.</media:description>
     </item>
   </channel>
 </rss>

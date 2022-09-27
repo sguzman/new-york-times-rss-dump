@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 14:52:46 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 14:42:14 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 15:17:50 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 15:08:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html" rel="standout"></atom:link>
       <description>Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.</description>
       <dc:creator>Clifford Krauss</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:21 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 15:02:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
@@ -164,9 +164,9 @@
       <link>https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html" rel="standout"></atom:link>
-      <description>Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the Department’s count.”</description>
+      <description>Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the department’s count.”</description>
       <dc:creator>Jan Ransom</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:26 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 14:57:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Guards and Corrections Officers</category>
@@ -421,17 +421,6 @@
       <media:credit>Brian Rea</media:credit>
     </item>
     <item>
-      <title>Are Your Patients Worried About the Polio Vaccine?</title>
-      <link>https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html" rel="standout"></atom:link>
-      <description>We want to hear from you.</description>
-      <dc:creator>Ellen Gabler and Sheera Frenkel</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:32:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poliomyelitis</category>
-    </item>
-    <item>
       <title>How About Them Apples? Research Orchards Chart a Fruit’s Future.</title>
       <link>https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/science/apple-orchards-genetics.html</guid>
@@ -442,13 +431,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Apples</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nova Scotia (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crispr (DNA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Myles, Sean (Researcher)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetically Modified Food (GMOs)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/science/26sci-apple-orchards-promo/26sci-apple-orchards-moth.jpg" width="151"></media:content>
       <media:credit>Paul Atwood for The New York Times</media:credit>
     </item>

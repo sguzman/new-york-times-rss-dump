@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 08:41:51 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 08:33:30 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 09:11:20 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 09:02:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -294,6 +294,144 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Turkish Author Ece Temelkuran Sees a Contested U.S. Election Through the Lens of an Attempted Coup</title>
+      <link>https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html" rel="standout"></atom:link>
+      <description>Ece Temelkuran, a Turkish author, sees parallels between Donald Trump’s claims of election theft and the 2016 attempt to depose Recep Tayyip Erdogan.</description>
+      <dc:creator>Farah Nayeri</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:02:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Temelkuran, Ece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-ece-inyt1/28sp-democracy-ece-inyt1-moth.jpg" width="151"></media:content>
+      <media:credit>Goran Tomasevic/Reuters</media:credit>
+      <media:description>The Turkish president Recep Tayyip Erdogan cracked down on dissent after a failed coup attempt in 2016.</media:description>
+    </item>
+    <item>
+      <title>Democracy Under Siege From Autocrats, Social Media and Its Own Failures</title>
+      <link>https://www.nytimes.com/2022/09/27/world/europe/democracy-politics-threats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/democracy-politics-threats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/democracy-politics-threats.html" rel="standout"></atom:link>
+      <description>Authoritarianism is on the rise, even in Europe, and the “new world disorder” is messier than a simple fight between democracies and autocracies.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:02:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-lede-inyt1/28sp-democracy-lede-inyt1-moth.jpg" width="151"></media:content>
+      <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
+      <media:description>Moscow’s Red Square earlier this month as the city celebrated its 875th anniversary.</media:description>
+    </item>
+    <item>
+      <title>Dating Apps Thrive in China, but Not Just for Romance</title>
+      <link>https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/technology/dating-apps-china.html" rel="standout"></atom:link>
+      <description>China has cracked down on many tech companies, but has allowed dating apps that provide social connections to flourish.</description>
+      <dc:creator>Chang Che and Zixu Wang</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blued (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Douyin (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netease.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tinder (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tencent Holdings Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/00datingapps-china-03/00datingapps-china-03-moth.jpg" width="151"></media:content>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>Qu Tongzhou, 28, a Shanghai resident. She recently used dating apps to make friends as she went on a trip to western China.</media:description>
+    </item>
+    <item>
+      <title>Mete Coban Is Working to Engage Younger Voters in British Politics</title>
+      <link>https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html" rel="standout"></atom:link>
+      <description>Mete Coban got into politics in his teens. Now, he’s working to encourage a similar drive in young voters.</description>
+      <dc:creator>Farah Nayeri</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coban, Mete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-coban-inyt1/28sp-democraxy-coban-inyt1-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>A recent poll showed that 53 percent of young people don’t trust politicians. The councillor Mete Coban aims to change that through his nonprofit, My Life My Say.</media:description>
+    </item>
+    <item>
+      <title>Liberal Politics Needs a Lifeline. Emotion Could Be it.</title>
+      <link>https://www.nytimes.com/2022/09/27/world/karolina-wigura-liberal-democracy-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/karolina-wigura-liberal-democracy-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/karolina-wigura-liberal-democracy-politics.html" rel="standout"></atom:link>
+      <description>A Polish historian and journalist says she believes it is time for liberal politicians to lean harder on emotion the way populists have for years.</description>
+      <dc:creator>Farah Nayeri</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wigura, Karolina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-wigura-inyt2/28sp-democracy-wigura-inyt2-moth.jpg" width="151"></media:content>
+      <media:credit>Emily Rose Bennett for The New York Times</media:credit>
+      <media:description>Supplies were at the ready for a gathering of supporters of former President Donald J. Trump in October 2021 outside a restaurant in Holland, Mich., that had been shut down for six months for defying state orders stemming from the coronavirus pandemic.</media:description>
+    </item>
+    <item>
+      <title>Ban Ki-moon Is Not Leading the U.N. Anymore, but He’s Still Working to Make Change</title>
+      <link>https://www.nytimes.com/2022/09/27/world/ban-ki-moon-democracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/ban-ki-moon-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/ban-ki-moon-democracy.html" rel="standout"></atom:link>
+      <description>The former secretary general of the United Nations is striving to knock down barriers, foster friendship among nations, and campaign for peace and conflict resolution.</description>
+      <dc:creator>Farah Nayeri</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ban Ki-moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28sp-democracy-moon-inyt2/28sp-democracy-moon-inyt2-moth.jpg" width="151"></media:content>
+      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
+      <media:description>Ban Ki-moon, center, visiting Bucha, Ukraine in August. He was the United Nations secretary general from 2007 to 2016 and now is the deputy chairman of a group of global leaders known as the Elders.</media:description>
     </item>
     <item>
       <title>Germany Investigates Leaks in Nord Stream Gas Pipelines</title>
@@ -1020,99 +1158,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25nkorea-01-1-4f8b/25nkorea-01-1-4f8b-moth.jpg" width="151"></media:content>
       <media:credit>Lee Jin-Man/Associated Press</media:credit>
       <media:description>The United States aircraft carrier Ronald Reagan arriving in port in Busan, South Korea, on Friday, ahead of the two countries’ joint military drills.</media:description>
-    </item>
-    <item>
-      <title>The U.S. says Russia isn’t preparing to use nuclear weapons, yet.</title>
-      <link>https://www.nytimes.com/2022/09/25/world/europe/the-us-says-russia-isnt-preparing-to-use-nuclear-weapons-yet.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/europe/the-us-says-russia-isnt-preparing-to-use-nuclear-weapons-yet.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/world/europe/the-us-says-russia-isnt-preparing-to-use-nuclear-weapons-yet.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Eric Schmitt and Jim Tankersley</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 22:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">60 Minutes (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-putin-threats-topart-1-8682/24ukraine-briefing-putin-threats-topart-1-8682-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Gavriil Grigorov</media:credit>
-      <media:description>President Vladimir V. Putin of Russia in the city of Veliky Novgorod on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>In a U.N. speech, Russia’s foreign minister says ‘the future of the world order’ is at stake.</title>
-      <link>https://www.nytimes.com/2022/09/25/world/europe/in-a-un-speech-russias-foreign-minister-says-the-future-of-the-world-order-is-at-stake.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/europe/in-a-un-speech-russias-foreign-minister-says-the-future-of-the-world-order-is-at-stake.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/world/europe/in-a-un-speech-russias-foreign-minister-says-the-future-of-the-world-order-is-at-stake.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Juston Jones and Hannah Wulkan</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 18:13:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lavrov, Sergey V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-lavrov-topart-1-8354/24ukraine-briefing-lavrov-topart-1-8354-moth.jpg" width="151"></media:content>
-      <media:credit>Eduardo Munoz/Reuters</media:credit>
-      <media:description>Sergey V. Lavrov, Russia’s foreign minister, addressing the United Nations General Assembly in New York on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Fights to Reclaim Territory as Russia Holds Annexation Referendums</title>
-      <link>https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/annexation-fighting-war-russia-war-ukraine.html" rel="standout"></atom:link>
-      <description>Ukraine’s president has urged citizens to resist the Russians in occupied territories, where voting is underway in what Western officials have called “sham” referendums on joining Russia.</description>
-      <dc:creator>Andrew E. Kramer, Valerie Hopkins and Ben Hubbard</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 21:06:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24UKRAINE-LEDEALL1new/24UKRAINE-LEDEALL1new-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Ukrainian soldiers in an armored vehicle in Izium on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Why Iranians Are Protesting Once Again</title>
-      <link>https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/middleeast/iran-protests-raisi-khamenei-hijab.html" rel="standout"></atom:link>
-      <description>Amid growing repression, a sickly economy and bleak prospects, the death of one young woman was all it took.</description>
-      <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 01:33:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qum (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/24iran-protests1/24iran-protests1-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Demonstrators on the streets of Tehran this past week. Protests spurred by a woman’s death in custody have expanded to include outrage over economic problems and frustration with moral strictures.</media:description>
-    </item>
-    <item>
-      <title>Protests in Russia Against Putin’s Mobilization Policy Continue</title>
-      <link>https://www.nytimes.com/2022/09/24/world/europe/protests-putin-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/europe/protests-putin-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/europe/protests-putin-russia-war.html" rel="standout"></atom:link>
-      <description>Demonstrations against President Vladimir V. Putin’s “partial mobilization” policy continued, despite the Kremlin’s crackdown on dissent.</description>
-      <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 15:20:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-protests-topart-1-d4de/24ukraine-briefing-protests-topart-1-d4de-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Russian security forces arrested hundreds of demonstrators in St. Petersburg and across Russia on Saturday during protests against the mobilization of 300,000 people announced by President Vladimir V. Putin this week.</media:description>
     </item>
   </channel>
 </rss>

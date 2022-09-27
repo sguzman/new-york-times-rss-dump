@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 22:16:18 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 21:21:49 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 22:41:17 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 22:19:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,6 +35,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/us/politics/25dc-biden-immig_1/25dc-biden-immig_1-moth.jpg" width="151"></media:content>
       <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
       <media:description>Migrants walked out of the Rio Grande this month to turn themselves in to U.S. Border Patrol agents and request asylum in El Paso.</media:description>
+    </item>
+    <item>
+      <title>Biden Says Social Security Is on ‘Chopping Block’ if Republicans Win Congress</title>
+      <link>https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/us/politics/biden-social-security-republicans.html" rel="standout"></atom:link>
+      <description>The fate of America’s social safety net programs has re-emerged as a campaign issue ahead of November’s midterm elections.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 21:59:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Ron (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Richard L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/us/politics/27dc-biden_1/merlin_213922653_fa66aba7-b96c-43ce-b3cd-8226327fdf55-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Silbiger for The New York Times</media:credit>
+      <media:description>President Biden’s comments on Tuesday were part of a push by Democrats to steer the political conversation away from growing recession fears.</media:description>
     </item>
     <item>
       <title>Lawmakers Propose Measure to Avert Government Shutdown</title>
@@ -83,22 +104,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/27studentloans-suit-print/27studentloans-suit-moth.jpg" width="151"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Biden’s proposed plan would cancel up to $20,000 per borrower in federal student loan debt.</media:description>
-    </item>
-    <item>
-      <title>House Jan. 6 Panel Postpones Hearing, Citing Hurricane Ian</title>
-      <link>https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/us/jan-6-house-committee-delays-hearing.html" rel="standout"></atom:link>
-      <description>A member of the committee, Stephanie Murphy, represents a district in the path of Hurricane Ian.</description>
-      <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 20:05:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murphy, Stephanie (1978- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/us/politics/27dc-hearing-delay/27dc-hearing-delay-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>The House committee investigating the attack on the Capitol has not held a hearing since July. It has not determined whether the next one will be its last.</media:description>
     </item>
     <item>
       <title>For a Deaf Family in Ukraine, War Is a Bewildering Terror</title>
@@ -343,46 +348,65 @@
       <media:credit>Charles Krupa/Associated Press</media:credit>
     </item>
     <item>
-      <title>China’s Huge Appetite for Fish</title>
-      <link>https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html" rel="standout"></atom:link>
-      <description>Why are Chinese boats catching so many fish off the Galápagos Islands?</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 10:48:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/27themorning-promo/27themorning-china-fishing-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Isaac Haslam/Sea Shepherd, via Associated Press</media:credit>
-      <media:description>A Chinese ship fishing off the west coast of South America in July 2021.</media:description>
+      <title>Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/briefing/hurricane-ian-florida-biden-immigration.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 22:07:07 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/multimedia/27evening-briefing-nl-IAN-1-fb47/27evening-briefing-nl-IAN-1-fb47-moth.jpg" width="151"></media:content>
+      <media:credit>Alexandre Meneghini/Reuters</media:credit>
+      <media:description>Hurricane Ian hit Cuba this morning, causing flooding and power outages</media:description>
     </item>
     <item>
-      <title>The Great Pandemic Theft</title>
-      <link>https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html" rel="standout"></atom:link>
-      <description>As the coronavirus swept the United States, the government spent vast sums to help shield the economy. But billions of dollars of that aid disappeared.</description>
-      <dc:creator>Michael Barbaro, Rob Szypko, Jessica Cheung, Luke Vander Ploeg, Mooj Zadie, MJ Davis Lin, John Ketchum, Marion Lozano, Elisheba Ittoop and Chris Wood</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 12:21:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <title>Popcast Live! The New Faces of 2022</title>
+      <link>https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/arts/music/popcast-live-new-artists.html" rel="standout"></atom:link>
+      <description>Blondshell, Central Cee, Ethel Cain and more: a conversation about what’s breaking through, plus questions from the audience at our first live taping.</description>
+      <pubDate>Thu, 22 Sep 2022 19:06:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/multimedia/27Daily-pandemic-1/27Daily-PPP-2-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Shari L. Gross/Star Tribune, via Associated Press</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Two</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cain, Ethel (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Central Cee (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ice Spice (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teitelbaum, Sabrina (Blondshell)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryan, Zach (1966- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/22popcast-1-3197/22popcast-1-3197-moth.jpg" width="151"></media:content>
+      <media:credit>Irina Rozovsky for The New York Times</media:credit>
     </item>
     <item>
-      <title>Modern Love Podcast: How to Feel Yourself</title>
-      <link>https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html" rel="standout"></atom:link>
-      <description>At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.</description>
-      <pubDate>Wed, 21 Sep 2022 20:02:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/27/fashion/21MODERNLOVE-PODCAST/21MODERNLOVE-PODCAST-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Brian Rea</media:credit>
+      <title>A Doctor Burns Out: The Week in Narrated Articles</title>
+      <link>https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html" rel="standout"></atom:link>
+      <description>Five articles from around The Times, narrated just for you.</description>
+      <pubDate>Fri, 23 Sep 2022 14:36:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/science/23narrated-1/merlin_211523832_193dafee-d8e1-4d61-baa5-530c7bff5fff-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>Who pays for climate havoc?</title>
+      <link>https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/climate/climate-imf-world-bank.html" rel="standout"></atom:link>
+      <description>There’s growing grievance against a global system that saddles developing countries with debt after extreme weather disasters.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 14:29:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/climate/27cli-newsletter/27cli-newsletter-moth.jpg" width="151"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>The wreckage of a home in Codrington, Barbuda, in December 2017.</media:description>
     </item>
     <item>
       <title>Trump Might Escape E. Jean Carroll’s Suit Because He Was President</title>
@@ -391,7 +415,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/trump-carroll-lawsuit.html" rel="standout"></atom:link>
       <description>E. Jean Carroll’s case may fail thanks to broad protections granted to federal officials and employees. She still plans to file a separate suit accusing the ex-president of rape.</description>
       <dc:creator>Rebecca Davis O’Brien and Benjamin Weiser</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 20:19:34 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 22:19:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>

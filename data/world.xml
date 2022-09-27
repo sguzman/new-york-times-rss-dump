@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 10:53:19 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 10:46:47 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 11:20:21 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 11:05:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,13 +42,16 @@
       <description>The battle for the critical Donbas region in Ukraine is centered on two strategically important cities: Lyman, held by the Russians, and Bakhmut, held by Ukraine. The fighting over the cities is fierce as both armies race to claim new ground.</description>
       <dc:creator>Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</dc:creator>
       <pubDate>Mon, 26 Sep 2022 21:49:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
     </item>
     <item>
       <title>Women in Iran Take Center Stage in Antigovernment Protests</title>
@@ -294,6 +297,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Typhoon Noru Aims for Vietnam After Hitting the Philippines</title>
+      <link>https://www.nytimes.com/2022/09/27/world/asia/typhoon-noru-vietnam-philippines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/asia/typhoon-noru-vietnam-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/asia/typhoon-noru-vietnam-philippines.html" rel="standout"></atom:link>
+      <description>More than 800,000 people were evacuated in central Vietnam ahead of the storm’s expected landfall on Wednesday.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 11:05:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hoi An (Vietnam)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danang (Vietnam)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27xp-vietnam-typhoon/27xp-vietnam-typhoon-moth.jpg" width="151"></media:content>
+      <media:credit>Nhac Nguyen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Outside an elementary school in Hoi An, Vietnam, that was being used as a shelter during the typhoon on Tuesday.</media:description>
     </item>
     <item>
       <title>Paul Gicheru, Kenya Lawyer on Trial at I.C.C., Is Found Dead</title>
@@ -1149,27 +1171,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/world/25ukraine-briefing-zelensky/25ukraine-briefing-zelensky-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Police officers detaining people protesting the military mobilization near Red Square in Moscow on Saturday.</media:description>
-    </item>
-    <item>
-      <title>The New India: Expanding Influence Abroad, Straining Democracy at Home</title>
-      <link>https://www.nytimes.com/2022/09/24/world/asia/india-democracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/asia/india-democracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/asia/india-democracy.html" rel="standout"></atom:link>
-      <description>As India rises, Prime Minister Narendra Modi has faced little pushback as he weaponizes institutions to consolidate power and entrench his Hindu nationalist vision.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 01:50:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00india-diplo-01/merlin_213249408_2c1ea36f-61d6-4a98-8d6e-50bce472c45b-moth.jpg" width="151"></media:content>
-      <media:credit>Sergei Bobylev/Sputnik/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia meeting in Uzbekistan this month.</media:description>
     </item>
   </channel>
 </rss>

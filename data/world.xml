@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 07:01:44 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 07:00:11 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 07:52:52 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 07:11:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -294,6 +294,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Germany Investigates Leaks in Nord Stream Gas Pipelines</title>
+      <link>https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html" rel="standout"></atom:link>
+      <description>Neither of the pipelines was active, but both were filled with natural gas. The sharp drop in pressure could only be caused by a leak, authorities said.</description>
+      <dc:creator>Victoria Kim and Melissa Eddy</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 07:11:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-briefing-nord-stream/merlin_213426978_9c67b42b-b3bf-405c-9176-e76192b7e8d5-moth.jpg" width="151"></media:content>
+      <media:credit>Fabrizio Bensch/Reuters</media:credit>
+      <media:description>The land portion of the Nord Stream 2 gas pipeline in Lubmin, Germany, last week.</media:description>
     </item>
     <item>
       <title>A New Shot Guards Against H.I.V., but Access for Africans Is Uncertain</title>
@@ -1094,28 +1113,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/multimedia/24ukraine-briefing-protests-topart-1-d4de/24ukraine-briefing-protests-topart-1-d4de-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Russian security forces arrested hundreds of demonstrators in St. Petersburg and across Russia on Saturday during protests against the mobilization of 300,000 people announced by President Vladimir V. Putin this week.</media:description>
-    </item>
-    <item>
-      <title>E.P.A. Will Make Racial Equality a Bigger Factor in Environmental Rules</title>
-      <link>https://www.nytimes.com/2022/09/24/climate/environmental-justice-epa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/climate/environmental-justice-epa.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/climate/environmental-justice-epa.html" rel="standout"></atom:link>
-      <description>The agency is creating an office of environmental justice to address the disproportionate harm that climate change has caused in low-income areas and communities of color.</description>
-      <dc:creator>Coral Davenport</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 17:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Regan, Michael S (1976- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/climate/24cli-environmentaljustice1/24cli-environmentaljustice1-moth.jpg" width="151"></media:content>
-      <media:credit>Carolyn Kaster/Associated Press</media:credit>
-      <media:description>“Regulations in the past may not have been as protective of some communities,” said Michael S. Regan, the E.P.A. head.</media:description>
     </item>
   </channel>
 </rss>

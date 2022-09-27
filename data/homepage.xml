@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 10:16:17 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 09:41:00 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 10:48:23 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 10:46:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,16 +153,15 @@
       <description>The Federal Reserve may have no choice but to wage a relentless inflation fight, but countries rich and poor are feeling the pain of plunging currencies.</description>
       <dc:creator>Patricia Cohen</dc:creator>
       <pubDate>Mon, 26 Sep 2022 20:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/business/26Global-Econ-Dollar-1/26Global-Econ-Dollar-1-moth.jpg" width="151"></media:content>
       <media:credit>Christopher Lee for The New York Times</media:credit>
       <media:description>When it comes to global finance and trade, the United States has outsize influence.</media:description>
@@ -298,7 +297,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/opinion/russia-mobilization-putin-war.html" rel="standout"></atom:link>
       <description>For citizens who want to escape conscription, there simply aren’t many options.</description>
       <dc:creator>Ilia Krasilshchik</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 05:00:05 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 10:22:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>

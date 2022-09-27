@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 10:48:23 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 10:46:47 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 11:13:36 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 11:00:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,6 +95,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/multimedia/27dc-oathkeepers-1-1-b4cd/27dc-oathkeepers-1-1-b4cd-moth.jpg" width="151"></media:content>
       <media:credit>Susan Walsh/Associated Press</media:credit>
       <media:description>Stewart Rhodes plans to tell the jury that he and his subordinates believed they would be following legal orders from President Donald J. Trump on Jan. 6, 2021.</media:description>
+    </item>
+    <item>
+      <title>China’s Huge Appetite for Fish</title>
+      <link>https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/briefing/china-fishing-galapagos.html" rel="standout"></atom:link>
+      <description>Why are Chinese boats catching so many fish off the Galápagos Islands?</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 10:48:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/27themorning-promo/27themorning-china-fishing-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Isaac Haslam/Sea Shepherd, via Associated Press</media:credit>
+      <media:description>A Chinese ship fishing off the west coast of South America in July 2021.</media:description>
     </item>
     <item>
       <title>Germany Investigates Leaks in Nord Stream Gas Pipelines</title>
@@ -402,7 +415,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/opinion/26Altman-1/26Altman-1-moth-v2.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/opinion/26Altman-1/26Altman-1-moth-v3.jpg" width="151"></media:content>
       <media:credit>Kriston Jae Bethel/Agence France-Presse — Getty Images</media:credit>
       <media:description>Lt. Gov. John Fetterman of Pennsylvania greets supporters following a Senate campaign rally.</media:description>
     </item>
@@ -413,7 +426,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html" rel="standout"></atom:link>
       <description>Patrick Collison calls for a new ‘science of progress’</description>
       <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:07 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 10:58:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collison, Patrick</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stripe Inc</category>
@@ -437,48 +450,31 @@
       <media:credit>Hokyoung Kim</media:credit>
     </item>
     <item>
-      <title>A Doctor Burns Out: The Week in Narrated Articles</title>
-      <link>https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/podcasts/doctor-burnout-democracy-moonage.html" rel="standout"></atom:link>
-      <description>Five articles from around The Times, narrated just for you.</description>
-      <pubDate>Fri, 23 Sep 2022 14:36:56 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/science/23narrated-1/merlin_211523832_193dafee-d8e1-4d61-baa5-530c7bff5fff-moth.jpg" width="151"></media:content>
+      <title>Why Was Pandemic Fraud So Easy?</title>
+      <link>https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/podcasts/the-daily/pandemic-fraud.html" rel="standout"></atom:link>
+      <description>As the coronavirus swept the United States, the government spent vast sums to help shield the economy. But billions of dollars of that aid disappeared.</description>
+      <dc:creator>Michael Barbaro, Rob Szypko, Jessica Cheung, Luke Vander Ploeg, Mooj Zadie, MJ Davis Lin, John Ketchum, Marion Lozano, Elisheba Ittoop and Chris Wood</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 10:04:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
     </item>
     <item>
-      <title>The World Cup Is a Feeling, One That Money Can’t Buy</title>
-      <link>https://www.nytimes.com/2022/09/23/sports/soccer/world-cup-qatar-2022.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/sports/soccer/world-cup-qatar-2022.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/23/sports/soccer/world-cup-qatar-2022.html" rel="standout"></atom:link>
-      <description>The tournament is, at heart, a feeling, and FIFA and Qatar may be forgetting that no amount of spending is a substitute.</description>
-      <dc:creator>Rory Smith</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 16:08:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/23rory-top-new/23rory-top-new-moth.jpg" width="151"></media:content>
-      <media:credit>Noushad Thekkayil/EPA, via Shutterstock</media:credit>
-      <media:description>What happens when the World Cup is built for selfies, not supporters?</media:description>
-    </item>
-    <item>
-      <title>The Republic</title>
-      <link>https://www.nytimes.com/2022/09/22/podcasts/run-up-elections-midterms-democracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/podcasts/run-up-elections-midterms-democracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/22/podcasts/run-up-elections-midterms-democracy.html" rel="standout"></atom:link>
-      <description>American democracy is under threat. But for some candidates and voters, democracy isn’t even the destination anymore.</description>
-      <dc:creator>‘The Run-Up’ Team</dc:creator>
-      <pubDate>Fri, 23 Sep 2022 13:38:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clyburn, James E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draper, Robert (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/podcasts/22-RunUp-Biden-audioapp/22-RunUp-Biden-audioapp-moth.jpg" width="151"></media:content>
-      <media:credit>Photo Illustration by The New York Times. Photo by Travis Dove for The New York Times</media:credit>
+      <title>Modern Love Podcast: How to Feel Yourself</title>
+      <link>https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/21/podcasts/modern-love-sex-shop.html" rel="standout"></atom:link>
+      <description>At 83, and legally blind, a woman needs help with one of her favorite pastimes: visiting the sex shop.</description>
+      <pubDate>Wed, 21 Sep 2022 20:02:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Toys</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/27/fashion/21MODERNLOVE-PODCAST/21MODERNLOVE-PODCAST-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
     </item>
     <item>
       <title>Are Your Patients Worried About the Polio Vaccine?</title>
@@ -672,22 +668,25 @@
       <media:credit>Michelle Mildenberg</media:credit>
     </item>
     <item>
-      <title>In ‘The Furrows,’ Namwali Serpell Confronts a Sibling’s Disappearance</title>
-      <link>https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/books/namwalli-serpell-the-furrows.html" rel="standout"></atom:link>
-      <description>Confronting sudden loss in her own life, Namwali Serpell has written “The Furrows,” a disquieting portrait of the human mind, warped by grief.</description>
-      <dc:creator>Lauren Christensen</dc:creator>
-      <pubDate>Sat, 24 Sep 2022 14:34:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <title>The Magnificent Poem Jars of David Drake, Center Stage at the Met</title>
+      <link>https://www.nytimes.com/2022/09/22/arts/design/david-drake-enslaved-potters-met-museum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/22/arts/design/david-drake-enslaved-potters-met-museum.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/22/arts/design/david-drake-enslaved-potters-met-museum.html" rel="standout"></atom:link>
+      <description>Before the Civil War, an enslaved artisan from South Carolina created storage vessels that transcend ceramic traditions.</description>
+      <dc:creator>Roberta Smith</dc:creator>
+      <pubDate>Thu, 22 Sep 2022 20:10:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drake, David (Dave the Potter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hear Me Now: The Black Potters of Old Edgefield, South Carolina (Exhibit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hogarth Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Serpell, Namwali</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/books/22Serpell3/22Serpell3-moth.jpg" width="151"></media:content>
-      <media:credit>Nate Palmer for The New York Times</media:credit>
-      <media:description>“When my sister died, it was just a total chaos,” Namwali Serpell said. When her mother died, the family “understood what needed to be done.”</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/arts/22edgefield-potters-review-7/22edgefield-potters-review-7-moth.jpg" width="151"></media:content>
+      <media:credit>Lila Barth for The New York Times</media:credit>
+      <media:description>“Storage Jar,” 1858, by David Drake, combines aspects of a message in a bottle and the Liberty Bell. The inscription reads in part: “A very Large Jar which has 4 handles = / pack it full of fresh meats — then light candles.”</media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

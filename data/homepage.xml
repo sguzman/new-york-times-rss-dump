@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 17:49:14 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 17:44:12 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 18:19:20 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 18:07:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/business/economy/landlords-rent-inflation.html" rel="standout"></atom:link>
       <description>Publicly traded corporate landlords are reporting some of their highest margins ever, while smaller operators say rent increases are eaten up by costs.</description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 15:17:26 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 18:04:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Landlords</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
@@ -185,22 +185,20 @@
       <media:description>A new book about Anthony Bourdain reveals fresh details about his life and last days. </media:description>
     </item>
     <item>
-      <title>Jamie Raskin on The Second Amendment </title>
-      <link>https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html" rel="standout"></atom:link>
-      <description>It is essential to reject the myth that frustrated citizens have a right to raise arms against the government. </description>
-      <dc:creator>Jamie Raskin</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gaetz, Matt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boebert, Lauren</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/opinion/27Raskin-4/27Raskin-4-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Hester/Ann Arbor News, via Associated Press</media:credit>
+      <title>The Forgotten Lessons of the Recovered Memory Movement</title>
+      <link>https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html" rel="standout"></atom:link>
+      <description>A deep understanding of how cultural trends and psychology interact is more important than ever.</description>
+      <dc:creator>Ethan Watters</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/opinion/sunday/27Watters/27Waters-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Mike McQuade. Photograph by Getty Images</media:credit>
     </item>
     <item>
       <title>Russians Are Terrified and Have Nowhere to Turn</title>
@@ -220,6 +218,42 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/opinion/27krasilshchik-1/27krasilshchik-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Arkady Budnitsky/EPA, via Shutterstock</media:credit>
       <media:description>Conscripted Russian men attending a farewell ceremony in Bataysk, Russia, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Jamie Raskin on The Second Amendment </title>
+      <link>https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/opinion/us-second-amendment.html" rel="standout"></atom:link>
+      <description>It is essential to reject the myth that frustrated citizens have a right to raise arms against the government. </description>
+      <dc:creator>Jamie Raskin</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gaetz, Matt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boebert, Lauren</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/opinion/27Raskin-4/27Raskin-4-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Hester/Ann Arbor News, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Why Candidates Like John Fetterman Owe Voters Full Medical Transparency</title>
+      <link>https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html" rel="standout"></atom:link>
+      <description>Health doesn’t have to be so political. </description>
+      <dc:creator>Lawrence K. Altman</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 18:00:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/opinion/26Altman-1/26Altman-1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Kriston Jae Bethel/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Lt. Gov. John Fetterman of Pennsylvania greets supporters following a Senate campaign rally.</media:description>
     </item>
     <item>
       <title>Ron DeSantis Is Making an Asylum Crisis of His Own</title>
@@ -266,22 +300,6 @@
       <media:credit>Jeff Swensen/Getty Images</media:credit>
     </item>
     <item>
-      <title>The Forgotten Lessons of the Recovered Memory Movement</title>
-      <link>https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/opinion/recovered-memory-therapy-mental-health.html" rel="standout"></atom:link>
-      <description>A deep understanding of how cultural trends and psychology interact is more important than ever.</description>
-      <dc:creator>Ethan Watters</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/opinion/sunday/27Watters/27Waters-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Mike McQuade. Photograph by Getty Images</media:credit>
-    </item>
-    <item>
       <title>Why Zombie Reaganomics Still Rules the G.O.P.</title>
       <link>https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/opinion/gop-economic-policy.html</guid>
@@ -299,24 +317,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/opinion/26krugman1/26krugman1-moth.jpg" width="151"></media:content>
       <media:credit>Charles Krupa/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Why Candidates Like John Fetterman Owe Voters Full Medical Transparency</title>
-      <link>https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/opinion/candidates-voters-medical-transparency.html" rel="standout"></atom:link>
-      <description>Health doesn’t have to be so political. </description>
-      <dc:creator>Lawrence K. Altman</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 13:22:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/opinion/26Altman-1/26Altman-1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Kriston Jae Bethel/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Lt. Gov. John Fetterman of Pennsylvania greets supporters following a Senate campaign rally.</media:description>
     </item>
     <item>
       <title>China’s Huge Appetite for Fish</title>
@@ -365,9 +365,9 @@
       <link>https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html" rel="standout"></atom:link>
-      <description>Under the governing Conservatives, the markets are down and the pound is under pressure. On Thursday, Keir Starmer, the Labour leader, staked his claim as the guardian of sound fiscal policy.</description>
+      <description>Under the governing Conservatives, the markets are down and the pound is under pressure. On Tuesday, Keir Starmer, the Labour leader, staked his claim as the guardian of sound fiscal policy.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 16:33:21 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 18:07:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
@@ -421,23 +421,23 @@
       <media:description>The asteroid Dimorphos 11 seconds before NASA’s DART spacecraft collided with it on Monday.</media:description>
     </item>
     <item>
-      <title>Jails Boss Pushed for Dying Man’s Release to Limit Rikers Death Count</title>
-      <link>https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/riker-death-count.html" rel="standout"></atom:link>
-      <description>Louis A. Molina, New York City’s jail commissioner, told his senior staff to ensure that a dying man was “off the department’s count.”</description>
-      <dc:creator>Jan Ransom</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 14:57:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Guards and Corrections Officers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Correction Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rikers Island Prison Complex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Molina, Louis A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/us/00rikers-1/00rikers-1-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Seng for The New York Times</media:credit>
-      <media:description>Louis A. Molina, commissioner of the New York City Department of Corrections, at a news conference at Rikers Island after three incarcerated inmates died in June.</media:description>
+      <title>Ilse Nathan and Ruth Siegler, Sisters and Survivors Together, Die 11 Days Apart</title>
+      <link>https://www.nytimes.com/2022/09/23/us/ilse-nathan-ruth-siegler-scheuer-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/23/us/ilse-nathan-ruth-siegler-scheuer-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/23/us/ilse-nathan-ruth-siegler-scheuer-dead.html" rel="standout"></atom:link>
+      <description>They stood by each other at Birkenau, married other Holocaust survivors, lived near each other in Alabama and remained close into their 90s.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Fri, 23 Sep 2022 23:04:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nathan, Ilse Scheuer (1924-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Siegler, Ruth Scheuer (1927-2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Auschwitz Concentration Camp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birkenau (Poland)</category>
     </item>
     <item>
       <title>The Health Benefits of Chia Seeds</title>

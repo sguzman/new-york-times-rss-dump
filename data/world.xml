@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 14:02:47 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 14:00:44 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 14:46:25 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 14:45:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/27/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Ukraine and Poland blamed Russia after leaks were found in two gas pipelines under the Baltic Sea.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 14:00:44 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 14:26:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-briefing-header/merlin_213736314_0f3c6a2f-aa97-4d78-93e0-39d6c4449f15-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier on one of the destroyed main bridges in Bakhmut, Ukraine, on Saturday.</media:description>
@@ -56,7 +56,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html" rel="standout"></atom:link>
       <description>Paul Gicheru was accused of tampering with witnesses in favor of President William Ruto, whose trial at The Hague collapsed in 2016. The cause of death is not yet known.</description>
       <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 10:20:26 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 14:08:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
@@ -159,7 +159,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izhevsk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kazantsev, Artem (d 2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.</media:description>
@@ -258,9 +259,11 @@
       <pubDate>Tue, 27 Sep 2022 00:40:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diaz-Canel Bermudez, Miguel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26xp-cuba-1-bc1e/26xp-cuba-1-bc1e-moth.jpg" width="151"></media:content>
       <media:credit>Yamil Lage/Agence France-Presse — Getty Images</media:credit>
       <media:description>Electoral authorities counting ballots on Sunday at a polling station in Havana.</media:description>
@@ -460,10 +463,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Viiv Healthcare Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/science/00HIV-PREP-access1/00HIV-PREP-access1-moth.jpg" width="151"></media:content>
       <media:credit>Ihsaan Haffejee for The New York Times</media:credit>
       <media:description>Victoria Makhandule, center, a volunteer with the Treatment Action Campaign, hopes injectable PrEP will soon be available in Soweto, South Africa.</media:description>
@@ -475,7 +479,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html" rel="standout"></atom:link>
       <description>Concerns about rising interest rates and the prospects of a global slowdown remain.</description>
       <dc:creator>Austin Ramzy and Isabella Simonetti</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 12:59:47 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 14:20:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
@@ -1161,25 +1165,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/travel/00Rural-Korea5/merlin_163120896_775dade7-629f-491d-a0e9-a8960cb06a20-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Visitors explore the pine forest at Andong Hahoe Hanok Village, a UNESCO World Heritage site.</media:description>
-    </item>
-    <item>
-      <title>Deadlier Than the Titanic: A Ferry Set Out With About 1,900 Aboard. Only 64 Survived.</title>
-      <link>https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html" rel="standout"></atom:link>
-      <description>Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.</description>
-      <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 18:00:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ferries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Casamance (Senegal)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/00senegal-fery-add6/00senegal-fery-add6-moth.jpg" width="151"></media:content>
-      <media:credit>Carmen Abd Ali for The New York Times</media:credit>
-      <media:description>The Kantene cemetery in Ziguinchor, Senegal, has 42 graves of victims of the wreck. Artists paid tribute to the deceased by painting on the walls this year.</media:description>
     </item>
   </channel>
 </rss>

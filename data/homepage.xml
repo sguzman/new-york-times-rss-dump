@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 18:55:02 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 18:52:49 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 19:25:10 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 19:20:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/us/politics/biden-immigration-asylum.html" rel="standout"></atom:link>
       <description>The United States has started to allow people to apply for asylum under a new process that the secretary of homeland security hopes can help fix the current “very broken system.”</description>
       <dc:creator>Michael D. Shear and Miriam Jordan</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 16:46:51 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 19:20:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
@@ -72,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html" rel="standout"></atom:link>
       <description>People with disabilities in the country are often isolated and poor, and for those like Antonina Andriyenko and her daughter, Tanya, the fear and confusion of trying to stay safe is a constant struggle.</description>
       <dc:creator>Jane Arraf</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 18:52:49 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 19:10:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -169,13 +169,28 @@
       <media:description>Food prices, stock prices and other economic factors may be top priorities for voters in November. </media:description>
     </item>
     <item>
+      <title>The Dazzling Life and Shocking Death of Cheslie Kryst</title>
+      <link>https://www.nytimes.com/2022/09/27/nyregion/cheslie-kryst-mental-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/nyregion/cheslie-kryst-mental-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/nyregion/cheslie-kryst-mental-health.html" rel="standout"></atom:link>
+      <description>A beauty queen, an attorney, a TV star whose suicide was a reminder of a troubling uptick in mental health struggles among women and in the Black community.</description>
+      <dc:creator>Dodai Stewart</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 19:15:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kryst, Cheslie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/nyregion/Cheslie-Kryst-4/Cheslie-Kryst-4-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Paras Griffin/Getty Images</media:credit>
+    </item>
+    <item>
       <title>New Anthony Bourdain Book Traces His Life and Last, Painful Days </title>
       <link>https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/27/dining/anthony-bourdain-biography.html" rel="standout"></atom:link>
-      <description>A new, unauthorized biography reveals intimate, often raw, details of the TV star’s life and death. And it’s drawing criticism from many of his friends and family.</description>
+      <description>A new, unauthorized biography reveals intimate, often raw, details of the TV star’s life, including his tumultuous relationship with the Italian actor Asia Argento. And it’s drawing criticism from many of his friends and family.</description>
       <dc:creator>Kim Severson</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 16:33:30 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 19:00:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bourdain, Anthony</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leerhsen, Charles</category>
@@ -538,6 +553,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bini, Nicolo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/t-magazine/20tmag-binishell-slide-UT3Q-copy/20tmag-binishell-slide-UT3Q-copy-moth.jpg" width="151"></media:content>
+      <media:credit>Joyce Kim</media:credit>
+      <media:description>The Downeys’ 6,500-square-foot Binishell nearly disappears into the surrounding landscape.</media:description>
     </item>
     <item>
       <title>How to Solve Beginner Crosswords</title>

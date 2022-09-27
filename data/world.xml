@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 09:46:31 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 09:23:12 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 10:25:14 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 10:20:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -296,6 +296,24 @@
       <media:description>An abandoned Russian military vehicle in Vovchansk, Ukraine, on Sunday.</media:description>
     </item>
     <item>
+      <title>Paul Gicheru, Kenya Lawyer on Trial at I.C.C., Is Found Dead</title>
+      <link>https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html" rel="standout"></atom:link>
+      <description>Paul Gicheru was accused of tampering with witnesses in favor of President William Ruto, whose trial at The Hague collapsed in 2016. The cause of death is not yet known.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 10:20:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27kenya/27kenya-moth.jpg" width="151"></media:content>
+      <media:credit>International Criminal Court, via Associated Press</media:credit>
+      <media:description>Paul Gicheru, a Kenyan lawyer, at the International Criminal Court in The Hague in February. Kenyan police say that Mr. Gicheru was found dead at his home late Monday.</media:description>
+    </item>
+    <item>
       <title>Turkish Author Ece Temelkuran Sees a Contested U.S. Election Through the Lens of an Attempted Coup</title>
       <link>https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html</guid>
@@ -515,6 +533,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/27ambriefing-europe-nl-promo/26-italy-takeaways-promo-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>As referendums end, a declaration of Russian annexation is expected to follow.</title>
+      <link>https://www.nytimes.com/2022/09/27/world/europe/as-referendums-end-a-declaration-of-russian-annexation-is-expected-to-follow.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/as-referendums-end-a-declaration-of-russian-annexation-is-expected-to-follow.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/as-referendums-end-a-declaration-of-russian-annexation-is-expected-to-follow.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Carly Olson</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 05:04:49 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/multimedia/27ukraine-briefing-zelensky-speech-01-1-83e7/27ukraine-briefing-zelensky-speech-01-1-83e7-moth.jpg" width="151"></media:content>
+      <media:credit>EPA-EFE/Shutterstock</media:credit>
+      <media:description>A woman in a hospital in the Zaporizka region of Ukraine casting her ballot.</media:description>
     </item>
     <item>
       <title>Cuba Approves Same-Sex Marriage in Historic Vote</title>
@@ -1141,23 +1171,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00india-diplo-01/merlin_213249408_2c1ea36f-61d6-4a98-8d6e-50bce472c45b-moth.jpg" width="151"></media:content>
       <media:credit>Sergei Bobylev/Sputnik/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Narendra Modi of India and President Vladimir V. Putin of Russia meeting in Uzbekistan this month.</media:description>
-    </item>
-    <item>
-      <title>North Korea Launches Ballistic Missile Off Its East Coast</title>
-      <link>https://www.nytimes.com/2022/09/24/world/asia/north-korea-ballistic-missile-launch.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/24/world/asia/north-korea-ballistic-missile-launch.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/24/world/asia/north-korea-ballistic-missile-launch.html" rel="standout"></atom:link>
-      <description>The exercise was Pyongyang’s first ballistic missile test in nearly four months and came days after the U.S.S. Ronald Reagan arrived in a South Korean port.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Sun, 25 Sep 2022 02:08:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25nkorea-01-1-4f8b/25nkorea-01-1-4f8b-moth.jpg" width="151"></media:content>
-      <media:credit>Lee Jin-Man/Associated Press</media:credit>
-      <media:description>The United States aircraft carrier Ronald Reagan arriving in port in Busan, South Korea, on Friday, ahead of the two countries’ joint military drills.</media:description>
     </item>
   </channel>
 </rss>

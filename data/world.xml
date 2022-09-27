@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 22:24:57 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Sep 2022 22:18:55 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 22:45:35 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 22:44:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/27/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Ukraine and Poland blamed Russia after blasts were recorded and two gas pipelines were ruptured under the Baltic Sea. The sudden leaks deepened uncertainty about energy security in Europe.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 22:18:55 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 22:44:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-briefing-header/merlin_213736314_0f3c6a2f-aa97-4d78-93e0-39d6c4449f15-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier on one of the destroyed main bridges in Bakhmut, Ukraine, on Saturday.</media:description>
@@ -59,6 +59,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27uk-econ/27uk-econ-moth.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
       <media:description>Support for the Conservative Party, led by Prime Minister Liz Truss, has plunged in the polls.</media:description>
+    </item>
+    <item>
+      <title>Pipeline Breaks Look Deliberate, Europeans Say, Exposing Vulnerability</title>
+      <link>https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nordstream.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nordstream.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nordstream.html" rel="standout"></atom:link>
+      <description>The leaks in the Nord Stream under the Baltic Sea heightened fears of shortages because of the clash with Russia, and showed how vital infrastructure could be at risk.</description>
+      <dc:creator>Melissa Eddy</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 22:26:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morawiecki, Mateusz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frederiksen, Mette</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
     </item>
     <item>
       <title>For a Deaf Family in Ukraine, War Is a Bewildering Terror</title>
@@ -118,23 +138,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27uk-labour/27uk-labour-moth.jpg" width="151"></media:content>
       <media:credit>Henry Nicholls/Reuters</media:credit>
       <media:description>Keir Starmer, the leader of Britain’s opposition Labour Party, used his party conference speech on Tuesday in Liverpool to talk about how his party would try to solve the economic crisis.</media:description>
-    </item>
-    <item>
-      <title>Prince Mohammed bin Salman Named Saudi Prime Minister </title>
-      <link>https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html" rel="standout"></atom:link>
-      <description>The crown prince, who has already been the kingdom’s de facto ruler for several years, previously served as deputy prime minister under King Salman, as well as defense minister.</description>
-      <dc:creator>AFP</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 19:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khaled bin Salman, Prince of Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27saudi/27saudi-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Crown Prince Mohammed bin Salman of Saudi Arabia, who has been first in line to succeed his father as king since 2017, was named prime minister on Tuesday.</media:description>
     </item>
     <item>
       <title>Women in Iran Take Center Stage in Antigovernment Protests</title>
@@ -293,6 +296,23 @@
       <pubDate>Tue, 27 Sep 2022 21:48:10 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ambriefing-asia-nl-PROMO/merlin_213906276_fd50c6ce-bb79-4874-94cd-852e77f259b0-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse, via Danish Defence</media:credit>
+    </item>
+    <item>
+      <title>Prince Mohammed bin Salman Named Saudi Prime Minister </title>
+      <link>https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html" rel="standout"></atom:link>
+      <description>The crown prince, who has already been the kingdom’s de facto ruler for several years, previously served as deputy prime minister under King Salman, as well as defense minister.</description>
+      <dc:creator>AFP</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 19:46:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khaled bin Salman, Prince of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27saudi/27saudi-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Crown Prince Mohammed bin Salman of Saudi Arabia, who has been first in line to succeed his father as king since 2017, was named prime minister on Tuesday.</media:description>
     </item>
     <item>
       <title>Meta Removes Chinese Effort to Influence U.S. Elections</title>
@@ -1151,26 +1171,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/25/multimedia/25ukraine-briefing-zelensky02-1-9ed1/25ukraine-briefing-zelensky02-1-9ed1-moth.jpg" width="151"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>President Volodymyr Zelensky of Ukraine addressed world leaders in a recorded speech at the United Nations General Assembly last week.</media:description>
-    </item>
-    <item>
-      <title>Soviet Monuments Become Latest Target of Backlash Against War in Ukraine</title>
-      <link>https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html" rel="standout"></atom:link>
-      <description>Across Eastern and Central Europe, statues honoring Soviet troops for their role in defeating the Nazis in World War II have in recent weeks come down or been slated for demolition.</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 12:36:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Red Army (Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stalin, Joseph</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/20latvia-soviet1/20latvia-soviet1-moth.jpg" width="151"></media:content>
-      <media:credit>Katrina Kepule for The New York Times</media:credit>
-      <media:description>Dr. Juris Vidins, right, in front of a Red Army soldier statue in the town of Rezekne, Latvia. </media:description>
     </item>
   </channel>
 </rss>

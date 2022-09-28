@@ -7,13 +7,48 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 13:34:43 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 13:33:27 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 14:19:50 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 13:50:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Cuba Starts Restoring Power After Hurricane Ian Causes Blackout</title>
+      <link>https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html" rel="standout"></atom:link>
+      <description>Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.</description>
+      <dc:creator>Andrés R. Martínez</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 10:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ian-blog-cuba-power-image/28ian-blog-cuba-power-image-moth.jpg" width="151"></media:content>
+      <media:credit>Ramon Espinosa/Associated Press</media:credit>
+      <media:description>People playing dominoes by flashlight during a blackout in Havana on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>When Is a Storm Surge at Its Peak?</title>
+      <link>https://www.nytimes.com/2022/09/28/us/storm-surge-cause-peak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/us/storm-surge-cause-peak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/us/storm-surge-cause-peak.html" rel="standout"></atom:link>
+      <description>A storm surge usually builds over many hours as the eye of hurricane approaches the coast.</description>
+      <dc:creator>Livia Albeck-Ripka</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 11:57:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tampa (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ian-blog-storm-surge-1-6e98/28ian-blog-storm-surge-1-6e98-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>Sand bags lined the beach in Bonita Springs, Fla. awaiting Hurricane Ian.</media:description>
+    </item>
     <item>
       <title>To Calm Markets, Bank of England Will Buy Bonds on ‘Whatever Scale Is Necessary’</title>
       <link>https://www.nytimes.com/2022/09/28/business/economy/bank-of-england-bonds.html</link>
@@ -98,14 +133,18 @@
       <dc:creator>Nick Corasaniti and Alexandra Berzon</dc:creator>
       <pubDate>Wed, 28 Sep 2022 07:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">DeKalb County (Ga)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">True the Vote</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harris County (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/multimedia/00pol-challenges-photo01-1-784e/00pol-challenges-photo01-1-784e-moth.jpg" width="151"></media:content>
       <media:credit>Audra Melton for The New York Times</media:credit>
       <media:description>Voters at a polling place during Georgia’s 2021 runoff election, which sent two Democrats, Jon Ossoff and Raphael Warnock, to the Senate.</media:description>
@@ -158,13 +197,13 @@
       <media:description>Laura Gillen, a Democrat hoping to succeed the outgoing Democratic congresswoman, Kathleen Rice, is a former supervisor of the Town of Hempstead.</media:description>
     </item>
     <item>
-      <title>Whoopi Goldberg Will Not Shut Up Thank You Very Much</title>
+      <title>Whoopi Goldberg Will Not Shut Up, Thank You Very Much</title>
       <link>https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/28/magazine/whoopi-goldberg.html" rel="standout"></atom:link>
       <description>No matter​ ​how often​ ​she gets​ ​into trouble,​ ​she refuses to hold anything back.</description>
       <dc:creator>Jazmine Hughes</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 09:00:30 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 13:41:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldberg, Whoopi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
@@ -508,6 +547,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barbaro, Michael</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/podcasts/28DAILY-iran-women-audio-app/28DAILY-iran-women-audio-app-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
+      <media:description>A rally in Tehran this month. Information about the protests remains partial at best, but witnesses say they are widespread and vitriolic. The authorities also seem to be mounting an escalating crackdown.</media:description>
     </item>
     <item>
       <title>Three Spots to Try if You Don’t Mind a Line</title>
@@ -571,7 +613,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html" rel="standout"></atom:link>
       <description>Biogen and Eisai reported the finding from a large late-stage clinical trial of lecanemab, a drug they are developing.</description>
       <dc:creator>Rebecca Robbins and Pam Belluck</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 02:39:23 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 13:42:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="">Lecanemab (Drug)</category>
@@ -610,7 +652,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html" rel="standout"></atom:link>
       <description>Hakainde Hichilema is hailed as a miracle worker for turning around the fortunes of the southern African country. But with his opposition neutralized and a corruption drive focused on his predecessors, some are uneasy.</description>
       <dc:creator>Ruth Maclean</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 07:25:10 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 13:35:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>

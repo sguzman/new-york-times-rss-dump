@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 22:47:13 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 22:35:19 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 23:26:52 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 23:21:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Rather than sending more powerful HIMARS rocket launchers from its stockpile, the U.S. is ordering them from Lockheed-Martin, so delivery will take years. European Union officials proposed a new round of sanctions in response to Russia’s recent actions to escalate the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 22:35:19 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 23:21:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ukraine-blog-header-01/28ukraine-blog-header-01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A woman reacted to damage to a residential building caused by a missile strike the evening before in Kramatorsk, Ukraine, on Tuesday.</media:description>
@@ -367,18 +367,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-referendums-latest-02-1-6bd6/28ukraine-briefing-referendums-latest-02-1-6bd6-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>A billboard with a Russian flag reading ‘We believe in our army and our victory’ in Luhansk, Ukraine, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Why Experts and Officials Say Nord Stream Pipleline Leaks Were No Accident</title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Stanley Reed</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 13:20:18 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ukraine-briefing-pipeline-explain-image/28ukraine-briefing-pipeline-explain-image-moth.jpg" width="151"></media:content>
-      <media:credit>Hannibal Hanschke/EPA, via Shutterstock</media:credit>
-      <media:description>Facilities of the Nord Stream 2 gas pipeline in Lubmin, Germany.</media:description>
     </item>
     <item>
       <title>Covid Boosters</title>
@@ -1164,6 +1152,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/us/politics/26dc-bidenfrance/26dc-bidenfrance-moth.jpg" width="151"></media:content>
       <media:credit>Kenny Holston for The New York Times</media:credit>
       <media:description>President Biden with President Emmanuel Macron of France this year. Mr. Macron’s visit will mark a recovery in relations between Paris and Washington.</media:description>
+    </item>
+    <item>
+      <title>Canada Is Removing Strict Covid-19 Restrictions for Travelers</title>
+      <link>https://www.nytimes.com/2022/09/26/world/canada/canada-border-covid-restrictions-removed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/canada/canada-border-covid-restrictions-removed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/26/world/canada/canada-border-covid-restrictions-removed.html" rel="standout"></atom:link>
+      <description>After two and a half years, Canada is dropping its remaining restrictions, including testing and quarantine requirements, effective Oct. 1.</description>
+      <dc:creator>Remy Tumin</dc:creator>
+      <pubDate>Mon, 26 Sep 2022 20:49:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Health Agency of Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26xp-canadaborder5-1-5c9d/26xp-canadaborder5-1-5c9d-moth.jpg" width="151"></media:content>
+      <media:credit>Carlo Allegri/Reuters</media:credit>
+      <media:description>All air travelers, regardless of vaccination status, were subject to random coronavirus testing in Canada as recently as March. The country is removing those travel restrictions on Oct. 1.</media:description>
     </item>
   </channel>
 </rss>

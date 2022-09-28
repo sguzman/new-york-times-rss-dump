@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 15:42:23 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 15:41:24 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 16:37:13 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 16:34:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The ruptures in two undersea gas pipelines from Russia have unsettled European officials and exposed the vulnerability of the continent’s energy infrastructure.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 15:33:52 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 16:34:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ukraine-blog-header-01/28ukraine-blog-header-01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A woman reacted to damage to a residential building caused by a missile strike the evening before in Kramatorsk, Ukraine, on Tuesday.</media:description>
@@ -285,6 +285,27 @@
       <media:description>Women have been at the center of protests like this one last week in Tehran, defying the mandate to wear head scarves.</media:description>
     </item>
     <item>
+      <title>Tensions in Iran Spill Across the Border Into Iraq</title>
+      <link>https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html" rel="standout"></atom:link>
+      <description>The Revolutionary Guards Corps has been attacking Kurdish opposition groups in northern Iraq, blaming them for fomenting the unrest in Iran that was set off by the death of Mahsa Amini.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 16:18:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kurdistan Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28iran-border/28iran-border-moth.jpg" width="151"></media:content>
+      <media:credit>Ako Rasheed/Reuters</media:credit>
+      <media:description>Smoke rose from the Iraqi Kurdistan headquarters of the Kurdish Democratic Party of Iran on the outskirts of Kirkuk, Iraq, on Wednesday.</media:description>
+    </item>
+    <item>
       <title>Russian-backed officials ask Putin to annex Ukrainian regions after referendums that were widely dismissed as a sham.</title>
       <link>https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</guid>
@@ -338,13 +359,12 @@
       <description>Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?</description>
       <dc:creator>Cade Metz</dc:creator>
       <pubDate>Wed, 28 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="">self-driving</category>
-      <category domain="">future of transportation</category>
-      <category domain="">innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="">future of transportation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-moth.jpg" width="151"></media:content>
       <media:credit>Matt Williams</media:credit>
     </item>
@@ -1162,24 +1182,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/world/26ukraine-briefing-bracelet-man/23ukraine-briefing-bracelet-VERSION-topart-moth.jpg" width="151"></media:content>
       <media:credit>via Oksana Sova</media:credit>
       <media:description>Serhiy Sova, whose body was exhumed in Izium earlier this month, in 2019. He was a trainer and breeder of dogs.</media:description>
-    </item>
-    <item>
-      <title>Yevgeny Prigozhin, a Putin Ally, Says He Founded Russia’s Wagner Group</title>
-      <link>https://www.nytimes.com/2022/09/26/world/europe/russia-wagner-group-prigozhin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/europe/russia-wagner-group-prigozhin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/russia-wagner-group-prigozhin.html" rel="standout"></atom:link>
-      <description>Yevgeny V. Prigozhin, a Russian businessman and close associate of President Vladimir V. Putin, confirmed his role weeks after he was seen in a recruitment video for the private military company.</description>
-      <dc:creator>Cora Engelbrecht</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 12:07:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prigozhin, Yevgeny V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/14/world/26ukraine-briefing-prigozhin/26ukraine-briefing-prigozhin-moth.jpg" width="151"></media:content>
-      <media:credit>Mikhail Metze/TASS, via Getty Images</media:credit>
-      <media:description>Yevgeny Prigozhin at a meeting of Russian and Turkish government officials and business leaders in Saint Petersburg, Russia, in 2016.</media:description>
     </item>
   </channel>
 </rss>

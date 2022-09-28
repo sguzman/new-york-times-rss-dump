@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 14:59:54 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 14:58:21 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 15:42:23 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 15:41:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/28/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The ruptures in two undersea gas pipelines from Russia have unsettled European officials and exposed the vulnerability of the continent’s energy infrastructure.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 14:58:21 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 15:33:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ukraine-blog-header-01/28ukraine-blog-header-01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A woman reacted to damage to a residential building caused by a missile strike the evening before in Kramatorsk, Ukraine, on Tuesday.</media:description>
@@ -136,12 +136,12 @@
       <description>Hilaree Nelson was apparently blown off a cliff while she was skiing down Manaslu, the world’s eighth-highest peak.</description>
       <dc:creator>Bhadra Sharma and Emily Schmall</dc:creator>
       <pubDate>Wed, 28 Sep 2022 14:19:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hilaree Nelson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Avalanches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alpine Skiing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nelson, Hilaree (1972-2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28nepal-01/28nepal-01-moth.jpg" width="151"></media:content>
       <media:credit>Niranjan Shrestha/Associated Press</media:credit>
       <media:description>Hilaree Nelson with her partner, James Morrison, in 2018. The two ascended Manaslu, in Nepal, and were skiing down when she died this week.</media:description>
@@ -206,6 +206,23 @@
       <media:description>Liu Jingyao filed a civil suit accusing the Chinese tech billionaire Richard Liu of raping her in Minneapolis in 2018.</media:description>
     </item>
     <item>
+      <title>If Brazil’s President Attempts a Coup, What Will the Police Do?</title>
+      <link>https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html" rel="standout"></atom:link>
+      <description>If Brazil’s election sparks mass unrest, the country’s so-called military police force would be called upon to restore order, giving them tremendous power to affect outcomes.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 15:05:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Interpreter-NL01/merlin_213728262_8e64a0a2-484a-4759-a4f5-db63cc6c1eb4-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil at campaign rally last week.</media:description>
+    </item>
+    <item>
       <title>On Portugal’s ‘Bitcoin Beach,’ Crypto Optimism Still Reigns</title>
       <link>https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html</guid>
@@ -213,53 +230,36 @@
       <description>In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.</description>
       <dc:creator>Adam Satariano</dc:creator>
       <pubDate>Wed, 28 Sep 2022 07:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Didi Taihuttu</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/00crypto-portugal-04/00crypto-portugal-04-moth.jpg" width="151"></media:content>
       <media:credit>Rodrigo Cardoso for The New York Times</media:credit>
       <media:description>An access point to Meia Praia, which has become known to some as Bitcoin Beach. It has become a bubble of optimism about cryptocurrency amid a serious downturn for crypto.</media:description>
     </item>
     <item>
-      <title>For a Deaf Family in Ukraine, War Is a Bewildering Terror</title>
-      <link>https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html" rel="standout"></atom:link>
-      <description>People with disabilities in the country are often isolated and poor, and for those like Antonina Andriyenko and her daughter, Tanya, the fear and confusion of trying to stay safe is a constant struggle.</description>
-      <dc:creator>Jane Arraf</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 03:04:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-deaf-family01/27ukraine-deaf-family01-moth.jpg" width="151"></media:content>
-      <media:credit>Emile Ducke for The New York Times</media:credit>
-      <media:description>Antonina Andriyenko, 74, on the balcony of her apartment in Kharkiv, Ukraine, in July. “We stayed because we didn’t know where to go,” she said.</media:description>
-    </item>
-    <item>
-      <title>Paul Gicheru, Kenya Lawyer on Trial at I.C.C., Is Found Dead</title>
-      <link>https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html" rel="standout"></atom:link>
-      <description>Paul Gicheru was accused of tampering with witnesses in favor of President William Ruto, whose trial at The Hague collapsed in 2016. The cause of death is not yet known.</description>
-      <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Tue, 27 Sep 2022 18:53:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27kenya/27kenya-moth.jpg" width="151"></media:content>
-      <media:credit>International Criminal Court, via Associated Press</media:credit>
-      <media:description>Paul Gicheru, a Kenyan lawyer, at the International Criminal Court in The Hague in February. Kenyan police say that Mr. Gicheru was found dead at his home late Monday.</media:description>
+      <title>Few South Koreans Are Having Babies. A Mayor’s Answer? More Nannies.</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html" rel="standout"></atom:link>
+      <description>The mayor of Seoul wants to ease the high cost and low supply of babysitters in the country to encourage more couples to have children.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 13:39:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28skorea-nannies-02/28skorea-nannies-02-moth.jpg" width="151"></media:content>
+      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The mayor of Seoul, Oh Se-hoon, center, said versions of his proposal implemented in other countries had prompted a rise in the share of women in the labor force.</media:description>
     </item>
     <item>
       <title>Women in Iran Take Center Stage in Antigovernment Protests</title>
@@ -283,26 +283,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27iran-women1/27iran-women1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
       <media:description>Women have been at the center of protests like this one last week in Tehran, defying the mandate to wear head scarves.</media:description>
-    </item>
-    <item>
-      <title>Few South Koreans Are Having Babies. A Mayor’s Answer? More Nannies.</title>
-      <link>https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html" rel="standout"></atom:link>
-      <description>The mayor of Seoul wants to ease the high cost and low supply of babysitters in the country to encourage more couples to have children.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 13:39:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28skorea-nannies-02/28skorea-nannies-02-moth.jpg" width="151"></media:content>
-      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The mayor of Seoul, Oh Se-hoon, center, said versions of his proposal implemented in other countries had prompted a rise in the share of women in the labor force.</media:description>
     </item>
     <item>
       <title>Russian-backed officials ask Putin to annex Ukrainian regions after referendums that were widely dismissed as a sham.</title>
@@ -488,6 +468,24 @@
       <media:description>Crown Prince Mohammed bin Salman of Saudi Arabia, who has been first in line to succeed his father as king since 2017, was named prime minister on Tuesday.</media:description>
     </item>
     <item>
+      <title>For a Deaf Family in Ukraine, War Is a Bewildering Terror</title>
+      <link>https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html" rel="standout"></atom:link>
+      <description>People with disabilities in the country are often isolated and poor, and for those like Antonina Andriyenko and her daughter, Tanya, the fear and confusion of trying to stay safe is a constant struggle.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 03:04:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27ukraine-deaf-family01/27ukraine-deaf-family01-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Antonina Andriyenko, 74, on the balcony of her apartment in Kharkiv, Ukraine, in July. “We stayed because we didn’t know where to go,” she said.</media:description>
+    </item>
+    <item>
       <title>Keir Starmer Accuses Liz Truss of Losing Control of Britain’s Economy</title>
       <link>https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html</guid>
@@ -552,6 +550,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27xp-vietnam-typhoon/27xp-vietnam-typhoon-moth.jpg" width="151"></media:content>
       <media:credit>Nhac Nguyen/Agence France-Presse — Getty Images</media:credit>
       <media:description>Outside an elementary school in Hoi An, Vietnam, that was being used as a shelter during the typhoon on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Paul Gicheru, Kenya Lawyer on Trial at I.C.C., Is Found Dead</title>
+      <link>https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html" rel="standout"></atom:link>
+      <description>Paul Gicheru was accused of tampering with witnesses in favor of President William Ruto, whose trial at The Hague collapsed in 2016. The cause of death is not yet known.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Tue, 27 Sep 2022 18:53:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27kenya/27kenya-moth.jpg" width="151"></media:content>
+      <media:credit>International Criminal Court, via Associated Press</media:credit>
+      <media:description>Paul Gicheru, a Kenyan lawyer, at the International Criminal Court in The Hague in February. Kenyan police say that Mr. Gicheru was found dead at his home late Monday.</media:description>
     </item>
     <item>
       <title>Putin Is Expected to Annex Parts of Ukraine After Referendums End</title>
@@ -654,23 +670,22 @@
       <description>Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.</description>
       <dc:creator>Clifford Krauss</dc:creator>
       <pubDate>Tue, 27 Sep 2022 18:13:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/00JPisrael-gas-print/00israel-gas-moth.jpg" width="151"></media:content>
       <media:credit>Ariel Schalit/Associated Press</media:credit>
@@ -1165,24 +1180,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/14/world/26ukraine-briefing-prigozhin/26ukraine-briefing-prigozhin-moth.jpg" width="151"></media:content>
       <media:credit>Mikhail Metze/TASS, via Getty Images</media:credit>
       <media:description>Yevgeny Prigozhin at a meeting of Russian and Turkish government officials and business leaders in Saint Petersburg, Russia, in 2016.</media:description>
-    </item>
-    <item>
-      <title>Iran’s Ferocious Dissent</title>
-      <link>https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/briefing/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
-      <description>Times reporters make sense of what’s happening.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 10:33:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/24/world/26-THE-MORNING-NL-u-i2-promo/24IRAN-LEDEALL3-moth.jpg" width="151"></media:content>
-      <media:credit>Wana News Agency/Via Reuters</media:credit>
-      <media:description>A protest in Tehran last week over the death of a 22-year-old woman, Mahsa Amini, in police custody this month.</media:description>
     </item>
   </channel>
 </rss>

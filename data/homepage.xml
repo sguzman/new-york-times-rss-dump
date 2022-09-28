@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 18:35:17 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 18:35:03 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 19:01:07 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 18:56:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,28 +21,11 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/us/tampa-bay-water-hurricane-ian.html" rel="standout"></atom:link>
       <description>The effect is called a reverse storm surge, but it won’t last. Officials are warning that the water could come rushing back.</description>
       <dc:creator>Elena Shao</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 17:16:29 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 18:36:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/us/28ian-blog-low-water-tampa-bay2/28ian-blog-low-water-tampa-bay2-moth.jpg" width="151"></media:content>
       <media:credit>Bob Croslin for The New York Times</media:credit>
       <media:description>Strong winds pushed water away from the shore of Tampa Bay on Wednesday, a phenomenon known as negative storm surge.</media:description>
-    </item>
-    <item>
-      <title>Protests in Prague Signal a Troubled Winter Ahead in Europe</title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html" rel="standout"></atom:link>
-      <description>Tens of thousands gathered in the Czech capital for the second such protest in a month, spurred by an energy crisis and rising prices that are affecting countries across Europe.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 18:29:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiala, Petr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28czech-protest02/28czech-protest02-moth.jpg" width="151"></media:content>
-      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
-      <media:description>Protesters demanding the resignation of the Czech government and early parliamentary elections in Wenceslas Square in Prague on Wednesday.</media:description>
     </item>
     <item>
       <title>At least 150,000 Leave Russia After Putin Announced Partial Military Mobilization</title>
@@ -55,6 +38,47 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-georgia-1-7388/28ukraine-briefing-georgia-1-7388-moth.jpg" width="151"></media:content>
       <media:credit>Irakli Gedenidze/Reuters</media:credit>
       <media:description>Georgian police officers blocked opposition activists who were holding a rally near the Russian border on Wednesday to support Ukrainians and protest against the arrival of Russian citizens.</media:description>
+    </item>
+    <item>
+      <title>Meeting in Brussels Signifies a Turning Point for Allies Arming Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html" rel="standout"></atom:link>
+      <description>Defense officials responsible for purchasing weapons for more than 40 nations discussed how to ramp up production for a potentially yearslong war.</description>
+      <dc:creator>John Ismay and Lara Jakes</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 18:45:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ukraine Defense Contact Group</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/us/politics/00dc-UkraineGroup_1/merlin_212872809_723dcb4a-4cb2-4ea1-930c-b4db603beb2e-moth.jpg" width="151"></media:content>
+      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
+      <media:description>Ukrainian forces preparing to fire an American-supplied howitzer in the Kharkiv region in July. More than 40 nations have collaborated to arm Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Protests in Prague Signal a Troubled Winter Ahead in Europe</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html" rel="standout"></atom:link>
+      <description>Tens of thousands gathered in the Czech capital for the second such protest in a month, spurred by an energy crisis and rising prices that are affecting countries across Europe.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 18:39:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiala, Petr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28czech-protest02/28czech-protest02-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
+      <media:description>Protesters demanding the resignation of the Czech government and early parliamentary elections in Wenceslas Square in Prague on Wednesday.</media:description>
     </item>
     <item>
       <title>In an Echo of History, the British Pound Has Lost Its Dominance</title>
@@ -81,38 +105,22 @@
       <media:credit>Suzie Howell for The New York Times</media:credit>
     </item>
     <item>
-      <title>Truss Takes a Bold Economic Gamble. Will It Sink Her Government?</title>
-      <link>https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html" rel="standout"></atom:link>
-      <description>Three weeks into her term, Prime Minister Liz Truss’s financial plans have thrown the markets and Britain’s currency into chaos and put her future in peril.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 01:35:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Charles Hilary (1956- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posen, Adam S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rogoff, Kenneth S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27uk-econ/27uk-econ-moth.jpg" width="151"></media:content>
-      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
-      <media:description>Support for the Conservative Party, led by Prime Minister Liz Truss, has plunged in the polls.</media:description>
+      <title>Stuck on the Streets of San Francisco in a Driverless Car</title>
+      <link>https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html" rel="standout"></atom:link>
+      <description>A reporter and a photographer went for a ride in an experimental autonomous vehicle operated by the General Motors subsidiary Cruise. There were bumps in the road.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 18:45:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cruise LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/autossell/8_BUSY-STREET-STILL/8_BUSY-STREET-STILL-moth.png" width="151"></media:content>
     </item>
     <item>
       <title>Activists Flood Election Offices With Challenges</title>
@@ -162,24 +170,6 @@
       <media:description>Blake Masters trails Senator Mark Kelly, a Democrat, in polls, and has struggled to expand his support beyond Arizona’s Republican base.</media:description>
     </item>
     <item>
-      <title>Stuck on the Streets of San Francisco in a Driverless Car</title>
-      <link>https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html" rel="standout"></atom:link>
-      <description>A reporter and a photographer went for a ride in an experimental autonomous vehicle operated by the General Motors subsidiary Cruise. There were bumps in the road.</description>
-      <dc:creator>Cade Metz</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 13:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cruise LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/autossell/8_BUSY-STREET-STILL/8_BUSY-STREET-STILL-moth.png" width="151"></media:content>
-    </item>
-    <item>
       <title>At Least 9 Killed as Tensions in Iran Cross the Border Into Iraq</title>
       <link>https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</guid>
@@ -226,7 +216,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/nyregion/nyc-test-scores-pandemic.html" rel="standout"></atom:link>
       <description>The first standardized test results that capture how most city schoolchildren did during the pandemic offered a mixed picture.</description>
       <dc:creator>Troy Closson</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 18:31:55 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 18:51:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>

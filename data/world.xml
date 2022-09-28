@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 21:20:28 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 21:15:33 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 21:45:31 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 21:41:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -283,6 +283,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/27iran-women1/27iran-women1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
       <media:description>Women have been at the center of protests like this one last week in Tehran, defying the mandate to wear head scarves.</media:description>
+    </item>
+    <item>
+      <title>What We Know About the Mysterious Pipeline Leaks Between Russia and Europe</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/nordstream-pipeline-gas-leak-explosions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/nordstream-pipeline-gas-leak-explosions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/nordstream-pipeline-gas-leak-explosions.html" rel="standout"></atom:link>
+      <description>The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 21:41:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/28pipeline-explainer-3/28pipeline-explainer-3-moth.jpg" width="151"></media:content>
+      <media:credit>Bernd Wüstneck/picture alliance via Getty Images</media:credit>
+      <media:description>The Nord Stream 2 gas pipeline being laid in the Baltic Sea in 2018.</media:description>
     </item>
     <item>
       <title>Your Thursday Briefing: Iran Strikes Kurds in Iraq</title>
@@ -1156,27 +1174,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-    </item>
-    <item>
-      <title>Edward Snowden Receives Russian Citizenship</title>
-      <link>https://www.nytimes.com/2022/09/26/world/europe/edward-snowden-russia-citizenship.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/europe/edward-snowden-russia-citizenship.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/edward-snowden-russia-citizenship.html" rel="standout"></atom:link>
-      <description>Mr. Snowden, a former intelligence contractor, left the United States after giving hundreds of highly classified N.S.A. documents to The Guardian and The Washington Post in 2013.</description>
-      <dc:creator>Alan Yuhas</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 17:00:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snowden, Edward J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-snowden-01-1-aad6/26ukraine-briefing-snowden-01-1-aad6-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Olesya Astakhova/Reuters</media:credit>
-      <media:description>Edward Snowden speaking during an online forum in Moscow last year.</media:description>
     </item>
   </channel>
 </rss>

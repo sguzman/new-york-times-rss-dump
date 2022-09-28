@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 10:32:53 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Sep 2022 10:32:28 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 10:57:57 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2022 10:57:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -284,6 +284,22 @@
       <media:description>Giorgia Meloni leaving the polling station where she voted in Rome on Sunday. Her Brothers of Italy received the highest vote total of any single party, according to preliminary results.</media:description>
     </item>
     <item>
+      <title>Covid Boosters</title>
+      <link>https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html" rel="standout"></atom:link>
+      <description>Who should get a Covid booster, and when? We answer the big questions.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 10:37:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28-THE-MORNING-NL-u-shts-1-e9d5/28-THE-MORNING-NL-u-shts-1-e9d5-moth.jpg" width="151"></media:content>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <media:description>Administering Covid boosters in Salt Lake City this month.</media:description>
+    </item>
+    <item>
       <title>Australia’s Proposed Integrity Commission Would Work Mostly in Secret</title>
       <link>https://www.nytimes.com/2022/09/28/world/australia/anti-corruption-commission-secrecy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/australia/anti-corruption-commission-secrecy.html</guid>
@@ -438,7 +454,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html" rel="standout"></atom:link>
       <description>A visit for Shinzo Abe’s controversial state funeral also includes outreach to Asian allies over military advances by North Korea and China.</description>
       <dc:creator>Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 08:08:51 +0000</pubDate>
+      <pubDate>Wed, 28 Sep 2022 10:57:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
@@ -1172,23 +1188,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/world/26russia-school-2/26russia-school-2-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Police and paramedics working at the scene of a shooting at school No. 88 in Izhevsk, Russia, on Monday.</media:description>
-    </item>
-    <item>
-      <title>Recruitment Officer Wounded in Russian Draft Office Shooting</title>
-      <link>https://www.nytimes.com/2022/09/26/world/europe/russia-draft-office-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/world/europe/russia-draft-office-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/world/europe/russia-draft-office-shooting.html" rel="standout"></atom:link>
-      <description>A gunman opened fire at a draft office in a Siberian town, in what is believed to be the first attack on a military recruitment center since February to result in serious injury.</description>
-      <dc:creator>Valerie Hopkins and Shashank Bengali</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:12:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irkutsk (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-russia-military-shooting-01-1-5699/26ukraine-briefing-russia-military-shooting-01-1-5699-moth.jpg" width="151"></media:content>
-      <media:credit>Alexey Malgavko/Reuters</media:credit>
-      <media:description>Reservists drafted during Russia’s partial mobilization lined up outside a recruitment office in the Siberian town of Tara in the Omsk region on Monday.</media:description>
     </item>
   </channel>
 </rss>

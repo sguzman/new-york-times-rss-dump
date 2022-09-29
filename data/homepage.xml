@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 20:43:48 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Sep 2022 20:39:43 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2022 21:13:23 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2022 21:11:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,6 +45,26 @@
       <media:description>Casting a ballot during a referendum while an armed Russian serviceman stood guard, in Luhansk, on Tuesday.</media:description>
     </item>
     <item>
+      <title>What to Know About Russia’s Annexation of Four Ukrainian Provinces</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html" rel="standout"></atom:link>
+      <description>The Kremlin is using pageantry and a show of adhering to Russian legal formalities to give the move a veneer of legitimacy.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:58:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-kramer-explainer01-1-b2bc/29ukraine-briefing-kramer-explainer01-1-b2bc-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse/Getty Images</media:credit>
+      <media:description>A local resident rides past an abandoned Russian tank in Kramatorsk, eastern Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
       <title>Pentagon Plans to Set Up a New Command to Arm Ukraine, Officials Say</title>
       <link>https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html</guid>
@@ -63,26 +83,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/29dc-ukraine_1/merlin_207523185_9e0c67cd-1182-4fa9-8c8b-b790fe3ea72e-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Ukrainian soldiers heading toward the front line near Kramatorsk, in the country’s east, in May. The Pentagon’s proposal for a new command signals that the United States expects the threat from Russia to persist for many years, current and former senior U.S. officials said.</media:description>
-    </item>
-    <item>
-      <title>Zelensky’s Answer to Escalating Russian Threats: Defiance</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html" rel="standout"></atom:link>
-      <description>In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: “If you want to live, run.”</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 16:18:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-defiance-image-1-0d31/29ukraine-briefing-defiance-image-1-0d31-moth.jpg" width="151"></media:content>
-      <media:credit>Yuri Kochetkov/EPA, via Shutterstock</media:credit>
-      <media:description>Russian men who have been drafted saying goodbye to relatives at a recruiting office in Moscow on Tuesday.</media:description>
     </item>
     <item>
       <title>Senate Passes Bill to Aid Ukraine and Avert Government Shutdown</title>
@@ -153,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/nyregion/nyc-schools-admissions.html" rel="standout"></atom:link>
       <description>The city loosened selection criteria during the pandemic, policies some parents protested as unfair and others hoped would reduce racial disparities.</description>
       <dc:creator>Troy Closson</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 17:59:04 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 20:44:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
@@ -241,7 +241,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html" rel="standout"></atom:link>
       <description>From a bookish, asthmatic child to mainstream hitmaker, the West Coast M.C. charted a distinctive path to hip-hop stardom.</description>
       <dc:creator>Eduardo Medina and McKenna Oxenden</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 19:56:11 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 20:44:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
@@ -343,23 +343,22 @@
       <media:credit>Todd Heisler/The New York Times</media:credit>
     </item>
     <item>
-      <title>Ron DeSantis’s Race Problem</title>
-      <link>https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/opinion/ron-desantiss-racism.html" rel="standout"></atom:link>
-      <description>Ron DeSantis has targeted Black people, Black power and Black history.</description>
-      <dc:creator>Charles M. Blow</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 15:08:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/opinion/28blow1/28blow1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <title>The Crisis of Men and Boys</title>
+      <link>https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/opinion/crisis-men-masculinity.html" rel="standout"></atom:link>
+      <description>Men have opportunities, but they’re not taking them.</description>
+      <dc:creator>David Brooks</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:52:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reeves, Richard V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Of Boys and Men (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/29brooks1/29brooks1-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Eich</media:credit>
     </item>
     <item>
       <title>The Fetterman-Oz Race Is No Piece of Cake</title>
@@ -388,7 +387,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/opinion/poverty-hunger-bingeing.html" rel="standout"></atom:link>
       <description>Food was scarce when I was growing up, so I ate all I could when I had the chance.</description>
       <dc:creator>Bertrand Cooper</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:12 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 21:06:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
@@ -417,20 +416,21 @@
       <media:credit>Derek Abella</media:credit>
     </item>
     <item>
-      <title>In New York, NIMBYism Finally Outstays Its Welcome</title>
-      <link>https://www.nytimes.com/2022/09/28/opinion/new-york-housing-crisis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/opinion/new-york-housing-crisis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/opinion/new-york-housing-crisis.html" rel="standout"></atom:link>
-      <description>Political momentum is growing for efforts to build more housing, fast.</description>
-      <dc:creator>Mara Gay</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 18:50:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/28gay1/28gay1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-      <media:description>Homes in the Throgs Neck neighborhood of the Bronx.</media:description>
+      <title>Is the Fed Braking Too Hard?</title>
+      <link>https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/opinion/columnists/federal-reserve-inflation.html" rel="standout"></atom:link>
+      <description>It may be raising interest rates too far, too fast.</description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:54:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/opinion/29krugman1/29krugman1-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>What to Know About Ian and Climate Change</title>
@@ -501,6 +501,40 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
     </item>
     <item>
+      <title>FDA Approves ALS Treatment Despite Questions About Effectiveness</title>
+      <link>https://www.nytimes.com/2022/09/29/health/als-treatment-amx0035.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/health/als-treatment-amx0035.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/health/als-treatment-amx0035.html" rel="standout"></atom:link>
+      <description>The drug is safe, and one trial found it may extend survival and slow paralysis in functions like muscle control and speaking. A larger trial will be completed in 2024.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 21:07:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amyotrophic Lateral Sclerosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amylyx Pharmaceuticals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Joshua B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klee, Justin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/29ALS1/29ALS1-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>The F.D.A.’s headquarters in Silver Spring, Md. Although the agency’s own reviewers said there wasn’t enough evidence that an experimental medication, AMX0035, works for A.L.S, the F.D.A. approved it, citing the drug’s safety and patients’ desperate need for treatments.</media:description>
+    </item>
+    <item>
+      <title>Two Migrants Shot Along Roadway in Rural Texas</title>
+      <link>https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/us/texas-migrants-shot.html" rel="standout"></atom:link>
+      <description>A local jail warden in Hudspeth County is one of two men arrested in connection with the attack south of El Paso, a law enforcement official said.</description>
+      <dc:creator>J. David Goodman</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:55:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+    </item>
+    <item>
       <title>Meta Will Freeze Most Hiring, Zuckerberg Tells Employees</title>
       <link>https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html</guid>
@@ -516,39 +550,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29meta-01/29meta-01-moth.jpg" width="151"></media:content>
       <media:credit>Jim Wilson/The New York Times</media:credit>
       <media:description>Meta’s finances have shown signs of slowing for most of the year.</media:description>
-    </item>
-    <item>
-      <title>A New Approach to Spotting Tumors: Look for Their Microbes</title>
-      <link>https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/science/cancer-tumors-fungi-bacteria-microbiome.html" rel="standout"></atom:link>
-      <description>New research is revealing that cancer is rife with bacteria and fungi — a rich ecosystem that scientists call the tumor microbiome.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 17:19:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-    </item>
-    <item>
-      <title>Mexico Named Deadliest Country for Environmental Activists</title>
-      <link>https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html" rel="standout"></atom:link>
-      <description>A new report from the watchdog group Global Witness found that 54 land rights activists were killed in Mexico last year, the most of any country.</description>
-      <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 15:19:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29mexico-environmentalists/29mexico-environmentalists-moth.jpg" width="151"></media:content>
-      <media:credit>Luis Gutierrez/Associated Press</media:credit>
-      <media:description>Mourners attending the burial service for the Indigenous rights leader Tomas Rojo in the Yaqui Indigenous community Vicam, in the Mexican state of Sonora, in July 2021.</media:description>
     </item>
     <item>
       <title>Dense Breasts and Cancer: What to Know About Katie Couric’s Diagnosis</title>

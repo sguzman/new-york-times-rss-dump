@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 11:50:04 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Sep 2022 11:44:42 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2022 12:28:09 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2022 12:25:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -101,6 +101,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/science/28SCI-BURNOUT1/merlin_183627840_27b5d0cb-efd7-4418-8dd7-d627151fc30e-moth.jpg" width="151"></media:content>
       <media:credit>Charles Rex Arbogast/Associated Press</media:credit>
       <media:description>Burnout, in medical literature, is defined by increased emotional exhaustion, a more distant approach to the job and a declining sense of personal accomplishment.</media:description>
@@ -110,16 +111,16 @@
       <link>https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/28/arts/music/coolio-rapper-dead.html" rel="standout"></atom:link>
-      <description>From a bookish, asthmatic child to crack addict to mainstream recording powerhouse, Coolio charted a path to hip-hop superstardom like no other.</description>
+      <description>From a bookish, asthmatic child to crack addict to mainstream hitmaker, the West Coast M.C. charted a unique path to hip-hop stardom.</description>
       <dc:creator>Eduardo Medina and McKenna Oxenden</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 04:22:35 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 12:21:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coolio</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28XP-Coolio-obit-01/28XP-Coolio-obit-01-moth.jpg" width="151"></media:content>
       <media:credit>Paul Bergen/Redferns, via Getty Images</media:credit>
-      <media:description>Coolio in 1995.</media:description>
+      <media:description>Coolio in 1995. The rapper’s song “Gangsta’s Paradise” hit No. 1 on Billboard’s Hot 100 chart that year.</media:description>
     </item>
     <item>
       <title>David Geffen Hall, Notoriously Jinxed, Is Reborn Again</title>
@@ -179,16 +180,15 @@
       <dc:creator>Robin Pogrebin</dc:creator>
       <pubDate>Thu, 29 Sep 2022 09:00:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Philharmonic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geffen, David, Hall (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Avery Fisher Hall</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Acoustics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foster, Norman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bernstein, Leonard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Geffen, David</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heatherwick, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Biilie Tsien Architects</category>
-      <category domain="">Avery Fisher Hall</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Philharmonic</category>
-      <category domain="">David Geffen Hall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tod Williams Billie Tsien Architects</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/arts/02GEFFEN-timeline-1962-a/02GEFFEN-timeline-1962-a-moth.jpg" width="151"></media:content>
       <media:credit>Carl T. Gosset Jr./The New York Times</media:credit>
       <media:description>The hall, originally called Philharmonic Hall, was the first part of Lincoln Center to open. </media:description>
@@ -276,7 +276,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html" rel="standout"></atom:link>
       <description>Former President Luiz Inácio Lula da Silva is trying to cap a stunning political comeback by defeating the incumbent Jair Bolsonaro in Brazil’s elections on Sunday.</description>
       <dc:creator>Jack Nicas and Flávia Milhorance</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:37 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 09:00:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
@@ -465,7 +465,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/opinion/dating-courtship-relationships.html" rel="standout"></atom:link>
       <description>Old-fashioned courtship is having a moment.</description>
       <dc:creator>Michal Leibowitz</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:10 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 09:00:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
@@ -513,7 +513,7 @@
       <media:credit>Illustration by The New York Times; images by CSA Images via Getty Images</media:credit>
     </item>
     <item>
-      <title>Ian Moves North</title>
+      <title>What to Know About Ian and Climate Change</title>
       <link>https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html" rel="standout"></atom:link>
@@ -598,24 +598,21 @@
       <media:credit>Peter Dasilva/EPA, via Shutterstock</media:credit>
     </item>
     <item>
-      <title>Justice Dept. to Seek Stiffer Sentences in Prisoner Abuse Cases</title>
-      <link>https://www.nytimes.com/2022/09/29/us/politics/justice-dept-prison-reform.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/politics/justice-dept-prison-reform.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/us/politics/justice-dept-prison-reform.html" rel="standout"></atom:link>
-      <description>The move is part of a long-anticipated effort by the Biden administration to overhaul the underfunded, scandal-plagued Federal Bureau of Prisons.</description>
-      <dc:creator>Glenn Thrush</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Prisons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carvajal, Michael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monaco, Lisa O</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Colette S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29DC-prisons-01-1-4cdd/29DC-prisons-01-1-4cdd-moth.jpg" width="151"></media:content>
-      <media:credit>Tom Brenner for The New York Times</media:credit>
-      <media:description>Deputy Attorney General Lisa O. Monaco has identified sexual abuse of inmates in federal prisons as a top priority for remediation.</media:description>
+      <title>The Last Days of an Outback Town Where Every Breath Can Be Toxic</title>
+      <link>https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html" rel="standout"></atom:link>
+      <description>The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.</description>
+      <dc:creator>Yan Zhuang and Matthew Abbott</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 09:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asbestos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mesothelioma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00oz-asbestos-promo/00oz-asbestos6-moth.jpg" width="151"></media:content>
+      <media:credit>Matthew Abbott for The New York Times</media:credit>
+      <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
     </item>
     <item>
       <title>In Arizona Governor’s Race, a Democrat Runs on Abortion </title>

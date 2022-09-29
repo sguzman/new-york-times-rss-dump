@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 11:09:24 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Sep 2022 09:42:21 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2022 11:32:53 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Sep 2022 11:11:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -304,7 +304,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/28/sports/baseball/aaron-judge-61-home-runs.html" rel="standout"></atom:link>
       <description>In one of the greatest seasons in major league history, Judge, the Yankees outfielder, has matched Maris’s American League record for home runs in a single season.</description>
       <dc:creator>James Wagner</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 06:49:57 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 11:10:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
@@ -323,7 +323,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/sports/baseball/aaron-judge-home-run-toronto.html" rel="standout"></atom:link>
       <description>Aaron Judge went seven games without a home run and admitted the chase for No. 61 wore on him. With one swing, he matched Roger Maris’s record. And now he’s ready for more.</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 08:07:41 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 11:11:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
@@ -505,71 +505,75 @@
       <media:credit>Illustration by The New York Times; images by CSA Images via Getty Images</media:credit>
     </item>
     <item>
-      <title>What Can History Tell Us About the Roe Effect on the Midterms?</title>
-      <link>https://www.nytimes.com/2022/09/28/upshot/roe-dobbs-midterms-history.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/upshot/roe-dobbs-midterms-history.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/upshot/roe-dobbs-midterms-history.html" rel="standout"></atom:link>
-      <description>Finding analogies for big successes by the party out of power.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 22:14:41 +0000</pubDate>
+      <title>Ian Moves North</title>
+      <link>https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html" rel="standout"></atom:link>
+      <description>We have the latest on Hurricane Ian, another storm to gather strength with frightening speed.</description>
+      <dc:creator>David Leonhardt, Claire Moses and Ian Prasad Philbrick</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 10:42:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/-1-6365/-1-6365-moth.jpg" width="151"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>Tampa, Fla., as Hurricane Ian hit.</media:description>
+    </item>
+    <item>
+      <title>One Man’s Attempt to Escape Putin’s Draft</title>
+      <link>https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/podcasts/the-daily/putin-ukraine-russia-draft.html" rel="standout"></atom:link>
+      <description>Kirill, a 24-year-old from the Moscow region, is taking desperate measures to avoid being conscripted to fight in Ukraine.</description>
+      <dc:creator>Sabrina Tavernise, Lynsea Garrison, Will Reid, Michael Benoist, Elisheba Ittoop, Marion Lozano, Dan Powell and Chris Wood</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 11:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/26daily-russia-recruits-audio/26daily-russia-recruits-audio-moth.jpg" width="151"></media:content>
+      <media:credit>Irakli Gedenidze/Reuters</media:credit>
+      <media:description>A crossing station on Monday in Georgia, on the border with Russia. Since the draft was announced, more than 200,000 Russians have fled their country.</media:description>
+    </item>
+    <item>
+      <title>The Run-Up: American Evangelicalism and the Midterm Elections</title>
+      <link>https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/podcasts/run-up-trump-evangelical-republican.html" rel="standout"></atom:link>
+      <description>A new class of American evangelical leaders is shaking up the Republican Party — and raising the stakes of the midterm elections.</description>
+      <dc:creator>‘The Run-Up’ Team</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 09:00:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/podcasts/29runup-evangelicals-audio-app/29runup-evangelicals-audio-app-moth.jpg" width="151"></media:content>
+      <media:credit>Evelyn Hockstein/For The Washington Post via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Pete Souza’s Obama Book Cuts Obama Out of the Picture</title>
+      <link>https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/us/politics/pete-souza-obama-book.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 23:00:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brown v Board of Education (Supreme Court Decision)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reconstruction Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Dred</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/upshot-mural/upshot-mural-moth.jpg" width="151"></media:content>
-      <media:credit>Mitchell Willetts/Associated Press</media:credit>
-      <media:description>Kansas dignitaries attending the 2018 unveiling in Topeka of a mural commemorating the Supreme Court’s Brown v. Board of Education decision. The ruling declared that segregated schools were unconstitutional. The mural artist Michael Young stood at far right.</media:description>
-    </item>
-    <item>
-      <title>Can Technology and Art Inspire Change in a Warming World?</title>
-      <link>https://www.nytimes.com/article/climate-event.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/climate-event.html</guid>
-      <atom:link href="https://www.nytimes.com/article/climate-event.html" rel="standout"></atom:link>
-      <description>Hear from business leaders like Laurene Powell Jobs and John Doerr, along with storytellers and food innovators in a livestreamed Times event in San Francisco.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 21 Sep 2022 20:10:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-    </item>
-    <item>
-      <title>If Brazil’s President Attempts a Coup, What Will the Police Do?</title>
-      <link>https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html" rel="standout"></atom:link>
-      <description>If Brazil’s election sparks mass unrest, the country’s so-called military police force would be called upon to restore order, giving them tremendous power to affect outcomes.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 16:39:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Interpreter-NL01/merlin_213728262_8e64a0a2-484a-4759-a4f5-db63cc6c1eb4-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro of Brazil at campaign rally last week.</media:description>
-    </item>
-    <item>
-      <title>Modern Love Gay Dad</title>
-      <link>https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/podcasts/modern-love-one-last-haircut.html" rel="standout"></atom:link>
-      <description>A man comes out to his wife — and breaks apart their family. Fifteen years later, we check back in.</description>
-      <pubDate>Wed, 28 Sep 2022 20:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/12/31/fashion/28MODERNLOVEPODCAST/12LOVE-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Brian Rea</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The West Wing and Beyond: What I Saw Inside the Presidency (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Souza, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhodes, Benjamin J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
     </item>
     <item>
       <title>6 Injured in Oakland School Shooting, Police Say</title>

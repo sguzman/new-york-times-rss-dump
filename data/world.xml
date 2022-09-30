@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 20:47:13 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 20:45:15 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 21:22:19 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 21:19:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>In Moscow, the Russian leader declares four Ukrainian regions part of Russia, a widely denounced move that marks an escalation in the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 20:45:15 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:19:28 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-promo-2pm/30ukraine-briefing-carousel-Kupiansk01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -51,15 +51,10 @@
       <dc:creator>Julia Lieblich</dc:creator>
       <pubDate>Fri, 30 Sep 2022 09:00:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Delphine Horvilleur</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horvilleur, Delphine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hebrew Union College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charlie Hebdo</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30french-rabbi-profile04/30french-rabbi-profile04-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
@@ -283,13 +278,33 @@
       <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
     </item>
     <item>
+      <title>Yusuf al-Qaradawi, Influential Muslim Scholar, Dies at 96</title>
+      <link>https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html" rel="standout"></atom:link>
+      <description>Considered a moderate by some and an extremist by others, he backed political Islam, attacked Al Qaeda and dispensed advice in a TV show viewed by millions.</description>
+      <pubDate>Fri, 30 Sep 2022 20:53:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qaradawi, Yusuf al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shariah (Islamic Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Muslim Brotherhood (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/obituaries/29alqaradawi-obit/merlin_213840153_5914df89-cf7a-41f2-ad05-5367a3bef6fe-moth.jpg" width="151"></media:content>
+      <media:credit>Karim Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Yusuf al-Qaradawi in 2014. He was a popular advocate of political Islam and seen as a threat by Arab autocrats.</media:description>
+    </item>
+    <item>
       <title>Russia Strikes Regions in Eastern Ukraine Then Declares Them Russian</title>
       <link>https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html" rel="standout"></atom:link>
       <description>The strikes killed a total of 30 civilians and wounded 107 in one of the bloodiest attacks in recent weeks.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 20:29:53 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:09:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
@@ -424,7 +439,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/ukraine-nato-zelensky.html" rel="standout"></atom:link>
       <description>Ukraine’s desire to join the alliance has long been a source of conflict with Russia, which sees the eastward expansion of NATO as a existential threat.</description>
       <dc:creator>Andrew E. Kramer and Dan Bilefsky</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 19:57:37 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:19:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-nato/30ukraine-briefing-nato-moth.jpg" width="151"></media:content>
@@ -517,7 +532,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html" rel="standout"></atom:link>
       <description>Russia launched a flurry of strikes, creating scenes of destruction inside Ukraine as the Kremlin planned an elaborate, and widely dismissed, annexation ceremony.</description>
       <dc:creator>Michael Schwirtz and Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:37:41 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:16:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack03/merlin_214065531_77c887d8-2678-4449-ae1a-d6f45f33156d-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
@@ -1156,33 +1171,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/28pipeline-explainer-3/28pipeline-explainer-3-moth.jpg" width="151"></media:content>
       <media:credit>Bernd Wüstneck/picture alliance via Getty Images</media:credit>
       <media:description>The Nord Stream 2 gas pipeline being laid in the Baltic Sea in 2018.</media:description>
-    </item>
-    <item>
-      <title>Your Thursday Briefing: Iran Strikes Kurds in Iraq</title>
-      <link>https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html" rel="standout"></atom:link>
-      <description>Plus Australia moves to fight corruption and a Chinese businessman faces assault allegations in a U.S. court.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 21:15:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu Jingyao</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/29ambriefing-asia-nl-PROMO/28iran-border-moth.jpg" width="151"></media:content>
-      <media:credit>Ako Rasheed/Reuters</media:credit>
-      <media:description>Smoke rose from the Iraqi Kurdistan headquarters of the Kurdish Democratic Party of Iran on the outskirts of Kirkuk, Iraq, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

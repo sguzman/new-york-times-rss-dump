@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 15:47:35 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 15:47:02 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 16:21:54 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 16:04:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,7 +57,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/29/us/hurricane-ian-florida-damage.html" rel="standout"></atom:link>
       <description>The extent of the damage was difficult to comprehend, even for residents who had survived and rebuilt after other powerful storms.</description>
       <dc:creator>Patricia Mazzei, Nicholas Bogel-Burroughs, Frances Robles and Jack Healy</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 13:22:46 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 15:55:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
@@ -126,6 +126,22 @@
       <media:description>A shopping center in Los Angeles this month. Consumers continued to spend in August, the Commerce Department reported.</media:description>
     </item>
     <item>
+      <title>Wall Street ends an ugly quarter with another volatile day.</title>
+      <link>https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html" rel="standout"></atom:link>
+      <description>The S&amp;P 500 on course for its third straight weekly fall and its third straight quarterly slump, the kinds of losses investors have not faced since 2009.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 15:49:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
       <title>Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates</title>
       <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</guid>
@@ -148,6 +164,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30Int-Iran01/30Int-Iran01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Iranian demonstrators in the streets of the capital, Tehran, last week. Protests erupted around the country after the death of a young woman, Mahsa Amini, following her detainment in police custody.</media:description>
+    </item>
+    <item>
+      <title>Iran Protests Continue Despite Heavy Crackdowns</title>
+      <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html" rel="standout"></atom:link>
+      <description>Dozens of people have been killed in nationwide demonstrations that erupted almost two weeks ago after Mahsa Amini, a 22-year-old woman, died in police custody.</description>
+      <dc:creator>Farnaz Fassihi and Cora Engelbrecht</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 16:04:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-protests/29iran-protests-moth.jpg" width="151"></media:content>
+      <media:credit>via Agence France-Presse — Getty Images</media:credit>
+      <media:description>A photo obtained from social media showing protesters in Sanandaj, the capital of Kurdistan Province, Iran, on Wednesday.</media:description>
     </item>
     <item>
       <title>Early Cormac McCarthy Interviews Rediscovered</title>
@@ -211,6 +244,32 @@
       <media:description>Ginni Thomas, the wife of Clarence Thomas.</media:description>
     </item>
     <item>
+      <title>Can Smartphones Help Predict Suicide?</title>
+      <link>https://www.nytimes.com/2022/09/30/health/suicide-predict-smartphone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/health/suicide-predict-smartphone.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/health/suicide-predict-smartphone.html" rel="standout"></atom:link>
+      <description>A unique research project is tracking hundreds of people at risk for suicide, using data from smartphones and wearable biosensors to identify periods of high danger — and intervene.</description>
+      <dc:creator>Ellen Barry</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 15:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nock, Matthew K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/science/00MACHINELEARNING1/00MACHINELEARNING1-moth.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>Katelin Cruz uses a phone and FitBit to submit data about her mood and other metrics to Harvard researchers studying suicidal tendencies. “I think it’s almost easier to tell the truth to a computer,” she said.</media:description>
+    </item>
+    <item>
       <title>A Year Under the Taliban</title>
       <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</guid>
@@ -226,26 +285,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/00afghan-kabul-dispatch-promo/00afghan-kabul-dispatch-2-moth.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Blast at Education Center in Kabul Kills at Least 19</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
-      <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
-      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:44:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
     </item>
     <item>
       <title>Trevor Noah Will Leave ‘The Daily Show’</title>
@@ -282,42 +321,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
     </item>
     <item>
-      <title>‘Anne Rice’s Interview With the Vampire’: Old Monsters, New Blood</title>
-      <link>https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/arts/television/interview-with-the-vampire-amc.html" rel="standout"></atom:link>
-      <description>AMC has a lot riding on the series, which makes major changes to the original story. Will the millions of Rice fans sink their teeth into it?</description>
-      <dc:creator>Erik Piepenburg</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Interview With the Vampire (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anderson, Jacob (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reid, Sam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Rolin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AMC (TV Network)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/arts/02VAMPIRE1/02VAMPIRE1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Clement Pascal for The New York Times</media:credit>
-      <media:description>Jacob Anderson, left, and Sam Reid play Louis and Lestat in “Anne Rice’s Interview With the Vampire” in which their characters share a more overtly sexual bond than in the book.</media:description>
-    </item>
-    <item>
-      <title>Living With Grandparents: Cross-Generational Homes Bring Families Together</title>
-      <link>https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/realestate/grandparents-grandchildren-living-together.html" rel="standout"></atom:link>
-      <description>More young adults are moving in with their grandparents, in a trend known as “skipped-generation” households.</description>
-      <dc:creator>Joanne Kaufman</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:49:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grandparents</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="">grand-mates</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/realestate/09grandmates1/merlin_212151633_5b0890ba-81eb-4fa3-b44e-59900c9e2b4d-moth.jpg" width="151"></media:content>
-      <media:credit>Clark Hodgin for The New York Times</media:credit>
-      <media:description>Robert E. Elson had to grow used to having his granddaughter, Madeline David, as a roommate. “Amazingly, no head-butting,” Mr. Elson said.</media:description>
+      <title>‘Bros’ Review: Boy Meets Boy Meets Multiplex</title>
+      <link>https://www.nytimes.com/2022/09/29/movies/bros-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/movies/bros-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/movies/bros-review.html" rel="standout"></atom:link>
+      <description>Billy Eichner plays a moody podcaster who has sworn off relationships, but just might find himself in one anyway, in this gay romantic comedy.</description>
+      <dc:creator>Amy Nicholson</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:28:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eichner, Billy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macfarlane, Luke (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoller, Nicholas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bros (Movie)</category>
     </item>
     <item>
       <title>The Supreme Court Is Broken. Where’s Biden?</title>

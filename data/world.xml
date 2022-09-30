@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 10:30:04 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 10:26:12 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 10:55:08 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 10:47:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>One attack, on a civilian convoy, killed 25 people in the Zaporizhzhia region, Ukrainian officials said. In Moscow, an elaborate ceremony to absorb four Ukrainian regions is set for Friday, despite global condemnation.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 10:26:12 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 10:47:54 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/30ukraine-briefing-header-launch/30ukraine-briefing-header-launch-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Emergency workers searched for a missing child in the remnants of a destroyed house after a missile strike in Dnipro, Ukraine, on Thursday.</media:description>
@@ -90,13 +90,13 @@
       <media:description>Iranian demonstrators in the streets of the capital, Tehran, last week. Protests erupted around the country after the death of a young woman, Mahsa Amini, following her detainment in police custody.</media:description>
     </item>
     <item>
-      <title>China Gets Its First mRNA Vaccine Approval — in Indonesia</title>
+      <title>China Gets Its First mRNA Covid Vaccine Approval — in Indonesia</title>
       <link>https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html" rel="standout"></atom:link>
       <description>Indonesia has cleared an mRNA Covid-19 vaccine developed by a Chinese company. But those types of shots, considered among the most effective, aren’t yet available in China.</description>
       <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:32:20 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 09:32:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
@@ -283,6 +283,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29myanmar-01/29myanmar-01-moth.jpg" width="151"></media:content>
       <media:credit>Milken Institute, via Reuters</media:credit>
       <media:description>Sean Turnell at the Milken Institute 2017 Asia Summit, in Singapore. He was an economic adviser to Daw Aung San Suu Kyi before the coup in 2021, and has been imprisoned since then.</media:description>
+    </item>
+    <item>
+      <title>Gerrymandering, the Full Story</title>
+      <link>https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html" rel="standout"></atom:link>
+      <description>A Times analysis finds that the House of Representative has its fairest map in 40 years, despite recent gerrymandering.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 10:43:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30-THE-MORNING-NL-ukzgm-1-0744/30-THE-MORNING-NL-ukzgm-1-0744-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Congressional gerrymandering is a smaller problem than it has been for much of the recent past.</media:description>
     </item>
     <item>
       <title>Thai Prime Minister Can Stay in Power, Constitutional Court Rules</title>
@@ -1183,22 +1200,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28oz-corruption-top/28oz-corruption-top-moth.jpg" width="151"></media:content>
       <media:credit>Mick Tsikas/Australian Associated Press, via Associated Press</media:credit>
       <media:description>Lawmakers in Australia’s House of Representatives at Parliament House this month.</media:description>
-    </item>
-    <item>
-      <title>Cuba Starts Restoring Power After Hurricane Ian Causes Blackout</title>
-      <link>https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html" rel="standout"></atom:link>
-      <description>Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.</description>
-      <dc:creator>Andrés R. Martínez</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 10:00:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ian-blog-cuba-power-image/28ian-blog-cuba-power-image-moth.jpg" width="151"></media:content>
-      <media:credit>Ramon Espinosa/Associated Press</media:credit>
-      <media:description>People playing dominoes by flashlight during a blackout in Havana on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

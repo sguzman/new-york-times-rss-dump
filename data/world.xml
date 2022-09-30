@@ -7,13 +7,25 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 12:55:37 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 12:52:32 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 13:55:45 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 13:46:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>In Sham Annexation, Putin Declares 4 Ukrainian Regions Part of Russia</title>
+      <link>https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>In Moscow, President Vladimir V. Putin signed decrees to absorb the regions, a widely denounced move that he called the will of the people.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 13:40:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/30ukraine-briefing-header-launch/30ukraine-briefing-header-launch-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Emergency workers searched for a missing child in the remnants of a destroyed house after a missile strike in Dnipro, Ukraine, on Thursday.</media:description>
+    </item>
     <item>
       <title>A Year Under the Taliban</title>
       <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</link>
@@ -30,18 +42,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/00afghan-kabul-dispatch-promo/00afghan-kabul-dispatch-2-moth.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>In Sham Annexation, Putin Vows to Declare 4 Ukrainian Regions Part of Russia</title>
-      <link>https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>In Moscow, President Vladimir V. Putin said that decrees to absorb four Ukrainian regions would be signed later in the day, despite global condemnation.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 12:52:32 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/30ukraine-briefing-header-launch/30ukraine-briefing-header-launch-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Emergency workers searched for a missing child in the remnants of a destroyed house after a missile strike in Dnipro, Ukraine, on Thursday.</media:description>
     </item>
     <item>
       <title>French Feminist Rabbi Captivates Multifaith Crowds With Musings on Mortality</title>
@@ -66,6 +66,26 @@
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
     </item>
     <item>
+      <title>Blast at Education Center in Kabul Kills at Least 19</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
+      <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
+      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 13:30:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
+    </item>
+    <item>
       <title>Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates</title>
       <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</guid>
@@ -88,6 +108,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30Int-Iran01/30Int-Iran01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Iranian demonstrators in the streets of the capital, Tehran, last week. Protests erupted around the country after the death of a young woman, Mahsa Amini, following her detainment in police custody.</media:description>
+    </item>
+    <item>
+      <title>Lula vs. Bolsonaro: What to Know About Brazil’s Election</title>
+      <link>https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
+      <description>Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 12:47:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
+      <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
     </item>
     <item>
       <title>Gunfire Is Heard in Burkina Faso’s Capital, Kindling Fears of a Coup</title>
@@ -119,7 +156,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walvax Biotechnology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Suzhou Abogen Biosciences</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30china-vaccine-01/30china-vaccine-01-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images/Getty Images</media:credit>
+      <media:credit>Getty Images</media:credit>
       <media:description>Administering Covid-19 vaccines in Wuhan, China, last year. More than two years into the pandemic, mRNA vaccines are not yet available in China.</media:description>
     </item>
     <item>
@@ -138,26 +175,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30us-pacific-01/30us-pacific-01-moth.jpg" width="151"></media:content>
       <media:credit>Kenny Holston for The New York Times</media:credit>
       <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Blast at Education Center in Kabul Kills at Least 19</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
-      <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
-      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 10:21:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
     </item>
     <item>
       <title>Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage</title>
@@ -263,38 +280,19 @@
       <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
     </item>
     <item>
-      <title>Mexico Named Deadliest Country for Environmental Activists</title>
-      <link>https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html" rel="standout"></atom:link>
-      <description>A new report from the watchdog group Global Witness found that 54 land rights activists were killed in Mexico last year, the most of any country.</description>
-      <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 22:16:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29mexico-environmentalists/29mexico-environmentalists-moth.jpg" width="151"></media:content>
-      <media:credit>Luis Gutierrez/Associated Press</media:credit>
-      <media:description>Mourners attending the burial service for the Indigenous rights leader Tomas Rojo in the Yaqui Indigenous community Vicam, in the Mexican state of Sonora, in July 2021.</media:description>
-    </item>
-    <item>
-      <title>Lula vs. Bolsonaro: What to Know About Brazil’s Election</title>
-      <link>https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
-      <description>Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 12:47:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
+      <title>Britain Wonders, Is It Too Soon to Dramatize the Pandemic?</title>
+      <link>https://www.nytimes.com/2022/09/30/arts/television/this-england-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/arts/television/this-england-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/arts/television/this-england-coronavirus.html" rel="standout"></atom:link>
+      <description>A new Sky Atlantic mini-series, “This England,” depicts the early days of Covid-19 in the country, with Kenneth Branagh playing Boris Johnson.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 13:22:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Branagh, Kenneth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">This England (TV Program)</category>
     </item>
     <item>
       <title>Gerrymandering, the Full Story</title>
@@ -347,6 +345,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ausletter276-01/30ausletter276-01-moth.jpg" width="151"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says 25 People Died in Attack on Civilians in Zaporizhzhia</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html" rel="standout"></atom:link>
+      <description>People in the convoy were waiting to be allowed into Russian-occupied territory to pick up relatives and deliver humanitarian aid, a Ukrainian official said.</description>
+      <dc:creator>Michael Schwirtz and Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 13:35:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-zaporizhzhia-attack-image3/-30ukraine-briefing-zaporizhzhia-attack-image3-1-f684-moth.jpg" width="151"></media:content>
+      <media:credit>Kateryna Klochko/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Ukrainian serviceman covering a body of a civilian killed by a missile strike near Zaporizhzhia on Friday.</media:description>
     </item>
     <item>
       <title>Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.</title>
@@ -671,6 +682,23 @@
       <media:description>In a Seoul railroad station on Thursday, file footage of earlier North Korean military activity illustrated a news report about its most recent missile launch. </media:description>
     </item>
     <item>
+      <title>Mexico Named Deadliest Country for Environmental Activists</title>
+      <link>https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html" rel="standout"></atom:link>
+      <description>A new report from the watchdog group Global Witness found that 54 land rights activists were killed in Mexico last year, the most of any country.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 22:16:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29mexico-environmentalists/29mexico-environmentalists-moth.jpg" width="151"></media:content>
+      <media:credit>Luis Gutierrez/Associated Press</media:credit>
+      <media:description>Mourners attending the burial service for the Indigenous rights leader Tomas Rojo in the Yaqui Indigenous community Vicam, in the Mexican state of Sonora, in July 2021.</media:description>
+    </item>
+    <item>
       <title>Hospitals in Coastal Cities Risk Flooding Even in ‘Weak’ Hurricanes, Study Finds</title>
       <link>https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html</guid>
@@ -819,16 +847,17 @@
       <description>Liz Truss, Britain’s new prime minister, defended her plan in the face of stiff criticism from the International Monetary Fund and others.</description>
       <dc:creator>Jim Tankersley</dc:creator>
       <pubDate>Thu, 29 Sep 2022 22:22:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29dc-uk-tax/29dc-uk-tax-moth.jpg" width="151"></media:content>
       <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
       <media:description>Liz Truss, Britain’s new prime minister, has staked her fledgling government on a once-in-a-generation package of tax cuts and deregulation meant to energize the economy.</media:description>
@@ -1164,41 +1193,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Interpreter-NL01/merlin_213728262_8e64a0a2-484a-4759-a4f5-db63cc6c1eb4-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>President Jair Bolsonaro of Brazil at campaign rally last week.</media:description>
-    </item>
-    <item>
-      <title>Few South Koreans Are Having Babies. A Mayor’s Answer? More Nannies.</title>
-      <link>https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html" rel="standout"></atom:link>
-      <description>The mayor of Seoul wants to ease the high cost and low supply of babysitters in the country to encourage more couples to have children.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 13:39:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28skorea-nannies-02/28skorea-nannies-02-moth.jpg" width="151"></media:content>
-      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The mayor of Seoul, Oh Se-hoon, center, said versions of his proposal implemented in other countries had prompted a rise in the share of women in the labor force.</media:description>
-    </item>
-    <item>
-      <title>Russian-Backed Officials Ask Putin to Annex Ukrainian Regions</title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html" rel="standout"></atom:link>
-      <description>The appeals from Moscow-backed leaders set in motion formalities intended to give Russia’s plans a sheen of legitimacy.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 20:19:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-referendums-latest-02-1-6bd6/28ukraine-briefing-referendums-latest-02-1-6bd6-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>A billboard with a Russian flag reading ‘We believe in our army and our victory’ in Luhansk, Ukraine, on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

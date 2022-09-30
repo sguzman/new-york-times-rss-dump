@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 22:50:04 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 22:32:19 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 23:26:06 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 23:23:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>In Moscow, the Russian leader declares four Ukrainian regions part of his country, a widely denounced move. The U.S. and Britain ordered new sanctions on Russia in response.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 22:24:43 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 23:14:16 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-promo-2pm/30ukraine-briefing-carousel-Kupiansk01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -58,6 +58,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30french-rabbi-profile04/30french-rabbi-profile04-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
+    </item>
+    <item>
+      <title>McKinsey Charged in South African Corruption Case</title>
+      <link>https://www.nytimes.com/2022/09/30/world/africa/mckinsey-corruption-case-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/africa/mckinsey-corruption-case-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/mckinsey-corruption-case-south-africa.html" rel="standout"></atom:link>
+      <description>The South African branch of the global consulting firm has been charged in a corruption scandal related to its work with the country’s state-owned freight rail and port operator.</description>
+      <dc:creator>Michael Forsythe and Walt Bogdanich</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 23:13:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McKinsey &amp; Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Prosecuting Authority (South Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30mckinsey-01-1-ad6b/30mckinsey-01-1-ad6b-moth.jpg" width="151"></media:content>
+      <media:credit>Gulshan Khan for The New York Times</media:credit>
+      <media:description>The McKinsey &amp; Company offices in Sandton, South Africa.</media:description>
     </item>
     <item>
       <title>Blast at Education Center in Kabul Kills at Least 19</title>
@@ -259,23 +278,27 @@
       <media:description>Mr. da Silva has taken to comparing himself to Nelson Mandela, Mahatma Gandhi and Martin Luther King Jr., political prisoners who expanded their movements after they were freed.</media:description>
     </item>
     <item>
-      <title>Vatican Disciplined Nobel Laureate Bishop Over Child Abuse Claims</title>
-      <link>https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html" rel="standout"></atom:link>
-      <description>After accusations against him became public, the Vatican said that in 2020 it had punished Bishop Carlos Ximenes Belo, a hero of the independence movement in his native East Timor.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 21:12:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belo, Carlos Ximenes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Timor</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-moth.jpg" width="151"></media:content>
-      <media:credit>Glenn Campbell/The Sydney Morning Herald/Fairfax Media, via Getty Images</media:credit>
-      <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
+      <title>Putin Announces Ukraine Annexation, Calling West the Enemy</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html" rel="standout"></atom:link>
+      <description>Declaring that Russia would annex four regions of Ukraine, which the West rejects as illegal, the Russian president accused the U.S. and its allies of “despotism’’ and “Satanism.’’</description>
+      <dc:creator>Anton Troianovski and Valerie Hopkins</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 23:03:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-ledeall-new/30ukraine-ledeall-new-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Vladimir V. Putin of Russia addressed a rally and concert in Red Square on Friday celebrating Russia’s illegal annexation of four Ukrainian provinces.</media:description>
     </item>
     <item>
       <title>Yusuf al-Qaradawi, Influential Muslim Scholar, Dies at 96</title>
@@ -728,6 +751,25 @@
       <media:description>An oil tanker carrying crude oil imported from Iran at the Port of Zhoushan in China’s Zhejiang Province.</media:description>
     </item>
     <item>
+      <title>Vatican Disciplined Nobel Laureate Bishop Over Child Abuse Claims</title>
+      <link>https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html" rel="standout"></atom:link>
+      <description>After accusations against him became public, the Vatican said that in 2020 it had punished Bishop Carlos Ximenes Belo, a hero of the independence movement in his native East Timor.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 21:12:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belo, Carlos Ximenes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Timor</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-moth.jpg" width="151"></media:content>
+      <media:credit>Glenn Campbell/The Sydney Morning Herald/Fairfax Media, via Getty Images</media:credit>
+      <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
+    </item>
+    <item>
       <title>Gas Flares Might Release More Methane Than Thought, Study Finds</title>
       <link>https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html</guid>
@@ -1126,51 +1168,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/28ukraine-briefing-us-aid-01/08-ukraine-briefing-rockets-02-moth.jpg" width="151"></media:content>
       <media:credit>Tony Overman/The Olympian, via Associated Press</media:credit>
       <media:description>A High Mobility Artillery Rocket System (HIMARS) produced by Lockheed Martin during combat training at the Yakima Training Center, Wash.</media:description>
-    </item>
-    <item>
-      <title>Sabotaged Pipelines and a Mystery: Who Did It? </title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html" rel="standout"></atom:link>
-      <description>An attack on gas lines under the Baltic Sea exposes the vulnerability of an already jittery Europe. Some officials suggested Moscow was to blame, but with little evidence, others urge caution.</description>
-      <dc:creator>Katrin Bennhold and David E. Sanger</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 22:22:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28pipeline1/28pipeline1-moth.jpg" width="151"></media:content>
-      <media:credit>Armed Forces of Denmark, via Associated Press</media:credit>
-      <media:description>A photo from the Danish military showing gas welling up off the coast of Bornholm island on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>What We Know About the Mysterious Nord Stream Pipeline Leaks</title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html" rel="standout"></atom:link>
-      <description>The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.</description>
-      <dc:creator>Stanley Reed</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 18:47:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/28pipeline-explainer-3/28pipeline-explainer-3-moth.jpg" width="151"></media:content>
-      <media:credit>Bernd Wüstneck/picture alliance via Getty Images</media:credit>
-      <media:description>The Nord Stream 2 gas pipeline being laid in the Baltic Sea in 2018.</media:description>
     </item>
   </channel>
 </rss>

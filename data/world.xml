@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 14:39:21 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 14:39:09 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 14:58:13 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 14:52:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>In Moscow, the Russian leader signed decrees to absorb four Ukrainian regions, a widely denounced move that marks an escalation in the war.</description>
+      <description>In Moscow, the Russian leader declares four Ukrainian regions part of Russia, a widely denounced move that marks an escalation in the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:39:09 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 14:52:33 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/30ukraine-briefing-header-launch/30ukraine-briefing-header-launch-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Emergency workers searched for a missing child in the remnants of a destroyed house after a missile strike in Dnipro, Ukraine, on Thursday.</media:description>
@@ -72,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
       <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 13:30:12 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 14:44:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
@@ -282,6 +282,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-moth.jpg" width="151"></media:content>
       <media:credit>Glenn Campbell/The Sydney Morning Herald/Fairfax Media, via Getty Images</media:credit>
       <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
+    </item>
+    <item>
+      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
+      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
+      <description>Financial turmoil this week led to soaring interest rates, forcing many lenders to stop offering mortgages and stoking worry among borrowers about rising costs.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 14:52:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30uk-mortgage/30uk-mortgage-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
     </item>
     <item>
       <title>Britain Wonders, Is It Too Soon to Dramatize the Pandemic?</title>
@@ -1171,27 +1192,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Guinea01/28Guinea01-moth.jpg" width="151"></media:content>
       <media:credit>Seyllou/Agence France-Presse — Getty Images</media:credit>
       <media:description>Guinean police arrested a protester on Sept. 28, 2009. Guineans have been waiting for the trial of the former leader Moussa Dadis Camara and those accused of committing a massacre that day.</media:description>
-    </item>
-    <item>
-      <title>At Least 9 Killed as Tensions in Iran Cross the Border Into Iraq</title>
-      <link>https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html" rel="standout"></atom:link>
-      <description>The Revolutionary Guards Corps has been attacking Kurdish opposition groups in northern Iraq, blaming them for fomenting the unrest in Iran that was set off by the death of Mahsa Amini.</description>
-      <dc:creator>Cora Engelbrecht</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 21:12:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kurdistan Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28iran-border/28iran-border-moth.jpg" width="151"></media:content>
-      <media:credit>Ako Rasheed/Reuters</media:credit>
-      <media:description>Smoke rose from the Iraqi Kurdistan headquarters of the Kurdish Democratic Party of Iran on the outskirts of Kirkuk, Iraq, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

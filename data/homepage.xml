@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 21:49:48 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 21:45:35 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 22:15:56 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 21:58:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,13 +134,35 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
     </item>
     <item>
+      <title>Trump Argues for Executive Privilege in Jan. 6 and Mar-a-Lago Inquiries</title>
+      <link>https://www.nytimes.com/2022/09/30/us/politics/trump-executive-privilege.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/politics/trump-executive-privilege.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/us/politics/trump-executive-privilege.html" rel="standout"></atom:link>
+      <description>In both cases, former President Donald J. Trump is claiming a novel power to keep White House information from his time in office secret from the Justice Department.</description>
+      <dc:creator>Charlie Savage and Glenn Thrush</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 21:27:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Richard Milhous</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/00dc-privilege1/00dc-privilege1-moth.jpg" width="151"></media:content>
+      <media:credit>Oliver Contreras for The New York Times</media:credit>
+      <media:description>Former President Donald J. Trump has claimed a broad interpretation of executive privilege in his legal battles since leaving the White House.</media:description>
+    </item>
+    <item>
       <title>Congress Clears Stopgap Spending Bill With $12.3 Billion in Ukraine Aid</title>
       <link>https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html" rel="standout"></atom:link>
-      <description>The House passed the bill in its final legislative act before the midterm congressional elections, sending it to President Biden before a midnight deadline when federal funding is set to lapse.</description>
+      <description>The House passed the bill in its final legislative act before the midterm congressional elections, and President Biden signed it just hours before a funding lapse would have forced a government shutdown.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 17:24:40 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:58:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
@@ -231,7 +253,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/nyregion/alison-russo-fdny-emt-stabbing.html" rel="standout"></atom:link>
       <description>Lt. Alison Russo-Elling had served nearly 25 years, through Sept. 11 and the Covid pandemic. She loved a tough job enough to volunteer in her free time.</description>
       <dc:creator>Corey Kilgannon</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:45:35 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:57:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emergency Medical Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Russo-Elling, Alison</category>
@@ -265,23 +287,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/science/00MACHINELEARNING1/00MACHINELEARNING1-moth.jpg" width="151"></media:content>
       <media:credit>Kayana Szymczak for The New York Times</media:credit>
       <media:description>Katelin Cruz uses a phone and FitBit to submit data about her mood and other metrics to Harvard researchers studying suicidal tendencies. “I think it’s almost easier to tell the truth to a computer,” she said.</media:description>
-    </item>
-    <item>
-      <title>A Year Under the Taliban</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html" rel="standout"></atom:link>
-      <description>A single year of extremist rule has turned life upside down for Afghans, especially women. A photographer who has long called the country home captured the jarring changes.</description>
-      <dc:creator>Kiana Hayeri</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:00:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/00afghan-kabul-dispatch-promo/00afghan-kabul-dispatch-2-moth.jpg" width="151"></media:content>
-      <media:credit>Kiana Hayeri for The New York Times</media:credit>
     </item>
     <item>
       <title>Wendell Pierce Steps Into ‘Death of a Salesman’</title>
@@ -350,7 +355,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html" rel="standout"></atom:link>
       <description>China is dragging the world back to a human rights dark age. It’s time to push back. </description>
       <dc:creator>Nicholas Bequelin</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 17:33:44 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:55:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
@@ -500,6 +505,36 @@
       <media:credit>David Malosh for The New York Times. Food Stylist: Barrett Washburne.</media:credit>
     </item>
     <item>
+      <title>Military Officers Announce Coup in Burkina Faso</title>
+      <link>https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html" rel="standout"></atom:link>
+      <description>The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.</description>
+      <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 21:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30burkina-faso-newnew/30burkina-faso-newnew-moth.jpg" width="151"></media:content>
+      <media:credit>Sophie Garcia/Associated Press</media:credit>
+      <media:description>Crowds gathered in protest of the country’s president, Lt. Col. Paul-Henri Sandaogo Damiba, in Ouagadougou, Burkina Faso, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Supreme Court Welcomes Justice Ketanji Brown Jackson in Stately Ceremony</title>
+      <link>https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html" rel="standout"></atom:link>
+      <description>The investiture of Justice Jackson, the first Black woman to serve on the court, was attended by President Biden and other dignitaries.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 15:31:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Ketanji Brown (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/us/politics/30dc-jackson_1/merlin_214069128_d084a37a-0c2d-4caf-9f00-10ed6263a936-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Justice Ketanji Brown Jackson and Chief Justice John G. Roberts Jr. outside the Supreme Court on Friday after her investiture ceremony.</media:description>
+    </item>
+    <item>
       <title>Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates</title>
       <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</guid>
@@ -524,21 +559,6 @@
       <media:description>Iranian demonstrators in the streets of the capital, Tehran, last week. Protests erupted around the country after the death of a young woman, Mahsa Amini, following her detainment in police custody.</media:description>
     </item>
     <item>
-      <title>Supreme Court Welcomes Justice Ketanji Brown Jackson in Stately Ceremony</title>
-      <link>https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/us/ketanji-brown-jackson-supreme-court-investiture.html" rel="standout"></atom:link>
-      <description>The investiture of Justice Jackson, the first Black woman to serve on the court, was attended by President Biden and other dignitaries.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 15:31:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Ketanji Brown (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/us/politics/30dc-jackson_1/merlin_214069128_d084a37a-0c2d-4caf-9f00-10ed6263a936-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Justice Ketanji Brown Jackson and Chief Justice John G. Roberts Jr. outside the Supreme Court on Friday after her investiture ceremony.</media:description>
-    </item>
-    <item>
       <title>New York’s Invisible Migrant Crisis</title>
       <link>https://www.nytimes.com/2022/09/30/nyregion/new-yorks-migrant-crisis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/nyregion/new-yorks-migrant-crisis.html</guid>
@@ -553,23 +573,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/nyregion/02big-print/30Big-moth.jpg" width="151"></media:content>
       <media:credit>Victor J. Blue for The New York Times</media:credit>
       <media:description>After arriving by bus in New York from Texas, a family of Venezuelan migrants received clothing and food at a Win shelter in Queens.</media:description>
-    </item>
-    <item>
-      <title>Lula vs. Bolsonaro: What to Know About Brazil’s Election</title>
-      <link>https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
-      <description>Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:28:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
     </item>
     <item>
       <title>The Worst Foods and Drinks for Your Teeth</title>

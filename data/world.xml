@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 23:26:06 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 23:23:11 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 23:54:55 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 23:35:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -276,6 +276,31 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-lula-1/29brazil-lula-1-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Mr. da Silva has taken to comparing himself to Nelson Mandela, Mahatma Gandhi and Martin Luther King Jr., political prisoners who expanded their movements after they were freed.</media:description>
+    </item>
+    <item>
+      <title>Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land</title>
+      <link>https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html" rel="standout"></atom:link>
+      <description>The U.S. imposed new sanctions on Russian officials and companies, and penalized foreign businesses aiding the Russian military. But officials are holding back on energy sanctions.</description>
+      <dc:creator>Michael Crowley and Edward Wong</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 23:35:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Bank of Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/us/politics/30dc-prexy_1/merlin_213780861_2bd8495b-110f-4fad-bc2d-c0c0bcffcc96-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>Residents casting their votes in a referendum in Donetsk, a province of eastern Ukraine that Russia has claimed as part of its territory.</media:description>
     </item>
     <item>
       <title>Putin Announces Ukraine Annexation, Calling West the Enemy</title>
@@ -1156,18 +1181,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/28ukraine-ledeall-2/29ukraine-ledeall-2-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>A giant poster in Luhansk, Ukraine, on Wednesday declared, “With Russia forever!” as Russia appeared poised to try to annex the region.</media:description>
-    </item>
-    <item>
-      <title>The Pentagon announces an additional $1.1 billion in long-term aid for Ukraine.</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Eric Schmitt</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 23:14:41 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/28ukraine-briefing-us-aid-01/08-ukraine-briefing-rockets-02-moth.jpg" width="151"></media:content>
-      <media:credit>Tony Overman/The Olympian, via Associated Press</media:credit>
-      <media:description>A High Mobility Artillery Rocket System (HIMARS) produced by Lockheed Martin during combat training at the Yakima Training Center, Wash.</media:description>
     </item>
   </channel>
 </rss>

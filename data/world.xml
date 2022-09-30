@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 05:10:42 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 04:59:42 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 06:32:22 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 06:03:05 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -325,6 +325,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29dc-uk-tax/29dc-uk-tax-moth.jpg" width="151"></media:content>
       <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
       <media:description>Liz Truss, Britain’s new prime minister, has staked her fledgling government on a once-in-a-generation package of tax cuts and deregulation meant to energize the economy.</media:description>
+    </item>
+    <item>
+      <title>Countering China, the U.S. Signs a Broad Deal to Aid Pacific Nations</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html" rel="standout"></atom:link>
+      <description>Beijing’s inroads in a strategic region are pushing the Biden administration to shore up withered ties.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 05:27:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30us-pacific-01/30us-pacific-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
     </item>
     <item>
       <title>Your Friday Briefing</title>
@@ -1218,17 +1235,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/00zambia-president-1/00zambia-president-1-moth.jpg" width="151"></media:content>
       <media:credit>Gulshan Khan for The New York Times</media:credit>
       <media:description>President Hakainde Hichilema of Zambia.</media:description>
-    </item>
-    <item>
-      <title>Your Wednesday Briefing</title>
-      <link>https://www.nytimes.com/2022/09/28/briefing/gas-leak-sabotage-liz-truss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/briefing/gas-leak-sabotage-liz-truss.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/briefing/gas-leak-sabotage-liz-truss.html" rel="standout"></atom:link>
-      <description>Suspicious gas leaks in Europe.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 05:07:32 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ambriefing-europe-nl-gasleak-1-87e9/28ambriefing-europe-nl-gasleak-1-87e9-moth.jpg" width="151"></media:content>
-      <media:credit>Armed Forces of Denmark, via Associated Press</media:credit>
     </item>
   </channel>
 </rss>

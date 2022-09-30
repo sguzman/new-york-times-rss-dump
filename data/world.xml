@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Sep 2022 14:58:13 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Sep 2022 14:52:33 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 15:40:33 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 15:38:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>In Moscow, the Russian leader declares four Ukrainian regions part of Russia, a widely denounced move that marks an escalation in the war.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:52:33 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 15:38:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/30ukraine-briefing-header-launch/30ukraine-briefing-header-launch-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Emergency workers searched for a missing child in the remnants of a destroyed house after a missile strike in Dnipro, Ukraine, on Thursday.</media:description>
@@ -133,11 +133,11 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html" rel="standout"></atom:link>
       <description>The state broadcaster briefly went off the air, and soldiers blocked roads in Ouagadougou, the capital. But it was not immediately clear if elements of the military had seized power.</description>
       <dc:creator>Ruth Maclean</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 11:19:40 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 15:33:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30burkina-faso/30burkina-faso-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30burkina-faso-new/merlin_214059783_f8c70377-ecf2-4b7e-bd55-1992e2d78986-moth.jpg" width="151"></media:content>
       <media:credit>Olympia De Maismont/Agence France-Presse — Getty Images</media:credit>
       <media:description>Troops in Ouagadougou, Burkina Faso, on Friday. Security is tenuous in the West African nation, where extremists, vigilantes and soldiers have all killed civilians in recent years.</media:description>
     </item>
@@ -284,13 +284,49 @@
       <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
     </item>
     <item>
+      <title>Iran Protests Continue Despite Heavy Crackdowns</title>
+      <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-continue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-continue.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-continue.html" rel="standout"></atom:link>
+      <description>Dozens of people have been killed in nationwide demonstrations that erupted almost two weeks ago after Mahsa Amini, a 22-year-old woman, died in police custody.</description>
+      <dc:creator>Farnaz Fassihi and Cora Engelbrecht</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 15:34:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-protests/29iran-protests-moth.jpg" width="151"></media:content>
+      <media:credit>via Agence France-Presse — Getty Images</media:credit>
+      <media:description>A photo obtained from social media showing protesters in Sanandaj, the capital of Kurdistan Province, Iran, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Protests Erupt in Cuba Over Government Response to Hurricane Ian</title>
+      <link>https://www.nytimes.com/2022/09/30/world/americas/cuba-hurricane-ian-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/americas/cuba-hurricane-ian-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/americas/cuba-hurricane-ian-protests.html" rel="standout"></atom:link>
+      <description>Demonstrators in Havana blocked street traffic, chanting “we want the light.” Many were angry that the lack of electricity this week has rotted what little food they had stored.</description>
+      <dc:creator>Camila Acosta and Maria Abi-Habib</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 15:25:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Havana (Cuba)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ian-cuba-update-1-00c9/30ian-cuba-update-1-00c9-moth.jpg" width="151"></media:content>
+      <media:credit>Alexandre Meneghini/Reuters</media:credit>
+      <media:description>People gathering in front of a Communist party office in protest against the electricity shortage in Havana on Thursday.</media:description>
+    </item>
+    <item>
       <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
       <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
-      <description>Financial turmoil this week led to soaring interest rates, forcing many lenders to stop offering mortgages and stoking worry among borrowers about rising costs.</description>
+      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:52:18 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 15:13:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -388,13 +424,12 @@
       <link>https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</guid>
       <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html" rel="standout"></atom:link>
-      <description>People in the convoy were waiting to be allowed into Russian-occupied territory to pick up relatives and deliver humanitarian aid, a Ukrainian official said.</description>
+      <description>Russia launched a flurry of strikes, creating scenes of destruction inside Ukraine as the Kremlin planned an elaborate, and widely dismissed, annexation ceremony.</description>
       <dc:creator>Michael Schwirtz and Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:29:46 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 15:38:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-zaporizhzhia-attack-image3/-30ukraine-briefing-zaporizhzhia-attack-image3-1-f684-moth.jpg" width="151"></media:content>
-      <media:credit>Kateryna Klochko/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A Ukrainian serviceman covering a body of a civilian killed by a missile strike near Zaporizhzhia on Friday.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack03/merlin_214065531_77c887d8-2678-4449-ae1a-d6f45f33156d-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
     <item>
       <title>Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.</title>
@@ -698,14 +733,15 @@
       <description>The use of propaganda in the country has been on overdrive in the pandemic, with some Chinese citizens arguing the language has bordered on “nonsense.”</description>
       <dc:creator>Zixu Wang</dc:creator>
       <pubDate>Thu, 29 Sep 2022 14:26:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/business/00china-propaganda-1/00china-propaganda-1-moth.jpg" width="151"></media:content>
       <media:credit>Gilles Sabrié for The New York Times</media:credit>
@@ -1153,45 +1189,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28westbank-raid1/28westbank-raid1-moth.jpg" width="151"></media:content>
       <media:credit>Alaa Badarneh/EPA, via Shutterstock</media:credit>
       <media:description>Palestinians attending the funeral of the militants killed during an Israeli Army raid in the West Bank city of Jenin on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Protests in Prague Signal a Troubled Winter Ahead in Europe</title>
-      <link>https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html" rel="standout"></atom:link>
-      <description>Tens of thousands gathered in the Czech capital for the second such protest in a month, spurred by an energy crisis and rising prices that are affecting countries across Europe.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 18:39:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiala, Petr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28czech-protest02/28czech-protest02-moth.jpg" width="151"></media:content>
-      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
-      <media:description>Protesters demanding the resignation of the Czech government and early parliamentary elections in Wenceslas Square in Prague on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Guinea 2009 Massacre Trial Begins</title>
-      <link>https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html" rel="standout"></atom:link>
-      <description>In addition to those killed, dozens of women were raped when security forces stormed a pro-democracy rally in 2009, a U.N. investigation found. Eleven men, including the country’s former president, are on trial.</description>
-      <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Wed, 28 Sep 2022 17:07:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guinea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camara, Moussa Dadis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doumbouya, Mamady</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Conakry (Guinea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Guinea01/28Guinea01-moth.jpg" width="151"></media:content>
-      <media:credit>Seyllou/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Guinean police arrested a protester on Sept. 28, 2009. Guineans have been waiting for the trial of the former leader Moussa Dadis Camara and those accused of committing a massacre that day.</media:description>
     </item>
   </channel>
 </rss>

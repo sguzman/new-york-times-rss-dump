@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 18:59:19 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 18:56:50 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 19:29:42 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 19:28:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html" rel="standout"></atom:link>
       <description>In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.</description>
       <dc:creator>David E. Sanger, Anton Troianovski and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 18:56:50 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 19:28:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The loss of the strategic rail hub in the east is particularly poorly timed for the Kremlin after its internationally derided illegal annexation of four Ukrainian regions.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 18:52:53 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 19:12:32 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/01ukraine-briefing-promo-1200pm/merlin_214067364_befa1210-396e-437f-a116-838edc2b1f19-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -208,11 +208,15 @@
       <description>With Paris locked down over Passover, a rabbi started holding weekly talks over Zoom about Jewish texts. Thousands have tuned in to hear her reflections on death. “She is my rabbi,” said an atheist.</description>
       <dc:creator>Julia Lieblich</dc:creator>
       <pubDate>Sat, 01 Oct 2022 03:51:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horvilleur, Delphine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horvilleur, Delphine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30french-rabbi-profile04/30french-rabbi-profile04-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
@@ -225,14 +229,15 @@
       <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
       <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
       <pubDate>Fri, 30 Sep 2022 14:44:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
@@ -285,7 +290,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html" rel="standout"></atom:link>
       <description>The criticism of the Kremlin after Russia retreated from the key rail hub on Saturday came not just from pro-war commentators on social media, but from two senior allies of Mr. Putin.</description>
       <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 18:19:24 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 19:12:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/01/world/01ukraine-briefing-russia-anger02sub/01ukraine-briefing-russia-anger02sub-moth-v4.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
@@ -506,16 +511,17 @@
       <description>The strikes killed a total of 30 civilians and wounded 107 in one of the bloodiest attacks in recent weeks.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
       <pubDate>Fri, 30 Sep 2022 21:09:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack05/30ukraine-briefing-zaporizhzhia-attack05-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>

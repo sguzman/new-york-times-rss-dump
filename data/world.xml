@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 17:53:14 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 17:52:00 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 18:30:04 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 18:29:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The loss of the strategic rail hub in the east is particularly poorly timed for the Kremlin after its internationally derided illegal annexation of four Ukrainian regions.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 17:49:22 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 18:19:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/01ukraine-briefing-promo-1200pm/merlin_214067364_befa1210-396e-437f-a116-838edc2b1f19-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -95,14 +95,14 @@
       <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
@@ -277,6 +277,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
       <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
+    </item>
+    <item>
+      <title>Putin Supporters Enraged By Russian Retreat From Lyman</title>
+      <link>https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/lyman-russia-retreat-putin.html" rel="standout"></atom:link>
+      <description>The criticism of the Kremlin after Russia retreated from the key rail hub on Saturday came not just from pro-war commentators on social media, but from two senior allies of Mr. Putin.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 18:19:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/01/world/01ukraine-briefing-russia-anger02sub/01ukraine-briefing-russia-anger02sub-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Ramzan Kadyrov in Chechnya’s regional capital of Grozny, Russia, in March.</media:description>
     </item>
     <item>
       <title>Uganda Races to Contain a Deadly Ebola Outbreak</title>
@@ -1130,24 +1143,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/climate/29cli-hospitalflood1/29cli-hospitalflood1-moth.jpg" width="151"></media:content>
       <media:credit>Johnny Milano for The New York Times</media:credit>
       <media:description>Flood barriers were erected in front of Tampa General Hospital in preparation for Hurricane Ian.</media:description>
-    </item>
-    <item>
-      <title>Finland Closes Border to Russian Tourists</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html" rel="standout"></atom:link>
-      <description>The long-planned move closes off the last land route into the European Union for people fleeing Russia’s military mobilization effort.</description>
-      <dc:creator>Johanna Lemola</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 20:50:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conscientious Objectors</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-finland-image/-1-a952-moth.jpg" width="151"></media:content>
-      <media:credit>Alessandro Rampazzo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Vehicles coming from Russia in line at Finland’s Vaalimaa checkpoint on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

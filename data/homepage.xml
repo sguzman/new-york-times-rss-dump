@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 04:24:09 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 04:07:22 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 05:42:39 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 05:40:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,7 +57,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/us/south-carolina-hurricane-ian.html" rel="standout"></atom:link>
       <description>The storm, which had pummeled Florida, made landfall again in South Carolina, but with less fury than it had earlier in the week.</description>
       <dc:creator>Eliza Fawcett, Kellen Browning and Rick Rojas</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 00:49:59 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:50:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
@@ -155,20 +155,26 @@
       <media:description>Prime Minister Liz Truss’s Conservative Party now trails the opposition Labour Party by 33 percentage points in polling.</media:description>
     </item>
     <item>
-      <title>Stock Market Ends an Ugly Quarter With Another Volatile Day</title>
-      <link>https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/business/stocks-bonds-third-quarter.html" rel="standout"></atom:link>
-      <description>The S&amp;P 500 has fallen for three consecutive quarters, the kinds of losses investors have not faced since 2009.</description>
+      <title>Sleepy Corner of U.K.’s Pension Industry Forced the Bank of England’s Hand</title>
+      <link>https://www.nytimes.com/2022/09/30/business/bonds-pensions-bank-of-england.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/bonds-pensions-bank-of-england.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/business/bonds-pensions-bank-of-england.html" rel="standout"></atom:link>
+      <description>Complex financial instruments that pension funds use to minimize the impact of interest rate changes led to the bond market rout.</description>
       <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:13:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <pubDate>Fri, 30 Sep 2022 22:12:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Derivatives (Financial Instruments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantitative Easing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/business/30ldi-bonds-1/merlin_213983877_6df17372-f5ac-4002-9ba7-5960840de195-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>A plan by Britain’s new prime minister to cut taxes and freeze energy bills hit government bond prices so hard that the Bank of England was compelled to intervene.</media:description>
     </item>
     <item>
       <title>Trump Argues for Executive Privilege in Jan. 6 and Mar-a-Lago Inquiries</title>
@@ -199,7 +205,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/us/politics/congress-passes-stopgap-spending-bill.html" rel="standout"></atom:link>
       <description>The House passed the bill before departing ahead of the midterm elections, and President Biden signed it hours before a funding lapse would have forced a government shutdown.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 22:54:08 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 22:54:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
@@ -289,7 +295,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/nyregion/alison-russo-fdny-emt-stabbing.html" rel="standout"></atom:link>
       <description>Lt. Alison Russo-Elling had served nearly 25 years, through Sept. 11 and the Covid pandemic. She loved a tough job enough to volunteer in her free time.</description>
       <dc:creator>Corey Kilgannon</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 00:51:21 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:51:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emergency Medical Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Russo-Elling, Alison</category>
@@ -455,58 +461,51 @@
       <media:credit>Matt Huynh</media:credit>
     </item>
     <item>
-      <title>Your Friday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/briefing/ian-south-carolina-covid-booster-inflation.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen and Lauren Hard</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 22:18:49 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30evening-briefing-nl-ukztr/30evening-briefing-nl-ukztr-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Brandon/Associated Press</media:credit>
-      <media:description>Ian became a tropical storm over the Carolinas two hours after making landfall.</media:description>
+      <title>Juventus Learns That Progress Requires a Plan</title>
+      <link>https://www.nytimes.com/2022/09/30/sports/soccer/juventus-allegri.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/sports/soccer/juventus-allegri.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/sports/soccer/juventus-allegri.html" rel="standout"></atom:link>
+      <description>Its coach rejects any sort of rigid style, preferring to mold his teams to their talent. But when things go bad, as they have in Turin, that lack of philosophy can leave a team to flounder.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 17:39:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juventus (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allegri, Massimiliano (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haaland, Erling Braut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester City (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester United (Soccer Team)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30rory-bonucci-1-dee6/30rory-bonucci-1-dee6-moth.jpg" width="151"></media:content>
+      <media:credit>Antonio Calanni/Associated Press</media:credit>
     </item>
     <item>
-      <title>How Much Watching Time Do You Have This Weekend?</title>
-      <link>https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/arts/television/interview-with-the-vampire-ramy-jungle.html" rel="standout"></atom:link>
-      <description>Our TV critic recommends a vampy adaptation, a surprising rap drama and the astonishing return of “Ramy.”</description>
-      <dc:creator>Margaret Lyons</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 22:17:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ramy (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Anne Rice&#39;s Interview With the Vampire (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jungle (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/arts/29Watching-Vampire/29Watching-Vampire-moth.jpg" width="151"></media:content>
-      <media:credit>Michele K. Short/AMC</media:credit>
-      <media:description>Jacob Anderson stars in the new adaptation “Anne Rice’s Interview With the Vampire.”</media:description>
+      <title>新冠大流行结束了吗？</title>
+      <link>https://www.nytimes.com/zh-hans/2022/09/29/world/asia/covid-pandemic-over.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/zh-hans/2022/09/29/world/asia/covid-pandemic-over.html</guid>
+      <atom:link href="https://www.nytimes.com/zh-hans/2022/09/29/world/asia/covid-pandemic-over.html" rel="standout"></atom:link>
+      <description>大流行也许不会立刻结束，病毒也可能将永远在地球上站稳脚跟，但管控大流行的手段总应该有调整的那一天。当多数人都已经对疫情产生了焦虑、抑郁或者倦怠的情绪时，人们需要看到隧道尽头的一缕光。</description>
+      <dc:creator>Zhan Juan</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 07:01:52 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/cn-19dc-biden-covid_4-copy/merlin_203693628_0411624a-ff51-49e2-aa45-5f7806ec3f2e-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>新冠患者在加利福尼亚州苹果谷的普罗维登斯圣玛丽医疗中心接受治疗。</media:description>
     </item>
     <item>
-      <title>A Times Climate Event: Can Technology and Art Inspire Change?</title>
-      <link>https://www.nytimes.com/article/climate-event.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/climate-event.html</guid>
-      <atom:link href="https://www.nytimes.com/article/climate-event.html" rel="standout"></atom:link>
-      <description>Hear from business leaders like Laurene Powell Jobs and John Doerr, along with storytellers and food innovators in a livestreamed Times event in San Francisco.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 03:51:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-    </item>
-    <item>
-      <title>Are Your Patients Worried About the Polio Vaccine?</title>
-      <link>https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/26/technology/polio-vaccine-callout.html" rel="standout"></atom:link>
-      <description>We want to hear from you.</description>
-      <dc:creator>Ellen Gabler and Sheera Frenkel</dc:creator>
-      <pubDate>Mon, 26 Sep 2022 19:32:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poliomyelitis</category>
+      <title>After Dobbs: What Is Feminist Sex?</title>
+      <link>https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/opinion/after-dobbs-what-is-feminist-sex.html" rel="standout"></atom:link>
+      <description>Michelle Goldberg and Nona Willis Aronowitz on what sexual liberation really means for feminism.</description>
+      <dc:creator>‘The Argument’</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldberg, Michelle (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aronowitz, Nona Willis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="">sexual liberation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/opinion/28argument-feminism3-image/28argument-feminism3-image-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>Hector Lopez, Who Broke a Baseball Color Barrier, Dies at 93</title>
@@ -535,7 +534,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html" rel="standout"></atom:link>
       <description>The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.</description>
       <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:45:56 +0000</pubDate>
+      <pubDate>Fri, 30 Sep 2022 21:45:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>

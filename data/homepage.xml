@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 12:25:53 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 12:03:13 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 13:21:51 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 13:16:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -143,7 +143,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html" rel="standout"></atom:link>
       <description>The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.</description>
       <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 09:00:26 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 13:16:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
@@ -318,6 +318,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-moth.jpg" width="151"></media:content>
+      <media:credit>Sean Dong</media:credit>
     </item>
     <item>
       <title>Putin Is Turning Russia Into a Giant North Korea</title>
@@ -336,6 +338,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30friedman1/30friedman1-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Vladimir Putin’s ‘Medea’</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/putin-russia-ukraine-nuclear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/putin-russia-ukraine-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/putin-russia-ukraine-nuclear.html" rel="standout"></atom:link>
+      <description>What does Vlad the Impaler have in store for the world?</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 13:11:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dostoyevsky, Fyodor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Medea (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Medea (Opera)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/01Dowd-1/01Dowd-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Sputnik, via Reuters</media:credit>
+      <media:description>President Vladimir Putin held a ceremony Friday to declare the annexation of four regions in Ukraine.</media:description>
     </item>
     <item>
       <title>Big Tech Should Support the Iranian People, Not the Regime</title>
@@ -357,24 +377,6 @@
       <media:credit>Markus Schreiber/Associated Press</media:credit>
     </item>
     <item>
-      <title>The Supreme Court Is Broken. Where’s Biden?</title>
-      <link>https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html" rel="standout"></atom:link>
-      <description>Why is the president sitting this out?</description>
-      <dc:creator>Jeff Shesol</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 02:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30Shesol-1a/30Shesol-1a-moth.jpg" width="151"></media:content>
-      <media:credit>Pablo Delcan</media:credit>
-    </item>
-    <item>
       <title>If Bolsonaro Loses Brazil’s Election, Will He Respect the Result?</title>
       <link>https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</guid>
@@ -393,6 +395,24 @@
       <media:description>A man in a shirt with the image of Luiz Inácio Lula da Silva, who is seeking to regain Brazil’s presidency, in Rio de Janeiro on Sunday</media:description>
     </item>
     <item>
+      <title>The Supreme Court Is Broken. Where’s Biden?</title>
+      <link>https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html" rel="standout"></atom:link>
+      <description>Why is the president sitting this out?</description>
+      <dc:creator>Jeff Shesol</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 02:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30Shesol-1a/30Shesol-1a-moth.jpg" width="151"></media:content>
+      <media:credit>Pablo Delcan</media:credit>
+    </item>
+    <item>
       <title>A Strong Dollar Is Hurting Other Countries. Should the Fed Care?</title>
       <link>https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</guid>
@@ -400,16 +420,15 @@
       <description>Experts disagree.</description>
       <dc:creator>Peter Coy</dc:creator>
       <pubDate>Fri, 30 Sep 2022 19:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Open Market Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30coy-image/30coy-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
@@ -431,26 +450,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30krugman-newsletter-image/30krugman-newsletter-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by The New York Times; images by Tom Werner and GCShutter, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Why China’s Crimes in Xinjiang Cannot Go Unpunished</title>
-      <link>https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/international-world/china-human-rights-xinjiang-un.html" rel="standout"></atom:link>
-      <description>China is dragging the world back to a human rights dark age. It’s time to push back. </description>
-      <dc:creator>Nicholas Bequelin</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:55:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turk, Volker</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30bequelin-edit/30bequelin-edit-moth.png" width="151"></media:content>
-      <media:credit>Matt Huynh</media:credit>
     </item>
     <item>
       <title>Making Friends</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 07:25:04 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 07:12:14 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 07:45:04 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 07:41:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,9 +39,50 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>They appeared to be edging closer to encircling Lyman, a strategic rail hub in the country’s east.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 07:12:14 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 07:41:06 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-brief-sfp/01ukraine-briefing-header-temp-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Liz Truss’ Woes Multiply After Media Blitz</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html" rel="standout"></atom:link>
+      <description>In a round of interviews, the prime minister showed little sympathy for the pain that high interest rates could inflict on mortgage holders, critics said.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 16:08:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30uk-truss/30uk-truss-moth.jpg" width="151"></media:content>
+      <media:credit>Maja Smiejkowska/Reuters</media:credit>
+      <media:description>Prime Minister Liz Truss’s Conservative Party now trails the opposition Labour Party by 33 percentage points in polling.</media:description>
+    </item>
+    <item>
+      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
+      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
+      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
     </item>
     <item>
       <title>A Year Under the Taliban</title>
@@ -59,6 +100,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/00afghan-kabul-dispatch-promo/00afghan-kabul-dispatch-2-moth.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>North Korea Launches Two Ballistic Missiles, Fourth Test in a Week</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html" rel="standout"></atom:link>
+      <description>The test came a day after the United States, Japan and South Korea conducted their first joint anti-submarine exercise in five years.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 01:14:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30nkorea-01-1-ee31/30nkorea-01-1-ee31-moth.jpg" width="151"></media:content>
+      <media:credit>Jeon Heon-Kyun/EPA, via Shutterstock</media:credit>
+      <media:description>Commuters in a train station on Seoul on Friday pass a screen airing news about a recent North Korean ballistic missile launch.</media:description>
     </item>
     <item>
       <title>French Feminist Rabbi Captivates Multifaith Crowds With Musings on Mortality</title>
@@ -208,96 +271,6 @@
       <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
     </item>
     <item>
-      <title>Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage</title>
-      <link>https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html" rel="standout"></atom:link>
-      <description>Online, Iranians engage in a world their leaders don’t want them to see.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-tech2/29iran-tech2-moth.jpg" width="151"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Iranians looking at their phones in Tehran last month.</media:description>
-    </item>
-    <item>
-      <title>On Eve of Election, Bolsonaro’s Party Attacks Brazil’s Voting Systems</title>
-      <link>https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html" rel="standout"></atom:link>
-      <description>Four days before Brazilians vote, President Jair Bolsonaro’s political party formally claimed, without evidence, that government employees could alter ballots.</description>
-      <dc:creator>Jack Nicas and André Spigariol</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 16:03:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-fraud-2/29brazil-fraud-2-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro of Brazil at a rally on Saturday.</media:description>
-    </item>
-    <item>
-      <title>The Last Days of an Outback Town Where Every Breath Can Be Toxic</title>
-      <link>https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html" rel="standout"></atom:link>
-      <description>The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.</description>
-      <dc:creator>Yan Zhuang and Matthew Abbott</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 03:16:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asbestos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wittenoom (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mesothelioma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous Australians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00oz-asbestos-promo/00oz-asbestos6-moth.jpg" width="151"></media:content>
-      <media:credit>Matthew Abbott for The New York Times</media:credit>
-      <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
-    </item>
-    <item>
-      <title>North Korea Launches Two Ballistic Missiles, Fourth Test in a Week</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/north-korea-ballistic-missile-test.html" rel="standout"></atom:link>
-      <description>The test came a day after the United States, Japan and South Korea conducted their first joint anti-submarine exercise in five years.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 01:14:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30nkorea-01-1-ee31/30nkorea-01-1-ee31-moth.jpg" width="151"></media:content>
-      <media:credit>Jeon Heon-Kyun/EPA, via Shutterstock</media:credit>
-      <media:description>Commuters in a train station on Seoul on Friday pass a screen airing news about a recent North Korean ballistic missile launch.</media:description>
-    </item>
-    <item>
       <title>Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land</title>
       <link>https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html</guid>
@@ -424,26 +397,6 @@
       <media:description>President Biden said during a news conference at the White House on Friday that the world would not recognize Russia’s annexation efforts.</media:description>
     </item>
     <item>
-      <title>Liz Truss’ Woes Multiply After Media Blitz</title>
-      <link>https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html" rel="standout"></atom:link>
-      <description>In a round of interviews, the prime minister showed little sympathy for the pain that high interest rates could inflict on mortgage holders, critics said.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 16:08:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30uk-truss/30uk-truss-moth.jpg" width="151"></media:content>
-      <media:credit>Maja Smiejkowska/Reuters</media:credit>
-      <media:description>Prime Minister Liz Truss’s Conservative Party now trails the opposition Labour Party by 33 percentage points in polling.</media:description>
-    </item>
-    <item>
       <title>Iran Protests Continue Despite Heavy Crackdowns</title>
       <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html</guid>
@@ -478,27 +431,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ian-cuba-update-1-00c9/30ian-cuba-update-1-00c9-moth.jpg" width="151"></media:content>
       <media:credit>Alexandre Meneghini/Reuters</media:credit>
       <media:description>People gathering in front of a Communist Party office in protest against the electricity shortage in Havana on Thursday.</media:description>
-    </item>
-    <item>
-      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
-      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
-      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
     </item>
     <item>
       <title>Ukraine Submits Application to Join NATO</title>
@@ -1106,6 +1038,26 @@
       <media:description>Individuals killed during the 1994 Rwandan genocide, from a display at the Kigali Genocide Memorial. At least 800,000 died.</media:description>
     </item>
     <item>
+      <title>The Last Days of an Outback Town Where Every Breath Can Be Toxic</title>
+      <link>https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html" rel="standout"></atom:link>
+      <description>The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.</description>
+      <dc:creator>Yan Zhuang and Matthew Abbott</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 03:16:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asbestos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wittenoom (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mesothelioma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous Australians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00oz-asbestos-promo/00oz-asbestos6-moth.jpg" width="151"></media:content>
+      <media:credit>Matthew Abbott for The New York Times</media:credit>
+      <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
+    </item>
+    <item>
       <title>Brazil’s Lula Is Out of Prison and Trying to Defeat Bolsonaro</title>
       <link>https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html</guid>
@@ -1124,6 +1076,34 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-lula-1/29brazil-lula-1-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Mr. da Silva has taken to comparing himself to Nelson Mandela, Mahatma Gandhi and Martin Luther King Jr., political prisoners who expanded their movements after they were freed.</media:description>
+    </item>
+    <item>
+      <title>Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage</title>
+      <link>https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html" rel="standout"></atom:link>
+      <description>Online, Iranians engage in a world their leaders don’t want them to see.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-tech2/29iran-tech2-moth.jpg" width="151"></media:content>
+      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Iranians looking at their phones in Tehran last month.</media:description>
     </item>
     <item>
       <title>New Infectious Threats Are Coming. The US Probably Won’t Contain Them.</title>
@@ -1171,6 +1151,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29dc-uk-tax/29dc-uk-tax-moth.jpg" width="151"></media:content>
       <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
       <media:description>Liz Truss, Britain’s new prime minister, has staked her fledgling government on a once-in-a-generation package of tax cuts and deregulation meant to energize the economy.</media:description>
+    </item>
+    <item>
+      <title>On Eve of Election, Bolsonaro’s Party Attacks Brazil’s Voting Systems</title>
+      <link>https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html" rel="standout"></atom:link>
+      <description>Four days before Brazilians vote, President Jair Bolsonaro’s political party formally claimed, without evidence, that government employees could alter ballots.</description>
+      <dc:creator>Jack Nicas and André Spigariol</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:03:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-fraud-2/29brazil-fraud-2-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil at a rally on Saturday.</media:description>
     </item>
     <item>
       <title>Myanmar Sentences Australian Economic Adviser to Three Years</title>

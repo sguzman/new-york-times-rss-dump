@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 19:13:50 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 19:08:41 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 19:30:27 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 19:28:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html" rel="standout"></atom:link>
       <description>In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.</description>
       <dc:creator>David E. Sanger, Anton Troianovski and Julian E. Barnes</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 18:56:50 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 19:28:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -182,7 +182,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/us/politics/tudor-dixon-trump-michigan.html" rel="standout"></atom:link>
       <description>Tudor Dixon, the party’s nominee for governor, has ground to make up in her race against Gov. Gretchen Whitmer. She is hoping the former president can rally their party’s base.</description>
       <dc:creator>Jazmine Ulloa</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 17:43:17 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 19:17:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dixon, Tudor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -260,22 +260,22 @@
       <media:description>A butter board is cheaper and less fussy than a traditional charcuterie board. </media:description>
     </item>
     <item>
-      <title>Putin Is Turning Russia Into a Giant North Korea</title>
-      <link>https://www.nytimes.com/2022/09/30/opinion/putin-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/putin-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/putin-russia-ukraine.html" rel="standout"></atom:link>
-      <description>He has set in motion forces that are turning Russia into a giant North Korea.</description>
-      <dc:creator>Thomas L. Friedman</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 00:29:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <title>Putin’s Speech Just Told Us His Ukraine War Plans</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html" rel="standout"></atom:link>
+      <description>Amid the bluster and veiled threats, the president made three distinct points that form a blueprint for war and peace.</description>
+      <dc:creator>Alexander Baunov</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 14:25:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30friedman1/30friedman1-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/01baunov2/01baunov2-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Grigory Sysoyev</media:credit>
     </item>
     <item>
       <title>Vladimir Putin’s ‘Medea’</title>
@@ -296,22 +296,23 @@
       <media:description>President Vladimir Putin held a ceremony Friday to declare the annexation of four regions in Ukraine.</media:description>
     </item>
     <item>
-      <title>Putin’s Speech Just Told Us His Ukraine War Plans</title>
-      <link>https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html" rel="standout"></atom:link>
-      <description>Amid the bluster and veiled threats, the president made three distinct points that form a blueprint for war and peace.</description>
-      <dc:creator>Alexander Baunov</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 14:25:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/01baunov2/01baunov2-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Grigory Sysoyev</media:credit>
+      <title>The Supreme Court Has a Crisis of Trust</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html" rel="standout"></atom:link>
+      <description>A court that does not keep the public’s trust cannot perform its critical role in American government.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 15:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/opinion/29scotus1/29scotus1-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Lee for The New York Times</media:credit>
     </item>
     <item>
       <title>There Is a Tax That Could Help With Inflation</title>
@@ -332,23 +333,31 @@
       <media:credit>Yuvraj Khanna for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Supreme Court Has a Crisis of Trust</title>
-      <link>https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/supreme-court-legitimacy.html" rel="standout"></atom:link>
-      <description>A court that does not keep the public’s trust cannot perform its critical role in American government.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 15:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <title>Will Nostalgia Kill the British Right?</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/uk-liz-truss-conservatism-europe.html" rel="standout"></atom:link>
+      <description>A yearning for the 1980s meets a very 21st century kind of European crisis.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 19:00:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/opinion/29scotus1/29scotus1-moth.jpg" width="151"></media:content>
-      <media:credit>Christopher Lee for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/01douthatNew/01douthatNew-moth.jpg" width="151"></media:content>
+      <media:credit>Frank Augstein/Associated Press</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain.</media:description>
     </item>
     <item>
       <title>How Private High Schools Keep the College Pay-to-Win Game Going</title>
@@ -385,6 +394,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30Shesol-1a/30Shesol-1a-moth.jpg" width="151"></media:content>
       <media:credit>Pablo Delcan</media:credit>
+    </item>
+    <item>
+      <title>The Global Indigenous Movement to Fight Climate Change</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html" rel="standout"></atom:link>
+      <description>Imagine what could be possible with more funding and support.</description>
+      <dc:creator>Camila Falquez and Isvett Verde</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 19:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
     </item>
     <item>
       <title>Making Friends</title>

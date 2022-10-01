@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 13:57:27 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 13:40:37 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 14:22:14 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 14:22:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -374,6 +374,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30albert/30albert-moth-v3.jpg" width="151"></media:content>
       <media:credit>Markus Schreiber/Associated Press</media:credit>
     </item>
@@ -402,14 +403,13 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html" rel="standout"></atom:link>
       <description>Why is the president sitting this out?</description>
       <dc:creator>Jeff Shesol</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 02:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <pubDate>Sat, 01 Oct 2022 02:00:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30Shesol-1a/30Shesol-1a-moth.jpg" width="151"></media:content>
       <media:credit>Pablo Delcan</media:credit>
     </item>
@@ -523,15 +523,15 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html" rel="standout"></atom:link>
       <description>A military officer removed another military leader who had seized power only eight months ago. Whether he can do better is another question.</description>
       <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 12:00:41 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 14:22:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damiba, Paul-Henri Sandaogo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/01burkina-folo-01/01burkina-folo-01-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01burkina-folo1a/01burkina-folo1a-moth.jpg" width="151"></media:content>
       <media:credit>Olympia De Maismont/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Troops on Friday in Ouagadougou, Burkina Faso.</media:description>
+      <media:description>A military vehicle outside Burkina Faso’s national television offices on Saturday in Ouagadougou, the capital. The coup within a coup was announced on national TV.</media:description>
     </item>
     <item>
       <title>Fentanyl Test Strips Highlight Rift in Nation’s Struggle to Combat Drug Deaths</title>

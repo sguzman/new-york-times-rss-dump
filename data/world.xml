@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 11:52:33 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 11:47:57 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 12:48:31 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 12:05:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The battle for Lyman, a strategic rail hub in the east, is a poorly timed sideshow for the Kremlin after the internationally decried annexation.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 11:47:57 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 12:05:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-brief-sfp/01ukraine-briefing-header-temp-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -72,14 +72,31 @@
       <description>The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.</description>
       <dc:creator>Vivian Wang</dc:creator>
       <pubDate>Sat, 01 Oct 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="">covid zero</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00china-covid-dispatch-01/00china-covid-dispatch-01-moth.jpg" width="151"></media:content>
       <media:credit>Thomas Peter/Reuters</media:credit>
       <media:description>A Covid testing station in Beijing in September. The government ordered testing sites to be within a 15-minute walk in cities.</media:description>
+    </item>
+    <item>
+      <title>New Burkina Faso Coup Raises Question About Security</title>
+      <link>https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/africa/burkina-faso-coup-uncertainty.html" rel="standout"></atom:link>
+      <description>A military officer removed another military leader who had seized power only eight months ago. Whether he can do better is another question.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 12:00:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damiba, Paul-Henri Sandaogo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/01burkina-folo-01/01burkina-folo-01-moth.jpg" width="151"></media:content>
+      <media:credit>Olympia De Maismont/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Troops on Friday in Ouagadougou, Burkina Faso.</media:description>
     </item>
     <item>
       <title>Liz Truss’ Woes Multiply After Media Blitz</title>
@@ -257,21 +274,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
       <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
-    </item>
-    <item>
-      <title>Military Officers Announce Coup in Burkina Faso</title>
-      <link>https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html" rel="standout"></atom:link>
-      <description>The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.</description>
-      <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:45:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30burkina-faso-newnew/30burkina-faso-newnew-moth.jpg" width="151"></media:content>
-      <media:credit>Sophie Garcia/Associated Press</media:credit>
-      <media:description>Crowds gathered in protest of the country’s president, Lt. Col. Paul-Henri Sandaogo Damiba, in Ouagadougou, Burkina Faso, on Friday.</media:description>
     </item>
     <item>
       <title>Making Friends</title>
@@ -511,6 +513,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Branagh, Kenneth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">This England (TV Program)</category>
+    </item>
+    <item>
+      <title>Military Officers Announce Coup in Burkina Faso</title>
+      <link>https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html" rel="standout"></atom:link>
+      <description>The officers said they had decided to remove the president because of his inability to stem a growing Islamist insurgency in the north and east of the country.</description>
+      <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 21:45:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30burkina-faso-newnew/30burkina-faso-newnew-moth.jpg" width="151"></media:content>
+      <media:credit>Sophie Garcia/Associated Press</media:credit>
+      <media:description>Crowds gathered in protest of the country’s president, Lt. Col. Paul-Henri Sandaogo Damiba, in Ouagadougou, Burkina Faso, on Friday.</media:description>
     </item>
     <item>
       <title>Despite international condemnation, Putin signs decrees declaring four regions of Ukraine part of Russia.</title>
@@ -1144,34 +1161,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-lula-1/29brazil-lula-1-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Mr. da Silva has taken to comparing himself to Nelson Mandela, Mahatma Gandhi and Martin Luther King Jr., political prisoners who expanded their movements after they were freed.</media:description>
-    </item>
-    <item>
-      <title>Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage</title>
-      <link>https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html" rel="standout"></atom:link>
-      <description>Online, Iranians engage in a world their leaders don’t want them to see.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-tech2/29iran-tech2-moth.jpg" width="151"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Iranians looking at their phones in Tehran last month.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 22:45:20 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 22:40:42 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 23:27:27 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 22:49:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -282,6 +282,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
       <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
+    </item>
+    <item>
+      <title>Riots at Indonesian Soccer Match Leave Several Fans Dead</title>
+      <link>https://www.nytimes.com/2022/10/01/world/asia/indonesia-soccer-football-dead-arema-persebaya-surabaya.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/asia/indonesia-soccer-football-dead-arema-persebaya-surabaya.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/asia/indonesia-soccer-football-dead-arema-persebaya-surabaya.html" rel="standout"></atom:link>
+      <description>After the home team lost, fans rushed the field and were confronted by security officers, who used tear gas that left many struggling to breathe.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 22:49:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2016/06/12/sports/12SOCCER1/12SOCCER1-moth.jpg" width="151"></media:content>
+      <media:credit>Guillaume Horcajuelo/European Pressphoto Agency</media:credit>
+      <media:description>Riot police standing guard during clashes with soccer fans Saturday at the Old Port of Marseille, France.</media:description>
     </item>
     <item>
       <title>Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat</title>
@@ -1140,23 +1156,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29nkorea/merlin_214012461_18a73d59-0e4e-4cdc-ab70-a7eafedd285f-moth.jpg" width="151"></media:content>
       <media:credit>Ahn Young-Joon/Associated Press</media:credit>
       <media:description>In a Seoul railroad station on Thursday, file footage of earlier North Korean military activity illustrated a news report about its most recent missile launch. </media:description>
-    </item>
-    <item>
-      <title>Mexico Named Deadliest Country for Environmental Activists</title>
-      <link>https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html" rel="standout"></atom:link>
-      <description>A new report from the watchdog group Global Witness found that 54 land rights activists were killed in Mexico last year, the most of any country.</description>
-      <dc:creator>Oscar Lopez</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 22:16:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29mexico-environmentalists/29mexico-environmentalists-moth.jpg" width="151"></media:content>
-      <media:credit>Luis Gutierrez/Associated Press</media:credit>
-      <media:description>Mourners attending the burial service for the Indigenous rights leader Tomas Rojo in the Yaqui Indigenous community Vicam, in the Mexican state of Sonora, in July 2021.</media:description>
     </item>
   </channel>
 </rss>

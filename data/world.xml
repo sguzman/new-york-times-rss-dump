@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 09:00:10 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 08:52:42 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 09:39:56 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 09:09:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,9 +39,47 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>They appeared to be edging closer to encircling Lyman, a strategic rail hub in the country’s east.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 08:52:42 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 09:09:59 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-brief-sfp/01ukraine-briefing-header-temp-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
+      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
+      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
+    </item>
+    <item>
+      <title>In China, Living Not ‘With Covid,’ but With ‘Zero Covid’</title>
+      <link>https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html" rel="standout"></atom:link>
+      <description>The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="">covid zero</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00china-covid-dispatch-01/00china-covid-dispatch-01-moth.jpg" width="151"></media:content>
+      <media:credit>Thomas Peter/Reuters</media:credit>
+      <media:description>A Covid testing station in Beijing in September. The government ordered testing sites to be within a 15-minute walk in cities.</media:description>
     </item>
     <item>
       <title>Liz Truss’ Woes Multiply After Media Blitz</title>
@@ -64,25 +102,25 @@
       <media:description>Prime Minister Liz Truss’s Conservative Party now trails the opposition Labour Party by 33 percentage points in polling.</media:description>
     </item>
     <item>
-      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
-      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
-      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
+      <title>Brazil Faces Big Vote in Presidential Election: Bolsonaro vs. Lula.</title>
+      <link>https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html" rel="standout"></atom:link>
+      <description>Brazilians voting for president on Sunday will choose between two political titans in a contest seen as a major test for one of the world’s largest democracies.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 09:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/01brazil-vote-top/02BRAZIL-ELECTION-moth.jpg" width="151"></media:content>
+      <media:credit>From left: Lalo de Almeida for The New York Times; Victor Moriyama for The New York Times</media:credit>
+      <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
     </item>
     <item>
       <title>A Year Under the Taliban</title>
@@ -236,39 +274,23 @@
       <media:description>Crowds gathered in protest of the country’s president, Lt. Col. Paul-Henri Sandaogo Damiba, in Ouagadougou, Burkina Faso, on Friday.</media:description>
     </item>
     <item>
-      <title>China Gets Its First mRNA Covid Vaccine Approval — in Indonesia</title>
-      <link>https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html" rel="standout"></atom:link>
-      <description>Indonesia has cleared an mRNA Covid-19 vaccine developed by a Chinese company. But those types of shots, considered among the most effective, aren’t yet available in China.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:42:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walvax Biotechnology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Suzhou Abogen Biosciences</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30china-vaccine-01/30china-vaccine-01-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
-      <media:description>Administering Covid-19 vaccines in Wuhan, China, last year. More than two years into the pandemic, mRNA vaccines are not yet available in China.</media:description>
-    </item>
-    <item>
-      <title>Countering China, the U.S. Signs a Broad Deal to Aid Pacific Nations</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html" rel="standout"></atom:link>
-      <description>Beijing’s inroads in a strategic region are pushing the Biden administration to shore up withered ties.</description>
-      <dc:creator>Damien Cave</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 05:27:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30us-pacific-01/30us-pacific-01-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
+      <title>Battered by Floods and Trapped in Debt, Pakistani Farmers Struggle to Survive</title>
+      <link>https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/asia/pakistan-flood-farmers.html" rel="standout"></atom:link>
+      <description>The recent flooding has plunged small farmers in sharecropping arrangements further into debt with their landlords — a cycle that has worsened as extreme weather events become increasingly common.</description>
+      <dc:creator>Christina Goldbaum, Zia ur-Rehman and Kiana Hayeri</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 09:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sindh Province (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01pakistan-farmers-promo/01pakistan-farmers-3-moth.jpg" width="151"></media:content>
+      <media:credit>Kiana Hayeri for The New York Times</media:credit>
     </item>
     <item>
       <title>Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land</title>
@@ -536,6 +558,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack03/merlin_214065531_77c887d8-2678-4449-ae1a-d6f45f33156d-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Countering China, the U.S. Signs a Broad Deal to Aid Pacific Nations</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html" rel="standout"></atom:link>
+      <description>Beijing’s inroads in a strategic region are pushing the Biden administration to shore up withered ties.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 05:27:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30us-pacific-01/30us-pacific-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
     </item>
     <item>
       <title>Putin is expected to illegally annex Russian-occupied parts of Ukraine following sham votes.</title>
@@ -1151,46 +1190,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29dc-uk-tax/29dc-uk-tax-moth.jpg" width="151"></media:content>
       <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
       <media:description>Liz Truss, Britain’s new prime minister, has staked her fledgling government on a once-in-a-generation package of tax cuts and deregulation meant to energize the economy.</media:description>
-    </item>
-    <item>
-      <title>On Eve of Election, Bolsonaro’s Party Attacks Brazil’s Voting Systems</title>
-      <link>https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html" rel="standout"></atom:link>
-      <description>Four days before Brazilians vote, President Jair Bolsonaro’s political party formally claimed, without evidence, that government employees could alter ballots.</description>
-      <dc:creator>Jack Nicas and André Spigariol</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 16:03:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-fraud-2/29brazil-fraud-2-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro of Brazil at a rally on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Myanmar Sentences Australian Economic Adviser to Three Years</title>
-      <link>https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html" rel="standout"></atom:link>
-      <description>Sean Turnell, arrested five days after the military seized power in a coup, has been convicted by the junta of violating the country’s official secrets act.</description>
-      <dc:creator>Seth Mydans</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 11:45:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29myanmar-01/29myanmar-01-moth.jpg" width="151"></media:content>
-      <media:credit>Milken Institute, via Reuters</media:credit>
-      <media:description>Sean Turnell at the Milken Institute 2017 Asia Summit, in Singapore. He was an economic adviser to Daw Aung San Suu Kyi before the coup in 2021, and has been imprisoned since then.</media:description>
     </item>
   </channel>
 </rss>

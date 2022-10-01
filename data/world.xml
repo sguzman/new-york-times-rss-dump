@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 13:41:36 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 13:31:49 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 14:21:52 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 14:18:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,13 +33,13 @@
       <media:description>Sergei with his two children Daniil, 10, and Karina, 10, in a hotel room in Stepatsminda, Georgia.</media:description>
     </item>
     <item>
-      <title>Ukrainian Troops Advance on Key City in a Region Putin Illegally Annexed</title>
+      <title>Russian Forces Are Retreating From Lyman, Defense Ministry Says</title>
       <link>https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/01/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>The battle for Lyman, a strategic rail hub in the east, is a poorly timed sideshow for the Kremlin after the internationally decried annexation.</description>
+      <description>The loss of the strategic rail hub in the east is a poorly timed sideshow for the Kremlin after the internationally decried annexation.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 13:31:49 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 14:18:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-brief-sfp/01ukraine-briefing-header-temp-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -276,6 +276,27 @@
       <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
     </item>
     <item>
+      <title>‘Naked Fear’: A Pipeline Attack Fans Anxiety in a German Village, and Beyond</title>
+      <link>https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/germany-pipeline-damage-fear.html" rel="standout"></atom:link>
+      <description>The act of sabotage has brought the Ukraine war closer, raising anxiety levels and threatening to undermine the Europeans’ resolve to help Ukraine fight on.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 13:57:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30Pipeline-Anxiety01/30Pipeline-Anxiety01-moth.jpg" width="151"></media:content>
+      <media:credit>Laetitia Vancon for The New York Times</media:credit>
+      <media:description>The Nord Stream 2 gas pipeline in Lubmin, Germany, on Friday.</media:description>
+    </item>
+    <item>
       <title>Backing Lindt, Swiss Court Orders Lidl to ‘Destroy’ Its Chocolate Bunnies</title>
       <link>https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/business/lindt-lidl-chocolate-bunnies.html</guid>
@@ -479,6 +500,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-biden-comments-1-2b06/30ukraine-briefing-biden-comments-1-2b06-moth.jpg" width="151"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
       <media:description>President Biden said during a news conference at the White House on Friday that the world would not recognize Russia’s annexation efforts.</media:description>
+    </item>
+    <item>
+      <title>E.U. ministers approve taxes on energy profits to support struggling households.</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/eu-ministers-approve-taxes-on-energy-profits-to-support-struggling-households.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/eu-ministers-approve-taxes-on-energy-profits-to-support-struggling-households.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/eu-ministers-approve-taxes-on-energy-profits-to-support-struggling-households.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 06:01:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-EU-energy-image/30ukraine-briefing-EU-energy-image-moth.jpg" width="151"></media:content>
+      <media:credit>Yves Herman/Reuters</media:credit>
+      <media:description>Kadri Simson, the European commissioner for energy, and Deputy Prime Minister Jozef Sikela of the Czech Republic at a news conference after a European Union Energy Ministers meeting on high energy prices, in Brussels, on Friday.</media:description>
     </item>
     <item>
       <title>Iran Protests Continue Despite Heavy Crackdowns</title>
@@ -1114,44 +1147,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/-1-6365/-1-6365-moth.jpg" width="151"></media:content>
       <media:credit>Hilary Swift for The New York Times</media:credit>
       <media:description>Tampa, Fla., as Hurricane Ian hit.</media:description>
-    </item>
-    <item>
-      <title>Russia Plans to Illegally Annex Lands It Invaded, Even as Its Military Falters</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html" rel="standout"></atom:link>
-      <description>Even though Russia has failed to fully control the four territories it seeks to annex, the Kremlin is preparing a show designed to present a sheen of legitimacy to its illegal takeover.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 20:39:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-annexation-curtainraiser-01-1-6983/30ukraine-briefing-annexation-curtainraiser-01-1-6983-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Casting a ballot during a referendum while an armed Russian serviceman stood guard, in Luhansk, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Felicien Kabuga, Rwanda Genocide Tribunal’s Most Wanted, Is on Trial</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html" rel="standout"></atom:link>
-      <description>Félicien Kabuga lived on the run for 23 years before his arrest in France in 2020. He is accused of backing the groups that oversaw the killing of hundreds of thousands of people in 1994.</description>
-      <dc:creator>Marlise Simons</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 02:38:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hutu Tribe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Tribunal for Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rwandan Patriotic Front (RPF)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabuga, Felicien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Habyarimana, Juvenal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29hague-genocide3/29hague-genocide3-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Curtis/Associated Press</media:credit>
-      <media:description>Individuals killed during the 1994 Rwandan genocide, from a display at the Kigali Genocide Memorial. At least 800,000 died.</media:description>
     </item>
   </channel>
 </rss>

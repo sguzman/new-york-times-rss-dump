@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 14:22:14 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Oct 2022 14:22:03 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 14:42:16 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 14:38:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -84,7 +84,7 @@
       <atom:link href="https://www.nytimes.com/2022/09/30/us/hurricane-ian-lee-county-fort-myers-delay.html" rel="standout"></atom:link>
       <description>A day of hesitation in Lee County came despite warnings that the Fort Myers and Cape Coral area could see mass flooding. Now authorities are encountering mass death.</description>
       <dc:creator>Frances Robles, Mike Baker, Serge F. Kovaleski and Lazaro Gamio</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 00:36:30 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 14:28:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
@@ -161,14 +161,15 @@
       <description>The latest shots, which target Omicron and its subvariants, could offer protection against a winter surge in cases. But many people are unsure if they’re eligible.</description>
       <dc:creator>Jan Hoffman</dc:creator>
       <pubDate>Fri, 30 Sep 2022 20:49:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kaiser Family Foundation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/science/30virus-booster/30virus-booster-moth.jpg" width="151"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>Preparing a booster shot at a vaccination site in Maywood, Ill., this month.</media:description>
@@ -358,6 +359,24 @@
       <media:description>President Vladimir Putin held a ceremony Friday to declare the annexation of four regions in Ukraine.</media:description>
     </item>
     <item>
+      <title>Putin’s Speech Just Told Us His Ukraine War Plans</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/putin-speech-nuclear-russia-ukraine.html" rel="standout"></atom:link>
+      <description>Amid the bluster and veiled threats, the president made three distinct points that form a blueprint for war and peace.</description>
+      <dc:creator>Alexander Baunov</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 14:25:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/01baunov2/01baunov2-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Grigory Sysoyev</media:credit>
+    </item>
+    <item>
       <title>Big Tech Should Support the Iranian People, Not the Regime</title>
       <link>https://www.nytimes.com/2022/09/30/opinion/tech-companies-iran.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/tech-companies-iran.html</guid>
@@ -379,24 +398,6 @@
       <media:credit>Markus Schreiber/Associated Press</media:credit>
     </item>
     <item>
-      <title>If Bolsonaro Loses Brazil’s Election, Will He Respect the Result?</title>
-      <link>https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
-      <description>Brazilians are holding our breath.</description>
-      <dc:creator>Vanessa Barbara</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:17:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/30barbara/merlin_214011954_b89c40c9-aed5-445a-a6bc-a0415e0fbf39-moth.jpg" width="151"></media:content>
-      <media:credit>Silvia Izquierdo/Associated Press</media:credit>
-      <media:description>A man in a shirt with the image of Luiz Inácio Lula da Silva, who is seeking to regain Brazil’s presidency, in Rio de Janeiro on Sunday</media:description>
-    </item>
-    <item>
       <title>The Supreme Court Is Broken. Where’s Biden?</title>
       <link>https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/supreme-court-biden.html</guid>
@@ -412,26 +413,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30Shesol-1a/30Shesol-1a-moth.jpg" width="151"></media:content>
       <media:credit>Pablo Delcan</media:credit>
-    </item>
-    <item>
-      <title>A Strong Dollar Is Hurting Other Countries. Should the Fed Care?</title>
-      <link>https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html" rel="standout"></atom:link>
-      <description>Experts disagree.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 19:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30coy-image/30coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
     <item>
       <title>How the Remote Work Craze Made Housing Affordability Worse</title>
@@ -451,6 +432,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30krugman-newsletter-image/30krugman-newsletter-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by The New York Times; images by Tom Werner and GCShutter, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>If Bolsonaro Loses Brazil’s Election, Will He Respect the Result?</title>
+      <link>https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
+      <description>Brazilians are holding our breath.</description>
+      <dc:creator>Vanessa Barbara</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 18:17:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/opinion/30barbara/merlin_214011954_b89c40c9-aed5-445a-a6bc-a0415e0fbf39-moth.jpg" width="151"></media:content>
+      <media:credit>Silvia Izquierdo/Associated Press</media:credit>
+      <media:description>A man in a shirt with the image of Luiz Inácio Lula da Silva, who is seeking to regain Brazil’s presidency, in Rio de Janeiro on Sunday</media:description>
     </item>
     <item>
       <title>Making Friends</title>
@@ -495,6 +494,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/podcasts/29runup-evangelicals-audio-app/29runup-evangelicals-audio-app-moth.jpg" width="151"></media:content>
       <media:credit>Evelyn Hockstein/For The Washington Post via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>A Strong Dollar Is Hurting Other Countries. Should the Fed Care?</title>
+      <link>https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/opinion/us-dollar-global-impact.html" rel="standout"></atom:link>
+      <description>Experts disagree.</description>
+      <dc:creator>Peter Coy</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 19:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/opinion/30coy-image/30coy-image-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
     <item>
       <title>Eric Adams Confidant Is Among New York’s Highest Paid Public Employees</title>

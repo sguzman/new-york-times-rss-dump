@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 17:56:12 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 17:25:55 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 18:31:46 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 18:26:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Luiz Inácio Lula da Silva, a former leftist president once imprisoned amid a corruption scandal, is seeking to oust President Jair Bolsonaro, the far-right leader who has questioned the integrity of Sunday’s election.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 17:25:55 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 18:26:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02brazil-br-sfp/02brazil-briefing-promo-9am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
     </item>
@@ -181,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Fresh from reclaiming Lyman, Ukraine’s commanders are considering the next steps in an offensive that has undermined Russia’s illegal annexation claims.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 16:13:01 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 18:08:47 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian soldiers salvaged what they could from abandoned Russian armored vehicles near a checkpoint on the outskirts of Izium on Saturday.</media:description>
@@ -451,12 +451,14 @@
       <description>With Easter still far away, there are none to melt down. But the decision opened a door on the bunny-eat-bunny world of European chocolatiers.</description>
       <dc:creator>Michael Levenson</dc:creator>
       <pubDate>Sat, 01 Oct 2022 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chocolate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lidl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lindt &amp; Sprungli AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chocolate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03xp-chocolatebunnies-skybox1/30xp-chocolatebunnies-1-moth.jpg" width="151"></media:content>
       <media:credit>Arnd Wiegmann/Reuters</media:credit>
       <media:description>Lindt, the Swiss chocolate maker, is protective of its “Gold Bunny.”</media:description>

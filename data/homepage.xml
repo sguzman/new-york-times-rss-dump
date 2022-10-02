@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 19:28:01 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 19:19:32 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 19:48:15 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 19:43:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -206,14 +206,16 @@
       <description>A court that does not keep the public’s trust cannot perform its critical role in American government.</description>
       <dc:creator>The Editorial Board</dc:creator>
       <pubDate>Sat, 01 Oct 2022 15:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dobbs v Jackson Women&#39;s Health Organization (Supreme Court Decision)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/opinion/29scotus1/29scotus1-moth.jpg" width="151"></media:content>
       <media:credit>Christopher Lee for The New York Times</media:credit>
     </item>
@@ -243,14 +245,13 @@
       <description>And it can be yours for just four yearly payments of $50,000!</description>
       <dc:creator>Sophie Callcott</dc:creator>
       <pubDate>Sat, 01 Oct 2022 15:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Secondary)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ivy League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stanford University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/opinion/01callcott/01callcott-moth.png" width="151"></media:content>
       <media:credit>Albert Tercero</media:credit>
     </item>
@@ -262,13 +263,15 @@
       <description>The case for a progressive levy on consumption.</description>
       <dc:creator>Ezra Klein</dc:creator>
       <pubDate>Sat, 01 Oct 2022 15:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Volcker, Paul A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frank, Robert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/opinion/02klein1/02klein1-moth.jpg" width="151"></media:content>
       <media:credit>Yuvraj Khanna for The New York Times</media:credit>
     </item>
@@ -322,21 +325,31 @@
       <media:credit>Pablo Delcan</media:credit>
     </item>
     <item>
-      <title>A choice between two heavyweights</title>
-      <link>https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/briefing/a-choice-between-two-heavyweights.html" rel="standout"></atom:link>
-      <description>Brazil votes for president today. Jack Nicas, the bureau chief there, explains what’s at stake.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 11:34:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02-THE-MORNING-NL-1-PROMO/02BRAZIL-ELECTION-moth.jpg" width="151"></media:content>
-      <media:credit>From left: Lalo de Almeida for The New York Times; Victor Moriyama for The New York Times</media:credit>
-      <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
+      <title>Democrats in Congress Point Fingers at Their Leaders Over Stock Trading Ban</title>
+      <link>https://www.nytimes.com/2022/09/30/us/politics/congress-stock-trading.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/us/politics/congress-stock-trading.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/us/politics/congress-stock-trading.html" rel="standout"></atom:link>
+      <description>The perception that lawmakers are cashing in on their offices has fueled cynicism among voters. Some politicians want to take the current limits further.</description>
+      <dc:creator>Blake Hounshell and Kate Kelly</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 15:31:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Project on Government Oversight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burr, Richard M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lofgren, Zoe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spanberger, Abigail</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30onpolitics-spanberger-1-33e5/30onpolitics-spanberger-1-33e5-moth.jpg" width="151"></media:content>
+      <media:credit>Greg Kahn for The New York Times</media:credit>
+      <media:description>Representative Abigail Spanberger has criticized fellow Democrats for declining to allow a vote on her proposal to limit lawmakers’ ability to trade individual stocks.</media:description>
     </item>
     <item>
       <title>The Sunday Read: ‘The Safe Space That Became a Viral Nightmare’</title>
@@ -369,15 +382,20 @@
       <media:description>San Carlos Island in Fort Myers Beach, Fla., on Thursday.</media:description>
     </item>
     <item>
-      <title>TikTok’s Corn Kid Is Doing Just Fine: The Week in Narrated Articles</title>
-      <link>https://www.nytimes.com/2022/09/30/podcasts/corn-kid-constance-wu-narrated-articles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/podcasts/corn-kid-constance-wu-narrated-articles.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/podcasts/corn-kid-constance-wu-narrated-articles.html" rel="standout"></atom:link>
-      <description>Five articles from around The Times, narrated just for you.</description>
-      <pubDate>Fri, 30 Sep 2022 13:12:51 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/fashion/30narrated-2/21CORN-KID2-moth-v6.jpg" width="151"></media:content>
-      <media:credit>OK McCausland for The New York Times</media:credit>
-      <media:description>A video of Tariq took off online when he shared his love of corn.</media:description>
+      <title>Did Your Home Security Camera Document Hurricane Ian?</title>
+      <link>https://www.nytimes.com/2022/09/29/us/hurricane-ian-callout.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/hurricane-ian-callout.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/us/hurricane-ian-callout.html" rel="standout"></atom:link>
+      <description>We want to hear from you.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 23:11:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/29HurricaneCallout-1/merlin_214025832_a8b20133-d528-4050-9f1b-f254570363b9-moth.jpg" width="151"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>Destruction from Hurricane Ian on Thursday in Fort Myers Beach, Fla.</media:description>
     </item>
     <item>
       <title>How the U.K. Finance Minister Came to Ignore Finance Experts</title>
@@ -386,7 +404,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/uk-kwasi-kwarteng-truss-economy.html" rel="standout"></atom:link>
       <description>Kwasi Kwarteng, the chancellor of the Exchequer, faces widespread anger over the tax cuts he and Liz Truss have pushed, but their history of dismissing the economic establishment goes back years.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 11:42:03 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 19:36:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>

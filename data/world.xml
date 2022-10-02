@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 15:25:04 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 15:24:18 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 15:46:10 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 15:30:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football" rel="standout"></atom:link>
       <description>Policing experts and human rights organizations are raising questions about why police used the chemical. In the panic that ensued, many were trampled, leaving at least 125 people dead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 15:24:18 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 15:30:23 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-header/merlin_214164360_70e5360f-ec94-4cdc-9a1d-3b7ea071a095-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>People carrying an injured man at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
@@ -194,15 +194,19 @@
       <description>The act of sabotage has brought the Ukraine war closer, raising anxiety levels and threatening to undermine the Europeans’ resolve to help Ukraine fight on.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
       <pubDate>Sat, 01 Oct 2022 20:50:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lubmin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30Pipeline-Anxiety01/30Pipeline-Anxiety01-moth.jpg" width="151"></media:content>
       <media:credit>Laetitia Vancon for The New York Times</media:credit>
       <media:description>The Nord Stream 2 gas pipeline in Lubmin, Germany, on Friday.</media:description>
@@ -1115,18 +1119,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/29ukraine-briefing-annexation-nulede-01/29ukraine-briefing-annexation-nulede-01-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>A giant poster in Luhansk, Ukraine, on Wednesday declared, “With Russia forever!” as Russia appeared poised to try to annex the region.</media:description>
-    </item>
-    <item>
-      <title>Russia Plans to Annex Land in Ukraine</title>
-      <link>https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html" rel="standout"></atom:link>
-      <description>Plus the destruction from Hurricane Ian and Zambia’s honeymoon.</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 21:42:19 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/30ambriefing-asia-nl-PROMO/29ukraine-briefing-annexation-timeline-image-1-42d7-moth.jpg" width="151"></media:content>
-      <media:credit>Evgenia Novozhenina/Reuters</media:credit>
-      <media:description>Banners read “Donetsk, Luhansk, Zaporizhzhia, Kherson — Russia!” in Red Square in central Moscow on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

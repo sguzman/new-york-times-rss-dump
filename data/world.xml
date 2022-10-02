@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 20:45:04 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 20:38:21 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 21:18:53 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 21:16:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -81,7 +81,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html" rel="standout"></atom:link>
       <description>The case, involving a billionaire entrepreneur, riveted observers in China, where women alleging sexual wrongdoing by powerful men are often pilloried, silenced or both.</description>
       <dc:creator>Amy Qin and Chang Che</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 17:15:40 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 21:08:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
@@ -94,13 +94,13 @@
       <media:description>Liu Jingyao filed a civil suit accusing the Chinese tech billionaire Richard Liu of raping her in Minneapolis in 2018.</media:description>
     </item>
     <item>
-      <title>Anxious Voters Cast Presidential Ballots in a Polarized Contest</title>
+      <title>Polls Close in High-Stakes Contest for the Next Brazilian Leader</title>
       <link>https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election" rel="standout"></atom:link>
-      <description>President Jair Bolsonaro, the far-right incumbent who has questioned the integrity of Sunday’s election is facing Luiz Inácio Lula da Silva, a former leftist president once imprisoned amid a corruption scandal.</description>
+      <description>If neither President Jair Bolsonaro, the far-right incumbent, nor Luiz Inácio Lula da Silva, a former leftist president, receive more than 50 percent of the vote, a runoff will be held later this month.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 20:36:44 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 21:00:15 +0000</pubDate>
     </item>
     <item>
       <title>How the U.K. Finance Minister Came to Ignore Finance Experts</title>
@@ -184,7 +184,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>With Ukraine back in control of Lyman, a crucial rail hub, signs of the city’s former occupiers are everywhere and residents are just learning about Moscow’s annexation claims.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 20:38:21 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 21:16:10 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian soldiers salvaged what they could from abandoned Russian armored vehicles near a checkpoint on the outskirts of Izium on Saturday.</media:description>
@@ -275,32 +275,63 @@
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
     </item>
     <item>
+      <title>Your Monday Briefing: Indonesia’s Stadium Tragedy</title>
+      <link>https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html" rel="standout"></atom:link>
+      <description>Plus Brazil votes in national elections and China wrestles with Covid fatigue.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 21:04:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/multimedia/03ambriefing-asia-nl-PROMO/01indonesia-03-1-80fa-moth.jpg" width="151"></media:content>
+      <media:credit>Yudha Prabowo/Associated Press</media:credit>
+      <media:description>Soccer fans carrying an injured man away from the stadium.</media:description>
+    </item>
+    <item>
       <title>Putin’s Claims to Donetsk Are News To Some Residents of Newly-Liberated Lyman</title>
       <link>https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/putin-russia-donetsk-lyman.html" rel="standout"></atom:link>
       <description>Russia’s president decreed on Friday that four regions of Ukraine including Donetsk, where Lyman is located, would be absorbed into Russia.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 19:55:15 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 21:16:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-lyman-annexation02/02ukraine-briefing-lyman-annexation02-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed building in Lyman, Ukraine, on Sunday.</media:description>
     </item>
     <item>
-      <title>Hurricane Orlene Expected to Hit Western Mexico by Monday</title>
+      <title>Hurricane Orlene Expected to Hit Western Mexico On Monday</title>
       <link>https://www.nytimes.com/article/orlene-hurricane.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/orlene-hurricane.html</guid>
       <atom:link href="https://www.nytimes.com/article/orlene-hurricane.html" rel="standout"></atom:link>
       <description>Orlene, a Category 3 storm, could bring as much as 14 inches of rain to some areas, forecasters said.</description>
       <dc:creator>Christine Chung</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 19:04:17 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 21:15:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="">Hurricane Orlene</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03xp-orlene-1/03xp-orlene-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse, via National Oceanic and Atmospheric Administration</media:credit>
       <media:description>A satellite image of Hurricane Orlene on Sunday. The storm could bring flash flooding and landslides across southwest Mexico through Tuesday, forecasters said.</media:description>
@@ -416,6 +447,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-disasters1/02indonesia-soccer-disasters1-moth.jpg" width="151"></media:content>
       <media:credit>El Comercio, via Associated Press</media:credit>
       <media:description>People fleeing tear gas at the Estadio Nacional in Lima on May 24, 1964.</media:description>
+    </item>
+    <item>
+      <title>Zelensky says Russia’s retreat shows its annexation moves are a ‘farce.’</title>
+      <link>https://www.nytimes.com/2022/10/01/world/europe/zelensky-says-his-forces-will-recapture-more-towns-after-lyman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/europe/zelensky-says-his-forces-will-recapture-more-towns-after-lyman.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/zelensky-says-his-forces-will-recapture-more-towns-after-lyman.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>James C. McKinley Jr.</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 12:10:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/01/world/01ukraine-briefing-zelensky/01ukraine-briefing-zelensky-moth.jpg" width="151"></media:content>
+      <media:credit>Ukrainian Presidential Press Service, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>A photo provided by the Ukrainian Presidential Press Service of President Volodymyr Zelensky on Friday in Kyiv.</media:description>
     </item>
     <item>
       <title>Ukraine Forces Retake Lyman, a Strategic City, as Russians Retreat</title>
@@ -623,6 +667,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/01brazil-vote-top/02BRAZIL-ELECTION-moth.jpg" width="151"></media:content>
       <media:credit>From left: Lalo de Almeida for The New York Times; Victor Moriyama for The New York Times</media:credit>
       <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
+    </item>
+    <item>
+      <title>The U.N. nuclear agency calls for the release of the Zaporizhzhia nuclear plant’s director general.</title>
+      <link>https://www.nytimes.com/2022/10/02/world/europe/russia-has-detained-the-zaporizhzhia-nuclear-plants-director-general-its-operator-says.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/russia-has-detained-the-zaporizhzhia-nuclear-plants-director-general-its-operator-says.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/russia-has-detained-the-zaporizhzhia-nuclear-plants-director-general-its-operator-says.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Erin Mendell</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 09:00:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-briefing-zpp-director-01/01ukraine-briefing-zpp-director-01-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>The Zaporizhzhia Nuclear Power Plant in August. The plant was taken by Russian forces in March but is run by Ukrainian engineers.</media:description>
     </item>
     <item>
       <title>North Korea Launches Two Ballistic Missiles, Fourth Test in a Week</title>
@@ -1032,59 +1088,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ausletter276-01/30ausletter276-01-moth.jpg" width="151"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
-    </item>
-    <item>
-      <title>A Year Under the Taliban</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html" rel="standout"></atom:link>
-      <description>A single year of extremist rule has turned life upside down for Afghans, especially women. A photographer who has long called the country home captured the jarring changes.</description>
-      <dc:creator>Kiana Hayeri</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:00:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/28/world/00afghan-kabul-dispatch-promo/00afghan-kabul-dispatch-2-moth.jpg" width="151"></media:content>
-      <media:credit>Kiana Hayeri for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Even as Iranians Rise Up, Protests Worldwide Are Failing at Record Rates</title>
-      <link>https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html" rel="standout"></atom:link>
-      <description>Mass protests, once a grave threat to even the fiercest autocrat, have plummeted in effectiveness, a study shows. Factors appear to include polarization, social media and rising nationalist attitudes.</description>
-      <dc:creator>Max Fisher</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sri Lanka</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30Int-Iran01/30Int-Iran01-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Iranian demonstrators in the streets of the capital, Tehran, last week. Protests erupted around the country after the death of a young woman, Mahsa Amini, following her detainment in police custody.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Says 25 People Died in Attack on Civilians in Zaporizhzhia</title>
-      <link>https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html" rel="standout"></atom:link>
-      <description>Russia launched a flurry of strikes, creating scenes of destruction inside Ukraine as the Kremlin planned an elaborate, and widely dismissed, annexation ceremony.</description>
-      <dc:creator>Michael Schwirtz and Andrew E. Kramer</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 21:16:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack03/merlin_214065531_77c887d8-2678-4449-ae1a-d6f45f33156d-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

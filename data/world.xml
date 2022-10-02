@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 16:31:40 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 16:19:01 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 17:07:18 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 17:04:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football" rel="standout"></atom:link>
       <description>Policing experts and human rights organizations are raising questions about why police used the chemical. In the panic that ensued, many were trampled, leaving at least 125 people dead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 16:17:45 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 17:01:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-header/merlin_214164360_70e5360f-ec94-4cdc-9a1d-3b7ea071a095-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>People carrying an injured man at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
@@ -124,7 +124,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html" rel="standout"></atom:link>
       <description>Capt. Ibrahim Traoré, who announced a coup on Friday, was greeted by dozens of protesters in the capital, Ouagadougou. Many of them said they wanted Russia to help the country tackle a security crisis.</description>
       <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 14:44:46 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 17:04:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
@@ -269,6 +269,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
+    </item>
+    <item>
+      <title>Fans Blame Police After More Than 100 Die at Indonesian Soccer Match</title>
+      <link>https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html" rel="standout"></atom:link>
+      <description>Witnesses said officers fired tear gas indiscriminately into the stands, causing a stampede that led to at least 125 deaths.</description>
+      <dc:creator>Muktita Suhartono, Sui-Lee Wee and Dera Menra Sijabat</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 17:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-add/02indonesia-add-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers firing tear gas into crowds at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
     </item>
     <item>
       <title>Deaths Are Rare at Soccer Games, but Aggressive Policing Can Light a Match</title>
@@ -463,11 +482,13 @@
       <description>Unrest quickly escalated in Burkina Faso’s capital, Ouagadougou, as military officers who removed another military leader accused France of helping him stage a comeback.</description>
       <dc:creator>Elian Peltier</dc:creator>
       <pubDate>Sat, 01 Oct 2022 22:38:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Traore, Ibrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damiba, Paul-Henri Sandaogo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damiba, Paul-Henri Sandaogo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouagadougou (Burkina Faso)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01burkina-folo-newtop/01burkina-folo-newtop-moth.jpg" width="151"></media:content>
       <media:credit>Vincent Bado/Reuters</media:credit>
       <media:description>Soldiers standing guard in an armored vehicle in Ouagadougou, Burkina Faso, on Saturday.</media:description>
@@ -511,12 +532,12 @@
       <pubDate>Sat, 01 Oct 2022 10:33:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sindh Province (Pakistan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01pakistan-farmers-promo/01pakistan-farmers-3-moth.jpg" width="151"></media:content>
       <media:credit>Kiana Hayeri for The New York Times</media:credit>
     </item>
@@ -527,16 +548,17 @@
       <atom:link href="https://www.nytimes.com/2022/10/01/world/americas/bolsanoro-lula-brazil-election.html" rel="standout"></atom:link>
       <description>Brazilians voting for president on Sunday will choose between two political titans in a contest seen as a major test for one of the world’s largest democracies.</description>
       <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 13:46:31 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 13:46:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/01brazil-vote-top/02BRAZIL-ELECTION-moth.jpg" width="151"></media:content>
       <media:credit>From left: Lalo de Almeida for The New York Times; Victor Moriyama for The New York Times</media:credit>
       <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
@@ -1107,18 +1129,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-kramer-explainer01-1-b2bc/29ukraine-briefing-kramer-explainer01-1-b2bc-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse/Getty Images</media:credit>
       <media:description>A local resident rides past an abandoned Russian tank in Kramatorsk, eastern Ukraine, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>With annexation plans, Putin escalates a battle of wills with the West.</title>
-      <link>https://www.nytimes.com/2022/09/30/world/europe/with-annexation-plans-putin-escalates-a-battle-of-wills-with-the-west.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/with-annexation-plans-putin-escalates-a-battle-of-wills-with-the-west.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/with-annexation-plans-putin-escalates-a-battle-of-wills-with-the-west.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 09:16:10 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/29ukraine-briefing-annexation-nulede-01/29ukraine-briefing-annexation-nulede-01-moth.jpg" width="151"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>A giant poster in Luhansk, Ukraine, on Wednesday declared, “With Russia forever!” as Russia appeared poised to try to annex the region.</media:description>
     </item>
   </channel>
 </rss>

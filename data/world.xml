@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 18:56:18 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 18:51:02 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 19:28:50 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 19:22:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,37 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football" rel="standout"></atom:link>
       <description>Policing experts and human rights organizations are raising questions about why police used the chemical. In the panic that ensued, many were trampled, leaving at least 125 people dead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 18:51:02 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 18:56:34 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-header/merlin_214164360_70e5360f-ec94-4cdc-9a1d-3b7ea071a095-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>People carrying an injured man at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>In Quebec, the Independence Movement Gives Way to a New Nationalism</title>
+      <link>https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html" rel="standout"></atom:link>
+      <description>In Monday’s election, residents of a town that was once a stronghold of the independence movement are expected to back the province’s popular premier, who has embraced a nationalism based on French Québécois identity.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 18:57:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">LAssomption</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Symbols</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02canada-quebec-top/02canada-quebec-top-moth.jpg" width="151"></media:content>
+      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
+      <media:description>A sign that reads, “Yes, keeping the flame alive” in French adorned a house in L’Assomption, Quebec.</media:description>
     </item>
     <item>
       <title>Leicester Tensions Have Roots in India</title>
@@ -67,35 +94,13 @@
       <media:description>Liu Jingyao filed a civil suit accusing the Chinese tech billionaire Richard Liu of raping her in Minneapolis in 2018.</media:description>
     </item>
     <item>
-      <title>Iran Protests Fueled by Sickly Economy </title>
-      <link>https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html" rel="standout"></atom:link>
-      <description>The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.</description>
-      <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00iran-economy-new/merlin_208640253_1d8195f6-bd16-4237-ac86-e8de869f45a4-moth.jpg" width="151"></media:content>
-      <media:credit>Arash Khamooshi for The New York Times</media:credit>
-      <media:description>Shopping at the Tajrish Bazaar in Tehran in June. Prices for some goods in Iran are up as much as 75 percent from last year.</media:description>
-    </item>
-    <item>
-      <title>Voters Go to the Polls in Divisive Election Between 2 Political Titans</title>
+      <title>Anxious Voters Cast Presidential Ballots in a Polarized Contest</title>
       <link>https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election" rel="standout"></atom:link>
-      <description>Luiz Inácio Lula da Silva, a former leftist president once imprisoned amid a corruption scandal, is seeking to oust President Jair Bolsonaro, the far-right leader who has questioned the integrity of Sunday’s election.</description>
+      <description>President Jair Bolsonaro, the far-right incumbent who has questioned the integrity of Sunday’s election is facing Luiz Inácio Lula da Silva, a former leftist president once imprisoned amid a corruption scandal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 18:37:19 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 19:22:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02brazil-br-sfp/02brazil-briefing-promo-9am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
     </item>
@@ -118,13 +123,13 @@
       <media:description>Kwasi Kwarteng, Britain’s chancellor of the Exchequer, announced a series of tax cuts that sent the markets spiraling.</media:description>
     </item>
     <item>
-      <title>Burkina Faso’s Self-Proclaimed Leader Tries to Reassure Country</title>
+      <title>In Burkina Faso, the Man Who Once Led a Coup Is Ousted by One</title>
       <link>https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/02/world/africa/burkina-faso-coup-france-russia.html" rel="standout"></atom:link>
-      <description>Capt. Ibrahim Traoré, who announced a coup on Friday, was greeted by dozens of protesters in the capital, Ouagadougou. Many of them said they wanted Russia to help the country tackle a security crisis.</description>
+      <description>Lt. Col. Paul-Henri Sandaogo Damiba seized power in a coup in January. But factions of the military grew frustrated with his handling of a security crisis plaguing the West African nation.</description>
       <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 17:04:54 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 19:14:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
@@ -181,10 +186,32 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Fresh from reclaiming Lyman, Ukraine’s commanders are considering the next steps in an offensive that has undermined Russia’s illegal annexation claims.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 18:08:47 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 19:03:39 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian soldiers salvaged what they could from abandoned Russian armored vehicles near a checkpoint on the outskirts of Izium on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Iran Protests Fueled by Sickly Economy </title>
+      <link>https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html" rel="standout"></atom:link>
+      <description>The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.</description>
+      <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 07:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00iran-economy-new/merlin_208640253_1d8195f6-bd16-4237-ac86-e8de869f45a4-moth.jpg" width="151"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Shopping at the Tajrish Bazaar in Tehran in June. Prices for some goods in Iran are up as much as 75 percent from last year.</media:description>
     </item>
     <item>
       <title>‘Naked Fear’: A Pipeline Attack Fans Anxiety in a German Village, and Beyond</title>
@@ -250,52 +277,22 @@
       <media:description>Rabbi Delphine Horvilleur, center left, in black clothes, attends a Bar Mitzvah ceremony.</media:description>
     </item>
     <item>
-      <title>Blast at Education Center in Kabul Kills at Least 19</title>
-      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
-      <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
-      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 14:44:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
-    </item>
-    <item>
-      <title>In Quebec, the Independence Movement Gives Way to a New Nationalism</title>
-      <link>https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html" rel="standout"></atom:link>
-      <description>In Monday’s election, residents of a town that was once a stronghold of the independence movement are expected to back the province’s popular premier, who has embraced a nationalism based on French Québécois identity.</description>
-      <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 18:44:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">LAssomption</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Symbols</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02canada-quebec-top/02canada-quebec-top-moth.jpg" width="151"></media:content>
-      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
-      <media:description>A sign that reads, “Yes, keeping the flame alive” in French adorned a house in L’Assomption, Quebec.</media:description>
+      <title>Hurricane Orlene Expected to Hit Western Mexico by Monday</title>
+      <link>https://www.nytimes.com/article/orlene-hurricane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/orlene-hurricane.html</guid>
+      <atom:link href="https://www.nytimes.com/article/orlene-hurricane.html" rel="standout"></atom:link>
+      <description>Orlene, a Category 3 storm, could bring as much as 14 inches of rain to some areas, forecasters said.</description>
+      <dc:creator>Christine Chung</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 19:04:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="">Hurricane Orlene</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03xp-orlene-1/03xp-orlene-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse, via National Oceanic and Atmospheric Administration</media:credit>
+      <media:description>A satellite image of Hurricane Orlene on Sunday. The storm could bring flash flooding and landslides across southwest Mexico through Tuesday, forecasters said.</media:description>
     </item>
     <item>
       <title>Fans Focus on Police After More Than 100 Die at Indonesian Soccer Match</title>
@@ -416,6 +413,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01ukraine-ledeall11/01ukraine-ledeall11-moth.jpg" width="151"></media:content>
       <media:credit>Zohra Bensemra/Reuters</media:credit>
       <media:description>Ukrainian soldiers in Bakhmut on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Gazprom halts gas supplies to Italy.</title>
+      <link>https://www.nytimes.com/2022/10/02/world/europe/gazprom-halts-gas-supplies-to-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/gazprom-halts-gas-supplies-to-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/gazprom-halts-gas-supplies-to-italy.html" rel="standout"></atom:link>
+      <description>The Italian gas provider Eni said that the Russian monopoly did not deliver the natural gas it had booked for Saturday.</description>
+      <dc:creator>Melissa Eddy</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 05:07:07 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/01/world/01ukraine-briefing-italy-gas/01ukraine-briefing-italy-gas-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandro Bianchi/Reuters</media:credit>
+      <media:description>The headquarters of Eni in Rome, Italy, in 2017.</media:description>
     </item>
     <item>
       <title>Putin Supporters Enraged By Russian Retreat From Lyman</title>
@@ -967,6 +976,27 @@
       <media:description>Prime Minister Prayuth Chan-ocha of Thailand. During his eight years in power, he has survived four no-confidence votes.</media:description>
     </item>
     <item>
+      <title>Blast at Education Center in Kabul Kills at Least 19</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html" rel="standout"></atom:link>
+      <description>The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.</description>
+      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 14:44:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazaras (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
+    </item>
+    <item>
       <title>The Invisible Risks of a Town Ruined by Asbestos</title>
       <link>https://www.nytimes.com/2022/09/30/world/australia/the-invisible-risks-of-a-town-ruined-by-asbestos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/australia/the-invisible-risks-of-a-town-ruined-by-asbestos.html</guid>
@@ -1061,62 +1091,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/26/multimedia/26ukraine-briefing-annexation-04-1-8ae4/26ukraine-briefing-annexation-04-1-8ae4-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>A mobile polling site set up for a referendum in Mariupol, in the Donetsk region of eastern Ukraine, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Your Friday Briefing</title>
-      <link>https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html" rel="standout"></atom:link>
-      <description>Russia moves to annex Ukrainian territory.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 04:37:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30AM-brf-Ukr-Rus-promo/30AM-brf-Ukr-Rus-02-1-5c3c-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Russian soldiers gather on Red Square Thursday, as the area is closed prior to a ceremony claiming the annexation of four Ukrainian provinces. Banners on the stage read: “Donetsk, Luhansk, Zaporizka, Kherson — Russia!”</media:description>
-    </item>
-    <item>
-      <title>Putin to Announce Ukraine Annexation Plans on Friday</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html" rel="standout"></atom:link>
-      <description>There was no sign that any other country would recognize Russia’s move, but Mr. Putin may try to use the plans to shift attention away from his losses on the battlefield.</description>
-      <dc:creator>Anton Troianovski</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 23:18:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carnegie Endowment for International Peace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Levada Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29ukraine-ledeall-top/29ukraine-ledeall-top-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
-      <media:description>A concert stage being prepared in Moscow’s Red Square on Thursday, ahead of celebrations planned for Russia’s expected announcement on Friday of its illegal annexation of four regions of Ukraine.</media:description>
     </item>
   </channel>
 </rss>

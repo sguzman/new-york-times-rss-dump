@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 18:31:46 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 18:26:30 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 18:56:18 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 18:51:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football" rel="standout"></atom:link>
       <description>Policing experts and human rights organizations are raising questions about why police used the chemical. In the panic that ensued, many were trampled, leaving at least 125 people dead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 17:01:07 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 18:51:02 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-header/merlin_214164360_70e5360f-ec94-4cdc-9a1d-3b7ea071a095-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>People carrying an injured man at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
@@ -95,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Luiz Inácio Lula da Silva, a former leftist president once imprisoned amid a corruption scandal, is seeking to oust President Jair Bolsonaro, the far-right leader who has questioned the integrity of Sunday’s election.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 18:26:30 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 18:37:19 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02brazil-br-sfp/02brazil-briefing-promo-9am-ET-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
     </item>
@@ -269,6 +269,33 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30afghanistan-explosion-01/30afghanistan-explosion-01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Relatives and medical staff tending to one of the victims of an attack on a learning center Friday in the Dasht-e-Barchi neighborhood in Kabul.</media:description>
+    </item>
+    <item>
+      <title>In Quebec, the Independence Movement Gives Way to a New Nationalism</title>
+      <link>https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/canada/quebec-election-francois-legault.html" rel="standout"></atom:link>
+      <description>In Monday’s election, residents of a town that was once a stronghold of the independence movement are expected to back the province’s popular premier, who has embraced a nationalism based on French Québécois identity.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 18:44:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">LAssomption</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Symbols</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02canada-quebec-top/02canada-quebec-top-moth.jpg" width="151"></media:content>
+      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
+      <media:description>A sign that reads, “Yes, keeping the flame alive” in French adorned a house in L’Assomption, Quebec.</media:description>
     </item>
     <item>
       <title>Fans Focus on Police After More Than 100 Die at Indonesian Soccer Match</title>
@@ -1090,27 +1117,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29ukraine-ledeall-top/29ukraine-ledeall-top-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
       <media:description>A concert stage being prepared in Moscow’s Red Square on Thursday, ahead of celebrations planned for Russia’s expected announcement on Friday of its illegal annexation of four regions of Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Downpours From Ian Prompt Florida Treatment Plants to Release Waste</title>
-      <link>https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html" rel="standout"></atom:link>
-      <description>Concern turns to industrial sites and huge farms farther north as the storm heads toward South Carolina.</description>
-      <dc:creator>Winston Choi-Schagrin</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 00:20:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/29CLI-TOXIC1/29CLI-TOXIC1-moth.jpg" width="151"></media:content>
-      <media:credit>Drone Base, via Reuters</media:credit>
-      <media:description>Reservoirs at Piney Point, a phosphate plant in Palmetto, Fla., that is in the process of being shut down.</media:description>
     </item>
   </channel>
 </rss>

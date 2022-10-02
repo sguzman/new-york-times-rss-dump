@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 16:57:08 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 15:05:16 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 17:27:28 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 17:22:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -54,6 +54,25 @@
       <media:description>The U.S. Supreme Court in August.</media:description>
     </item>
     <item>
+      <title>Fans Focus on Police After More Than 100 Die at Indonesian Soccer Match</title>
+      <link>https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html" rel="standout"></atom:link>
+      <description>Witnesses said officers fired tear gas indiscriminately into the stands, causing a stampede that led to at least 125 deaths.</description>
+      <dc:creator>Muktita Suhartono, Sui-Lee Wee and Dera Menra Sijabat</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 17:20:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-add/02indonesia-add-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers firing tear gas into crowds at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
+    </item>
+    <item>
       <title>Indonesian Fan Still Hears ‘Voices Screaming’ After Match</title>
       <link>https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</guid>
@@ -90,27 +109,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/lens/00pol-walker-teenager02/00pol-walker-teenager02-moth.jpg" width="151"></media:content>
       <media:credit>J.C. Lee/Atlanta Journal-Constitution via AP</media:credit>
       <media:description>Herschel Walker in 1979, when he was a high school football star, near the Johnson County Courthouse in Wrightsville, Ga., his hometown.</media:description>
-    </item>
-    <item>
-      <title>In Washington, Putin’s Nuclear Threats Stir Growing Alarm</title>
-      <link>https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/01/world/europe/washington-putin-nuclear-threats.html" rel="standout"></atom:link>
-      <description>In a gathering Cold War atmosphere, American officials are gaming out responses should Russia resort to battlefield nuclear weapons.</description>
-      <dc:creator>David E. Sanger, Anton Troianovski and Julian E. Barnes</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 03:42:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01UkraineNuclear01b/01UkraineNuclear01b-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Vladimir V. Putin of Russia displayed on Friday on a screen in Moscow as he addressed the sham annexation of four regions of Ukraine.</media:description>
     </item>
     <item>
       <title>‘I Did All I Could’: As Floodwaters Rose, She Fought to Save Her Disabled Brothers</title>
@@ -400,20 +398,18 @@
       <description>Caracas freed seven Americans in a trade for two nephews of Venezuela’s first lady who had been convicted on drug charges. Separately, Tehran released its longest-held American captive.</description>
       <dc:creator>Michael D. Shear and Farnaz Fassihi</dc:creator>
       <pubDate>Sat, 01 Oct 2022 23:35:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores de Freitas, Francisco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Cilia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Efrain Antonio Campo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Namazi, Siamak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01dc-prisoners1/01dc-prisoners1-moth.jpg" width="151"></media:content>
       <media:credit>Jorge Arreaza, via Associated Press</media:credit>
       <media:description>The Americans released by Venezuela included several executives of the Citgo oil refining company, who had been detained more than four years ago.</media:description>
@@ -469,8 +465,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html" rel="standout"></atom:link>
       <description>The case, involving a billionaire entrepreneur, riveted observers in China, where women alleging sexual wrongdoing by powerful men are often pilloried, silenced or both.</description>
-      <dc:creator>Chang Che</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 14:46:41 +0000</pubDate>
+      <dc:creator>Amy Qin and Chang Che</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 17:15:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>

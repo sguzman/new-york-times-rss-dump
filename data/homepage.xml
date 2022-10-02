@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 23:14:08 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 22:35:17 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 23:45:17 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 23:40:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -129,13 +129,32 @@
       <media:description>Herschel Walker in 1979, when he was a high school football star, near the Johnson County Courthouse in Wrightsville, Ga., his hometown.</media:description>
     </item>
     <item>
+      <title>Ukrainian Troops Hunt Demoralized Russian Stragglers in Seized City</title>
+      <link>https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html" rel="standout"></atom:link>
+      <description>A major Russian newspaper said the Russian troops, facing defeat in Lyman, had fled with “empty eyes” after barely escaping with their lives.</description>
+      <pubDate>Sun, 02 Oct 2022 22:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Komsomolskaya Pravda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pravda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-ledeall-swap1/02ukraine-ledeall-swap1-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A Ukrainian tank near a recaptured area north of Lyman in the Donetsk region of Ukraine on Sunday.</media:description>
+    </item>
+    <item>
       <title>‘I Did All I Could’: As Floodwaters Rose, She Fought to Save Her Disabled Brothers</title>
       <link>https://www.nytimes.com/2022/10/02/us/sister-ian-rescue-brothers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/us/sister-ian-rescue-brothers.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/02/us/sister-ian-rescue-brothers.html" rel="standout"></atom:link>
       <description>Darcy Bishop for decades has cared for her two brothers, who have cerebral palsy. Hurricane Ian was her biggest test yet.</description>
       <dc:creator>Corina Knoll</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 21:27:14 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 23:40:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Naples (Fla)</category>

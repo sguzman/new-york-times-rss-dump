@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Oct 2022 08:59:54 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Oct 2022 08:59:44 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 09:29:47 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 09:28:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/indonesia-soccer-football" rel="standout"></atom:link>
       <description>After a home team loss, fans ran onto the field and were confronted by the police, who used tear gas. In the panic that ensued, many were trampled, leaving at least 150 people dead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 08:55:48 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 09:28:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-promo3/merlin_214166970_b2dbfb43-f859-4933-9202-12a80eced18a-moth.jpg" width="151"></media:content>
       <media:credit>Sandi Sadewa/EPA, via Shutterstock</media:credit>
       <media:description>02indonesia-soccer-promo</media:description>
@@ -74,7 +74,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that his forces will recapture more towns in the Donbas region soon after they took parts of Lyman.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 08:59:44 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 09:01:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-briefing-header/02ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian soldiers salvaged what they could from abandoned Russian armored vehicles near a checkpoint on the outskirts of Izium on Saturday.</media:description>
@@ -280,6 +280,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
       <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
+    </item>
+    <item>
+      <title>Indonesian Fan Still Hears ‘Voices Screaming’ After Match</title>
+      <link>https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html" rel="standout"></atom:link>
+      <description>One witness said most of the victims were people trapped in the stands, not those on the field. Without tear gas “there would have not been any casualties,” he said.</description>
+      <dc:creator>Dera Menra Sijabat and Sui-Lee Wee</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 09:12:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-eyewitness/merlin_214172625_b1fca56b-7ec4-402d-b279-3b93e2ac973b-moth.jpg" width="151"></media:content>
+      <media:credit>Hendra Permana/Associated Press</media:credit>
+      <media:description>At the Kanjuruhan Stadium on Sunday.</media:description>
     </item>
     <item>
       <title>Indonesian Soccer Tragedy Is Latest in History of Stadium Disasters</title>
@@ -1123,26 +1138,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-prisoners-01-1-5bfd/29ukraine-briefing-prisoners-01-1-5bfd-moth.jpg" width="151"></media:content>
       <media:credit>Security Service Of Ukraine, via Getty Images</media:credit>
       <media:description>This handout released by Security Service of Ukraine last week shows medical personnel assisting a Ukrainian prisoner of war after a mass prisoner exchange in Chernigiv region, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Zelensky’s Answer to Escalating Russian Threats: Defiance</title>
-      <link>https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html" rel="standout"></atom:link>
-      <description>In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: “If you want to live, run.”</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 29 Sep 2022 16:18:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-defiance-image-1-0d31/29ukraine-briefing-defiance-image-1-0d31-moth.jpg" width="151"></media:content>
-      <media:credit>Yuri Kochetkov/EPA, via Shutterstock</media:credit>
-      <media:description>Russian men who have been drafted saying goodbye to relatives at a recruiting office in Moscow on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 06:56:45 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 06:45:33 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 07:32:32 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 07:31:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,7 +35,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/indonesia-soccer-football-stadium" rel="standout"></atom:link>
       <description>Questions remain about why the police used tear gas to disperse fans in the overcrowded stadium. At least 125 people died, many trampled, after Saturday’s game.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 06:45:33 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 07:28:57 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-header/merlin_214195056_485df5c8-c041-4359-864c-322365b6e55b-moth.jpg" width="151"></media:content>
       <media:credit>Made Nagi/EPA, via Shutterstock</media:credit>
       <media:description>A vigil in Bali, Indonesia, on Sunday.</media:description>
@@ -173,6 +173,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00Russia-Georgia-Border01-promo/00Russia-Georgia-Border01-moth.jpg" width="151"></media:content>
       <media:credit>Ksenia Ivanova for The New York Times</media:credit>
       <media:description>Sergei with his two children Daniil, 10, and Karina, 10, in a hotel room in Stepatsminda, Georgia.</media:description>
+    </item>
+    <item>
+      <title>Truss, in Reversal, Drops Plan to Cut U.K. Tax Rate on High Earners</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
+      <description>The announcement was a major capitulation by the government after tax cuts it announced roiled financial markets and drew widespread criticism.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 07:31:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03UK-TAX-01/03UK-TAX-01-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
+      <media:description>British Prime Minister Liz Truss and members of her cabinet at the opening session of the Conservative Party conference in Birmingham, England, on Sunday.</media:description>
     </item>
     <item>
       <title>Your Monday Briefing</title>
@@ -979,27 +996,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ian-cuba-update-1-00c9/30ian-cuba-update-1-00c9-moth.jpg" width="151"></media:content>
       <media:credit>Alexandre Meneghini/Reuters</media:credit>
       <media:description>People gathering in front of a Communist Party office in protest against the electricity shortage in Havana on Thursday.</media:description>
-    </item>
-    <item>
-      <title>U.K. Borrowers React to Soaring Interest Rates in Mortgage Market</title>
-      <link>https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html" rel="standout"></atom:link>
-      <description>The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 30 Sep 2022 18:11:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/30uk-mortgage-print/30uk-mortgage-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Laetitia Anne and Maciej Szostek in their rented home in Loughton, England. The loan they were close to securing fell through this week.</media:description>
     </item>
   </channel>
 </rss>

@@ -3,17 +3,29 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 12:58:45 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 12:58:03 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 14:03:00 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 13:56:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Ukraine’s Forces Push Forward on Two Fronts</title>
+      <link>https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>Russian-installed officials acknowledged losing ground in both the east and south, as Ukraine’s troops sought to extend a run of battlefield successes.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 13:56:29 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ukraine-briefing-header/03ukraine-briefing-header-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Foreign fighters near the town of Lyman, Ukraine, on Sunday.</media:description>
+    </item>
     <item>
       <title>Bolsonaro Outperforms Polls and Forces Runoff Against Lula in Brazil’s Presidential Election</title>
       <link>https://www.nytimes.com/2022/10/03/world/americas/brazil-elections-runoff-bolsonaro-lula.html</link>
@@ -35,10 +47,27 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/indonesia-soccer-football-stadium" rel="standout"></atom:link>
       <description>An investigation will focus on police officers suspected of using tear gas to disperse fans in the overcrowded stadium. At least 125 people died, many trampled, after Saturday’s game.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 12:56:10 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 13:48:41 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-header6am/03indonesia-soccer-header6am-moth.jpg" width="151"></media:content>
       <media:credit>Juni Kriswanto/Agence France-Presse — Getty Images</media:credit>
       <media:description>Players and officials from Arema Football Club gathering to pray for victims of the stampede at Kanjuruhan stadium in Malang, East Java on Monday.</media:description>
+    </item>
+    <item>
+      <title>Truss, in Reversal, Drops Plan to Cut U.K. Tax Rate on High Earners</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
+      <description>The announcement was a major capitulation by the government after the tax cuts it announced roiled financial markets and drew widespread criticism.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 12:50:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03UK-TAX-01/03UK-TAX-01-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain, center, has been forced to change course during her Conservative Party’s showpiece annual conference in Birmingham, England.</media:description>
     </item>
     <item>
       <title>Ukrainian Troops Hunt Demoralized Russian Stragglers in Lyman</title>
@@ -141,6 +170,29 @@
       <media:description>Kwasi Kwarteng, Britain’s chancellor of the Exchequer, announced a series of tax cuts that sent the markets spiraling.</media:description>
     </item>
     <item>
+      <title>Russia’s Annexation Claim Is News to Residents of Lyman, Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html" rel="standout"></atom:link>
+      <description>Without access to electricity, radios or the internet, residents of Lyman said they were unaware of President Vladimir V. Putin’s grandiose celebration of an illegal land grab.</description>
+      <dc:creator>Andrew E. Kramer and Nicole Tung</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 13:45:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-scenepromo/02ukraine-scene-new11-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A badly damaged building in Lyman, a strategic rail hub.</media:description>
+    </item>
+    <item>
       <title>Chinese #MeToo Case Settled in U.S. Court</title>
       <link>https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/richard-liu-liu-jingyao-settlement.html</guid>
@@ -158,6 +210,49 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02liu-settle-01/02liu-settle-01-moth.jpg" width="151"></media:content>
       <media:credit>Caroline Yang for The New York Times</media:credit>
       <media:description>Liu Jingyao filed a civil suit accusing the Chinese tech billionaire Richard Liu of raping her in Minneapolis in 2018.</media:description>
+    </item>
+    <item>
+      <title>Leicester Tensions Have Roots in India</title>
+      <link>https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html" rel="standout"></atom:link>
+      <description>Violent confrontations in Leicester have prompted soul searching in an area long heralded as a success story of diversity and integration among its large Indian diaspora.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 09:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Leicester (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30UK-Leicester07/merlin_213901803_eff156cc-cf1d-44fb-a19a-72bd3d9de071-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>A predominantly Muslim area of Leicester, England. Experts say the tangles between mostly Hindu and Muslim men last month were only the latest examples of how toxic politics in India have migrated overseas.</media:description>
+    </item>
+    <item>
+      <title>Iran Protests Fueled by Sickly Economy </title>
+      <link>https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html" rel="standout"></atom:link>
+      <description>The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.</description>
+      <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00iran-economy-new/merlin_208640253_1d8195f6-bd16-4237-ac86-e8de869f45a4-moth.jpg" width="151"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Shopping at the Tajrish Bazaar in Tehran in June. Prices for some goods in Iran are up as much as 75 percent from last year.</media:description>
     </item>
     <item>
       <title>Panic, Bribes, Ditched Cars and a Dash on Foot: Portraits of Flight From Russia</title>
@@ -239,7 +334,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/health/nobel-prize-medicine-physiology-winner.html" rel="standout"></atom:link>
       <description>The Swedish geneticist was honored for his work in sequencing the genome of the Neanderthal, an extinct relative of present-day humans.</description>
       <dc:creator>Benjamin Mueller</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 12:01:52 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 13:21:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
     </item>
@@ -257,23 +352,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-team/03indonesia-soccer-team-moth.jpg" width="151"></media:content>
       <media:credit>Mast Irham/EPA, via Shutterstock</media:credit>
       <media:description>Police inside the Kanjuruhan Stadium on Monday.</media:description>
-    </item>
-    <item>
-      <title>Truss, in Reversal, Drops Plan to Cut U.K. Tax Rate on High Earners</title>
-      <link>https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
-      <description>The announcement was a major capitulation by the government after the tax cuts it announced roiled financial markets and drew widespread criticism.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 12:50:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03UK-TAX-01/03UK-TAX-01-moth.jpg" width="151"></media:content>
-      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Liz Truss of Britain, center, has been forced to change course during her Conservative Party’s showpiece annual conference in Birmingham, England.</media:description>
     </item>
     <item>
       <title>Your Monday Briefing</title>
@@ -297,29 +375,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-leadall-version-to-launch-01/03indonesia-soccer-leadall-version-to-launch-01-moth.jpg" width="151"></media:content>
       <media:credit>H Prabowo/EPA, via Shutterstock</media:credit>
       <media:description>Police officers trying to stop fans from entering the field during a clash between fans at Kanjuruhan Stadium in Malang, Indonesia, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Russia’s Annexation Claim Is News to Residents of Lyman, Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html" rel="standout"></atom:link>
-      <description>Without access to electricity, radios or the internet, residents of Lyman said they were unaware of President Vladimir V. Putin’s grandiose celebration of an illegal land grab.</description>
-      <dc:creator>Andrew E. Kramer and Nicole Tung</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 04:01:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-scenepromo/02ukraine-scene-new11-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>A badly damaged building in Lyman, a strategic rail hub.</media:description>
     </item>
     <item>
       <title>Nord Stream Pipelines Have Stopped Leaking After Earlier Damage</title>
@@ -490,27 +545,6 @@
       <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
     </item>
     <item>
-      <title>Leicester Tensions Have Roots in India</title>
-      <link>https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html" rel="standout"></atom:link>
-      <description>Violent confrontations in Leicester have prompted soul searching in an area long heralded as a success story of diversity and integration among its large Indian diaspora.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 09:30:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Leicester (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30UK-Leicester07/merlin_213901803_eff156cc-cf1d-44fb-a19a-72bd3d9de071-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>A predominantly Muslim area of Leicester, England. Experts say the tangles between mostly Hindu and Muslim men last month were only the latest examples of how toxic politics in India have migrated overseas.</media:description>
-    </item>
-    <item>
       <title>Indonesian Fan Still Hears ‘Voices Screaming’ After Match</title>
       <link>https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/asia/fan-tragedy-indonesia.html</guid>
@@ -555,28 +589,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-soccer-disasters1/02indonesia-soccer-disasters1-moth.jpg" width="151"></media:content>
       <media:credit>El Comercio, via Associated Press</media:credit>
       <media:description>People fleeing tear gas at the Estadio Nacional in Lima on May 24, 1964.</media:description>
-    </item>
-    <item>
-      <title>Iran Protests Fueled by Sickly Economy </title>
-      <link>https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/world/middleeast/iran-protests-economy.html" rel="standout"></atom:link>
-      <description>The country’s long economic decline has been one of the main forces sending Iranians into the streets over the past two weeks to demand change.</description>
-      <dc:creator>Vivian Yee and Farnaz Fassihi</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00iran-economy-new/merlin_208640253_1d8195f6-bd16-4237-ac86-e8de869f45a4-moth.jpg" width="151"></media:content>
-      <media:credit>Arash Khamooshi for The New York Times</media:credit>
-      <media:description>Shopping at the Tajrish Bazaar in Tehran in June. Prices for some goods in Iran are up as much as 75 percent from last year.</media:description>
     </item>
     <item>
       <title>Zelensky says Russia’s retreat shows its annexation moves are a ‘farce.’</title>
@@ -965,6 +977,87 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-ledeall-new/30ukraine-ledeall-new-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
       <media:description>President Vladimir V. Putin of Russia addressed a rally and concert in Red Square on Friday celebrating Russia’s illegal annexation of four Ukrainian provinces.</media:description>
+    </item>
+    <item>
+      <title>Yusuf al-Qaradawi, Influential Muslim Scholar, Dies at 96</title>
+      <link>https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html" rel="standout"></atom:link>
+      <description>Considered a moderate by some and an extremist by others, he backed political Islam, attacked Al Qaeda and dispensed advice in a TV show viewed by millions.</description>
+      <pubDate>Fri, 30 Sep 2022 21:50:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qaradawi, Yusuf al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shariah (Islamic Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Muslim Brotherhood (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/obituaries/29alqaradawi-obit/merlin_213840153_5914df89-cf7a-41f2-ad05-5367a3bef6fe-moth.jpg" width="151"></media:content>
+      <media:credit>Karim Jaafar/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Yusuf al-Qaradawi in 2014. He was a popular advocate of political Islam and seen as a threat by Arab autocrats.</media:description>
+    </item>
+    <item>
+      <title>Russia Strikes Regions in Eastern Ukraine Then Declares Them Russian</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html" rel="standout"></atom:link>
+      <description>The strikes killed a total of 30 civilians and wounded 107 in one of the bloodiest attacks in recent weeks.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 21:09:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30ukraine-briefing-zaporizhzhia-attack05/30ukraine-briefing-zaporizhzhia-attack05-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Iran Soccer Stars Speak Out on Protests; Group Urges FIFA Ban</title>
+      <link>https://www.nytimes.com/2022/09/30/sports/soccer/iran-soccer-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/sports/soccer/iran-soccer-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/sports/soccer/iran-soccer-protests.html" rel="standout"></atom:link>
+      <description>Some of the country’s most famous players have expressed support for street protests over the death of a young woman. On Thursday, an activist group went further: It asked FIFA to bar Iran from the World Cup.</description>
+      <dc:creator>Rory Smith and Tariq Panja</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 19:48:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Open Stadiums</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30soccer-iran-fans-1-31c0/30soccer-iran-fans-1-31c0-moth.jpg" width="151"></media:content>
+      <media:credit>Jakub Sukup/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Iran’s most recent game, against Senegal in Austria, was played behind closed doors after protesters turned up at a match last week.</media:description>
+    </item>
+    <item>
+      <title>Biden Warns Russia That the West Will Not Recognize Putin’s Actions</title>
+      <link>https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html" rel="standout"></atom:link>
+      <description>The president also said that Mr. Putin should not dare to take his fight into NATO territory, underscoring the unity among the alliance.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 19:48:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-biden-comments-1-2b06/30ukraine-briefing-biden-comments-1-2b06-moth.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Biden said during a news conference at the White House on Friday that the world would not recognize Russia’s annexation efforts.</media:description>
     </item>
   </channel>
 </rss>

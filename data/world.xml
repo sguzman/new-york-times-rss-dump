@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 09:45:04 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 09:43:18 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 10:25:11 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 10:22:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,7 +35,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/indonesia-soccer-football-stadium" rel="standout"></atom:link>
       <description>Questions remain about why the police used tear gas to disperse fans in the overcrowded stadium. At least 125 people died, many trampled, after Saturday’s game.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 09:27:22 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 10:21:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-header/merlin_214195056_485df5c8-c041-4359-864c-322365b6e55b-moth.jpg" width="151"></media:content>
       <media:credit>Made Nagi/EPA, via Shutterstock</media:credit>
       <media:description>A vigil in Bali, Indonesia, on Sunday.</media:description>
@@ -91,12 +91,14 @@
       <dc:creator>Muktita Suhartono, Sui-Lee Wee and Dera Menra Sijabat</dc:creator>
       <pubDate>Mon, 03 Oct 2022 03:42:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02indonesia-add/02indonesia-add-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Police officers firing tear gas into crowds at Kanjuruhan Stadium in Malang, Indonesia, on Saturday.</media:description>
@@ -175,6 +177,23 @@
       <media:description>Sergei with his two children Daniil, 10, and Karina, 10, in a hotel room in Stepatsminda, Georgia.</media:description>
     </item>
     <item>
+      <title>Ukraine’s First Lady Tells ’60 Minutes’ of the War’s Impact</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/ukraine-first-lady-60-minutes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/ukraine-first-lady-60-minutes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/ukraine-first-lady-60-minutes.html" rel="standout"></atom:link>
+      <description>Olena Zelenska told CBS News that Russian attacks on schools, hospitals and residential areas have been a form of terrorism.</description>
+      <dc:creator>Juston Jones</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 10:16:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelenska, Olena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">60 Minutes (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ukraine-briefing-first-lady-zelenska-01/03ukraine-briefing-first-lady-zelenska-01-moth.jpg" width="151"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Olena Zelenska, the Ukrainian first lady, at a session of the United Nations General Assembly in New York last month.</media:description>
+    </item>
+    <item>
       <title>Unearthing Everyday Life at an Ancient Site in Greece</title>
       <link>https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html</guid>
@@ -195,13 +214,13 @@
       <media:description>An archaeologist carefully unearths a pottery fragment.</media:description>
     </item>
     <item>
-      <title>Nobel Prize in Physiology or Medicine Is Awarded to Svante Paabo</title>
+      <title>Nobel Prize in Physiology or Medicine Is Awarded to Svante Pääbo</title>
       <link>https://www.nytimes.com/2022/10/03/health/nobel-prize-medicine-physiology-winner.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/health/nobel-prize-medicine-physiology-winner.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/health/nobel-prize-medicine-physiology-winner.html" rel="standout"></atom:link>
-      <description>It is the first Nobel Prize awarded this year, with more announcements being made over the coming week.</description>
-      <dc:creator>Benjamin Mueller</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 09:43:18 +0000</pubDate>
+      <description>The Swedish geneticist was honored for his work in sequencing the genome of the Neanderthal, an extinct relative of present-day humans.</description>
+      <dc:creator>Cora Engelbrecht and Isabella Kwai</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 10:22:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
     </item>

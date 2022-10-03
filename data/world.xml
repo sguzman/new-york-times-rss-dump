@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 03:39:58 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 03:33:05 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 04:36:06 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 04:34:37 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/02/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>The right-wing president had polled poorly for the last year, and risked losing in the first round. But hours after voting closed, the contest was headed to a runoff.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 03:17:45 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 04:34:37 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02brazil-diptych-PROMO-9EST/merlin_214241391_5a962a88-5545-4274-8108-0e212eaf95f1-moth.jpg" width="151"></media:content>
       <media:credit>Photographs by Dado Galdieri for The New York Times</media:credit>
     </item>
@@ -51,7 +51,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/02/world/asia/indonesia-soccer-stadium-stampede.html" rel="standout"></atom:link>
       <description>Witnesses said officers fired tear gas indiscriminately into the stands, causing a stampede that led to at least 125 deaths.</description>
       <dc:creator>Muktita Suhartono, Sui-Lee Wee and Dera Menra Sijabat</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 17:20:46 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 03:42:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
@@ -129,7 +129,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/leicester-violence-uk.html" rel="standout"></atom:link>
       <description>Violent confrontations in Leicester have prompted soul searching in an area long heralded as a success story of diversity and integration among its large Indian diaspora.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 09:30:08 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 09:30:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
@@ -179,6 +179,29 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/00Russia-Georgia-Border01-promo/00Russia-Georgia-Border01-moth.jpg" width="151"></media:content>
       <media:credit>Ksenia Ivanova for The New York Times</media:credit>
       <media:description>Sergei with his two children Daniil, 10, and Karina, 10, in a hotel room in Stepatsminda, Georgia.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Annexation Claim Is News to Residents of Lyman, Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/russia-lyman-ukraine.html" rel="standout"></atom:link>
+      <description>Without access to electricity, radios or the internet, residents of Lyman said they were unaware of President Vladimir V. Putin’s grandiose celebration of an illegal land grab.</description>
+      <dc:creator>Andrew E. Kramer and Nicole Tung</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 04:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-scenepromo/02ukraine-scene-new11-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A badly damaged building in Lyman, a strategic rail hub.</media:description>
     </item>
     <item>
       <title>Nord Stream Pipelines Have Stopped Leaking After Earlier Damage</title>
@@ -980,23 +1003,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Branagh, Kenneth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">This England (TV Program)</category>
-    </item>
-    <item>
-      <title>What to Know About Brazil’s Election</title>
-      <link>https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html" rel="standout"></atom:link>
-      <description>Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sun, 02 Oct 2022 13:46:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times; Dado Galdieri for The New York Times</media:credit>
-      <media:description>President Jair Bolsonaro, left, faces a challenge from Luiz Inácio Lula da Silva, a former leftist president.</media:description>
     </item>
   </channel>
 </rss>

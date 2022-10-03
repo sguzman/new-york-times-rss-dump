@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Oct 2022 19:48:55 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Oct 2022 19:46:53 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2022 20:26:13 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2022 20:20:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Kremlin-installed officials said they had lost ground in the east and south, as Moscow acknowledged that the borders of the territory it has illegally annexed were in flux.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 19:32:54 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 20:20:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/world/03ukraine-briefing-promo-0100pm/03ukraine-briefing-carousel-Oskil02-moth-v3.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/indonesia-soccer-stadium-stampede.html" rel="standout"></atom:link>
       <description>Experts say officers are almost never held accountable for their actions. And in a huge police budget, millions are spent on tear gas, batons and other devices deployed during protests.</description>
       <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 19:34:32 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 19:50:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -56,13 +56,13 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
       <description>The announcement was a major capitulation by Prime Minister Liz Truss’s government after the tax cuts it announced roiled financial markets and drew widespread criticism.</description>
       <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 19:46:53 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 20:18:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03UK-TAX-01/03UK-TAX-01-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03uk-tax-new1/03uk-tax-new1-moth.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Liz Truss of Britain, center, has been forced to change course during her Conservative Party’s showpiece annual conference in Birmingham, England.</media:description>
     </item>
@@ -81,6 +81,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03iran-protests/merlin_214259157_d59ef3c2-c64d-4649-8b76-87ae196a395e-moth.jpg" width="151"></media:content>
       <media:credit>Wana News Agency, via Reuters</media:credit>
       <media:description>Ayatollah Ali Khamenei, Iran’s supreme leader, reviewing the country’s armed forces at a graduation ceremony in Tehran on Monday.</media:description>
+    </item>
+    <item>
+      <title>Brazil Braces for ‘White-Knuckle Race’ Between Bolsonaro and Lula</title>
+      <link>https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html" rel="standout"></atom:link>
+      <description>President Jair Bolsonaro had once looked doomed in the country’s high-stakes election. But now, in a runoff, the right-wing incumbent has a path to re-election.</description>
+      <dc:creator>Jack Nicas, Flávia Milhorance and André Spigariol</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 20:18:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03BRAZIL-1/merlin_214241142_7c8f1fe3-1865-44cd-abb6-bef52f903db1-moth.jpg" width="151"></media:content>
+      <media:credit>Maria Magdalena Arrellaga for The New York Times</media:credit>
+      <media:description>Supporters gathering in front of President Jair Bolsonaro’s residence in Rio de Janeiro as votes were counted on Sunday.</media:description>
     </item>
     <item>
       <title>Éric Dupond-Moretti, French Justice Minister, Faces Trial</title>
@@ -135,7 +155,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/indonesia-soccer-football-stadium" rel="standout"></atom:link>
       <description>An investigation will focus on police officers suspected of using tear gas to disperse fans in the overcrowded stadium. At least 125 people died, many trampled, after Saturday’s game.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 19:27:35 +0000</pubDate>
+      <pubDate>Mon, 03 Oct 2022 20:20:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03indonesia-soccer-header10am/03indonesia-soccer-promo10am-1-5292-moth.jpg" width="151"></media:content>
       <media:credit>Ulet Ifansasti/Getty Images</media:credit>
       <media:description>Supporters of Arema Football Club mourning the victims of the stampede outside Kanjuruhan Stadium in Malang, East Java, on Monday.</media:description>
@@ -229,25 +249,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02burkina-new/02burkina-new-moth.jpg" width="151"></media:content>
       <media:credit>Vincent Bado/Reuters</media:credit>
       <media:description>Capt. Ibrahim Traoré, Burkina Faso’s new self-declared leader, on Sunday in Ouagadougou, the capital.</media:description>
-    </item>
-    <item>
-      <title>Hurricane Orlene Becomes a Tropical Storm After Landfall in Western Mexico</title>
-      <link>https://www.nytimes.com/article/orlene-hurricane.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/orlene-hurricane.html</guid>
-      <atom:link href="https://www.nytimes.com/article/orlene-hurricane.html" rel="standout"></atom:link>
-      <description>Orlene weakened into a tropical storm after making landfall forecasters said. The system was expected to weaken, but Mexican authorities cautioned about potential flooding.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 18:17:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="">Hurricane Orlene</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mazatlan (Mexico)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/americas/oakImage-1664800351319/oakImage-1664800351319-moth.jpg" width="151"></media:content>
-      <media:credit>CIRA/NOAA</media:credit>
-      <media:description>A satellite image of Hurricane Orlene on Monday. It became a tropical storm after landfall, but could bring flash flooding and landslides across southwest Mexico through Tuesday, forecasters said.</media:description>
     </item>
     <item>
       <title>Victoria and Albert Museum Reverses Course and Removes Sackler Name</title>
@@ -525,6 +526,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-lyman-annexation02/02ukraine-briefing-lyman-annexation02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed building in Lyman, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Orlene Becomes a Tropical Storm After Landfall in Western Mexico</title>
+      <link>https://www.nytimes.com/article/orlene-hurricane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/orlene-hurricane.html</guid>
+      <atom:link href="https://www.nytimes.com/article/orlene-hurricane.html" rel="standout"></atom:link>
+      <description>Orlene weakened into a tropical storm after making landfall forecasters said. The system was expected to weaken, but Mexican authorities cautioned about potential flooding.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 20:18:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="">Hurricane Orlene</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mazatlan (Mexico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/americas/oakImage-1664800351319/oakImage-1664800351319-moth.jpg" width="151"></media:content>
+      <media:credit>CIRA/NOAA</media:credit>
+      <media:description>A satellite image of Hurricane Orlene on Monday. It became a tropical storm after landfall, but could bring flash flooding and landslides across southwest Mexico through Tuesday, forecasters said.</media:description>
     </item>
     <item>
       <title>A soldier and civilian are treated side-by-side at a field hospital in the south.</title>
@@ -1010,23 +1030,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/01brazil-vote-top/02BRAZIL-ELECTION-moth.jpg" width="151"></media:content>
       <media:credit>From left: Lalo de Almeida for The New York Times; Victor Moriyama for The New York Times</media:credit>
       <media:description>The challenger, former President Luiz Inácio Lula da Silva, left, and the incumbent, President Jair Bolsonaro. Mr. da Silva leads in the polls.</media:description>
-    </item>
-    <item>
-      <title>In China, Living Not ‘With Covid,’ but With ‘Zero Covid’</title>
-      <link>https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html" rel="standout"></atom:link>
-      <description>The country’s strict coronavirus restrictions dictate the patterns of daily life, like waiting in line for frequent Covid tests and stocking up on extra groceries in case of lockdown.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Sat, 01 Oct 2022 13:16:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00china-covid-dispatch-01/00china-covid-dispatch-01-moth.jpg" width="151"></media:content>
-      <media:credit>Thomas Peter/Reuters</media:credit>
-      <media:description>A Covid testing station in Beijing in September. The government ordered testing sites to be within a 15-minute walk in cities.</media:description>
     </item>
   </channel>
 </rss>

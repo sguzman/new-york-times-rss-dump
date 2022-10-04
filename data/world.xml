@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 19:42:13 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 19:40:21 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 19:55:39 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 19:49:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/04/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>While Kyiv’s Army is gaining momentum on the battlefield in the east and south, much of the land it has recaptured has been razed and abandoned. Russia’s new recruits remain largely in the wings.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 19:40:21 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 19:49:20 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04ukraine-briefing-header/04ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A photograph taken during a government-arranged tour for journalists showing a destroyed bridge in Sviatohirsk, Ukraine, on Monday.</media:description>
@@ -98,6 +98,44 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ireland-peat/03ireland-peat-moth.jpg" width="151"></media:content>
       <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
       <media:description>Seamus Caulfield, a retired archaeology professor, cutting peat using a traditional angled spade called a sleán, on his family’s land in Belderrig, Ireland.</media:description>
+    </item>
+    <item>
+      <title>4 Women Will Staff U.K. Base in Antarctica</title>
+      <link>https://www.nytimes.com/2022/10/04/world/europe/4-women-will-staff-uk-base-in-antarctica.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/europe/4-women-will-staff-uk-base-in-antarctica.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/world/europe/4-women-will-staff-uk-base-in-antarctica.html" rel="standout"></atom:link>
+      <description>They emerged from an applicant pool of thousands to run the world’s most southerly post office, monitor penguins and manage the wild landscape on Goudier Island.</description>
+      <dc:creator>Saskia Solomon</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 19:41:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Penguins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold and Cold Spells</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04Antarctica-post-office/04Antarctica-post-office-moth.jpg" width="151"></media:content>
+      <media:credit>Dietmar Denger/Laif, via Redux</media:credit>
+      <media:description>Port Lockroy base on Goudier Island is managed by the U.K. Antarctic Heritage Trust. Assignment there is not for the faint hearted.</media:description>
+    </item>
+    <item>
+      <title>Iran Attacks Kurdish Positions Across the Border in Iraq</title>
+      <link>https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html" rel="standout"></atom:link>
+      <description>Tehran has blamed Kurdish groups for fomenting some of the protests that have convulsed Iran for almost three weeks.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 18:13:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04iran-border/04iran-border-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Damage from an Iranian attack near the city of Suleimaniyah, Iraq, last week. </media:description>
     </item>
     <item>
       <title>North Korea Fires Ballistic Missile Over Japan in Major Escalation</title>
@@ -235,41 +273,6 @@
       <media:description>Ayatollah Ali Khamenei, Iran’s supreme leader, reviewing the country’s armed forces at a graduation ceremony in Tehran on Monday.</media:description>
     </item>
     <item>
-      <title>Brazil Braces for ‘White-Knuckle Race’ Between Bolsonaro and Lula</title>
-      <link>https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html" rel="standout"></atom:link>
-      <description>President Jair Bolsonaro had once looked doomed in the country’s high-stakes election. But now, in a runoff, the right-wing incumbent has a path to re-election.</description>
-      <dc:creator>Jack Nicas, Flávia Milhorance and André Spigariol</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 21:34:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03BRAZIL-1/merlin_214241142_7c8f1fe3-1865-44cd-abb6-bef52f903db1-moth.jpg" width="151"></media:content>
-      <media:credit>Maria Magdalena Arrellaga for The New York Times</media:credit>
-      <media:description>Supporters gathering in front of President Jair Bolsonaro’s residence in Rio de Janeiro as votes were counted on Sunday.</media:description>
-    </item>
-    <item>
-      <title>A 95-Square-Foot Tokyo Apartment: ‘I Wouldn’t Live Anywhere Else’</title>
-      <link>https://www.nytimes.com/2022/10/03/business/tiny-apartments-tokyo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/business/tiny-apartments-tokyo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/business/tiny-apartments-tokyo.html" rel="standout"></atom:link>
-      <description>Meet the young Japanese who have decided to live in a shoe box.</description>
-      <dc:creator>Hikari Hida</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 16:42:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00japan-apartments-01/00japan-apartments-01-moth.jpg" width="151"></media:content>
-      <media:credit>Noriko Hayashi for The New York Times</media:credit>
-      <media:description>Yugo Kinoshita, 19, in his apartment in Tokyo.</media:description>
-    </item>
-    <item>
       <title>Ukraine’s Top Diplomat Tries to Counter Russia’s Narrative on Africa Tour</title>
       <link>https://www.nytimes.com/2022/10/04/world/africa/kuleba-africa-tour.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/africa/kuleba-africa-tour.html</guid>
@@ -310,26 +313,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/science/04SCI-HIMERA/04SCI-HIMERA-moth.jpg" width="151"></media:content>
       <media:credit>Stefano Vassallo</media:credit>
       <media:description>A mass grave of troops from the second Battle of Himera in Sicily in 409 B.C. One-fourth of the combatants are thought to have been mercenaries, compared to two-thirds in the first Battle of Himera seven decades earlier.</media:description>
-    </item>
-    <item>
-      <title>Iran Attacks Kurdish Positions Across the Border in Iraq</title>
-      <link>https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html" rel="standout"></atom:link>
-      <description>Tehran has blamed Kurdish groups for fomenting some of the protests that have convulsed Iran for almost three weeks.</description>
-      <dc:creator>Cora Engelbrecht</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 18:13:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04iran-border/04iran-border-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Damage from an Iranian attack near the city of Suleimaniyah, Iraq, last week. </media:description>
     </item>
     <item>
       <title>Florida’s GOP Leaders Opposed Climate Aid. Now They’re Depending on It.</title>
@@ -719,6 +702,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/world/03ukraine-briefing-russia-brittney-griner/03ukraine-briefing-russia-brittney-griner-moth.jpg" width="151"></media:content>
       <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
       <media:description>Brittney Griner, the W.N.B.A. star, at a court hearing outside of Moscow in August.</media:description>
+    </item>
+    <item>
+      <title>Brazil Braces for ‘White-Knuckle Race’ Between Bolsonaro and Lula</title>
+      <link>https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/americas/brazil-bolsonaro-lula-runoff.html" rel="standout"></atom:link>
+      <description>President Jair Bolsonaro had once looked doomed in the country’s high-stakes election. But now, in a runoff, the right-wing incumbent has a path to re-election.</description>
+      <dc:creator>Jack Nicas, Flávia Milhorance and André Spigariol</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 21:34:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03BRAZIL-1/merlin_214241142_7c8f1fe3-1865-44cd-abb6-bef52f903db1-moth.jpg" width="151"></media:content>
+      <media:credit>Maria Magdalena Arrellaga for The New York Times</media:credit>
+      <media:description>Supporters gathering in front of President Jair Bolsonaro’s residence in Rio de Janeiro as votes were counted on Sunday.</media:description>
     </item>
     <item>
       <title>Victoria and Albert Museum Reverses Course and Removes Sackler Name</title>

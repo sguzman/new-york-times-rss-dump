@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 23:15:08 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 23:05:35 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 23:45:12 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 23:38:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Ukraine Expels Some Russian Troops in South</title>
+      <link>https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html" rel="standout"></atom:link>
+      <description>Moscow’s retreat has pulled back the curtain on a panorama of ruined towns and empty villages left in its wake.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 23:15:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lysychansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04ukraine-ledeall_7/merlin_214333698_9370df8e-2521-4e4f-bd6f-6882af69a8e0-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Ukrainian troops moving through the recently recaptured village of Yatskivka on Tuesday. Ukraine has recaptured cities in the northeast, the east and now the south.</media:description>
+    </item>
     <item>
       <title>US National Debt Tops $31 Trillion for First Time</title>
       <link>https://www.nytimes.com/2022/10/04/business/national-debt.html</link>
@@ -42,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html" rel="standout"></atom:link>
       <description>The rally brings some relief to Wall Street after a brutal decline in September. The S&amp;P 500’s 3.1 percent gain on Tuesday was its best showing since May 2020.</description>
       <dc:creator>Isabella Simonetti and Joe Rennison</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:28:59 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 23:38:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -56,54 +78,13 @@
       <media:credit>Seth Wenig/Associated Press</media:credit>
     </item>
     <item>
-      <title>Trump Asks Supreme Court to Intervene in Review of Mar-a-Lago Records</title>
-      <link>https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html" rel="standout"></atom:link>
-      <description>In earlier cases, the justices have ruled against Mr. Trump when he sought to shield his financial and presidential records from prosecutors and congressional investigators.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:25:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/00dc-scotus-trump1/00dc-scotus-trump1-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>The Supreme Court has rejected earlier efforts to block the disclosure of information about former President Donald J. Trump.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Leans Toward Alabama in Voting Rights Dispute</title>
-      <link>https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html" rel="standout"></atom:link>
-      <description>But several members of the court’s conservative majority rejected the state’s most aggressive arguments in defense of its congressional voting map.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:24:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/us/politics/04dc-scotus-1/merlin_201575472_6d7745cd-cd14-4a83-88fa-e4bff7c08a5f-moth.jpg" width="151"></media:content>
-      <media:credit>Mickey Welsh/The Montgomery Advertiser, via Associated Press</media:credit>
-      <media:description>The case before the Supreme Court concerned a congressional map drawn by Alabama lawmakers that a lower court had said diluted the power of Black voters.</media:description>
-    </item>
-    <item>
       <title>Elon Musk Suggests Buying Twitter at His Original Price</title>
       <link>https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html" rel="standout"></atom:link>
       <description>The billionaire’s surprise move came months after he tried to back out of a $44 billion deal to acquire the company.</description>
-      <dc:creator>Kate Conger and Lauren Hirsch</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 19:48:52 +0000</pubDate>
+      <dc:creator>Kate Conger, Lauren Hirsch and Andrew Ross Sorkin</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 23:23:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
@@ -140,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
       <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.</description>
       <dc:creator>Bill Friskics-Warren</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 21:08:00 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 23:20:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
@@ -150,6 +131,81 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Oliver Vanetta Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Ain&#39;t Woman Enough (to Take My Man) (Song)</category>
+    </item>
+    <item>
+      <title>Loretta Lynn Didn’t Pretty Things Up</title>
+      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn.html" rel="standout"></atom:link>
+      <description>The country star sang about desire, cheating, heartache and righteous revenge in three-minute vignettes that depicted lives she knew and understood.</description>
+      <dc:creator>Jon Pareles</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 22:46:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/arts/04lynn-appraisal4/04lynn-appraisal4-moth.jpg" width="151"></media:content>
+      <media:credit>Kyle Dean Reinford for The New York Times</media:credit>
+      <media:description>Loretta Lynn created an archetype that spoke to the heart of country music and reached far beyond it.</media:description>
+    </item>
+    <item>
+      <title>Trump Asks Supreme Court to Intervene in Review of Mar-a-Lago Records</title>
+      <link>https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/us/supreme-court-trump-documents.html" rel="standout"></atom:link>
+      <description>In earlier cases, the justices have ruled against the former president when he sought to shield his financial and presidential records from prosecutors and congressional investigators.</description>
+      <dc:creator>Adam Liptak and Charlie Savage</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 23:29:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/us/politics/00dc-scotus-trump1/00dc-scotus-trump1-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Lawyers for former President Donald J. Trump appealed on narrow grounds, not asking the Supreme Court to overturn the most important part of an appeals court’s decision.</media:description>
+    </item>
+    <item>
+      <title>Supreme Court Leans Toward Alabama in Voting Rights Dispute</title>
+      <link>https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html" rel="standout"></atom:link>
+      <description>But several members of the court’s conservative majority rejected the state’s most aggressive arguments in defense of its congressional voting map.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 20:24:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/us/politics/04dc-scotus-1/merlin_201575472_6d7745cd-cd14-4a83-88fa-e4bff7c08a5f-moth.jpg" width="151"></media:content>
+      <media:credit>Mickey Welsh/The Montgomery Advertiser, via Associated Press</media:credit>
+      <media:description>The case before the Supreme Court concerned a congressional map drawn by Alabama lawmakers that a lower court had said diluted the power of Black voters.</media:description>
+    </item>
+    <item>
+      <title>After the Storm, the Mold: Warming Is Worsening Another Costly Disaster</title>
+      <link>https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html" rel="standout"></atom:link>
+      <description>Mold in homes is a costly crisis that often accompanies hurricanes and flooding, and climate change is amplifying the rain that feeds outbreaks.</description>
+      <dc:creator>Winston Choi-Schagrin and Emily Kask</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 22:43:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04CLI-MOLD-promo/04CLI-MOLD-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Emily Kask for The New York Times</media:credit>
     </item>
     <item>
       <title>Florida’s GOP Leaders Opposed Climate Aid. Now They’re Depending on It.</title>
@@ -172,23 +228,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-moth.jpg" width="151"></media:content>
       <media:credit>Joe Raedle/Getty Images</media:credit>
       <media:description>Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.</media:description>
-    </item>
-    <item>
-      <title>After the Storm, the Mold: Warming Is Worsening Another Costly Disaster</title>
-      <link>https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html" rel="standout"></atom:link>
-      <description>Mold in homes is a costly crisis that often accompanies hurricanes and flooding, and climate change is amplifying the rain that feeds outbreaks.</description>
-      <dc:creator>Winston Choi-Schagrin and Emily Kask</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 22:43:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04CLI-MOLD-promo/04CLI-MOLD-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Emily Kask for The New York Times</media:credit>
     </item>
     <item>
       <title>Oath Keepers Texts Provide Window Into Conspiracy Mind-set</title>
@@ -234,13 +273,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Thorns (Soccer Team)</category>
     </item>
     <item>
-      <title>Portland Thorns Owner Steps Aside as U.S. Soccer Stars Call for Change</title>
+      <title>Portland and Chicago Owners Step Aside as U.S. Soccer Stars Call for Change</title>
       <link>https://www.nytimes.com/2022/10/04/sports/soccer/uswnt-abuse-sauerbrunn-paulson-thorns.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/sports/soccer/uswnt-abuse-sauerbrunn-paulson-thorns.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/soccer/uswnt-abuse-sauerbrunn-paulson-thorns.html" rel="standout"></atom:link>
-      <description>Becky Sauerbrunn said any official found to have failed to protect players “should be gone.” As she spoke, the owner of her club, the Portland Thorns, said he would leave the team temporarily.</description>
+      <description>Becky Sauerbrunn said any official found to have failed to protect players “should be gone.” As she spoke, the owner of her club, the Portland Thorns, said he would leave the team temporarily. Chicago’s shortly followed suit.</description>
       <dc:creator>Andrew Das and Kevin Draper</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 23:05:35 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 23:36:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Women&#39;s National Soccer Team</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Thorns (Soccer Team)</category>
@@ -672,24 +711,16 @@
       <media:credit>Mikyung Lee</media:credit>
     </item>
     <item>
-      <title>As ‘Come From Away’ Closes, a Newfoundlander Heads Back Home</title>
-      <link>https://www.nytimes.com/2022/10/03/theater/come-from-away-petrina-bromley.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/theater/come-from-away-petrina-bromley.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/theater/come-from-away-petrina-bromley.html" rel="standout"></atom:link>
-      <description>The Canadian actress Petrina Bromley has been in the cast during the show’s surprise hit run on Broadway. It resonated because “it’s about kindness,” she says.</description>
-      <dc:creator>Michael Paulson</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 21:45:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Come From Away (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gander (Newfoundland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newfoundland (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bromley, Petrina</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/arts/03exit-bromley2/merlin_214257744_4dd2de6d-a3c0-4379-8278-d9b33943d0ea-moth.jpg" width="151"></media:content>
-      <media:credit>Jeenah Moon for The New York Times</media:credit>
-      <media:description>Petrina Bromley at the Schoenfeld Theater, where “Come From Away” had its final performance on Sunday. She played several characters including Bonnie, who runs an animal shelter in Gander, Newfoundland.</media:description>
+      <title>In ‘Smile,’ Why the Grins Are So Grim</title>
+      <link>https://www.nytimes.com/2022/10/04/movies/smile-movie-parker-finn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/movies/smile-movie-parker-finn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/movies/smile-movie-parker-finn.html" rel="standout"></atom:link>
+      <description>Parker Finn, the director of the new horror film where characters smile before death, said the secret to making a smile creepy was in the eyes.</description>
+      <dc:creator>Erik Piepenburg</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 21:36:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Finn, Parker (Film Director)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Smile (2022) (Movie)</category>
     </item>
     <item>
       <title>How to Solve Intermediate Crosswords</title>

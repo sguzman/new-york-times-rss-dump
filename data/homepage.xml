@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 14:23:09 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 13:51:14 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 14:53:39 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 14:48:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/business/energy-environment/oil-market.html" rel="standout"></atom:link>
       <description>Reduced global demand may offset any supply cut by OPEC and its allies.</description>
       <dc:creator>Clifford Krauss</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:40:36 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 14:24:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
@@ -126,6 +126,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04oil/04oil-moth.jpg" width="151"></media:content>
       <media:credit>Christophe Viseux for The New York Times</media:credit>
       <media:description>An oil terminal at the Saudi seaport of Ras Tanura. Over most of the year, the Biden administration has, with limited success, urged Persian Gulf countries to pump more oil.</media:description>
+    </item>
+    <item>
+      <title>Stocks Rise Strongly for a Second Day</title>
+      <link>https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html" rel="standout"></atom:link>
+      <description>The rally brings some relief to Wall Street at the beginning of October, after the previous months ended on a sour note, capping a long streak of losses.</description>
+      <dc:creator>Isabella Simonetti and Joe Rennison</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 14:23:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04stocks-promo-1-eff9/04stocks-promo-1-eff9-moth.jpg" width="151"></media:content>
+      <media:credit>Seth Wenig/Associated Press</media:credit>
     </item>
     <item>
       <title>Floridians Hit by a Hurricane and a Housing Crunch</title>
@@ -168,7 +188,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/science/nobel-prize-physics-winner.html" rel="standout"></atom:link>
       <description>Alain Aspect, John F. Clauser and Anton Zeilinger were recognized for their experiments in an area that has broad implications for secure information transfer and quantum computing.</description>
       <dc:creator>Isabella Kwai, Cora Engelbrecht and Dennis Overbye</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 11:28:14 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 14:27:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04NOBEL-physics-sub/merlin_214307847_e83c76b5-384a-4a1c-adb2-d059c068c15d-moth.jpg" width="151"></media:content>
@@ -189,63 +209,43 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
     </item>
     <item>
-      <title>North Korea Fires Ballistic Missile Over Japan in Major Escalation</title>
-      <link>https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html" rel="standout"></atom:link>
-      <description>The last time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was president and Kim Jong-un seemed intent on escalating conflict with Washington.</description>
-      <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:58:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-top/04nkorea-missile-top-moth.jpg" width="151"></media:content>
-      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A screen showing images of North Korea’s leader, Kim Jong-un, during a news update in Tokyo on Tuesday. North Korea’s missile launch prompted an alert in Japan that morning.</media:description>
+      <title>Tear Gas, a Stampede, and an Indonesian Family Shattered</title>
+      <link>https://www.nytimes.com/2022/10/04/world/asia/indonesia-soccer-football-stadium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/asia/indonesia-soccer-football-stadium.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/world/asia/indonesia-soccer-football-stadium.html" rel="standout"></atom:link>
+      <description>Muhammad Yulianto and Devi Ratna Sari took their young son to his first soccer match. The young couple were among the 125 who died in the tragedy at the Indonesian stadium.</description>
+      <dc:creator>Muktita Suhartono</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 14:24:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04indonesia-family5/04indonesia-family5-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ulet Ifansasti/Getty Images</media:credit>
+      <media:description>Muhammad Alfiansyah, 11, with photographs of his parents, in Malang on Tuesday.</media:description>
     </item>
     <item>
-      <title>How Strong Is North Korea’s Military?</title>
-      <link>https://www.nytimes.com/article/north-korea-arsenal-nukes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/north-korea-arsenal-nukes.html</guid>
-      <atom:link href="https://www.nytimes.com/article/north-korea-arsenal-nukes.html" rel="standout"></atom:link>
-      <description>The country has one of the largest standing armies in the world, but much of its equipment is old. Leaders have sought to make up for that shortcoming by building new weapons.</description>
-      <dc:creator>Choe Sang-Hun and Victoria Kim</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 07:34:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-    </item>
-    <item>
-      <title>Can New Vaccines Finally Eradicate Malaria?</title>
-      <link>https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html" rel="standout"></atom:link>
-      <description>Two new vaccines may finally turn back an ancient plague. But in unexpected ways, their arrival also complicates the path to ending the disease.</description>
-      <dc:creator>Apoorva Mandavilli and Kang-Chun Cheng</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 10:12:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kisumu (Kenya)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/00malaria-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Kang-Chun Cheng for The New York Times</media:credit>
+      <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
+      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
+      <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story</description>
+      <dc:creator>Bill Friskics-Warren</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 14:48:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oliver Vanetta Lynn Jr.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Aint Woman Enough (to Take My Man) (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
+      <media:credit>Waring Abbott/Getty Images</media:credit>
+      <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
     </item>
     <item>
       <title>Climate Change for Preschoolers: ‘Octonauts’ Explores Unmapped Ground</title>
@@ -254,7 +254,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html" rel="standout"></atom:link>
       <description>There are few books, shows or other tools to help parents and teachers talk to preschoolers about global warming. “Octonauts: Above and Beyond” is one of the first to try.</description>
       <dc:creator>Coral Davenport</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:53:44 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 14:36:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
@@ -331,13 +331,13 @@
       <media:credit>David Williams for The New York Times</media:credit>
     </item>
     <item>
-      <title>The All Too Real Risk of a Global Recession</title>
+      <title>The First Global Deflation Has Begun, and It’s Unclear Just How Painful It Will Be</title>
       <link>https://www.nytimes.com/2022/10/04/opinion/the-all-too-real-risk-of-a-global-recession.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/opinion/the-all-too-real-risk-of-a-global-recession.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/the-all-too-real-risk-of-a-global-recession.html" rel="standout"></atom:link>
-      <description>We now find ourselves in the midst of the most comprehensive tightening of monetary policy the world has seen. </description>
+      <description>We now find ourselves in the midst of the most comprehensive tightening of monetary policy the world has seen.</description>
       <dc:creator>Adam Tooze</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 11:29:35 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 14:47:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
@@ -408,7 +408,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/briefing/covid-race-gaps.html" rel="standout"></atom:link>
       <description>We revisit the subject of Covid and racial inequities.</description>
       <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 10:44:29 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 14:28:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
@@ -473,6 +473,31 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
+      <title>Can New Vaccines Finally Eradicate Malaria?</title>
+      <link>https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html" rel="standout"></atom:link>
+      <description>Two new vaccines may finally turn back an ancient plague. But in unexpected ways, their arrival also complicates the path to ending the disease.</description>
+      <dc:creator>Apoorva Mandavilli and Kang-Chun Cheng</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 10:12:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kisumu (Kenya)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/00malaria-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Kang-Chun Cheng for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Three Huge Supreme Court Cases That Could Change America</title>
       <link>https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html</guid>
@@ -492,23 +517,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03onpolitics-court-1-c567/03onpolitics-court-1-c567-moth.jpg" width="151"></media:content>
       <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
       <media:description>The Supreme Court began its new term on Monday. “There are few signs that the court’s race to the right is slowing,” Adam Liptak reported in The Times.</media:description>
-    </item>
-    <item>
-      <title>Micron Pledges Up to $100 Billion for Semiconductor Factory in New York</title>
-      <link>https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html" rel="standout"></atom:link>
-      <description>The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:50:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04chips-ny-1/04chips-ny-1-moth.jpg" width="151"></media:content>
-      <media:credit>Steve Helber/Associated Press</media:credit>
-      <media:description>Micron said high-volume production would start after 2025. </media:description>
     </item>
     <item>
       <title>The Influential Group Helping Eric Adams Identify a Vision for New York</title>

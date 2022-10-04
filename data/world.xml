@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 11:42:14 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 11:28:13 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 12:53:33 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 12:52:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,12 +23,12 @@
       <dc:creator>Andrew E. Kramer, Carlotta Gall and Anton Troianovski</dc:creator>
       <pubDate>Tue, 04 Oct 2022 07:31:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadyrov, Ramzan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ukraine-ledeall-1/03ukraine-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A photograph taken during a Ukraine government-arranged tour for journalists showing Ukrainian soldiers in the town of Oskil, in eastern Ukraine, on Monday.</media:description>
@@ -97,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/03/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>A reclaimed village provides a glimpse of the toll of a sweeping counteroffensive in the east. Kremlin-installed officials said they had also lost ground in the south, as Moscow acknowledged that the borders of the territory it has illegally annexed were in flux.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 08:56:58 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:44:35 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/world/03ukraine-briefing-promo-0100pm/03ukraine-briefing-carousel-Oskil02-moth-v3.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -108,14 +108,14 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html" rel="standout"></atom:link>
       <description>The last time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was president and Kim Jong-un seemed intent on escalating conflict with Washington.</description>
       <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 11:27:13 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:40:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-01-promo/04nkorea-missile-01-moth.jpg" width="151"></media:content>
-      <media:credit>Kimimasa Mayama/EPA, via Shutterstock</media:credit>
-      <media:description>A screen displaying news reporting of North Korea’s launch of a ballistic missile, in Tokyo, Japan, on Tuesday. North Korea launched a ballistic missile over Japan that landed in the Pacific Ocean, the exclusive economic zone (EEZ) of Japan, about 3000km east of Japan.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-top/04nkorea-missile-top-moth.jpg" width="151"></media:content>
+      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A screen showing images of North Korea’s leader, Kim Jong-un, during a news update in Tokyo on Tuesday. North Korea’s missile launch prompted an alert in Japan that morning.</media:description>
     </item>
     <item>
       <title>Blinken Meets With Gustavo Petro of Colombia Amid Differences</title>
@@ -313,23 +313,6 @@
       <media:description>American and Swedish marines participating in a military exercise near Berga Naval Base in Sweden.</media:description>
     </item>
     <item>
-      <title>Climate Change for Preschoolers: ‘Octonauts’ Explores Unmapped Ground</title>
-      <link>https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html" rel="standout"></atom:link>
-      <description>There are almost no books, TV shows or other tools to help parents and teachers talk to preschoolers about climate change. “Octonauts: Above and Beyond” is one of the first to try.</description>
-      <dc:creator>Coral Davenport</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 10:56:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Octonauts (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
-    </item>
-    <item>
       <title>What Video Footage Reveals About the Protests in Iran</title>
       <link>https://www.nytimes.com/2022/10/04/world/asia/iran-protest-video-analysis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/asia/iran-protest-video-analysis.html</guid>
@@ -340,8 +323,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Climate Change for Preschoolers: ‘Octonauts’ Explores Unmapped Ground</title>
+      <link>https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html" rel="standout"></atom:link>
+      <description>There are few books, shows or other tools to help parents and teachers talk to preschoolers about global warming. “Octonauts: Above and Beyond” is one of the first to try.</description>
+      <dc:creator>Coral Davenport</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 12:48:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Octonauts (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
     </item>
     <item>
       <title>Nobel Prize in Physics Is Awarded to 3 Scientists for Work in Quantum Technology</title>
@@ -406,7 +405,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/business/korea-naver-poshmark.html" rel="standout"></atom:link>
       <description>Naver has gained a sizable foothold in North America’s secondhand retail market with its new acquisition, the company’s largest to date.</description>
       <dc:creator>Chang Che</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 10:34:35 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:10:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Poshmark Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Naver.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
@@ -416,8 +415,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04skorea-naver-01/04skorea-naver-01-moth.jpg" width="151"></media:content>
-      <media:credit>Heo Ran/Reuters</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04NAVER-SUB/04NAVER-SUB-moth.jpg" width="151"></media:content>
+      <media:credit>Ahn Young-Joon/Associated Press</media:credit>
       <media:description>Sometimes referred to as the “Google of South Korea,” Naver has looked beyond Asia for its latest acquisitions.</media:description>
     </item>
     <item>
@@ -498,12 +497,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/us/politics/03dc-nuke-1/03dc-nuke-1-moth.jpg" width="151"></media:content>
       <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
       <media:description>The atomic threats of President Vladimir V. Putin of Russia may come as a shock to Americans who have barely thought about nuclear arms in recent decades.</media:description>
@@ -513,9 +510,9 @@
       <link>https://www.nytimes.com/2022/10/03/world/europe/elon-musk-ukraine-war-tweets.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/elon-musk-ukraine-war-tweets.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/elon-musk-ukraine-war-tweets.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky swiftly dismisses the entrepreneur’s suggestion on Twitter.</description>
+      <description>President Volodymyr Zelensky swiftly dismissed the entrepreneur’s suggestion on Twitter, and the Kremlin’s spokesman called it a “very positive” development with caveats.</description>
       <dc:creator>Carly Olson</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 08:05:38 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:44:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>

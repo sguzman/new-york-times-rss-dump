@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 13:37:40 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 13:36:23 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 14:23:09 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 13:51:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/us/florida-hurricane-housing-crisis.html" rel="standout"></atom:link>
       <description>Losses from the storm are just coming into focus. But what is clear is that recovery will be hardest on people already struggling to make ends meet.</description>
       <dc:creator>Frances Robles, Audra D. S. Burch, Richard Fausset and Michael Majchrowicz</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:39 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 13:45:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
@@ -200,6 +200,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-top/04nkorea-missile-top-moth.jpg" width="151"></media:content>
       <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
       <media:description>A screen showing images of North Korea’s leader, Kim Jong-un, during a news update in Tokyo on Tuesday. North Korea’s missile launch prompted an alert in Japan that morning.</media:description>
@@ -243,28 +246,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kisumu (Kenya)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/00malaria-promo-moth.jpg" width="151"></media:content>
       <media:credit>Kang-Chun Cheng for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The Influential Group Helping Eric Adams Identify a Vision for New York</title>
-      <link>https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html" rel="standout"></atom:link>
-      <description>Created by the mayor’s allies, the 5Boro Institute seeks to counter concerns that the administration lacks a robust agenda to address the city’s problems.</description>
-      <dc:creator>Jeffery C. Mays and Dana Rubinstein</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">5Boro Institute</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Think Tanks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ravitch, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allon, Tom</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/nyregion/04ny-mayorideas1/merlin_213194895_0c0b7e74-3443-49a4-9306-0bc2af8d2756-moth.jpg" width="151"></media:content>
-      <media:credit>Benjamin Norman for The New York Times</media:credit>
-      <media:description>Mayor Eric Adams said that the think tank is part of a broad-based effort “dedicated to building a government that does things differently.”</media:description>
     </item>
     <item>
       <title>Climate Change for Preschoolers: ‘Octonauts’ Explores Unmapped Ground</title>
@@ -333,9 +314,9 @@
       <link>https://www.nytimes.com/2022/10/04/opinion/us-conservative-therapy-politics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/opinion/us-conservative-therapy-politics.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/us-conservative-therapy-politics.html" rel="standout"></atom:link>
-      <description>Conservatives need mental health help too. But do they need to get it from someone who shares their worldview?</description>
+      <description>Conservatives need mental health help, too, but do they need to get it from someone who shares their worldview?</description>
       <dc:creator>Meghan Daum</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:30:49 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:30:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
@@ -371,7 +352,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/roberts-alito-kagan-barrett-thomas.html" rel="standout"></atom:link>
       <description>If justice after justice finds it necessary to defend the court’s power, what does that tell you?</description>
       <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:07 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 13:44:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -492,23 +473,25 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>Herschel Walker Paid for an Abortion for Ex-Girlfriend, Report Says</title>
-      <link>https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html" rel="standout"></atom:link>
-      <description>Mr. Walker called the report a lie, after The Daily Beast, which has also broken news about Mr. Walker’s out-of-wedlock children, reported that a former girlfriend had the procedure in 2009.</description>
-      <dc:creator>Maya King</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 02:59:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Beast, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <title>Three Huge Supreme Court Cases That Could Change America</title>
+      <link>https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/us/politics/supreme-court-conservative-politics.html" rel="standout"></atom:link>
+      <description>The justices will soon hear major cases on voting rights, affirmative action and partisan gerrymandering. Here’s a preview.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 23:19:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03pol-walker-1-b1cd/03pol-walker-1-b1cd-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Craine for The New York Times</media:credit>
-      <media:description>Herschel Walker campaigning in July in Georgia. He has faced a number of damaging reports about his life story since he began his campaign for Senate in 2021.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affirmative Action</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Students for Fair Admissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03onpolitics-court-1-c567/03onpolitics-court-1-c567-moth.jpg" width="151"></media:content>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <media:description>The Supreme Court began its new term on Monday. “There are few signs that the court’s race to the right is slowing,” Adam Liptak reported in The Times.</media:description>
     </item>
     <item>
       <title>Micron Pledges Up to $100 Billion for Semiconductor Factory in New York</title>
@@ -528,18 +511,26 @@
       <media:description>Micron said high-volume production would start after 2025. </media:description>
     </item>
     <item>
-      <title>Police Link Two More Shootings to Five Deaths in Stockton, Calif.</title>
-      <link>https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html" rel="standout"></atom:link>
-      <description>The police said last week that five shootings this year were connected. On Monday, they added two more.</description>
-      <dc:creator>Daniel Victor and Michael Levenson</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 13:08:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Serial Murders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockton (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crime Stoppers USA</category>
+      <title>The Influential Group Helping Eric Adams Identify a Vision for New York</title>
+      <link>https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/nyregion/eric-adams-5boro-institute.html" rel="standout"></atom:link>
+      <description>Created by the mayor’s allies, the 5Boro Institute seeks to counter concerns that the administration lacks a robust agenda to address the city’s problems.</description>
+      <dc:creator>Jeffery C. Mays and Dana Rubinstein</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">5Boro Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Think Tanks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ravitch, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allon, Tom</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/nyregion/04ny-mayorideas1/merlin_213194895_0c0b7e74-3443-49a4-9306-0bc2af8d2756-moth.jpg" width="151"></media:content>
+      <media:credit>Benjamin Norman for The New York Times</media:credit>
+      <media:description>Mayor Eric Adams said that the think tank is part of a broad-based effort “dedicated to building a government that does things differently.”</media:description>
     </item>
     <item>
       <title>Area Man Is Arrested for Parody. The Onion Files a Supreme Court Brief.</title>

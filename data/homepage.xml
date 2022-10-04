@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 17:09:09 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 17:06:03 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 17:50:50 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 17:40:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html" rel="standout"></atom:link>
       <description>The billionaire’s surprise move came months after he tried to back out of a $44 billion deal to acquire the company.</description>
       <dc:creator>Kate Conger and Lauren Hirsch</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 16:53:06 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 17:30:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
@@ -84,23 +84,6 @@
       <media:description>A vendor at a street market in Phuket, Thailand. Many businesses in Asia are being squeezed by the strength of the dollar, which has soared to record levels this year.</media:description>
     </item>
     <item>
-      <title>Micron Pledges Up to $100 Billion for Semiconductor Factory in New York</title>
-      <link>https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html" rel="standout"></atom:link>
-      <description>The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:50:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04chips-ny-1/04chips-ny-1-moth.jpg" width="151"></media:content>
-      <media:credit>Steve Helber/Associated Press</media:credit>
-      <media:description>Micron said high-volume production would start after 2025. </media:description>
-    </item>
-    <item>
       <title>Stocks Rise Strongly for a Second Day</title>
       <link>https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</guid>
@@ -121,36 +104,38 @@
       <media:credit>Seth Wenig/Associated Press</media:credit>
     </item>
     <item>
-      <title>Job Openings Fell in August, but Turnover Was Little Changed</title>
-      <link>https://www.nytimes.com/2022/10/04/business/economy/jolts-jobs-quits-layoffs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/business/economy/jolts-jobs-quits-layoffs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/business/economy/jolts-jobs-quits-layoffs.html" rel="standout"></atom:link>
-      <description>Government data showed 10.1 million openings, a decline from 11.2 million in July. Overall hiring, quitting and layoffs were fairly steady.</description>
-      <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 15:19:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04jolts/04jolts-moth.jpg" width="151"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>A job fair in Sunrise, Fla. Data indicate that the labor market remains short of available workers.</media:description>
+      <title>Micron Pledges Up to $100 Billion for Semiconductor Factory in New York</title>
+      <link>https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html" rel="standout"></atom:link>
+      <description>The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 12:50:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04chips-ny-1/04chips-ny-1-moth.jpg" width="151"></media:content>
+      <media:credit>Steve Helber/Associated Press</media:credit>
+      <media:description>Micron said high-volume production would start after 2025. </media:description>
     </item>
     <item>
-      <title>Floridians Hit by a Hurricane and a Housing Crunch</title>
-      <link>https://www.nytimes.com/2022/10/04/us/florida-hurricane-housing-crisis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/florida-hurricane-housing-crisis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/us/florida-hurricane-housing-crisis.html" rel="standout"></atom:link>
-      <description>Losses from the storm are just coming into focus. But what is clear is that recovery will be hardest on people already struggling to make ends meet.</description>
-      <dc:creator>Frances Robles, Audra D. S. Burch, Richard Fausset and Michael Majchrowicz</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 15:12:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/us/00IAN-HOUSING-drone/00IAN-HOUSING-drone-moth.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>Fort Myers Beach, Fla., was one of the communities hit hardest by Hurricane Ian.</media:description>
+      <title>Amazon Freezes Corporate Hiring in Its Retail Business</title>
+      <link>https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/technology/amazon-freezes-corporate-hiring.html" rel="standout"></atom:link>
+      <description>It is the latest tech company to pump the brakes on hiring amid growing economic concerns.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 16:49:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04amazon-pic-1-48c7/04amazon-pic-1-48c7-moth.jpg" width="151"></media:content>
+      <media:credit>Jenny Riffle for The New York Times</media:credit>
+      <media:description>Amazon hired at a fast clip throughout the pandemic.</media:description>
     </item>
     <item>
       <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
@@ -172,6 +157,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
       <media:credit>Waring Abbott/Getty Images</media:credit>
       <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
+    </item>
+    <item>
+      <title>Florida’s GOP Leaders Opposed Climate Aid. Now They’re Depending on It.</title>
+      <link>https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html" rel="standout"></atom:link>
+      <description>Before Hurricane Ian, the state’s Republican politicians have rejected federal action to cut greenhouse gas emissions and boost climate resilience.</description>
+      <dc:creator>Christopher Flavelle and Jonathan Weisman</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 17:23:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Richard L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.</media:description>
     </item>
     <item>
       <title>Risking Everything to Offer Abortions Across State Lines</title>
@@ -204,6 +211,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Iran Attacks Kurdish Positions Across the Border in Iraq</title>
+      <link>https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html" rel="standout"></atom:link>
+      <description>Tehran has blamed Kurdish groups for fomenting some of the protests that have convulsed Iran for almost three weeks.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 17:18:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04iran-border/04iran-border-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Damage from an Iranian attack near the city of Suleimaniyah, Iraq, last week. </media:description>
     </item>
     <item>
       <title>Climate Change Comes for the Freezers, a Key Tool for Alaska Natives</title>
@@ -547,7 +574,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html" rel="standout"></atom:link>
       <description>We estimate that Judge has about 22 solid pitches left to hit a homer in the Yankees’ three remaining games of the regular season.</description>
       <dc:creator>Jonathan Ellis</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 17:06:03 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 17:40:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>

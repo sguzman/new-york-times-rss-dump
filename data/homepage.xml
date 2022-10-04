@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 15:23:35 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 15:20:21 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 15:49:55 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 15:32:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -90,7 +90,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/business/energy-environment/oil-market.html" rel="standout"></atom:link>
       <description>Reduced global demand may offset any supply cut by OPEC and its allies.</description>
       <dc:creator>Clifford Krauss</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 14:24:52 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 15:27:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
@@ -156,6 +156,27 @@
       <media:description>Fort Myers Beach, Fla., was one of the communities hit hardest by Hurricane Ian.</media:description>
     </item>
     <item>
+      <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
+      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
+      <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.</description>
+      <dc:creator>Bill Friskics-Warren</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 15:32:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oliver Vanetta Lynn Jr.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Aint Woman Enough (to Take My Man) (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
+      <media:credit>Waring Abbott/Getty Images</media:credit>
+      <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
+    </item>
+    <item>
       <title>The Cop Show Enters the ‘Defund’ Era</title>
       <link>https://www.nytimes.com/2022/10/03/arts/television/cop-shows-after-george-floyd.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/arts/television/cop-shows-after-george-floyd.html</guid>
@@ -172,27 +193,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/arts/26copshows-5/26copshows-5-moth.jpg" width="151"></media:content>
       <media:credit>George Etheredge for The New York Times</media:credit>
       <media:description>On location with “East New York.”</media:description>
-    </item>
-    <item>
-      <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
-      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
-      <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.</description>
-      <dc:creator>Bill Friskics-Warren</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 15:16:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oliver Vanetta Lynn Jr.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Aint Woman Enough (to Take My Man) (Song)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
-      <media:credit>Waring Abbott/Getty Images</media:credit>
-      <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
     </item>
     <item>
       <title>Nobel Prize in Physics Is Awarded to 3 Scientists for Work in Quantum Technology</title>

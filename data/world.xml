@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 11:24:13 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 11:18:18 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 11:42:14 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 11:28:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,9 +106,9 @@
       <link>https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html" rel="standout"></atom:link>
-      <description>The missile flew about 2,800 miles, the longest distance ever traveled by a North Korean missile, officials in Tokyo and Seoul said.</description>
-      <dc:creator>Choe Sang-Hun and Motoko Rich</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 06:44:50 +0000</pubDate>
+      <description>The last time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was president and Kim Jong-un seemed intent on escalating conflict with Washington.</description>
+      <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 11:27:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
@@ -350,7 +350,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/science/nobel-prize-physics-winner.html" rel="standout"></atom:link>
       <description>Alain Aspect, John F. Clauser and Anton Zeilinger were recognized for their experiments in an area that has broad implications for secure information transfer and quantum computing.</description>
       <dc:creator>Isabella Kwai, Cora Engelbrecht and Dennis Overbye</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 11:15:35 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 11:28:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04NOBEL-physics-sub/merlin_214307847_e83c76b5-384a-4a1c-adb2-d059c068c15d-moth.jpg" width="151"></media:content>

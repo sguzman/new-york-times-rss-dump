@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 20:31:05 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 20:30:34 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 20:53:54 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 20:52:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/04/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>While Kyiv’s army is gaining momentum on the battlefield in the east and south, much of the land it has recaptured has been razed and abandoned. Russia’s new recruits remain largely in the wings.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:30:34 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 20:44:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04ukraine-briefing-header/04ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A photograph taken during a government-arranged tour for journalists showing a destroyed bridge in Sviatohirsk, Ukraine, on Monday.</media:description>
@@ -422,9 +422,18 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/science/nobel-prize-physics-winner.html" rel="standout"></atom:link>
       <description>Alain Aspect, John F. Clauser and Anton Zeilinger were recognized for their experiments in an area that has broad implications for secure information transfer and quantum computing.</description>
       <dc:creator>Isabella Kwai, Cora Engelbrecht and Dennis Overbye</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 14:27:14 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 20:52:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Academy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alain Aspect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John F. Clauser</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anton Zeilinger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantum Computing</category>
+      <category domain="">quantum mechanics</category>
+      <category domain="">quantum entanglement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04NOBEL-physics-sub/merlin_214307847_e83c76b5-384a-4a1c-adb2-d059c068c15d-moth.jpg" width="151"></media:content>
       <media:credit>Jonas Ekstromer/TT News Agency, via Associated Press</media:credit>
       <media:description>Awarding the prize on Tuesday, the committee said that the scientists’ work had “opened doors to another world.”</media:description>

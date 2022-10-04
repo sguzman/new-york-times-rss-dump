@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 17:50:50 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 17:40:25 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 18:25:56 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 18:23:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/technology/elon-musk-twitter-deal.html" rel="standout"></atom:link>
       <description>The billionaire’s surprise move came months after he tried to back out of a $44 billion deal to acquire the company.</description>
       <dc:creator>Kate Conger and Lauren Hirsch</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 17:30:45 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 17:30:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
@@ -54,43 +54,75 @@
       <media:description>Elon Musk in New York City in 2019.</media:description>
     </item>
     <item>
-      <title>Businesses Brace for Currency Chaos in Asia</title>
-      <link>https://www.nytimes.com/2022/10/04/business/asia-currency-dollar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/business/asia-currency-dollar.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/business/asia-currency-dollar.html" rel="standout"></atom:link>
-      <description>A 1997 financial catastrophe casts a long shadow in countries that are seeing the value of their money plunge to record lows.</description>
-      <dc:creator>Daisuke Wakabayashi and Ben Dooley</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:57:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yen (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Penang (Malaysia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04asia-currency-1/04asia-currency-1-moth.jpg" width="151"></media:content>
-      <media:credit>Lauren DeCicca for The New York Times</media:credit>
-      <media:description>A vendor at a street market in Phuket, Thailand. Many businesses in Asia are being squeezed by the strength of the dollar, which has soared to record levels this year.</media:description>
+      <title>Risking Everything to Offer Abortions Across State Lines</title>
+      <link>https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html" rel="standout"></atom:link>
+      <description>Doctors and midwives in blue states are working to get abortion pills into red states — setting the stage for a historic legal clash.</description>
+      <dc:creator>Emily Bazelon</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dobbs v Jackson Women&#39;s Health Organization (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midwives and Doulas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/magazine/9mag-abortion/9mag-abortion-moth.jpg" width="151"></media:content>
+      <media:credit>Alana Paterson for The New York Times</media:credit>
+      <media:description>“I just want to scream, ‘This is a public health emergency!’” says Linda Prine, who has worked for years with other providers and organizations to increase access to abortion pills.</media:description>
     </item>
     <item>
-      <title>Stocks Rise Strongly for a Second Day</title>
+      <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
+      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
+      <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.</description>
+      <dc:creator>Bill Friskics-Warren</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 15:32:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Oliver Vanetta Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Ain&#39;t Woman Enough (to Take My Man) (Song)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
+      <media:credit>Waring Abbott/Getty Images</media:credit>
+      <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
+    </item>
+    <item>
+      <title>Florida’s GOP Leaders Opposed Climate Aid. Now They’re Depending on It.</title>
+      <link>https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html" rel="standout"></atom:link>
+      <description>Before Hurricane Ian, the state’s Republican politicians have rejected federal action to cut greenhouse gas emissions and boost climate resilience.</description>
+      <dc:creator>Christopher Flavelle and Jonathan Weisman</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 18:14:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Richard L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.</media:description>
+    </item>
+    <item>
+      <title>Stocks Rise Strongly for a Second Day, Regaining Some Lost Ground</title>
       <link>https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/business/stocks-wall-street-rally.html" rel="standout"></atom:link>
-      <description>The rally brings some relief to Wall Street at the beginning of October, after the previous month ended on a sour note, capping a long streak of losses.</description>
+      <description>The rally brings some relief to Wall Street at the beginning of October, after a month that ended on a sour note and capped a long streak of losses.</description>
       <dc:creator>Isabella Simonetti and Joe Rennison</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 15:20:21 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 18:03:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -110,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html" rel="standout"></atom:link>
       <description>The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.</description>
       <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 12:50:51 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 17:55:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
@@ -138,66 +170,26 @@
       <media:description>Amazon hired at a fast clip throughout the pandemic.</media:description>
     </item>
     <item>
-      <title>Loretta Lynn, Country Music Star and Symbol of Rural Resilience, Dies at 90</title>
-      <link>https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/loretta-lynn-dead.html" rel="standout"></atom:link>
-      <description>Her powerful voice, playful lyrics and topical songs were a model for generations of country singers and songwriters. So was her life story.</description>
-      <dc:creator>Bill Friskics-Warren</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 15:32:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Appalachian Region</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Song)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Van Lear Rose (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oliver Vanetta Lynn Jr.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Aint Woman Enough (to Take My Man) (Song)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/05/10/arts/lynn-obit-1/lynn-obit-1-moth.jpg" width="151"></media:content>
-      <media:credit>Waring Abbott/Getty Images</media:credit>
-      <media:description>Loretta Lynn performing in 1976 in Rochester, N.Y. Her voice was unmistakable, with its Kentucky drawl, its tensely coiled vibrato and its deep reserves of power.</media:description>
-    </item>
-    <item>
-      <title>Florida’s GOP Leaders Opposed Climate Aid. Now They’re Depending on It.</title>
-      <link>https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html" rel="standout"></atom:link>
-      <description>Before Hurricane Ian, the state’s Republican politicians have rejected federal action to cut greenhouse gas emissions and boost climate resilience.</description>
-      <dc:creator>Christopher Flavelle and Jonathan Weisman</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 17:23:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Richard L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-moth.jpg" width="151"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.</media:description>
-    </item>
-    <item>
-      <title>Risking Everything to Offer Abortions Across State Lines</title>
-      <link>https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html" rel="standout"></atom:link>
-      <description>Doctors and midwives in blue states are working to get abortion pills into red states — setting the stage for a historic legal clash.</description>
-      <dc:creator>Emily Bazelon</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dobbs v Jackson Women&#39;s Health Organization (Supreme Court Decision)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midwives and Doulas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/magazine/9mag-abortion/9mag-abortion-moth.jpg" width="151"></media:content>
-      <media:credit>Alana Paterson for The New York Times</media:credit>
-      <media:description>“I just want to scream, ‘This is a public health emergency!’” says Linda Prine, who has worked for years with other providers and organizations to increase access to abortion pills.</media:description>
+      <title>Supreme Court Leans Toward Alabama in Voting Rights Dispute</title>
+      <link>https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html" rel="standout"></atom:link>
+      <description>But several members of the court’s conservative majority rejected the state’s most aggressive arguments in defense of its congressional voting map.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 18:06:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/us/politics/04dc-scotus-1/merlin_201575472_6d7745cd-cd14-4a83-88fa-e4bff7c08a5f-moth.jpg" width="151"></media:content>
+      <media:credit>Mickey Welsh/The Montgomery Advertiser, via Associated Press</media:credit>
+      <media:description>The case before the Supreme Court concerned a congressional map drawn by Alabama lawmakers that a lower court had said diluted the power of Black voters.</media:description>
     </item>
     <item>
       <title>What Video Footage Reveals About the Protests in Iran</title>
@@ -219,7 +211,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/world/middleeast/iran-kurds-iraq.html" rel="standout"></atom:link>
       <description>Tehran has blamed Kurdish groups for fomenting some of the protests that have convulsed Iran for almost three weeks.</description>
       <dc:creator>Cora Engelbrecht</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 17:18:34 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 18:13:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
@@ -394,7 +386,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/the-all-too-real-risk-of-a-global-recession.html" rel="standout"></atom:link>
       <description>We now find ourselves in the midst of the most comprehensive tightening of monetary policy the world has seen.</description>
       <dc:creator>Adam Tooze</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 14:47:25 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 18:11:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
@@ -572,9 +564,9 @@
       <link>https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-home-runs-today-chances.html" rel="standout"></atom:link>
-      <description>We estimate that Judge has about 22 solid pitches left to hit a homer in the Yankees’ three remaining games of the regular season.</description>
+      <description>We estimate that Judge has about 20 solid pitches left to hit a homer in the regular season. He has been unsuccessful so far in the Yankees’ afternoon game against the Texas Rangers.</description>
       <dc:creator>Jonathan Ellis</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 17:40:25 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 18:23:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>

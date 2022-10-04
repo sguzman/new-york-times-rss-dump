@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 01:26:38 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 01:12:13 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 03:22:00 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 03:17:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -201,7 +201,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/climate/hurricane-ian-rebuilding.html" rel="standout"></atom:link>
       <description>Big storms more becoming more common. That makes it crucial to take climate change into account when rebuilding.</description>
       <dc:creator>Elena Shao</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 21:23:34 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 02:09:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
@@ -278,7 +278,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/bangladesh-free-speech-movies.html" rel="standout"></atom:link>
       <description>In Bangladesh, a crackdown on free speech has left filmmakers in a Kafkaesque bind as their movies are blocked for vague reasons.</description>
       <dc:creator>Saif Hasnat and Mujib Mashal</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 00:00:09 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 01:26:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
@@ -512,13 +512,32 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
     </item>
     <item>
-      <title>North Korea Fires Missile Over Japan in Major Escalation</title>
+      <title>Herschel Walker Paid for an Abortion for Ex-Girlfriend, Report Says</title>
+      <link>https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/us/politics/herschel-walker-abortion-report.html" rel="standout"></atom:link>
+      <description>Mr. Walker called the report a lie, after The Daily Beast, which has also broken news about Mr. Walker’s out-of-wedlock children, reported that a former girlfriend had the procedure in 2009.</description>
+      <dc:creator>Maya King</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 02:59:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Beast, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03pol-walker-1-b1cd/03pol-walker-1-b1cd-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Craine for The New York Times</media:credit>
+      <media:description>Herschel Walker campaigning in July in Georgia. He has faced a number of damaging reports about his life story since he began his campaign for Senate in 2021.</media:description>
+    </item>
+    <item>
+      <title>North Korea Fires Ballistic Missile Over Japan in Major Escalation</title>
       <link>https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html" rel="standout"></atom:link>
       <description>The test-firing was the latest in a flurry of launches by the North. The missile flew over Japan and landed in the Pacific.</description>
       <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 01:12:13 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 03:16:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
@@ -551,7 +570,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/us/politics/trump-alex-cannon-archives.html" rel="standout"></atom:link>
       <description>When asked to say the former president had no more government documents after the return of 15 boxes in January, the lawyer, Alex Cannon, would not do so, uncertain of whether it was true.</description>
       <dc:creator>Maggie Haberman and Michael S. Schmidt</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 00:55:54 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 01:28:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Alex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
@@ -564,35 +583,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/multimedia/03dc-trump-cannon-1-d765/03dc-trump-cannon-1-d765-moth.jpg" width="151"></media:content>
       <media:credit>Department of Justice, via Associated Press</media:credit>
       <media:description>Documents seized by the F.B.I. in August from Mr. Trump’s Florida home included those marked with the highest levels of classification.</media:description>
-    </item>
-    <item>
-      <title>U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms</title>
-      <link>https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html" rel="standout"></atom:link>
-      <description>The new rules could be the most sweeping action taken yet by the Biden administration to thwart China’s access to American technology that powers data centers and supercomputers.</description>
-      <dc:creator>Paul Mozur, Ana Swanson and Edward Wong</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 20:50:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supercomputers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tencent Holdings Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/03JPdc-chinatech-print/03dc-chinatech01-moth.jpg" width="151"></media:content>
-      <media:credit>Long Wei/Visual China Group, via Getty Images</media:credit>
-      <media:description>A data center in Hangzhou, China. If enacted, new rules would be the strongest push to date by the United States to hit at China’s flourishing supercomputer and data center market.</media:description>
     </item>
     <item>
       <title>How Hard Should Your Workout Be?</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 11:46:25 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Oct 2022 11:29:35 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2022 12:31:46 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2022 12:30:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -168,7 +168,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
     </item>
     <item>
@@ -178,14 +177,14 @@
       <atom:link href="https://www.nytimes.com/2022/10/03/world/asia/japan-north-korea-missile.html" rel="standout"></atom:link>
       <description>The last time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was president and Kim Jong-un seemed intent on escalating conflict with Washington.</description>
       <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 11:27:13 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:13:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-01-promo/04nkorea-missile-01-moth.jpg" width="151"></media:content>
-      <media:credit>Kimimasa Mayama/EPA, via Shutterstock</media:credit>
-      <media:description>A screen displaying news reporting of North Korea’s launch of a ballistic missile, in Tokyo, Japan, on Tuesday. North Korea launched a ballistic missile over Japan that landed in the Pacific Ocean, the exclusive economic zone (EEZ) of Japan, about 3000km east of Japan.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04nkorea-missile-top/04nkorea-missile-top-moth.jpg" width="151"></media:content>
+      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A screen showing images of North Korea’s leader, Kim Jong-un, during a news update in Tokyo on Tuesday. North Korea’s missile launch prompted an alert in Japan that morning.</media:description>
     </item>
     <item>
       <title>How Strong Is North Korea’s Military?</title>
@@ -318,7 +317,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/us-conservative-therapy-politics.html" rel="standout"></atom:link>
       <description>Conservatives need mental health help too. But do they need to get it from someone who shares their worldview?</description>
       <dc:creator>Meghan Daum</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:19:45 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 12:30:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
@@ -495,6 +494,23 @@
       <media:description>Herschel Walker campaigning in July in Georgia. He has faced a number of damaging reports about his life story since he began his campaign for Senate in 2021.</media:description>
     </item>
     <item>
+      <title>Micron Pledges Up to $100 Billion for Semiconductor Factory in New York</title>
+      <link>https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html" rel="standout"></atom:link>
+      <description>The company is planning a giant complex in Clay, N.Y., a sign that the government’s investments in semiconductors are steering firms’ decisions.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 12:15:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/business/04chips-ny-1/04chips-ny-1-moth.jpg" width="151"></media:content>
+      <media:credit>Steve Helber/Associated Press</media:credit>
+      <media:description>Micron said high-volume production would start after 2025. </media:description>
+    </item>
+    <item>
       <title>Trial Opens for Bruce Lehrmann, Man Accused of Rape in Australia’s Parliament House</title>
       <link>https://www.nytimes.com/2022/10/04/world/australia/brittany-higgins-trial.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/australia/brittany-higgins-trial.html</guid>
@@ -534,23 +550,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/us/03xp-onion/03xp-onion-moth.jpg" width="151"></media:content>
       <media:credit>Photo by Justin Sullivan/Getty Images</media:credit>
       <media:description>The Onion ended its weekly print edition in 2009, but remains popular online. On Monday, the humor website took the unusual step of filing a brief with the Supreme Court on behalf of a man who had been jailed over a Facebook parody.</media:description>
-    </item>
-    <item>
-      <title>Tribal Pot Shops Thrive in New York</title>
-      <link>https://www.nytimes.com/2022/10/04/nyregion/marijuana-native-american-indian.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/nyregion/marijuana-native-american-indian.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/nyregion/marijuana-native-american-indian.html" rel="standout"></atom:link>
-      <description>More than 100 marijuana dispensaries, run out of gas stations and wooden shacks, have opened on Native land while New York State awaits its first official retail licenses.</description>
-      <dc:creator>Jay Root and Jesse McKinley</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seneca Indians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/nyregion/00tribal-marijuana/00tribal-marijuana-moth.jpg" width="151"></media:content>
-      <media:credit>Maddie McGarvey for The New York Times</media:credit>
-      <media:description>Many of the tribal-run marijuana dispensaries in New York operate out of gas stations like this one in Steamburg, a hamlet in Cattaraugus County.</media:description>
     </item>
     <item>
       <title>How Hard Should Your Workout Be?</title>
@@ -621,13 +620,13 @@
       <media:credit>Ryan Young for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Return of Midnight Basketball and Its Oakland Community</title>
+      <title>Midnight Basketball Returns, and Brings Community With It</title>
       <link>https://www.nytimes.com/2022/10/03/sports/midnight-basketball-oakland-community.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/sports/midnight-basketball-oakland-community.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/sports/midnight-basketball-oakland-community.html" rel="standout"></atom:link>
       <description>A once-politicized program has made a comeback, and its organizers hope it can give young Black men a place to escape a troubled city.</description>
       <dc:creator>Joshua Needelman</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 17:16:19 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 11:48:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>

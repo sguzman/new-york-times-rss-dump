@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 11:47:36 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 11:35:12 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 12:27:52 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 12:27:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,15 +23,15 @@
       <dc:creator>Andrew Higgins</dc:creator>
       <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Japarov, Sadyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03RussiaExodus07/03RussiaExodus07-moth.jpg" width="151"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
       <media:description>Yuri, a 36-year-old artist from Siberia, took three days to get by bus and train to Bishkek, Kyrgyzstan, where he now lives in a 20-bed hostel room.</media:description>
@@ -54,6 +54,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/05opecplus/05opecplus-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>A Lukoil refinery in Italy last month. Italy has increased its imports of Russian crude despite the European Union’s efforts to cut ties to Russian energy.</media:description>
+    </item>
+    <item>
+      <title>Putin Signs Annexation Laws as Russia Loses Ground in Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/05/world/europe/putin-annexation-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/europe/putin-annexation-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/europe/putin-annexation-ukraine-russia.html" rel="standout"></atom:link>
+      <description>Russian state television trumpeted the news, while playing down or ignoring the fact that Moscow’s forces are in retreat in multiple parts of the front line.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 11:06:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/05ukraine-briefing-putin-annexation-image/30ukraine-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Vladimir V. Putin of Russia addressed a rally and concert in Red Square last week celebrating Russia’s illegal annexation of four Ukrainian provinces.</media:description>
     </item>
     <item>
       <title>Talk of ‘Civil War,’ Ignited by Mar-a-Lago Search, Is Flaring Online</title>
@@ -182,6 +201,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/05roose-musk/05roose-musk-moth.jpg" width="151"></media:content>
       <media:credit>Michael Gonzalez/Getty Images</media:credit>
       <media:description>Changes are likely to come to Twitter if and when Elon Musk, seen here in August, becomes the owner of the company.</media:description>
+    </item>
+    <item>
+      <title>Is Elon Musk’s Deal to Buy Twitter Back On? Here’s What We Know.</title>
+      <link>https://www.nytimes.com/2022/10/05/business/musk-twitter-buyout-what-we-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/business/musk-twitter-buyout-what-we-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/business/musk-twitter-buyout-what-we-know.html" rel="standout"></atom:link>
+      <description>Elon Musk says he wants to revive his $44 billion deal to buy Twitter, but questions abound about financing and his ultimate plans.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Vivian Giang, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 11:48:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bridgewater Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Digital World Acquisition Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Truth Social (Social Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dalio, Raymond (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Icahn, Carl C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05DB-Musk-1-076f/05DB-Musk-1-076f-moth.jpg" width="151"></media:content>
+      <media:credit>Ringo H.W. Chiu/Associated Press</media:credit>
+      <media:description>Open arms.</media:description>
     </item>
     <item>
       <title>U.S. Aims to Turn Taiwan Into Giant Weapons Depot</title>
@@ -575,7 +615,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/05/arts/television/jeffrey-dahmer-netflix-victims.html" rel="standout"></atom:link>
       <description>A Netflix series about the infamous Milwaukee serial killer aims to tell the gruesome story through the experience of his victims. Those who remember them say that attempt failed.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 09:30:10 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 12:21:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>

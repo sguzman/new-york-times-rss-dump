@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 10:35:04 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 10:25:54 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 10:56:36 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 10:54:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>European Union negotiators struck a deal to cap the price of Russian oil. But Saudi Arabia’s determination to keep global oil prices high is a complicating factor.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 10:25:54 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 10:50:09 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05ukraine-briefing-header/05ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A municipal worker removing the remnants of a missile, which hit overnight, from the garden of a home in Kramatorsk, Ukraine, on Tuesday.</media:description>
@@ -284,6 +284,25 @@
       <media:description>Éric Dupond-Moretti, France’s justice minister, leaving a cabinet meeting last month in Paris. </media:description>
     </item>
     <item>
+      <title>Balancing Extremes</title>
+      <link>https://www.nytimes.com/2022/10/05/briefing/fed-reserve-inflation-labor-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/briefing/fed-reserve-inflation-labor-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/briefing/fed-reserve-inflation-labor-economy.html" rel="standout"></atom:link>
+      <description>The Federal Reserve is trying to tame inflation without wrecking the economy.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 10:49:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05-THE-MORNING-NL-jerome-1-3042-promo/05-THE-MORNING-NL-jerome-1-3042-moth.jpg" width="151"></media:content>
+      <media:credit>Julia Nikhinson for The New York Times</media:credit>
+      <media:description>Jerome H. Powell, the Fed chair, warned that increasing interest rates would be painful for the U.S. economy — but said curbing growth to contain price increases was essential.</media:description>
+    </item>
+    <item>
       <title>Australia Aims to Cut Its High Rate of Species Extinctions to Zero</title>
       <link>https://www.nytimes.com/2022/10/05/world/australia/species-extinction.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/australia/species-extinction.html</guid>
@@ -383,12 +402,12 @@
       <atom:link href="https://www.nytimes.com/2022/10/05/science/nobel-prize-chemistry-winner.html" rel="standout"></atom:link>
       <description>Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless were honored for their work in “click chemistry,” which could have important applications in treating and diagnosing illnesses.</description>
       <dc:creator>Cora Engelbrecht, Euan Ward and Oliver Whang</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 10:25:09 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 10:48:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/05NOBEL-chemistry-sub2/merlin_214363278_bbdb1a5f-ce10-4b99-ae0c-df983e97340a-moth.jpg" width="151"></media:content>
       <media:credit>Christine Olsson/TT News Agency, via Associated Press</media:credit>
-      <media:description>Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless won the 2022 Nobel Prize in Chemistry.</media:description>
+      <media:description>The Nobel committee said that advances made by the three scientists had “taken chemistry into the era of functionalism” and were “bringing the greatest benefit to humankind.”</media:description>
     </item>
     <item>
       <title>Your Wednesday Briefing: Ukraine gains ground in south</title>
@@ -1122,20 +1141,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03indonesia-soccer-leadall-version-to-launch-01/03indonesia-soccer-leadall-version-to-launch-01-moth.jpg" width="151"></media:content>
       <media:credit>H Prabowo/EPA, via Shutterstock</media:credit>
       <media:description>Police officers trying to stop fans from entering the field during a clash between fans at Kanjuruhan Stadium in Malang, Indonesia, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Bolsonaro Outperforms Polls and Forces Runoff Against Lula in Brazil’s Election</title>
-      <link>https://www.nytimes.com/2022/10/03/world/americas/brazil-elections-runoff-bolsonaro-lula.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/americas/brazil-elections-runoff-bolsonaro-lula.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/americas/brazil-elections-runoff-bolsonaro-lula.html" rel="standout"></atom:link>
-      <description>The two political titans will face off again later this month in a race widely seen as a major test for one of the world’s largest democracies.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 17:01:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
     </item>
   </channel>
 </rss>

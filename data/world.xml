@@ -3,17 +3,29 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 05:54:48 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 05:34:11 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 06:44:56 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 06:33:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>OPEC Members and Russia Set to Meet as Europe Faces Energy Crisis</title>
+      <link>https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>Saudi Arabia appears determined to bolster prices and continue coordinating with Russia during the Ukraine war.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 06:33:29 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05ukraine-briefing-header/05ukraine-briefing-header-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>A municipal worker removing the remnants of a missile, which hit overnight, from the garden of a home in Kramatorsk, Ukraine, on Tuesday.</media:description>
+    </item>
     <item>
       <title>Ukraine Expels Some Russian Troops in South</title>
       <link>https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html</link>
@@ -35,6 +47,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04ukraine-ledeall_7/merlin_214333698_9370df8e-2521-4e4f-bd6f-6882af69a8e0-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian troops moving through the recently recaptured village of Yatskivka on Tuesday. Ukraine has recaptured cities in the northeast, the east and now the south.</media:description>
+    </item>
+    <item>
+      <title>Russians Fleeing the Draft Find an Unlikely Haven in Kyrgyzstan</title>
+      <link>https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html" rel="standout"></atom:link>
+      <description>Tens of thousands of men have ended up in places like Kyrgyzstan, a former Soviet territory, that normally see few refugees but are willing to take them.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Japarov, Sadyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03RussiaExodus07/03RussiaExodus07-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Yuri, a 36-year-old artist from Siberia, took three days to get by bus and train to Bishkek, Kyrgyzstan, where he now lives in a 20-bed hostel room.</media:description>
     </item>
     <item>
       <title>Tear Gas, a Stampede, and an Indonesian Family Shattered</title>
@@ -195,26 +229,59 @@
       <media:description>Family members grieving Percival Mabasa at their home in Manila on Tuesday.</media:description>
     </item>
     <item>
-      <title>Russians Fleeing the Draft Find an Unlikely Haven in Kyrgyzstan</title>
-      <link>https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html" rel="standout"></atom:link>
-      <description>Tens of thousands of men have ended up in places like Kyrgyzstan, a former Soviet territory, that normally see few refugees but are willing to take them.</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <title>UK Prime Minister Liz Truss Drops Plan to Cut Tax Rate on High Earners</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
+      <description>The announcement was a major capitulation by Prime Minister Liz Truss’s government after the tax cuts it announced roiled financial markets and drew widespread criticism.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 22:09:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03uk-tax-new1/03uk-tax-new1-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain, center, has been forced to change course during her Conservative Party’s showpiece annual conference in Birmingham, England.</media:description>
+    </item>
+    <item>
+      <title>François Legault Wins Re-election in Quebec</title>
+      <link>https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html" rel="standout"></atom:link>
+      <description>Voters in Quebec gave a second term to Premier François Legault, who has shifted the province from a once fervent-independence movement to a nationalism focused on French Québécois identity.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 01:36:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Japarov, Sadyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03RussiaExodus07/03RussiaExodus07-moth.jpg" width="151"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Yuri, a 36-year-old artist from Siberia, took three days to get by bus and train to Bishkek, Kyrgyzstan, where he now lives in a 20-bed hostel room.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03quebec-elect/03quebec-elect-moth.jpg" width="151"></media:content>
+      <media:credit>Christinne Muschi/Reuters</media:credit>
+      <media:description>Quebec’s premier, François Legault, speaking in May at a political convention in Drummondville, Quebec. He overwhelmingly won re-election Monday, according to preliminary results. </media:description>
+    </item>
+    <item>
+      <title>Éric Dupond-Moretti, French Justice Minister, Faces Trial</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html" rel="standout"></atom:link>
+      <description>Éric Dupond-Moretti opened investigations of judges he had clashed with as a lawyer, prompting accusations that he had abused his position to settle scores.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 16:22:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dupond-Moretti, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03france-minister/03france-minister-moth.jpg" width="151"></media:content>
+      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Éric Dupond-Moretti, France’s justice minister, leaving a cabinet meeting last month in Paris. </media:description>
     </item>
     <item>
       <title>Your Wednesday Briefing: Ukraine gains ground in south</title>
@@ -493,25 +560,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/world/04ambriefing-europe-nl-promo-oct/04ambriefing-europe-nl-promo-oct-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers are seen in a military vehicle amidst destroyed houses in Oskil, Ukraine, on Monday, October 3, 2022.</media:description>
-    </item>
-    <item>
-      <title>François Legault Wins Re-election in Quebec</title>
-      <link>https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html" rel="standout"></atom:link>
-      <description>Voters in Quebec gave a second term to Premier François Legault, who has shifted the province from a once fervent-independence movement to a nationalism focused on French Québécois identity.</description>
-      <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 01:36:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03quebec-elect/03quebec-elect-moth.jpg" width="151"></media:content>
-      <media:credit>Christinne Muschi/Reuters</media:credit>
-      <media:description>Quebec’s premier, François Legault, speaking in May at a political convention in Drummondville, Quebec. He overwhelmingly won re-election Monday, according to preliminary results. </media:description>
     </item>
     <item>
       <title>CDC Ends Country-by-Country Covid Travel Advisories</title>
@@ -842,25 +890,6 @@
       <media:description>Ayatollah Ali Khamenei, Iran’s supreme leader, reviewing the country’s armed forces at a graduation ceremony in Tehran on Monday.</media:description>
     </item>
     <item>
-      <title>Éric Dupond-Moretti, French Justice Minister, Faces Trial</title>
-      <link>https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/french-justice-minister-trial.html" rel="standout"></atom:link>
-      <description>Éric Dupond-Moretti opened investigations of judges he had clashed with as a lawyer, prompting accusations that he had abused his position to settle scores.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 16:22:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dupond-Moretti, Eric</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03france-minister/03france-minister-moth.jpg" width="151"></media:content>
-      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Éric Dupond-Moretti, France’s justice minister, leaving a cabinet meeting last month in Paris. </media:description>
-    </item>
-    <item>
       <title>Head of Ukraine’s Zaporizhzhia Nuclear Plant Released From Detention</title>
       <link>https://www.nytimes.com/2022/10/03/world/europe/zaporizhzhia-nuclear-plant-director-general-iaea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/zaporizhzhia-nuclear-plant-director-general-iaea.html</guid>
@@ -965,23 +994,6 @@
       <media:description>Police inside the Kanjuruhan Stadium on Monday.</media:description>
     </item>
     <item>
-      <title>UK Prime Minister Liz Truss Drops Plan to Cut Tax Rate on High Earners</title>
-      <link>https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/uk-tax-rate-cut.html" rel="standout"></atom:link>
-      <description>The announcement was a major capitulation by Prime Minister Liz Truss’s government after the tax cuts it announced roiled financial markets and drew widespread criticism.</description>
-      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 22:09:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03uk-tax-new1/03uk-tax-new1-moth.jpg" width="151"></media:content>
-      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Liz Truss of Britain, center, has been forced to change course during her Conservative Party’s showpiece annual conference in Birmingham, England.</media:description>
-    </item>
-    <item>
       <title>Your Monday Briefing</title>
       <link>https://www.nytimes.com/2022/10/03/briefing/pipeline-leakages-indonesia-soccer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/briefing/pipeline-leakages-indonesia-soccer.html</guid>
@@ -1054,6 +1066,78 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-nordstream/merlin_214064700_3d3f8bf0-44cc-4a59-ad82-12945a6b59bd-moth.jpg" width="151"></media:content>
       <media:credit>Danish Defense Command, via Agence France-Press — Getty Images</media:credit>
       <media:description>Gas leaks were discovered on Nord Stream pipelines in the Baltic Sea last week.</media:description>
+    </item>
+    <item>
+      <title>Ukrainian Troops Hunt Demoralized Russian Stragglers in Lyman</title>
+      <link>https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html" rel="standout"></atom:link>
+      <description>A major Russian newspaper said the Russian troops, facing defeat in Lyman, had fled with “empty eyes” after barely escaping with their lives.</description>
+      <pubDate>Sun, 02 Oct 2022 22:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Komsomolskaya Pravda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pravda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-ledeall-swap1/02ukraine-ledeall-swap1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A Ukrainian tank near a recaptured area north of Lyman in the Donetsk region of Ukraine on Sunday.</media:description>
+    </item>
+    <item>
+      <title>On Russian TV, the Kremlin emphasizes a fight against all of the West, not just Ukraine.</title>
+      <link>https://www.nytimes.com/2022/10/03/world/europe/on-russian-tv-the-kremlin-emphasizes-a-fight-against-all-of-the-west-not-just-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/europe/on-russian-tv-the-kremlin-emphasizes-a-fight-against-all-of-the-west-not-just-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/world/europe/on-russian-tv-the-kremlin-emphasizes-a-fight-against-all-of-the-west-not-just-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Mon, 03 Oct 2022 11:33:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-reax-promo/02ukraine-briefing-carousel-Lyman01-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Your Monday Briefing: Indonesia’s Stadium Tragedy</title>
+      <link>https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/briefing/indonesia-soccer-death-stampede-asia.html" rel="standout"></atom:link>
+      <description>Plus Brazil votes in national elections and China wrestles with Covid fatigue.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 21:04:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/multimedia/03ambriefing-asia-nl-PROMO/01indonesia-03-1-80fa-moth.jpg" width="151"></media:content>
+      <media:credit>Yudha Prabowo/Associated Press</media:credit>
+      <media:description>Soccer fans carrying an injured man away from the stadium.</media:description>
+    </item>
+    <item>
+      <title>If Bolsonaro disputes a loss, some supporters are ready to take to the streets.</title>
+      <link>https://www.nytimes.com/2022/10/02/world/americas/if-bolsonaro-disputes-a-loss-some-supporters-are-ready-to-take-to-the-streets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/americas/if-bolsonaro-disputes-a-loss-some-supporters-are-ready-to-take-to-the-streets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/02/world/americas/if-bolsonaro-disputes-a-loss-some-supporters-are-ready-to-take-to-the-streets.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ana Ionova, Flávia Milhorance, Laís Martins and Leonardo Coelho</dc:creator>
+      <pubDate>Sun, 02 Oct 2022 20:30:03 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02brazil-elections-bolsonaro-supporters-01/02brazil-elections-bolsonaro-supporters-01-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Brazilian President Jair Bolsonaro, top, speaking to supporters in São Paulo, Brazil, last month.</media:description>
     </item>
   </channel>
 </rss>

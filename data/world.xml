@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 14:53:23 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 14:51:51 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 15:25:50 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 15:16:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>As E.U. Seeks to Curb Russia’s Revenues, Oil Production Cut Poses Obstacle</title>
+      <title>As E.U. Seeks to Curb Russia’s Revenues, Oil Supply Cut Poses Obstacle</title>
       <link>https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/05/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>European Union negotiators struck a deal to cap the price of Russian oil, but a sharp reduction in the global supply complicates the effort.</description>
+      <description>European Union negotiators struck a deal to cap the price of Russian oil, but a cutback in global production complicates the effort.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 14:51:51 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 15:16:44 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05ukraine-briefing-header/05ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A municipal worker removing the remnants of a missile, which hit overnight, from the garden of a home in Kramatorsk, Ukraine, on Tuesday.</media:description>
@@ -130,12 +130,9 @@
       <description>They emerged from an applicant pool of thousands to run the world’s most southerly post office, monitor penguins and manage the wild landscape on Goudier Island.</description>
       <dc:creator>Saskia Solomon</dc:creator>
       <pubDate>Tue, 04 Oct 2022 20:02:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UK Antarctic Heritage Trust</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Penguins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold and Cold Spells</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04Antarctica-post-office/04Antarctica-post-office-moth.jpg" width="151"></media:content>
       <media:credit>Dietmar Denger/Laif, via Redux</media:credit>
       <media:description>Port Lockroy base on Goudier Island is managed by the U.K. Antarctic Heritage Trust. Assignment there is not for the faint hearted.</media:description>
@@ -278,6 +275,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05ukraine-briefing-us-opec-plus-1-5121/05ukraine-briefing-us-opec-plus-1-5121-moth.jpg" width="151"></media:content>
       <media:credit>Joe Klamar/Agence France-Presse — Getty Images</media:credit>
       <media:description>OPEC members led by Saudi Arabia and its 10 allied members headed by Russia will meet in Vienna for the first time since spring 2020.</media:description>
+    </item>
+    <item>
+      <title>Russian Journalist Who Protested War Escapes House Arrest</title>
+      <link>https://www.nytimes.com/2022/10/05/world/europe/russian-journalist-marina-ovsyannikova-escape.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/europe/russian-journalist-marina-ovsyannikova-escape.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/europe/russian-journalist-marina-ovsyannikova-escape.html" rel="standout"></atom:link>
+      <description>Marina Ovsyannikova said in a Telegram post that she considered herself innocent of the two-month sentence imposed by a Moscow court.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 15:12:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ovsyannikova, Marina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05ukraine-briefing-ovsyannikova-image/05ukraine-briefing-ovsyannikova-image-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Evgenia Novozhenina/Reuters</media:credit>
+      <media:description>Marina Ovsyannikova, a former state television employee who gained fame after protesting on air, during a court hearing in Moscow in July.</media:description>
     </item>
     <item>
       <title>Putin Signs Annexation Laws as Russia Loses Ground in Ukraine</title>
@@ -1157,26 +1169,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ukraine-briefing-first-lady-zelenska-01/03ukraine-briefing-first-lady-zelenska-01-moth.jpg" width="151"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Olena Zelenska, the Ukrainian first lady, at a session of the United Nations General Assembly in New York last month.</media:description>
-    </item>
-    <item>
-      <title>Unearthing Everyday Life at an Ancient Site in Greece</title>
-      <link>https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html" rel="standout"></atom:link>
-      <description>Excavations in the Peloponnesian village of Iklaina are yielding rich insights into the lives of the Mycenaean civilization’s general population.</description>
-      <dc:creator>Matt Stirn</dc:creator>
-      <pubDate>Mon, 03 Oct 2022 18:20:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mycenae (Greece)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/03travel-greece5-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Stirn</media:credit>
-      <media:description>An archaeologist carefully unearths a pottery fragment.</media:description>
     </item>
   </channel>
 </rss>

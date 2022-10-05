@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 22:16:03 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 22:05:47 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 22:46:20 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 22:37:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,12 +62,14 @@
       <description>American officials said they were not aware of the plan ahead of time for the attack that killed Daria Dugina and that they had admonished Ukraine over it.</description>
       <dc:creator>Julian E. Barnes, Adam Goldman, Adam Entous and Michael Schwirtz</dc:creator>
       <pubDate>Wed, 05 Oct 2022 17:59:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugina, Daria (1992-2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugin, Alexander (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-moth.jpg" width="151"></media:content>
       <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
       <media:description>Daria Dugina’s memorial service in Moscow in August. U.S. intelligence agencies believe that parts of the Ukrainian government authorized the attack that killed her.</media:description>
@@ -118,31 +120,6 @@
       <media:description>Damage to residences on Pine Island was widespread.</media:description>
     </item>
     <item>
-      <title>U.S. Aims to Turn Taiwan Into Giant Weapons Depot</title>
-      <link>https://www.nytimes.com/2022/10/05/us/politics/taiwan-biden-weapons-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/us/politics/taiwan-biden-weapons-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/us/politics/taiwan-biden-weapons-china.html" rel="standout"></atom:link>
-      <description>Officials say Taiwan needs to become a “porcupine” with enough weapons to hold out if the Chinese military blockades and invades it, even if Washington decides to send troops.</description>
-      <dc:creator>Edward Wong and John Ismay</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 14:14:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05dc-taiwan-weapons-1-2780/05dc-taiwan-weapons-1-2780-moth.jpg" width="151"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>Taiwanese military exercises in July. The United States has approved several weapons packages for the island.</media:description>
-    </item>
-    <item>
       <title>For Pelosi and McCarthy, a Toxic Relationship Worsens as Elections Approach</title>
       <link>https://www.nytimes.com/2022/10/05/us/politics/pelosi-mccarthy-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/us/politics/pelosi-mccarthy-midterms.html</guid>
@@ -168,7 +145,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/05/us/texas-patriot-mobile.html" rel="standout"></atom:link>
       <description>Patriot Mobile, based in a battleground suburb, is spending money to promote conservative views on race and gender in schools. It has its sights on bigger political targets.</description>
       <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 14:01:48 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 22:37:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Boards</category>
@@ -177,15 +154,39 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Critical Race Theory</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Mobile LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colleyville (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Worth (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grapevine (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tarrant County (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Mobile LLC</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/us/00texas-schoolboards2/00texas-schoolboards2-moth.jpg" width="151"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>In Grapevine, Texas, and other communities in Tarrant County, candidates backed by the cellphone company Patriot Mobile have won elections to school boards. </media:description>
+    </item>
+    <item>
+      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
+      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
+      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
     </item>
     <item>
       <title>Eviction Looming For California Scofflaw And His Two Acres of Land</title>
@@ -207,23 +208,6 @@
       <media:description>David Lee Hoffman has spent decades fighting Marin County, Calif., for the right to do as he wishes with his property. He could soon be removed.</media:description>
     </item>
     <item>
-      <title>The Portland Thorns Become the Face of a Scandal in Women’s Soccer</title>
-      <link>https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html" rel="standout"></atom:link>
-      <description>The Portland Thorns were once the pride of U.S. women’s soccer. But after a report said the club shielded a disgraced coach and thwarted an abuse investigation, even the players are demanding a housecleaning.</description>
-      <dc:creator>Kevin Draper</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 18:51:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Thorns (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Women&#39;s Soccer League (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paulson, Merritt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riley, Paul (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sauerbrunn, Becky (1985- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/sports/05soccer-portland-knew/05soccer-portland-knew-moth.jpg" width="151"></media:content>
-      <media:credit>John Rudoff/Sipa USA, via Reuters</media:credit>
-    </item>
-    <item>
       <title>What Does Sustainable Living Look Like? Maybe Like Uruguay</title>
       <link>https://www.nytimes.com/2022/10/05/magazine/uruguay-renewable-energy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/magazine/uruguay-renewable-energy.html</guid>
@@ -231,40 +215,35 @@
       <description>No greater challenge faces humanity than reducing emissions without backsliding into preindustrial poverty. One tiny country is leading the way.</description>
       <dc:creator>Noah Gallagher Shannon</dc:creator>
       <pubDate>Wed, 05 Oct 2022 16:59:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uruguay</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Windmills</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroelectric Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/magazine/09mag-uruguay-06/09mag-uruguay-06-moth.jpg" width="151"></media:content>
       <media:credit>Alessandro Cinque for The New York Times</media:credit>
       <media:description>Gauchos at the Pintado wind farm in Corral de Piedra, Uruguay.</media:description>
     </item>
     <item>
-      <title>Hidden in 54 Corpses, a Revelation About Ancient Greece</title>
-      <link>https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/science/greece-sicily-himera-genetics.html" rel="standout"></atom:link>
-      <description>DNA from a 2,500-year-old battlefield in Sicily reveals that mercenary soldiers were common, if not the Homeric ideal.</description>
-      <dc:creator>Franz Lidz</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 18:27:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reich, David E (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carthage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/science/04SCI-HIMERA/04SCI-HIMERA-moth.jpg" width="151"></media:content>
-      <media:credit>Stefano Vassallo</media:credit>
-      <media:description>A mass grave of troops from the second Battle of Himera in Sicily in 409 B.C. One-fourth of the combatants are thought to have been mercenaries, compared to two-thirds in the first Battle of Himera seven decades earlier.</media:description>
+      <title>How Bram Stoker’s Dracula Became ‘Dracula Daily,’ and an Internet Sensation</title>
+      <link>https://www.nytimes.com/2022/10/05/books/bram-stokers-dracula-daily.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/books/bram-stokers-dracula-daily.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/books/bram-stokers-dracula-daily.html" rel="standout"></atom:link>
+      <description>A recluse plagued by yearning and existential loneliness, the count found new life, and new readers, during the pandemic when the novel was serialized.</description>
+      <dc:creator>Madeleine Connors</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vampires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newsletters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoker, Bram</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/books/00Dracula2/00Dracula2-moth.jpg" width="151"></media:content>
+      <media:credit>Shawn Brackbill for The New York Times</media:credit>
+      <media:description>Matt Kirkland, creator of “Dracula Daily,” at his home in Lawrence, Kansas. He turned to the book during the pandemic, and found Dracula to be an unlikely patron saint for the uncertain times.</media:description>
     </item>
     <item>
       <title>I’ve Studied 13 Days of the Cuban Missile Crisis. This Is What I See When I Look at Putin.</title>
@@ -293,7 +272,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/05/opinion/mortality-penalty-inequality-education.html" rel="standout"></atom:link>
       <description>Education divides everything, including life and death.</description>
       <dc:creator>Thomas B. Edsall</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 20:38:04 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 22:16:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -487,30 +466,6 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
-      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
-      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
-    </item>
-    <item>
       <title>Climate Change Made Summer Hotter and Drier Worldwide, Study Finds</title>
       <link>https://www.nytimes.com/2022/10/05/climate/climate-change-europe-drought.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/climate/climate-change-europe-drought.html</guid>
@@ -530,6 +485,39 @@
       <media:description>A field destroyed by a brush fire in the drought-ravaged village of Xinyao in Jiangxi Province, China, in August.</media:description>
     </item>
     <item>
+      <title>Former Uber Security Chief Joe Sullivan Found Guilty of Hiding Hack From Authorities</title>
+      <link>https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html" rel="standout"></atom:link>
+      <description>A jury found Joe Sullivan, who led security at the ride-hailing company, guilty on two different counts. The case could change how security professionals handle data breaches.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 21:44:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khosrowshahi, Dara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Joe (1968- )</category>
+    </item>
+    <item>
+      <title>The Portland Thorns Become the Face of a Scandal in Women’s Soccer</title>
+      <link>https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/sports/soccer/portland-thorns-womens-soccer-scandal.html" rel="standout"></atom:link>
+      <description>The Portland Thorns were once the pride of U.S. women’s soccer. But after a report said the club shielded a disgraced coach and thwarted an abuse investigation, even the players are demanding a housecleaning.</description>
+      <dc:creator>Kevin Draper</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 18:51:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Thorns (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Women&#39;s Soccer League (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paulson, Merritt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riley, Paul (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sauerbrunn, Becky (1985- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/sports/05soccer-portland-knew/05soccer-portland-knew-moth.jpg" width="151"></media:content>
+      <media:credit>John Rudoff/Sipa USA, via Reuters</media:credit>
+    </item>
+    <item>
       <title>In Israel, a Solemn Yom Kippur Also Creates a Giant Playground</title>
       <link>https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</guid>
@@ -544,24 +532,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05Israel-Kippur-Dispatch01/05Israel-Kippur-Dispatch01-moth.jpg" width="151"></media:content>
       <media:credit>Amit Elkayam for The New York Times</media:credit>
       <media:description>Bikers in Tel Aviv on Ayalon Highway, typically one of the busiest roads in the Middle East, during Yom Kippur on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>As Alex Jones Stands Trial, Newtown Would Rather Forget Him</title>
-      <link>https://www.nytimes.com/2022/10/05/nyregion/newtown-alex-jones-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/nyregion/newtown-alex-jones-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/nyregion/newtown-alex-jones-trial.html" rel="standout"></atom:link>
-      <description>Nearly 10 years after the Sandy Hook Elementary School massacre — and the conspiracy theories spread by Mr. Jones — Newtown residents are trying to move past their grief and anger.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 21:42:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infowars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Alex (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newtown (Conn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/nyregion/05newtown-jones-6/05newtown-jones-6-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Watts for The New York Times</media:credit>
-      <media:description>At Sandy Hook Cafe in Newtown, Conn., Sue Bucur and Barb Baldino said they remained incensed about the role that Alex Jones had played in circulating falsehoods about the attack.</media:description>
     </item>
     <item>
       <title>Why Does a Long Run Send Me Running to the Restroom?</title>

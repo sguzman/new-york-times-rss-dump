@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 03:45:01 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 03:21:17 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 04:55:11 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -193,6 +193,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04philippines-journalist/merlin_214302138_af2da2ea-114f-44e1-aced-6294c0febf40-moth.jpg" width="151"></media:content>
       <media:credit>Jam Sta Rosa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Family members grieving Percival Mabasa at their home in Manila on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Russians Fleeing the Draft Find an Unlikely Haven in Kyrgyzstan</title>
+      <link>https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html" rel="standout"></atom:link>
+      <description>Tens of thousands of men have ended up in places like Kyrgyzstan, a former Soviet territory, that normally see few refugees but are willing to take them.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Japarov, Sadyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03RussiaExodus07/03RussiaExodus07-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Yuri, a 36-year-old artist from Siberia, took three days to get by bus and train to Bishkek, Kyrgyzstan, where he now lives in a 20-bed hostel room.</media:description>
     </item>
     <item>
       <title>Your Wednesday Briefing: Ukraine gains ground in south</title>
@@ -1032,25 +1054,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/02/world/02ukraine-briefing-nordstream/merlin_214064700_3d3f8bf0-44cc-4a59-ad82-12945a6b59bd-moth.jpg" width="151"></media:content>
       <media:credit>Danish Defense Command, via Agence France-Press — Getty Images</media:credit>
       <media:description>Gas leaks were discovered on Nord Stream pipelines in the Baltic Sea last week.</media:description>
-    </item>
-    <item>
-      <title>Ukrainian Troops Hunt Demoralized Russian Stragglers in Lyman</title>
-      <link>https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/02/world/europe/ukraine-russia-lyman.html" rel="standout"></atom:link>
-      <description>A major Russian newspaper said the Russian troops, facing defeat in Lyman, had fled with “empty eyes” after barely escaping with their lives.</description>
-      <pubDate>Sun, 02 Oct 2022 22:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Komsomolskaya Pravda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pravda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/02/world/02ukraine-ledeall-swap1/02ukraine-ledeall-swap1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Ivor Prickett for The New York Times</media:credit>
-      <media:description>A Ukrainian tank near a recaptured area north of Lyman in the Donetsk region of Ukraine on Sunday.</media:description>
     </item>
   </channel>
 </rss>

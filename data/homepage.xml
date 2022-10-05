@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Oct 2022 03:16:26 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Oct 2022 03:04:03 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2022 04:21:47 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2022 04:12:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Russians Fleeing the Draft Find an Unlikely Haven in Kyrgyzstan</title>
+      <link>https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/russians-fleeing-draft-kyrgyzstan-putin.html" rel="standout"></atom:link>
+      <description>Tens of thousands of men have ended up in places like Kyrgyzstan, a former Soviet territory, that normally see few refugees but are willing to take them.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 04:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Japarov, Sadyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03RussiaExodus07/03RussiaExodus07-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Yuri, a 36-year-old artist from Siberia, took three days to get by bus and train to Bishkek, Kyrgyzstan, where he now lives in a 20-bed hostel room.</media:description>
+    </item>
     <item>
       <title>Ukraine Expels Some Russian Troops in South</title>
       <link>https://www.nytimes.com/2022/10/04/world/europe/ukraine-russia-war.html</link>
@@ -43,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/business/national-debt.html" rel="standout"></atom:link>
       <description>America’s borrowing binge has long been viewed as sustainable because of historically low interest rates. But as rates rise, the nation’s fiscal woes are getting worse.</description>
       <dc:creator>Alan Rappeport and Jim Tankersley</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 21:12:59 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 21:13:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
@@ -83,7 +105,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/baseball/aaron-judge-62-home-runs.html" rel="standout"></atom:link>
       <description>A blast against Texas vaulted Judge past Roger Maris for the American League’s single-season record, rekindling enthusiasm for a milestone spoiled by the steroid era.</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 02:46:43 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 03:59:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
@@ -177,7 +199,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/us/alabama-supreme-court-voting-rights-act.html" rel="standout"></atom:link>
       <description>But several members of the court’s conservative majority rejected the state’s most aggressive arguments in defense of its congressional voting map.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:24:05 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 20:24:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
@@ -199,7 +221,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/climate/hurricane-ian-mold-home-remediation.html" rel="standout"></atom:link>
       <description>Mold in homes is a costly crisis that often accompanies hurricanes and flooding, and climate change is amplifying the rain that feeds outbreaks.</description>
       <dc:creator>Winston Choi-Schagrin and Emily Kask</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 22:43:03 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 03:20:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mold</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
@@ -260,7 +282,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/soccer/soccer-abuse-power.html" rel="standout"></atom:link>
       <description>A report on dysfunction in women’s soccer showed that abuse of players in the National Women’s Soccer League was “an open secret.” Players had nowhere to turn.</description>
       <dc:creator>Kurt Streeter</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 01:32:27 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2022 01:32:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
@@ -281,7 +303,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/sports/soccer/uswnt-abuse-sauerbrunn-paulson-thorns.html" rel="standout"></atom:link>
       <description>Becky Sauerbrunn said any official found to have failed to protect players “should be gone.” As she spoke, the owner of her club, the Portland Thorns, said he would leave the team temporarily. Chicago’s shortly followed suit.</description>
       <dc:creator>Andrew Das and Kevin Draper</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 23:36:55 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 23:36:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Women&#39;s National Soccer Team</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Thorns (Soccer Team)</category>
@@ -292,21 +314,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04soccer-uswnt-1-4070/04soccer-uswnt-1-4070-moth.jpg" width="151"></media:content>
       <media:credit>Azael Rodriguez/Getty Images</media:credit>
       <media:description>The United States captain Becky Sauerbrunn, who is a member of the National Women’s Soccer League’s Portland Thorns. </media:description>
-    </item>
-    <item>
-      <title>‘Beavis and Butt-Head’ Was the ’90s Cartoon That Mattered</title>
-      <link>https://www.nytimes.com/2022/10/04/arts/television/beavis-and-butt-head.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/television/beavis-and-butt-head.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/arts/television/beavis-and-butt-head.html" rel="standout"></atom:link>
-      <description>It doesn’t make best-of lists, but the series, then and now, was always much smarter than its characters, and it didn’t try too hard. Sorry, Bart Simpson.</description>
-      <dc:creator>Jason Zinoman</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 14:03:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Mike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Beavis and Butt-Head (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Beavis and Butt-Head Do the Universe (Movie)</category>
     </item>
     <item>
       <title>Unearthing Everyday Life at an Ancient Site in Greece</title>
@@ -418,7 +425,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/04/opinion/hurricane-ian-coast-rebuilding.html" rel="standout"></atom:link>
       <description>Taxpayers too often subsidize irresponsible development, with tragic results.</description>
       <dc:creator>Robert S. Young</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 19:26:14 +0000</pubDate>
+      <pubDate>Tue, 04 Oct 2022 19:26:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
@@ -577,9 +584,9 @@
       <link>https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/03/us/stockton-serial-killer.html" rel="standout"></atom:link>
-      <description>The police said last week that five shootings this year were connected. On Monday, they added two more and said a serial killer could be to blame.</description>
-      <dc:creator>Daniel Victor and Michael Levenson</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 22:35:12 +0000</pubDate>
+      <description>The police said they had connected a series of shootings that have left six dead through ballistics and video footage and said a serial killer could be to blame.</description>
+      <dc:creator>Daniel Victor, Michael Levenson and Eduardo Medina</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 03:43:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Serial Murders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockton (Calif)</category>

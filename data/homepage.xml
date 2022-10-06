@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 15:46:00 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 15:38:41 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 16:23:15 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 16:14:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -123,7 +123,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html" rel="standout"></atom:link>
       <description>Before his Twitter posts upended the Georgia senate race, Herschel Walker’s son already had a large social media presence reveling in contradictions.</description>
       <dc:creator>Clyde McGrady and Kellen Browning</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 07:00:11 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 16:14:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Christian (1999- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -209,6 +209,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/16/autossell/LWL_CVR_ONSITE_A_v1/LWL_CVR_ONSITE_A_v1-moth.jpg" width="151"></media:content>
+      <media:description>Illustration by Drew Jordan/The New York Times</media:description>
     </item>
     <item>
       <title>In Global Slowdown, China Holds Sway Over Countries’ Fates</title>
@@ -261,42 +263,24 @@
       <media:description>Kristalina Georgieva said that the International Monetary Fund would downgrade its growth projections for next year.</media:description>
     </item>
     <item>
-      <title>Elon Musk Offered to Buy Twitter at a Lower Price in Recent Talks</title>
-      <link>https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html" rel="standout"></atom:link>
-      <description>Before Mr. Musk renewed his $44 billion proposal, he and the company haggled in discussions that ultimately did not advance.</description>
-      <dc:creator>Kate Conger and Michael S. Schmidt</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 01:24:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05twitter-talks-1-55eb/05twitter-talks-1-55eb-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Watson/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Elon Musk sought a discount of as much as 30 percent from his $44 billion deal, people familiar with the discussions said.</media:description>
-    </item>
-    <item>
-      <title>Twitter Wants Assurances from Musk as Takeover Talks Resume</title>
-      <link>https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html" rel="standout"></atom:link>
-      <description>Elon Musk is back at the negotiating table. This time Twitter wants guarantees he won’t walk away – again.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Vivian Giang, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 12:38:17 +0000</pubDate>
+      <title>The Fed Wants to Quash Inflation. But Can It Do It More Gently?</title>
+      <link>https://www.nytimes.com/2022/10/06/business/economy/fed-mary-daly-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/business/economy/fed-mary-daly-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/business/economy/fed-mary-daly-interview.html" rel="standout"></atom:link>
+      <description>Central bankers have been raising rates rapidly to temper demand and bring prices under control. Now, they’re asking when they can slow down.</description>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 16:08:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve Bank of San Francisco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fedex Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06db-newsletter-twittermusk-1-29b2/06db-newsletter-twittermusk-1-29b2-moth.jpg" width="151"></media:content>
-      <media:credit>Patrick Pleul/Pool via A.P.</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daly, Mary C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bostic, Raphael W</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/business/06dc-fed/06dc-fed-moth.jpg" width="151"></media:content>
+      <media:credit>David Paul Morris/Bloomberg</media:credit>
+      <media:description>Mary C. Daly, president of the Federal Reserve Bank of San Francisco, says she might be able to support a less aggressive interest rate increase next month than the Fed has made at each of its last three meetings.</media:description>
     </item>
     <item>
       <title>They Wear Leather, Ride Motorcycles. And Protect Children From Abusers.</title>
@@ -324,6 +308,53 @@
       <media:description>Some of the members of Bikers Against Child Abuse, in Staten Island.</media:description>
     </item>
     <item>
+      <title>Inside the Search for the Best Mullet in America</title>
+      <link>https://www.nytimes.com/2022/10/06/style/usa-mullet-championships.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/style/usa-mullet-championships.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/style/usa-mullet-championships.html" rel="standout"></atom:link>
+      <description>At a qualifying event in Texas for the finals of this year’s USA Mullet Championships, 14 hopefuls competed to be the face of what many say is not just a hairstyle, but a lifestyle.</description>
+      <dc:creator>Maggie Lange</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 15:50:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/fashion/08MULLET-CHAMPIONSHIP5/08MULLET-CHAMPIONSHIP5-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Joseph Bauer whipped his mullet while competing to be a finalist in this year’s contest.</media:description>
+    </item>
+    <item>
+      <title>Fat Bear Week Is in Full Swing</title>
+      <link>https://www.nytimes.com/2022/10/06/us/fat-bear-week.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/fat-bear-week.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/us/fat-bear-week.html" rel="standout"></atom:link>
+      <description>Mike Fitz, a former park ranger at Katmai National Park and the founder of Fat Bear Week, used to keep “a facade of neutrality.” Now he’s naming names.</description>
+      <dc:creator>Remy Tumin</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 14:51:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Katmai National Park (Alaska)</category>
+    </item>
+    <item>
+      <title>A Plan B for Democrats Living in Red States</title>
+      <link>https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html" rel="standout"></atom:link>
+      <description>Sometimes Democrats should not vote for Democrats.</description>
+      <dc:creator>Sarah Vowell</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 14:17:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/opinion/06vowell-replace/06vowell-replace-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Shoshana Schultz/The New York Times; Photograph by Scott Raichilson via Getty</media:credit>
+    </item>
+    <item>
       <title>How Farmers in Colorado Are Taking Care of Their Mental Health</title>
       <link>https://www.nytimes.com/2022/10/06/opinion/colorado-farmer-suicides.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/colorado-farmer-suicides.html</guid>
@@ -340,6 +371,91 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>More on the Firing of That N.Y.U. Professor</title>
+      <link>https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html" rel="standout"></atom:link>
+      <description>It’s really just a routine bureaucratic affair.</description>
+      <dc:creator>Tressie McMillan Cottom</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 12:41:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Maitland Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05cottom-newsletter-2/05cottom-newsletter-2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Janice Chung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Progressives Should Rally Around a Clean Energy Construction Boom</title>
+      <link>https://www.nytimes.com/2022/10/05/opinion/environment/clean-energy-construction-permitting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/environment/clean-energy-construction-permitting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/environment/clean-energy-construction-permitting.html" rel="standout"></atom:link>
+      <description>The case for a bill that pushes more of the good stuff to accelerate clean energy without so much of the bad.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 19:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05wallace-wells-image/05wallace-wells-image-moth.jpg" width="151"></media:content>
+      <media:credit>Ibrahim Rayintakath</media:credit>
+    </item>
+    <item>
+      <title>We Can Kick Our Coal-Burning Addiction. Here Are Some Ideas.</title>
+      <link>https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html" rel="standout"></atom:link>
+      <description>Nearly 1,000 new coal-fired power plants are planned around the world. We should not be building any.</description>
+      <dc:creator>Joseph Curtin</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/opinion/29curtin/29curtin-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>A state-owned coal-fired power plant in southern China.</media:description>
+    </item>
+    <item>
+      <title>Online Fund-Raising Was Supposed to Save Politics. Instead, It’s Dragging Us to Hell.</title>
+      <link>https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html" rel="standout"></atom:link>
+      <description>Many once felt small-dollar, online fund-raising would save politics. Two decades later, it’s become a dangerous and awful racket.</description>
+      <dc:creator>Tim Miller</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/sunday/05Miller/05Miller-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Michael Freimuth</media:credit>
+    </item>
+    <item>
+      <title>Herschel Walker’s Son Is No Hero</title>
+      <link>https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html" rel="standout"></atom:link>
+      <description>Christian Walker wants credit for calling out a sham campaign that he had participated in. But there are no laurels for him.</description>
+      <dc:creator>Charles M. Blow</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 15:57:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Christian (1999- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05blow1/05blow1-moth.jpg" width="151"></media:content>
+      <media:credit>Chelsea Lauren/Shutterstock</media:credit>
     </item>
     <item>
       <title>Whoops! Behold the Republican Trove of Truly Terrible Candidates.</title>
@@ -361,112 +477,13 @@
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
     </item>
     <item>
-      <title>More on the Firing of That N.Y.U. Professor</title>
-      <link>https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/nyu-chemistry-fired.html" rel="standout"></atom:link>
-      <description>It’s really just a routine bureaucratic affair.</description>
-      <dc:creator>Tressie McMillan Cottom</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 12:41:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Maitland Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05cottom-newsletter-2/05cottom-newsletter-2-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Janice Chung for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Herschel Walker’s Son Is No Hero</title>
-      <link>https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/herschel-walker-son.html" rel="standout"></atom:link>
-      <description>Christian Walker wants credit for calling out a sham campaign that he had participated in. But there are no laurels for him.</description>
-      <dc:creator>Charles M. Blow</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 00:18:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Christian (1999- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05blow1/05blow1-moth.jpg" width="151"></media:content>
-      <media:credit>Chelsea Lauren/Shutterstock</media:credit>
-    </item>
-    <item>
-      <title>Meet the Shadowy Groups Behind Britain’s Liz Truss</title>
-      <link>https://www.nytimes.com/2022/10/06/opinion/truss-kwarteng-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/truss-kwarteng-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/truss-kwarteng-uk.html" rel="standout"></atom:link>
-      <description>Britain has become a libertarian laboratory.</description>
-      <dc:creator>Sam Bright</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 13:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libertarianism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Think Tanks</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/06bright-image/06bright-image-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Pruchnie/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Humility Is a Virtue. But Can Humble People Succeed in the Modern World?</title>
-      <link>https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/humility-capitalism.html" rel="standout"></atom:link>
-      <description>Capitalism seems to reward self-interest.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 19:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/05coy-image/05coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times; images via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>A Plan B for Democrats Living in Red States</title>
-      <link>https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html" rel="standout"></atom:link>
-      <description>Sometimes Democrats should not vote for Democrats.</description>
-      <dc:creator>Sarah Vowell</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 14:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/opinion/06vowell-replace/06vowell-replace-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Shoshana Schultz/The New York Times; Photograph by Scott Raichilson via Getty</media:credit>
-    </item>
-    <item>
-      <title>If Putin Uses a Nuclear Weapon, How Should the World Respond?</title>
-      <link>https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html" rel="standout"></atom:link>
-      <description>U.S. officials say that the risk that the Russian president will break the 77-year-old nuclear taboo remains low. But he insists he’s not bluffing.</description>
-      <dc:creator>Spencer Bokat-Lindell</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 22:10:02 +0000</pubDate>
-      <category domain="">debatable</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/05debatable-image/05debatable-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by FPG, Drew Angerer, and Gavriil Grigorov via Getty Images</media:credit>
-    </item>
-    <item>
       <title>The Politics of Grievance</title>
       <link>https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html" rel="standout"></atom:link>
       <description>We look at Italy, the largest country in western Europe to elect a far-right government in decades.</description>
       <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 10:19:01 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 16:08:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -568,6 +585,26 @@
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
+      <title>Twitter Wants Assurances from Musk as Takeover Talks Resume</title>
+      <link>https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/business/dealbook/twitter-wants-assurances-musk-acquisition.html" rel="standout"></atom:link>
+      <description>Elon Musk is back at the negotiating table. This time Twitter wants guarantees he won’t walk away – again.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Vivian Giang, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 12:38:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve Bank of San Francisco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fedex Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06db-newsletter-twittermusk-1-29b2/06db-newsletter-twittermusk-1-29b2-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Pleul/Pool via A.P.</media:credit>
+    </item>
+    <item>
       <title>Medical Care Alone Won’t Halt the Spread of Diabetes, Scientists Say</title>
       <link>https://www.nytimes.com/2022/10/05/health/diabetes-prevention-diet.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/health/diabetes-prevention-diet.html</guid>
@@ -592,21 +629,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/00diabetes1/00diabetes1-moth.jpg" width="151"></media:content>
       <media:credit>Brian L. Frank for The New York Times</media:credit>
       <media:description>Maria Garcia of San Francisco developed diabetes after a pregnancy almost 30 years ago. Though she’s vigilant, she can’t afford to purchase healthy foods like lean meat, fish and vegetables on a regular basis.</media:description>
-    </item>
-    <item>
-      <title>Fat Bear Week Is in Full Swing</title>
-      <link>https://www.nytimes.com/2022/10/06/us/fat-bear-week.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/fat-bear-week.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/us/fat-bear-week.html" rel="standout"></atom:link>
-      <description>Mike Fitz, a former park ranger at Katmai National Park and the founder of Fat Bear Week, used to keep “a facade of neutrality.” Now he’s naming names.</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 14:51:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Katmai National Park (Alaska)</category>
     </item>
     <item>
       <title>Why Does a Long Run Send Me Running to the Restroom?</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 13:37:39 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 13:36:18 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 14:19:10 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 14:18:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -74,34 +74,34 @@
       <dc:creator>Julian E. Barnes, Adam Goldman, Adam Entous and Michael Schwirtz</dc:creator>
       <pubDate>Thu, 06 Oct 2022 01:19:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugina, Daria (1992-2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugin, Alexander (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-moth.jpg" width="151"></media:content>
       <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
       <media:description>Daria Dugina’s memorial service in Moscow in August. U.S. intelligence agencies believe that parts of the Ukrainian government authorized the attack that killed her.</media:description>
     </item>
     <item>
-      <title>Mass Shootings Are Rare Outside The United States</title>
-      <link>https://www.nytimes.com/2022/10/06/world/asia/thailand-worldwide-shooting-statistics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/thailand-worldwide-shooting-statistics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/thailand-worldwide-shooting-statistics.html" rel="standout"></atom:link>
-      <description>Compared with the rest of the world, the U.S. also has far more such attacks that take place at schools.</description>
-      <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 12:50:49 +0000</pubDate>
+      <title>Gun Ownership is Common in Thailand, But Shootings Are Not </title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html" rel="standout"></atom:link>
+      <description>In a country with millions of firearms, the authorities have long worried about the potential for more gun violence.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:16:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-international-shootings/06thailand-shooting-international-shootings-moth.jpg" width="151"></media:content>
-      <media:credit>Ivan Pierre Aguirre for The New York Times</media:credit>
-      <media:description>A memorial for victims of a mass shooting at Robb Elementary School in Uvalde, Texas, in May. From 1966 to 2012, Americans accounted for 31 percent of the gunmen in mass shootings worldwide.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-guns/merlin_168720441_f4973c8b-933f-4862-9a15-edc28433d0d8-moth.jpg" width="151"></media:content>
+      <media:credit>Chalinee Thirasupa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A gun shop in Nakhon Ratchasima, Thailand, in 2020.</media:description>
     </item>
     <item>
       <title>In Global Slowdown, China Holds Sway Over Countries’ Fates</title>
@@ -131,6 +131,49 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/business/06china-debt-1/merlin_213905163_5830fdca-5589-4eac-ad85-a8e391228a0a-moth.jpg" width="151"></media:content>
       <media:credit>Gilles Sabrié for The New York Times</media:credit>
       <media:description>A restaurant overlooking Beijing’s central business district. China is a prolific provider of adjustable-rate loans to poor nations.</media:description>
+    </item>
+    <item>
+      <title>I.M.F. to Lower Global Outlook as Recession Risks Rise</title>
+      <link>https://www.nytimes.com/2022/10/06/business/imf-global-outlook-recession-risks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/business/imf-global-outlook-recession-risks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/business/imf-global-outlook-recession-risks.html" rel="standout"></atom:link>
+      <description>The head of the International Monetary Fund, Kristalina Georgieva, painted a dark picture of the global economy.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 13:30:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Georgieva, Kristalina Ivanova</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/business/06dc-imf/06dc-imf-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kristalina Georgieva said that the International Monetary Fund would downgrade its growth projections for next year.</media:description>
+    </item>
+    <item>
+      <title>Christian Walker, Warrior for the Right, Now Battles His Father</title>
+      <link>https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html" rel="standout"></atom:link>
+      <description>Before his Twitter posts upended the Georgia senate race, Herschel Walker’s son already had a large social media presence reveling in contradictions.</description>
+      <dc:creator>Clyde McGrady and Kellen Browning</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Christian (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/us/04walker-son/04walker-son-moth.jpg" width="151"></media:content>
+      <media:credit>Chelsea Lauren/Shutterstock</media:credit>
+      <media:description>Christian Walker, center, at a Los Angeles event in support of Donald Trump in 2020. He has emerged as a conservative social media star who takes delight in provoking the left, and defending Mr. Trump’s MAGA movement.</media:description>
     </item>
     <item>
       <title>Democrats Worry for Mandela Barnes as GOP Attack Ads Take a Toll</title>
@@ -178,7 +221,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/headway/office-tower-carbon-emissions-amsterdam.html" rel="standout"></atom:link>
       <description>Buildings are responsible for nearly 40 percent of the world’s carbon emissions. In Amsterdam, they are trying to create a blueprint to do something about it.</description>
       <dc:creator>Jessica Camille Aguirre</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:58 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 13:50:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recycling of Waste Materials</category>
@@ -227,28 +270,6 @@
       <media:description>Books by Annie Ernaux on display at the Swedish Academy in Stockholm on Thursday.</media:description>
     </item>
     <item>
-      <title>Christian Walker, Warrior for the Right, Now Battles His Father</title>
-      <link>https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/us/herschel-walker-son-christian.html" rel="standout"></atom:link>
-      <description>Before his Twitter posts upended the Georgia senate race, Herschel Walker’s son already had a large social media presence reveling in contradictions.</description>
-      <dc:creator>Clyde McGrady and Kellen Browning</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 07:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Christian (1999- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/us/04walker-son/04walker-son-moth.jpg" width="151"></media:content>
-      <media:credit>Chelsea Lauren/Shutterstock</media:credit>
-      <media:description>Christian Walker, center, at a Los Angeles event in support of Donald Trump in 2020. He has emerged as a conservative social media star who takes delight in provoking the left, and defending Mr. Trump’s MAGA movement.</media:description>
-    </item>
-    <item>
       <title>Elon Musk Offered to Buy Twitter at a Lower Price in Recent Talks</title>
       <link>https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/technology/elon-musk-twitter-discount.html</guid>
@@ -285,30 +306,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06db-newsletter-twittermusk-1-29b2/06db-newsletter-twittermusk-1-29b2-moth.jpg" width="151"></media:content>
       <media:credit>Patrick Pleul/Pool via A.P.</media:credit>
-    </item>
-    <item>
-      <title>Elon Musk’s Twitter Bid Puts Pressure on the Banks Backing Him</title>
-      <link>https://www.nytimes.com/2022/10/05/business/elon-musk-twitter-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/business/elon-musk-twitter-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/business/elon-musk-twitter-deal.html" rel="standout"></atom:link>
-      <description>Looming in the background of Mr. Musk’s $44 billion offer to buy the company is whether financing challenges will provide him with an escape hatch from a deal.</description>
-      <dc:creator>Lauren Hirsch, Joe Rennison and Kate Conger</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 23:24:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Andreessen Horowitz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of America Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Barclays PLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morgan Stanley</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/05twitter-finance-1/05twitter-finance-1-moth.jpg" width="151"></media:content>
-      <media:credit>Jae C. Hong/Associated Press</media:credit>
-      <media:description>Elon Musk said on Monday night that he still wanted to buy Twitter. But financing the deal could be tricky.</media:description>
     </item>
     <item>
       <title>They Wear Leather, Ride Motorcycles. And Protect Children From Abusers.</title>
@@ -438,13 +435,13 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; images via Getty Images</media:credit>
     </item>
     <item>
-      <title>Sometimes Democrats Should Not Vote for Democrats</title>
+      <title>A Plan B for Democrats Living in Red States</title>
       <link>https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/06/opinion/democrats-independents-montana.html" rel="standout"></atom:link>
-      <description>Defending pluralist democracy might require a pluralist task force. </description>
+      <description>Sometimes Democrats should not vote for Democrats.</description>
       <dc:creator>Sarah Vowell</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:11 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 14:17:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>

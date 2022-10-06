@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 10:16:55 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 10:14:26 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 10:47:11 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 10:19:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -425,27 +425,64 @@
       <media:credit>Illustration by The New York Times; images by FPG, Drew Angerer, and Gavriil Grigorov via Getty Images</media:credit>
     </item>
     <item>
-      <title>The ‘Core Four’ Senate Races, and Beyond</title>
-      <link>https://www.nytimes.com/2022/10/05/us/politics/senate-elections-democrats-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/us/politics/senate-elections-democrats-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/us/politics/senate-elections-democrats-republicans.html" rel="standout"></atom:link>
-      <description>While Democrats are optimistic about holding the Senate, and Republican campaigns have faced a huge financial disadvantage, races are tightening across the country as the November election approaches.</description>
-      <dc:creator>Blake Hounshell and Alyce McFadden</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 23:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>The Politics of Grievance</title>
+      <link>https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html" rel="standout"></atom:link>
+      <description>We look at Italy, the largest country in western Europe to elect a far-right government in decades.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:19:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06-THE-MORNING-NL-Promo/06-THE-MORNING-NL-Italy-1-1d6e-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <media:description>Giorgia Meloni in Rome last week.</media:description>
+    </item>
+    <item>
+      <title>Why Is It So Hard to Hit the Brakes on Inflation?</title>
+      <link>https://www.nytimes.com/2022/10/06/podcasts/the-daily/inflation-car-market-federal-reserve.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/podcasts/the-daily/inflation-car-market-federal-reserve.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/podcasts/the-daily/inflation-car-market-federal-reserve.html" rel="standout"></atom:link>
+      <description>The Federal Reserve has run up against a stubborn obstacle in efforts to lower prices: companies reluctant to give up fat profits.</description>
+      <dc:creator>Michael Barbaro, Will Reid, Eric Krupke, Marc Georges, Lisa Chow, John Ketchum, Marion Lozano, Elisheba Ittoop and Chris Wood</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/podcasts/06daily-1/merlin_213097428_caa09d0f-0e35-4796-85eb-c3ea564fb813-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>The Fed has been raising interest rates to make borrowing for big purchases — cars, houses, business expansions — more expensive.</media:description>
+    </item>
+    <item>
+      <title>Where defending nature can be deadly</title>
+      <link>https://www.nytimes.com/2022/10/04/climate/environmental-crime-latin-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/environmental-crime-latin-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/04/climate/environmental-crime-latin-america.html" rel="standout"></atom:link>
+      <description>No region is more dangerous for environmentalists than Latin America. We explain why it’s getting worse.</description>
+      <dc:creator>Manuela Andreoni</dc:creator>
+      <pubDate>Tue, 04 Oct 2022 15:22:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="">Deforestation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassan, Margaret</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masto, Catherine Cortez</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Mark E (1964- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05onpolitics-laxalt-1-02a7/05onpolitics-laxalt-1-02a7-moth.jpg" width="151"></media:content>
-      <media:credit>John Locher/Associated Press</media:credit>
-      <media:description>In Nevada, Adam Laxalt, third from left, is a potential bright spot for Republicans as they seek to beat the Democrats’ “Core Four” Senate incumbents.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-newsletter1/04cli-newsletter1-moth.jpg" width="151"></media:content>
+      <media:credit>Ueslei Marcelino/Reuters</media:credit>
+      <media:description>Indigenous land defenders detained a logger in Brazil, by many measures the world’s most dangerous country for environmental activists, in 2019. </media:description>
     </item>
     <item>
       <title>How to Learn My Love Language</title>
@@ -460,32 +497,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sign Language</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/19/fashion/05MODERNLOVEPODCAST/05MODERNLOVEPODCAST-moth-v2.jpg" width="151"></media:content>
       <media:credit>Brian Rea</media:credit>
-    </item>
-    <item>
-      <title>A Times Climate Event: Can Technology and Art Inspire Change?</title>
-      <link>https://www.nytimes.com/article/climate-event.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/climate-event.html</guid>
-      <atom:link href="https://www.nytimes.com/article/climate-event.html" rel="standout"></atom:link>
-      <description>Hear from business leaders like Laurene Powell Jobs and Brad Smith, along with storytellers and food innovators in a livestreamed Times event in San Francisco.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 02:35:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-    </item>
-    <item>
-      <title>Rice Cakes, Rice Rolls, Rice Sweets</title>
-      <link>https://www.nytimes.com/2022/10/04/dining/rice-cakes-rice-rolls-rice-sweets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/dining/rice-cakes-rice-rolls-rice-sweets.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/dining/rice-cakes-rice-rolls-rice-sweets.html" rel="standout"></atom:link>
-      <description>Because loving rice is a lifestyle.</description>
-      <dc:creator>Nikita Richardson</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 04:28:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
     </item>
     <item>
       <title>Kathmandu Finally Got Tap Water. After a Climate Disaster, It Was Gone.</title>

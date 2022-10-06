@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 16:41:34 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 16:35:29 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 17:18:05 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 17:15:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/thailand-shooting" rel="standout"></atom:link>
       <description>More than 20 children were among the victims of the deadliest mass shooting in Thailand ever carried out by a lone perpetrator. The attacker then killed himself, his wife and their son.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 16:35:29 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 17:15:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-01/06thailand-shooting-01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters TV</media:credit>
       <media:description>Officials outside the child-care facility in northeastern Thailand where the shooting took place on Thursday.</media:description>
@@ -71,7 +71,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>A senior Russian occupation official blasted the country’s defense minister, an indication that infighting in the ruling elite may be spilling into the open.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 16:23:10 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 17:08:22 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
@@ -93,6 +93,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00nepal-water-03/00nepal-water-03-moth.jpg" width="151"></media:content>
       <media:credit>Uma Bista for The New York Times</media:credit>
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
+    </item>
+    <item>
+      <title>China Turns Back Move for U.N. Debate on Abuse of Uyghurs</title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/china-un-xinjiang-uyghurs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/china-un-xinjiang-uyghurs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/china-un-xinjiang-uyghurs.html" rel="standout"></atom:link>
+      <description>Western countries were seeking to discuss a landmark U.N. report on China’s treatment of Uyghurs and other Muslims in the Xinjiang region</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 16:51:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of Islamic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/03/15/lens/06un-xinjiang-01/06un-xinjiang-01-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Chinese People’s Liberation Army soldiers in China’s Xinjiang region last year.</media:description>
     </item>
     <item>
       <title>Macron’s European Political Community Debuts in the Shadow of War</title>
@@ -222,7 +244,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00Algeria-Oran-Dispatch/00Algeria-Oran-Dispatch-moth.jpg" width="151"></media:content>
       <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores. </media:description>
+      <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores.</media:description>
     </item>
     <item>
       <title>Baquer Namazi, Held by Iran for 7 Years, Is Released</title>
@@ -265,27 +287,22 @@
       <media:description>Prime Minister Liz Truss of Britain and her husband, Hugh O’Leary, at the Conservative Party conference in Birmingham, England, on Wednesday. Her speech promised “a growing economy and a better future.”</media:description>
     </item>
     <item>
-      <title>OPEC Move Shows the Limits of Biden’s Fist-Bump Diplomacy With the Saudis</title>
-      <link>https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html" rel="standout"></atom:link>
-      <description>OPEC’s decision to curb oil production was a signal that President Biden’s influence over his Gulf allies was far less than he had hoped.</description>
-      <dc:creator>David E. Sanger and Ben Hubbard</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 02:58:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-PREXY/merlin_214373928_2244b357-4556-427b-83a4-cfd6b4ca9848-moth.jpg" width="151"></media:content>
-      <media:credit>Vladimir Simicek/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Saudi Arabia’s decision to support an oil output cut by OPEC and its allies on Wednesday marked another step of distancing from the United States.</media:description>
+      <title>Didier Eribon on Ernaux: She captured ‘in one sentence what I couldn’t say in a page.’</title>
+      <link>https://www.nytimes.com/2022/10/06/books/didier-eribon-annie-ernaux-nobel-literature.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/books/didier-eribon-annie-ernaux-nobel-literature.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/books/didier-eribon-annie-ernaux-nobel-literature.html" rel="standout"></atom:link>
+      <description>The French philosopher and sociologist said that Ernaux had always been “a great personal inspiration.”</description>
+      <dc:creator>Laura Cappelle and Alex Marshall</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 17:09:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eribon, Didier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ernaux, Annie</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/lens/06nobel-literature-eribon-01/06nobel-literature-eribon-01-moth.jpg" width="151"></media:content>
+      <media:credit>Photo by Arne Dedert/picture alliance via Getty Images</media:credit>
+      <media:description>The French writer Didier Eribon, who also wrote about his working-class roots, said he admired Ernaux both for her writing and for her activism.</media:description>
     </item>
     <item>
       <title>U.S. Health Officials Urge Vigilance as Ebola Spreads in Uganda</title>
@@ -552,6 +569,18 @@
       <media:description>The idea of democracy was nurtured in the outdoor amphitheaters that dotted the hillsides throughout the many city-states of ancient Greece.</media:description>
     </item>
     <item>
+      <title>The head of the U.N.’s nuclear agency is visiting Kyiv to discuss security at the Zaporizhzhia nuclear plant.</title>
+      <link>https://www.nytimes.com/2022/10/06/world/europe/head-of-uns-nuclear-agency-to-visit-kyiv-to-discuss-zaporizhzhia-nuclear-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/head-of-uns-nuclear-agency-to-visit-kyiv-to-discuss-zaporizhzhia-nuclear-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/head-of-uns-nuclear-agency-to-visit-kyiv-to-discuss-zaporizhzhia-nuclear-plant.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Carly Olson</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 17:06:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/05/world/05ukraine-briefing-zaporizhzhia01/05ukraine-briefing-zaporizhzhia01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Rafael Mariano Grossi, the director general of the International Atomic Energy Agency, said that establishing a nuclear safety zone at the Zaporizhzhia nuclear power plant was “more urgent than ever.”</media:description>
+    </item>
+    <item>
       <title>The U.S. believes Ukrainians were behind Daria Dugina’s assassination.</title>
       <link>https://www.nytimes.com/2022/10/06/world/europe/the-us-believes-ukrainians-were-behind-daria-duginas-assassination.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/the-us-believes-ukrainians-were-behind-daria-duginas-assassination.html</guid>
@@ -605,6 +634,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/16/autossell/LWL_CVR_ONSITE_A_v1/LWL_CVR_ONSITE_A_v1-moth.jpg" width="151"></media:content>
       <media:description>Illustration by Drew Jordan/The New York Times</media:description>
+    </item>
+    <item>
+      <title>OPEC Move Shows the Limits of Biden’s Fist-Bump Diplomacy With the Saudis</title>
+      <link>https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/us/politics/opec-biden-saudi-arabia.html" rel="standout"></atom:link>
+      <description>OPEC’s decision to curb oil production was a signal that President Biden’s influence over his Gulf allies was far less than he had hoped.</description>
+      <dc:creator>David E. Sanger and Ben Hubbard</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 02:58:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-PREXY/merlin_214373928_2244b357-4556-427b-83a4-cfd6b4ca9848-moth.jpg" width="151"></media:content>
+      <media:credit>Vladimir Simicek/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Saudi Arabia’s decision to support an oil output cut by OPEC and its allies on Wednesday marked another step of distancing from the United States.</media:description>
     </item>
     <item>
       <title>Patricia Cloherty, Trailblazing Venture Capitalist, Dies at 80</title>
@@ -1002,65 +1054,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04ukraine-briefing-un-human-rights-1-14e3/04ukraine-briefing-un-human-rights-1-14e3-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>An apartment building was heavily damaged by Russian bombs in Bakhmut in September. Local residents said that at least two Ukrainian civilians, a mother and son, were killed.</media:description>
-    </item>
-    <item>
-      <title>4 Women Will Staff U.K. Base in Antarctica</title>
-      <link>https://www.nytimes.com/2022/10/04/world/europe/post-office-antarctica.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/europe/post-office-antarctica.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/europe/post-office-antarctica.html" rel="standout"></atom:link>
-      <description>They emerged from an applicant pool of thousands to run the world’s most southerly post office, monitor penguins and manage the wild landscape on Goudier Island.</description>
-      <dc:creator>Saskia Solomon</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:02:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UK Antarctic Heritage Trust</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Penguins</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04Antarctica-post-office/04Antarctica-post-office-moth.jpg" width="151"></media:content>
-      <media:credit>Dietmar Denger/Laif, via Redux</media:credit>
-      <media:description>Port Lockroy base on Goudier Island is managed by the U.K. Antarctic Heritage Trust. Assignment there is not for the faint hearted.</media:description>
-    </item>
-    <item>
-      <title>A new package of U.S. military aid will speed more mobile rocket launchers to Ukraine.</title>
-      <link>https://www.nytimes.com/2022/10/05/world/a-new-625-million-package-of-us-military-aid-will-speed-4-more-mobile-rocket-launchers-to-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/a-new-625-million-package-of-us-military-aid-will-speed-4-more-mobile-rocket-launchers-to-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/a-new-625-million-package-of-us-military-aid-will-speed-4-more-mobile-rocket-launchers-to-ukraine.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>John Ismay</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 09:47:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04ukraine-briefing-us-arms02-1-32cd/04ukraine-briefing-us-arms02-1-32cd-moth.jpg" width="151"></media:content>
-      <media:credit>Gints Ivuskans/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The M142 HIMARS, or High Mobility Artillery Rocket System, has been a key part of the U.S.’s military support for Ukraine. This is one such unit, deployed during military exercises in Latvia last month. </media:description>
-    </item>
-    <item>
-      <title>Ukraine’s Top Diplomat Tries to Counter Russia’s Narrative on Africa Tour</title>
-      <link>https://www.nytimes.com/2022/10/04/world/africa/kuleba-africa-tour.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/africa/kuleba-africa-tour.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/africa/kuleba-africa-tour.html" rel="standout"></atom:link>
-      <description>“I arrived here and I hear, ‘Russia and Ukraine are one people,’” Ukraine’s foreign minister, Dmytro Kuleba, said in Senegal on the first stop of his 10-day trip across Africa.</description>
-      <dc:creator>Elian Peltier and Mady Camara</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:59:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kuleba, Dmytro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04ukraine-briefing-africa-image1-1-e3d9/04ukraine-briefing-africa-image1-1-e3d9-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Ukraine’s foreign minister, Dmytro Kuleba, speaking at the United Nations Security Council in September.</media:description>
     </item>
   </channel>
 </rss>

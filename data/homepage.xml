@@ -7,13 +7,36 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 11:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2022 11:32:12 +0000</lastBuildDate>
     <pubDate>Thu, 06 Oct 2022 10:19:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Some Unlikely Dealers Are Selling Weapons to Ukraine </title>
+      <link>https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html" rel="standout"></atom:link>
+      <description>New brokers are cashing in as the Biden administration quietly encourages private weapons sales to Ukraine. Oversight is scant in these shadows.</description>
+      <dc:creator>Justin Scheck</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Ukraine-Arms/00Ukraine-Arms-moth.jpg" width="151"></media:content>
+      <media:credit>Maksim Levin/Reuters</media:credit>
+      <media:description>A Ukrainian soldier with a rocket-propelled grenade launcher outside of Kharkiv in the early days of the war. Ukraine has turned to private arms deals to meet its needs.</media:description>
+    </item>
     <item>
       <title>Macron’s European Political Community Debuts in the Shadow of War</title>
       <link>https://www.nytimes.com/2022/10/06/world/europe/macron-european-political-community.html</link>
@@ -41,29 +64,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05france-macron-1/05france-macron-1-moth.jpg" width="151"></media:content>
       <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
       <media:description>President Emmanuel Macron of France. One of the president’s obsessions is ensuring that Europe not become a bystander to history, as he puts it. </media:description>
-    </item>
-    <item>
-      <title>Some Unlikely Dealers Are Selling Weapons to Ukraine </title>
-      <link>https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html" rel="standout"></atom:link>
-      <description>New brokers are cashing in as the Biden administration quietly encourages private weapons sales to Ukraine. Oversight is scant in these shadows.</description>
-      <dc:creator>Justin Scheck</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Ukraine-Arms/00Ukraine-Arms-moth.jpg" width="151"></media:content>
-      <media:credit>Maksim Levin/Reuters</media:credit>
-      <media:description>A Ukrainian soldier with a rocket-propelled grenade launcher outside of Kharkiv in the early days of the war. Ukraine has turned to private arms deals to meet its needs.</media:description>
     </item>
     <item>
       <title>U.S. Believes Ukrainians Were Behind an Assassination in Russia</title>
@@ -408,21 +408,16 @@
       <media:credit>Illustration by Shoshana Schultz/The New York Times; Photograph by Scott Raichilson via Getty</media:credit>
     </item>
     <item>
-      <title>If Putin Uses a Nuclear Weapon, How Should the World Respond?</title>
-      <link>https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/putin-nuclear-ukraine.html" rel="standout"></atom:link>
-      <description>U.S. officials say that the risk that the Russian president will break the 77-year-old nuclear taboo remains low. But he insists he’s not bluffing.</description>
-      <dc:creator>Spencer Bokat-Lindell</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 22:10:02 +0000</pubDate>
-      <category domain="">debatable</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/05debatable-image/05debatable-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by FPG, Drew Angerer, and Gavriil Grigorov via Getty Images</media:credit>
+      <title>We Can Kick Our Coal-Burning Addiction. Here Are Some Ideas.</title>
+      <link>https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html" rel="standout"></atom:link>
+      <description>Nearly 1,000 new coal-fired power plants are planned around the world. We should not be building any.</description>
+      <dc:creator>Joseph Curtin</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 09:00:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/opinion/29curtin/29curtin-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>A state-owned coal-fired power plant in southern China.</media:description>
     </item>
     <item>
       <title>The Politics of Grievance</title>
@@ -660,22 +655,22 @@
       <media:credit>Aileen Son for The New York Times</media:credit>
     </item>
     <item>
-      <title>Alvvays, a Dreamy Indie-Rock Band, Cranks Up the Volume</title>
-      <link>https://www.nytimes.com/2022/10/04/arts/music/alvvays-blue-rev.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/arts/music/alvvays-blue-rev.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/arts/music/alvvays-blue-rev.html" rel="standout"></atom:link>
-      <description>Molly Rankin’s group is known for emotional and melodic sophistication. Talking about its latest LP, “Blue Rev,” she reflected on how her family’s deep musical history led her there.</description>
-      <dc:creator>Jeremy Gordon</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 20:37:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <title>‘Coal Miner’s Daughter’: Bringing Loretta Lynn’s Story to Life</title>
+      <link>https://www.nytimes.com/2022/10/05/arts/music/loretta-lynn-coal-miners-daughter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/arts/music/loretta-lynn-coal-miners-daughter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/arts/music/loretta-lynn-coal-miners-daughter.html" rel="standout"></atom:link>
+      <description>The 1976 book (and its 1980 film adaptation) helped the world see the country star’s remarkable resilience. The writer who worked by her side remembers his one-of-a-kind collaborator.</description>
+      <dc:creator>George Vecsey</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 15:18:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alvvays (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rankin, John Morris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rankin, Molly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Blue Rev (Album)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/arts/04ALVVAYS1/04ALVVAYS1-moth.jpg" width="151"></media:content>
-      <media:credit>Wyatt Lowry for The New York Times</media:credit>
-      <media:description>From left: Sheridan Riley, Abbey Blackwell, Molly Rankin, Alec O’Hanley and Kerri MacLellan of Alvvays. The band’s third album, “Blue Rev,” is out on Friday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coal Miner&#39;s Daughter (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vecsey, George</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/arts/04lynn-vecsey1/04lynn-vecsey1-moth.jpg" width="151"></media:content>
+      <media:credit>CBS Photo Archive/Getty Images</media:credit>
+      <media:description>Loretta Lynn in 1975, the year before her memoir, “Coal Miner’s Daughter,” written with The New York Times journalist George Vecsey, was published.</media:description>
     </item>
     <item>
       <title>How to Solve Intermediate Crosswords</title>

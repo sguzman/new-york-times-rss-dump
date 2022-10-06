@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 05:37:51 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 05:13:30 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 06:10:18 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 06:04:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -77,7 +77,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/north-korea-missile-launch.html" rel="standout"></atom:link>
       <description>They marked the 24th weapons test by the isolated country this year, and came days after Pyongyang fired a missile over Japan for the first time since 2017.</description>
       <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 04:56:29 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 06:04:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
@@ -203,22 +203,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-PREXY/merlin_214373928_2244b357-4556-427b-83a4-cfd6b4ca9848-moth.jpg" width="151"></media:content>
       <media:credit>Vladimir Simicek/Agence France-Presse — Getty Images</media:credit>
       <media:description>Saudi Arabia’s decision to support an oil output cut by OPEC and its allies on Wednesday marked another step of distancing from the United States.</media:description>
-    </item>
-    <item>
-      <title>Philippines Lottery Draw Produced 433 Winners. Was It Pure Luck?</title>
-      <link>https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html" rel="standout"></atom:link>
-      <description>The result of a lotto drawing in the Philippines has set off a national debate about randomness, probability, fraud and human nature.</description>
-      <dc:creator>Camille Elemia and Mike Ives</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 09:37:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lotteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05philippines-lotto/05philippines-lotto-moth.jpg" width="151"></media:content>
-      <media:credit>Richard James Mendoza/NurPhoto via Getty Images</media:credit>
-      <media:description>Bettors buying lottery tickets at a mall in Manila in 2018.</media:description>
     </item>
     <item>
       <title>Your Thursday Briefing</title>
@@ -483,6 +467,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05-THE-MORNING-NL-jerome-1-3042-promo/05-THE-MORNING-NL-jerome-1-3042-moth.jpg" width="151"></media:content>
       <media:credit>Julia Nikhinson for The New York Times</media:credit>
       <media:description>Jerome H. Powell, the Fed chair, warned that increasing interest rates would be painful for the U.S. economy — but said curbing growth to contain price increases was essential.</media:description>
+    </item>
+    <item>
+      <title>Philippines Lottery Draw Produced 433 Winners. Was It Pure Luck?</title>
+      <link>https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html" rel="standout"></atom:link>
+      <description>The result of a lotto drawing in the Philippines has set off a national debate about randomness, probability, fraud and human nature.</description>
+      <dc:creator>Camille Elemia and Mike Ives</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 09:37:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lotteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05philippines-lotto/05philippines-lotto-moth.jpg" width="151"></media:content>
+      <media:credit>Richard James Mendoza/NurPhoto via Getty Images</media:credit>
+      <media:description>Bettors buying lottery tickets at a mall in Manila in 2018.</media:description>
     </item>
     <item>
       <title>U.S. Aims to Turn Taiwan Into Giant Weapons Depot</title>
@@ -1039,18 +1039,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04ukraine-briefing-zelensky-02-1-6be2/04ukraine-briefing-zelensky-02-1-6be2-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers driving near the village of Oskil in eastern Ukraine, during a media tour arranged by the Zelensky government on Monday.</media:description>
-    </item>
-    <item>
-      <title>Your Tuesday Briefing</title>
-      <link>https://www.nytimes.com/2022/10/04/briefing/ukraine-advances-russia-nuclear-weapons.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/briefing/ukraine-advances-russia-nuclear-weapons.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/briefing/ukraine-advances-russia-nuclear-weapons.html" rel="standout"></atom:link>
-      <description>Ukraine’s advances against Russian forces.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 04:53:08 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/world/04ambriefing-europe-nl-promo-oct/04ambriefing-europe-nl-promo-oct-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Ukrainian soldiers are seen in a military vehicle amidst destroyed houses in Oskil, Ukraine, on Monday, October 3, 2022.</media:description>
     </item>
   </channel>
 </rss>

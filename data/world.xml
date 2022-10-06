@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 13:59:03 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 13:58:31 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 14:48:26 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 14:47:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/thailand-shooting" rel="standout"></atom:link>
       <description>More than 20 children were among the victims of the deadliest mass shooting in Thailand ever carried out by a lone perpetrator.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 13:58:31 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 14:39:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-01/06thailand-shooting-01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters TV</media:credit>
       <media:description>Officials outside the child-care facility in northeastern Thailand where the shooting took place on Thursday.</media:description>
@@ -63,13 +63,13 @@
       <media:description>A Ukrainian soldier with a rocket-propelled grenade launcher outside of Kharkiv in the early days of the war. Ukraine has turned to private arms deals to meet its needs.</media:description>
     </item>
     <item>
-      <title>U.N. Agency Renews Plea to Secure Nuclear Plant After Russian Takeover</title>
+      <title>Putin’s Military Faces Rising Criticism From the Pro-War Camp</title>
       <link>https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>Since President Vladimir V. Putin nationalized the Zaporizhzhia facility, its safety has taken on new urgency, the head of the nuclear watchdog said.</description>
+      <description>A senior Russian occupation official blasted the country’s defense minister, an indication that infighting in the ruling elite may be spilling into the open.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 13:50:57 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 14:47:09 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
@@ -383,8 +383,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html" rel="standout"></atom:link>
       <description>In a country with millions of firearms, the authorities have long worried about the potential for more gun violence.</description>
-      <dc:creator>Mike Ives</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 10:16:40 +0000</pubDate>
+      <dc:creator>Mike Ives and Muktita Suhartono</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 14:28:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
@@ -661,13 +661,14 @@
       <dc:creator>Julian E. Barnes, Adam Goldman, Adam Entous and Michael Schwirtz</dc:creator>
       <pubDate>Thu, 06 Oct 2022 01:19:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugina, Daria (1992-2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugin, Alexander (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-moth.jpg" width="151"></media:content>
       <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
       <media:description>Daria Dugina’s memorial service in Moscow in August. U.S. intelligence agencies believe that parts of the Ukrainian government authorized the attack that killed her.</media:description>
@@ -807,19 +808,16 @@
       <description>Officials say Taiwan needs to become a “porcupine” with enough weapons to hold out if the Chinese military blockades and invades it, even if Washington decides to send troops.</description>
       <dc:creator>Edward Wong and John Ismay</dc:creator>
       <pubDate>Wed, 05 Oct 2022 14:14:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05dc-taiwan-weapons-1-2780/05dc-taiwan-weapons-1-2780-moth.jpg" width="151"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Taiwanese military exercises in July. The United States has approved several weapons packages for the island.</media:description>

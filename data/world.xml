@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 20:25:03 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 20:23:00 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 20:47:38 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 20:45:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/thailand-shooting" rel="standout"></atom:link>
       <description>More than 20 children were among the victims of the deadliest mass shooting in Thailand ever carried out by a lone perpetrator. The attacker then killed himself, his wife and their son.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 20:16:04 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 20:25:31 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-01/06thailand-shooting-01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters TV</media:credit>
       <media:description>Officials outside the child-care facility in northeastern Thailand where the shooting took place on Thursday.</media:description>
@@ -71,7 +71,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>A senior Russian occupation official blasted the country’s defense minister, an indication that infighting in the ruling elite may be spilling into the open.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 20:23:00 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 20:45:35 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
@@ -287,13 +287,29 @@
       <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores.</media:description>
     </item>
     <item>
-      <title>U.S. Forces Target an ISIS Leader in Syria, Officials Say</title>
+      <title>Ukrain Police Find Bodies of 534 Civilians in Recaptured Territory</title>
+      <link>https://www.nytimes.com/2022/10/06/world/europe/ukraine-civilian-bodies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/ukraine-civilian-bodies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/ukraine-civilian-bodies.html" rel="standout"></atom:link>
+      <description>The police have discovered 22 locations that they suspect were used as torture chambers in areas recently reclaimed from Russian control, a Ukrainian official said.</description>
+      <dc:creator>Oleksandr Chubko and Carlotta Gall</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 20:38:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-civilian-bodies02/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Regional police investigators showed where Russian forces held and interrogated prisoners in a basement in Kozacha Lopan, in northern Kharkiv, Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Forces Kill a Senior ISIS Operative in Syria, Officials Say</title>
       <link>https://www.nytimes.com/2022/10/06/world/middleeast/isis-leader-syria-us-raid.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/middleeast/isis-leader-syria-us-raid.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/06/world/middleeast/isis-leader-syria-us-raid.html" rel="standout"></atom:link>
       <description>The nighttime raid was a rare operation inside Syrian government territory, a Kurdish security official said.</description>
       <dc:creator>Hwaida Saad, Sangar Khaleel and Eric Schmitt</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 17:46:34 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 20:25:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -1023,20 +1039,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05dc-taiwan-weapons-1-2780/05dc-taiwan-weapons-1-2780-moth.jpg" width="151"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Taiwanese military exercises in July. The United States has approved several weapons packages for the island.</media:description>
-    </item>
-    <item>
-      <title>Whatever Happened to Those Self-Service Passport Kiosks at Airports?</title>
-      <link>https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html" rel="standout"></atom:link>
-      <description>More than 80 percent of all travelers entering the U.S. are now verified by facial recognition. The loss of older, seemingly more convenient methods has many perplexed. And then there are the privacy issues.</description>
-      <dc:creator>Heather Murphy</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 09:00:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
     </item>
   </channel>
 </rss>

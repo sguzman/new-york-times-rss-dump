@@ -7,24 +7,60 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 12:57:33 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 12:56:16 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 13:59:03 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 13:58:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: More Than 30 Killed at Child-Care Center in Thailand</title>
+      <title>Live Updates: 38 Killed in Thailand After Gunman Attacks Child-Care Center</title>
       <link>https://www.nytimes.com/live/2022/10/06/world/thailand-shooting</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/06/world/thailand-shooting</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/thailand-shooting" rel="standout"></atom:link>
-      <description>Twenty children were among those killed, according to local media, in the deadliest mass shooting in Thailand ever carried out by a lone perpetrator.</description>
+      <description>More than 20 children were among the victims of the deadliest mass shooting in Thailand ever carried out by a lone perpetrator.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 12:56:16 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 13:58:31 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-01/06thailand-shooting-01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters TV</media:credit>
       <media:description>Officials outside the child-care facility in northeastern Thailand where the shooting took place on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Covid Death of Li Wenliang, the Doctor China Tried to Silence</title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html" rel="standout"></atom:link>
+      <description>A New York Times video investigation reveals new details about the death of Dr. Li Wenliang, a national hero who faced censorship after sounding an early alarm on Covid-19.</description>
+      <dc:creator>Muyi Xiao, Isabelle Qian, Tracy Wen Liu and Chris Buckley</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 04:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Wenliang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Some Unlikely Dealers Are Selling Weapons to Ukraine </title>
+      <link>https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html" rel="standout"></atom:link>
+      <description>New brokers are cashing in as the Biden administration quietly encourages private weapons sales to Ukraine. Oversight is scant in these shadows.</description>
+      <dc:creator>Justin Scheck</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Ukraine-Arms/00Ukraine-Arms-moth.jpg" width="151"></media:content>
+      <media:credit>Maksim Levin/Reuters</media:credit>
+      <media:description>A Ukrainian soldier with a rocket-propelled grenade launcher outside of Kharkiv in the early days of the war. Ukraine has turned to private arms deals to meet its needs.</media:description>
     </item>
     <item>
       <title>U.N. Agency Renews Plea to Secure Nuclear Plant After Russian Takeover</title>
@@ -33,10 +69,28 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Since President Vladimir V. Putin nationalized the Zaporizhzhia facility, its safety has taken on new urgency, the head of the nuclear watchdog said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 12:52:38 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 13:50:57 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Kathmandu Finally Got Tap Water. After a Climate Disaster, It Was Gone.</title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html" rel="standout"></atom:link>
+      <description>A disaster that wiped out a decades-long project to bring pipe-borne water to Nepal’s capital shows the mismatch between slow-moving donor-financed efforts and rapid global warming.</description>
+      <dc:creator>Emily Schmall and Bhadra Sharma</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 09:00:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asian Development Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00nepal-water-03/00nepal-water-03-moth.jpg" width="151"></media:content>
+      <media:credit>Uma Bista for The New York Times</media:credit>
+      <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
       <title>Macron’s European Political Community Debuts in the Shadow of War</title>
@@ -67,91 +121,13 @@
       <media:description>President Emmanuel Macron of France. One of the president’s obsessions is ensuring that Europe not become a bystander to history, as he puts it. </media:description>
     </item>
     <item>
-      <title>Covid Death of Li Wenliang, the Doctor China Tried to Silence</title>
-      <link>https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/covid-china-doctor-li-wenliang.html" rel="standout"></atom:link>
-      <description>A New York Times video investigation reveals new details about the death of Dr. Li Wenliang, a national hero who faced censorship after sounding an early alarm on Covid-19.</description>
-      <dc:creator>Muyi Xiao, Isabelle Qian, Tracy Wen Liu and Chris Buckley</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 04:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Wenliang</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-    </item>
-    <item>
-      <title>Kathmandu Finally Got Tap Water. After a Climate Disaster, It Was Gone.</title>
-      <link>https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html" rel="standout"></atom:link>
-      <description>A disaster that wiped out a decades-long project to bring pipe-borne water to Nepal’s capital shows the mismatch between slow-moving donor-financed efforts and rapid global warming.</description>
-      <dc:creator>Emily Schmall and Bhadra Sharma</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asian Development Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00nepal-water-03/00nepal-water-03-moth.jpg" width="151"></media:content>
-      <media:credit>Uma Bista for The New York Times</media:credit>
-      <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
-    </item>
-    <item>
-      <title>Some Unlikely Dealers Are Selling Weapons to Ukraine </title>
-      <link>https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/ukraine-private-arms-deals.html" rel="standout"></atom:link>
-      <description>New brokers are cashing in as the Biden administration quietly encourages private weapons sales to Ukraine. Oversight is scant in these shadows.</description>
-      <dc:creator>Justin Scheck</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Ukraine-Arms/00Ukraine-Arms-moth.jpg" width="151"></media:content>
-      <media:credit>Maksim Levin/Reuters</media:credit>
-      <media:description>A Ukrainian soldier with a rocket-propelled grenade launcher outside of Kharkiv in the early days of the war. Ukraine has turned to private arms deals to meet its needs.</media:description>
-    </item>
-    <item>
-      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
-      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
-      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
-    </item>
-    <item>
       <title>North Korea Launches 2 Ballistic Missiles, Condemning UN Meeting</title>
       <link>https://www.nytimes.com/2022/10/05/world/asia/north-korea-missile-launch.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/north-korea-missile-launch.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/north-korea-missile-launch.html" rel="standout"></atom:link>
       <description>They marked the 24th weapons test by the isolated country this year, and came days after Pyongyang fired a missile over Japan for the first time since 2017.</description>
       <dc:creator>Motoko Rich and Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 06:59:52 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 13:42:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
@@ -190,6 +166,30 @@
       <media:description>A local resident sat outside a building destroyed after an airstrike on Bila Tserkva, southwest of Kyiv, on Wednesday.</media:description>
     </item>
     <item>
+      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
+      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
+      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
+    </item>
+    <item>
       <title>Danish Queen Apologizes After Stripping Royal Titles From 4 Grandchildren</title>
       <link>https://www.nytimes.com/2022/10/05/world/europe/denmark-queen-royal-titles-apology.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/europe/denmark-queen-royal-titles-apology.html</guid>
@@ -207,20 +207,26 @@
       <media:description>Queen Margrethe II of Denmark in September, as she celebrated the 50th anniversary of her accession to the throne.</media:description>
     </item>
     <item>
-      <title>In Israel, a Solemn Yom Kippur Also Creates a Giant Playground</title>
-      <link>https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html" rel="standout"></atom:link>
-      <description>Yom Kippur, the holiest day in Judaism, brings Israel to a standstill. For the nonobservant, that briefly turns highways into bike trails.</description>
-      <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 02:56:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fasting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yom Kippur</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05Israel-Kippur-Dispatch01/05Israel-Kippur-Dispatch01-moth.jpg" width="151"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Bikers in Tel Aviv on Ayalon Highway, typically one of the busiest roads in the Middle East, during Yom Kippur on Wednesday.</media:description>
+      <title>In Algeria, Veiled From the World, Past and Future Are Shrouded, Too</title>
+      <link>https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html" rel="standout"></atom:link>
+      <description>A land of thwarted potential, the country fends off outside influences, political change and some of its own history.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 08:43:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oran, Algeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camus, Albert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daoud, Kamel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bouteflika, Abdelaziz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00Algeria-Oran-Dispatch/00Algeria-Oran-Dispatch-moth.jpg" width="151"></media:content>
+      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores. </media:description>
     </item>
     <item>
       <title>Baquer Namazi, Held by Iran for 7 Years, Is Released</title>
@@ -270,17 +276,50 @@
       <description>OPEC’s decision to curb oil production was a signal that President Biden’s influence over his Gulf allies was far less than he had hoped.</description>
       <dc:creator>David E. Sanger and Ben Hubbard</dc:creator>
       <pubDate>Thu, 06 Oct 2022 02:58:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-PREXY/merlin_214373928_2244b357-4556-427b-83a4-cfd6b4ca9848-moth.jpg" width="151"></media:content>
       <media:credit>Vladimir Simicek/Agence France-Presse — Getty Images</media:credit>
       <media:description>Saudi Arabia’s decision to support an oil output cut by OPEC and its allies on Wednesday marked another step of distancing from the United States.</media:description>
+    </item>
+    <item>
+      <title>Brittney Griner’s Wife Says They’ve Had 2 Phone Calls Since Arrest</title>
+      <link>https://www.nytimes.com/2022/10/06/world/europe/brittney-griner-russia-detention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/brittney-griner-russia-detention.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/brittney-griner-russia-detention.html" rel="standout"></atom:link>
+      <description>Cherelle Griner described the second conversation with her wife, the W.N.B.A. star detained in Russia since February, as “the most disturbing phone call I’d ever experienced.”</description>
+      <dc:creator>Jonathan Abrams</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 13:43:09 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06ukraine-briefing-griner-image-1-758b/06ukraine-briefing-griner-image-1-758b-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>The W.N.B.A. star Brittney Griner after a hearing in Khimki just outside Moscow, in August.</media:description>
+    </item>
+    <item>
+      <title>Two Migrant Boats Sink Off Greece; More Than 20 Believed Drowned</title>
+      <link>https://www.nytimes.com/2022/10/06/world/middleeast/migrant-deaths-greece.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/middleeast/migrant-deaths-greece.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/middleeast/migrant-deaths-greece.html" rel="standout"></atom:link>
+      <description>Rescue operations were underway for those still believed to be missing amid high winds in the Aegean Sea, the Greek Coast Guard said.</description>
+      <dc:creator>Niki Kitsantonis</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 13:08:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aegean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06greece-migrants-01/06greece-migrants-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ippolytos Prekas/kythera.news, via Associated Press</media:credit>
+      <media:description>The authorities and residents pulled a migrant to safety during a rescue operation on the island of Kythira, in southern Greece, early on Thursday.</media:description>
     </item>
     <item>
       <title>Mass Shootings Are Rare Outside The United States</title>
@@ -496,28 +535,6 @@
       <media:description>The idea of democracy was nurtured in the outdoor amphitheaters that dotted the hillsides throughout the many city-states of ancient Greece.</media:description>
     </item>
     <item>
-      <title>In Algeria, Veiled From the World, Past and Future Are Shrouded, Too</title>
-      <link>https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html" rel="standout"></atom:link>
-      <description>A land of thwarted potential, the country fends off outside influences, political change and some of its own history.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 08:43:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oran, Algeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camus, Albert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daoud, Kamel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bouteflika, Abdelaziz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00Algeria-Oran-Dispatch/00Algeria-Oran-Dispatch-moth.jpg" width="151"></media:content>
-      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores. </media:description>
-    </item>
-    <item>
       <title>Your Thursday Briefing</title>
       <link>https://www.nytimes.com/2022/10/06/briefing/opec-oil-ukraine-war-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/opec-oil-ukraine-war-russia.html</guid>
@@ -654,6 +671,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/us/politics/05dc-intel-1/merlin_211819080_89b7fb20-74e1-4fe9-856f-e6ffc55dfa59-moth.jpg" width="151"></media:content>
       <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
       <media:description>Daria Dugina’s memorial service in Moscow in August. U.S. intelligence agencies believe that parts of the Ukrainian government authorized the attack that killed her.</media:description>
+    </item>
+    <item>
+      <title>In Israel, a Solemn Yom Kippur Also Creates a Giant Playground</title>
+      <link>https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/israel-yom-kippur.html" rel="standout"></atom:link>
+      <description>Yom Kippur, the holiest day in Judaism, brings Israel to a standstill. For the nonobservant, that briefly turns highways into bike trails.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 02:56:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yom Kippur</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fasting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05Israel-Kippur-Dispatch01/05Israel-Kippur-Dispatch01-moth.jpg" width="151"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Bikers in Tel Aviv on Ayalon Highway, typically one of the busiest roads in the Middle East, during Yom Kippur on Wednesday.</media:description>
     </item>
     <item>
       <title>Biden Releases More Reserve Oil and Pushes Companies to Keep Up Production</title>
@@ -1060,50 +1098,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-moth.jpg" width="151"></media:content>
       <media:credit>Joe Raedle/Getty Images</media:credit>
       <media:description>Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.</media:description>
-    </item>
-    <item>
-      <title>Rebekah Vardy Ordered to Pay Legal Fees in ‘Wagatha Christie’ Case</title>
-      <link>https://www.nytimes.com/2022/10/04/world/europe/rebekah-vardy-wagatha-christie.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/europe/rebekah-vardy-wagatha-christie.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/europe/rebekah-vardy-wagatha-christie.html" rel="standout"></atom:link>
-      <description>Ms. Vardy will pay 90 percent of Coleen Rooney’s legal costs, an estimated $1.7 million, after losing a libel case that proved irresistible to the British press.</description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 16:33:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vardy, Rebekah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Coleen (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rooney, Wayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vardy, Jamie (1987- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/03/multimedia/03xp-wagatha-1-af34/03xp-wagatha-1-af34-moth.jpg" width="151"></media:content>
-      <media:credit>Peter Nicholls/Reuters</media:credit>
-      <media:description>Rebekah Vardy in London in May, arriving for a hearing in the so-called Wagatha Christie libel case.</media:description>
-    </item>
-    <item>
-      <title>Protecting the Peatlands of Ireland as Fuel Costs Skyrocket</title>
-      <link>https://www.nytimes.com/2022/10/04/world/europe/ireland-peat-burning-carbon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/europe/ireland-peat-burning-carbon.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/europe/ireland-peat-burning-carbon.html" rel="standout"></atom:link>
-      <description>One in seven Irish households still burn peat for heat. New rules are aimed at discouraging a practice that many consider part of the culture.</description>
-      <dc:creator>Ed O’Loughlin</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 16:17:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">County Mayo (Ireland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03ireland-peat/03ireland-peat-moth.jpg" width="151"></media:content>
-      <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
-      <media:description>Seamus Caulfield, a retired archaeology professor, cutting peat using a traditional angled spade called a sleán, on his family’s land in Belderrig, Ireland.</media:description>
     </item>
   </channel>
 </rss>

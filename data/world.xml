@@ -7,13 +7,25 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 09:45:42 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 09:28:26 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 10:25:04 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 10:24:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Live Updates: More Than 30 Killed at Child-Care Center in Thailand</title>
+      <link>https://www.nytimes.com/live/2022/10/06/world/thailand-shooting</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/06/world/thailand-shooting</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/06/world/thailand-shooting" rel="standout"></atom:link>
+      <description>Twenty-four children were among those killed in the mass shooting, according to local media.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:24:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-01/06thailand-shooting-01-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters TV</media:credit>
+      <media:description>Officials outside the child-care facility in northeastern Thailand where the shooting took place on Thursday.</media:description>
+    </item>
     <item>
       <title>Macron’s European Political Community Debuts in the Shadow of War</title>
       <link>https://www.nytimes.com/2022/10/06/world/europe/macron-european-political-community.html</link>
@@ -54,6 +66,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Kathmandu Finally Got Tap Water. After a Climate Disaster, It Was Gone.</title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html" rel="standout"></atom:link>
+      <description>A disaster that wiped out a decades-long project to bring pipe-borne water to Nepal’s capital shows the mismatch between slow-moving donor-financed efforts and rapid global warming.</description>
+      <dc:creator>Emily Schmall and Bhadra Sharma</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 09:00:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asian Development Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00nepal-water-03/00nepal-water-03-moth.jpg" width="151"></media:content>
+      <media:credit>Uma Bista for The New York Times</media:credit>
+      <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
       <title>Some Unlikely Dealers Are Selling Weapons to Ukraine </title>
@@ -102,7 +132,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Since President Vladimir V. Putin nationalized the Zaporizhzhia facility, its safety has taken on new urgency, the head of the nuclear watchdog said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:28:26 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 10:23:42 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
@@ -134,30 +164,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05ukraine-briefing-drone-attack01-1-3bac/05ukraine-briefing-drone-attack01-1-3bac-moth.jpg" width="151"></media:content>
       <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
       <media:description>A local resident sat outside a building destroyed after an airstrike on Bila Tserkva, southwest of Kyiv, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
-      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
-      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
     </item>
     <item>
       <title>Danish Queen Apologizes After Stripping Royal Titles From 4 Grandchildren</title>
@@ -270,20 +276,38 @@
       <media:description>Saudi Arabia’s decision to support an oil output cut by OPEC and its allies on Wednesday marked another step of distancing from the United States.</media:description>
     </item>
     <item>
-      <title>Philippines Lottery Draw Produced 433 Winners. Was It Pure Luck?</title>
-      <link>https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html" rel="standout"></atom:link>
-      <description>The result of a lotto drawing in the Philippines has set off a national debate about randomness, probability, fraud and human nature.</description>
-      <dc:creator>Camille Elemia and Mike Ives</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 09:37:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lotteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05philippines-lotto/05philippines-lotto-moth.jpg" width="151"></media:content>
-      <media:credit>Richard James Mendoza/NurPhoto via Getty Images</media:credit>
-      <media:description>Bettors buying lottery tickets at a mall in Manila in 2018.</media:description>
+      <title>The Politics of Grievance</title>
+      <link>https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html" rel="standout"></atom:link>
+      <description>We look at Italy, the largest country in western Europe to elect a far-right government in decades.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:19:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06-THE-MORNING-NL-Promo/06-THE-MORNING-NL-Italy-1-1d6e-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <media:description>Giorgia Meloni in Rome last week.</media:description>
+    </item>
+    <item>
+      <title>Gun Ownership is Common in Thailand, But Shootings Are Not </title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/thailand-shootings-guns-firearms.html" rel="standout"></atom:link>
+      <description>In a country with millions of firearms, the authorities have long worried about the potential for more gun violence.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 10:16:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-guns/merlin_168720441_f4973c8b-933f-4862-9a15-edc28433d0d8-moth.jpg" width="151"></media:content>
+      <media:credit>Chalinee Thirasupa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A gun shop in Nakhon Ratchasima, Thailand, in 2020.</media:description>
     </item>
     <item>
       <title>Yascha Mounk on What Democracy Needs to Survive</title>
@@ -323,24 +347,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07sp-democracy-nordic-inyt1/07sp-democracy-nordic-inyt1-moth.jpg" width="151"></media:content>
       <media:credit>Bo Amstrup/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>Danish voters cast ballots in June on a referendum on whether to overturn Denmark’s opting out of the European Union’s common defense policy after Russia’s invasion of Ukraine. The referendum passed.</media:description>
-    </item>
-    <item>
-      <title>Kathmandu Finally Got Tap Water. After a Climate Disaster, It Was Gone.</title>
-      <link>https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/nepal-water-melamchi.html" rel="standout"></atom:link>
-      <description>A disaster that wiped out a decades-long project to bring pipe-borne water to Nepal’s capital shows the mismatch between slow-moving donor-financed efforts and rapid global warming.</description>
-      <dc:creator>Emily Schmall and Bhadra Sharma</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asian Development Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/21/world/00nepal-water-03/00nepal-water-03-moth.jpg" width="151"></media:content>
-      <media:credit>Uma Bista for The New York Times</media:credit>
-      <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
       <title>Four Young Leaders Explain Their Roles in the Global Democracy Movement</title>
@@ -567,6 +573,30 @@
       <media:description>A field destroyed by a brush fire in the drought-ravaged village of Xinyao in Jiangxi Province, China, in August.</media:description>
     </item>
     <item>
+      <title>Unveiled and Furious: How Iran’s Women-Led Protests Cut to the Heart of National Identity</title>
+      <link>https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/middleeast/iran-protests-women-hijab.html" rel="standout"></atom:link>
+      <description>The hijabs women are forced to wear have long been a sign of the government’s power. Now, the women-led protests have made them a symbol of a clashing vision of Iran’s future.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 21:16:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pahlavi, Reza Shah (1878-1944)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/InterpreterNL-5Oct2022-1/InterpreterNL-5Oct2022-1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters in Tehran in September, after the death of Mahsa Amini.</media:description>
+    </item>
+    <item>
       <title>Jerzy Urban, Acerbic Communist Turned Free-Speech Hero, Dies at 89</title>
       <link>https://www.nytimes.com/2022/10/05/world/europe/jerzy-urban-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/europe/jerzy-urban-dead.html</guid>
@@ -675,6 +705,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/multimedia/05-THE-MORNING-NL-jerome-1-3042-promo/05-THE-MORNING-NL-jerome-1-3042-moth.jpg" width="151"></media:content>
       <media:credit>Julia Nikhinson for The New York Times</media:credit>
       <media:description>Jerome H. Powell, the Fed chair, warned that increasing interest rates would be painful for the U.S. economy — but said curbing growth to contain price increases was essential.</media:description>
+    </item>
+    <item>
+      <title>Philippines Lottery Draw Produced 433 Winners. Was It Pure Luck?</title>
+      <link>https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/world/asia/philippines-lottery-jackpot.html" rel="standout"></atom:link>
+      <description>The result of a lotto drawing in the Philippines has set off a national debate about randomness, probability, fraud and human nature.</description>
+      <dc:creator>Camille Elemia and Mike Ives</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 09:37:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lotteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05philippines-lotto/05philippines-lotto-moth.jpg" width="151"></media:content>
+      <media:credit>Richard James Mendoza/NurPhoto via Getty Images</media:credit>
+      <media:description>Bettors buying lottery tickets at a mall in Manila in 2018.</media:description>
     </item>
     <item>
       <title>U.S. Aims to Turn Taiwan Into Giant Weapons Depot</title>
@@ -1058,84 +1104,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/multimedia/04-THE-MORNING-NL-promo/04-THE-MORNING-NL-BIRM-moth.jpg" width="151"></media:content>
       <media:credit>Andi Rice/Bloomberg</media:credit>
       <media:description>A health care worker from Alabama Regional Medical Services administering a Covid vaccine in Birmingham, Ala., in 2021.</media:description>
-    </item>
-    <item>
-      <title>Trial Opens for Bruce Lehrmann, Man Accused of Rape in Australia’s Parliament House</title>
-      <link>https://www.nytimes.com/2022/10/04/world/australia/brittany-higgins-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/australia/brittany-higgins-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/australia/brittany-higgins-trial.html" rel="standout"></atom:link>
-      <description>The trial of the Australian man accused of sexually assaulting Brittany Higgins will be viewed against the backdrop of the global #MeToo movement.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:34:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Brittany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/04oz-higgins3/04oz-higgins3-moth.jpg" width="151"></media:content>
-      <media:credit>Mick Tsikas/Australian Associated Press, via Reuters</media:credit>
-      <media:description>Brittany Higgins arriving at Supreme Court in Canberra, Australia, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Russia’s War in Ukraine Sends Swedish Marines Into the Arms of NATO</title>
-      <link>https://www.nytimes.com/2022/10/04/us/politics/sweden-ukraine-nato-marines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/us/politics/sweden-ukraine-nato-marines.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/us/politics/sweden-ukraine-nato-marines.html" rel="standout"></atom:link>
-      <description>Russia’s war in Ukraine has sent marines from famously neutral Sweden into the arms of NATO, where they have been working with American forces.</description>
-      <dc:creator>Helene Cooper and Kenny Holston</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 23:48:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marine Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/us/politics/00dc-marines-sweden/00dc-marines-sweden-moth.jpg" width="151"></media:content>
-      <media:description>American and Swedish marines participating in a military exercise near Berga Naval Base in Sweden.</media:description>
-    </item>
-    <item>
-      <title>What Video Footage Reveals About the Protests in Iran</title>
-      <link>https://www.nytimes.com/2022/10/04/world/asia/iran-protest-video-analysis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/world/asia/iran-protest-video-analysis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/world/asia/iran-protest-video-analysis.html" rel="standout"></atom:link>
-      <description>The New York Times analyzed dozens of videos circulating online for insights about what is propelling the demonstrations, and how women are leading the movement.</description>
-      <dc:creator>Nilo Tabrizy and Haley Willis</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 09:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-    </item>
-    <item>
-      <title>Climate Change for Preschoolers: ‘Octonauts’ Explores Unmapped Ground</title>
-      <link>https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html" rel="standout"></atom:link>
-      <description>There are few books, shows or other tools to help parents and teachers talk to preschoolers about global warming. “Octonauts: Above and Beyond” is one of the first to try.</description>
-      <dc:creator>Coral Davenport</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 23:25:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Octonauts (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

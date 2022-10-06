@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Oct 2022 07:50:23 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Oct 2022 07:34:55 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 08:33:52 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 08:25:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -102,7 +102,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/06/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Since President Vladimir V. Putin nationalized the Zaporizhzhia facility, its safety has taken on new urgency, the head of the nuclear watchdog said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 07:23:06 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 08:13:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-briefing-header/06ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Internally displaced Ukrainians registering for aid and social services in Dnipro, Ukraine, on Wednesday.</media:description>
@@ -284,6 +284,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05philippines-lotto/05philippines-lotto-moth.jpg" width="151"></media:content>
       <media:credit>Richard James Mendoza/NurPhoto via Getty Images</media:credit>
       <media:description>Bettors buying lottery tickets at a mall in Manila in 2018.</media:description>
+    </item>
+    <item>
+      <title>Thailand Mass Shooting: More Than 30 Killed, Including Children</title>
+      <link>https://www.nytimes.com/2022/10/06/world/asia/thailand-mass-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/thailand-mass-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/thailand-mass-shooting.html" rel="standout"></atom:link>
+      <description>The attack happened at a child-care facility, and the victims include both children and adults.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 08:25:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
     </item>
     <item>
       <title>Your Thursday Briefing</title>
@@ -1083,25 +1095,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/00ukraine-prisoner-dispatch-promo/00ukraine-prisoner-dispatch-01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers escorting a 69-year-old man named Aleksandr, whom they suspected of spying for the Russians, near the city of Lyman in eastern Ukraine.</media:description>
-    </item>
-    <item>
-      <title>François Legault Wins Re-election in Quebec</title>
-      <link>https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/03/world/canada/quebec-general-election-results.html" rel="standout"></atom:link>
-      <description>Voters in Quebec gave a second term to Premier François Legault, who has shifted the province from a once fervent-independence movement to a nationalism focused on French Québécois identity.</description>
-      <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 01:36:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Legault, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/world/03quebec-elect/03quebec-elect-moth.jpg" width="151"></media:content>
-      <media:credit>Christinne Muschi/Reuters</media:credit>
-      <media:description>Quebec’s premier, François Legault, speaking in May at a political convention in Drummondville, Quebec. He overwhelmingly won re-election Monday, according to preliminary results. </media:description>
     </item>
   </channel>
 </rss>

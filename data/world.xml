@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 20:28:14 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 20:08:34 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 20:48:57 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 20:46:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Nearly 40 rockets hit the southern city of Nikopol, an official said, as Russian shelling has picked up in recent days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 19:40:56 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 20:43:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/07ukraine-briefing-sectionfront/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -50,7 +50,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/07/world/americas/venezuelan-migrants-us-border.html" rel="standout"></atom:link>
       <description>Two crises are converging at the perilous land bridge known as the Darién Gap: the economic and humanitarian disaster underway in South America, and the bitter fight over immigration policy in Washington.</description>
       <dc:creator>Julie Turkewitz and Federico Rios</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 09:00:31 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 20:43:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -71,7 +71,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/nobel-peace-prize" rel="standout"></atom:link>
       <description>The three laureates are Memorial, a rights group in Russia; the Center for Civil Liberties in Ukraine; and Ales Bialiatski, an activist jailed in Belarus.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 19:43:41 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 20:43:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07nobel-peace-header2/07nobel-peace-header2-moth.jpg" width="151"></media:content>
       <media:credit>Ed Ram/Getty Images</media:credit>
       <media:description>Staff of the Center for Civil Liberties, a Ukrainian human rights organization, celebrating in their office in Kyiv on Friday. The other recipients of the Nobel Peace Prize were Ales Bialiatski, a human rights advocate from Belarus, and Memorial, a Russian human rights organization.</media:description>
@@ -273,6 +273,23 @@
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
+      <title>Fire Causes ‘Irreparable’ Damage to Easter Island Statues</title>
+      <link>https://www.nytimes.com/2022/10/07/world/americas/easter-island-fire-statues-damaged.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/americas/easter-island-fire-statues-damaged.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/americas/easter-island-fire-statues-damaged.html" rel="standout"></atom:link>
+      <description>The fire has burned more than 247 acres of the Pacific island, where hundreds of haunting monolithic statues, called moai, have stood for centuries.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 20:46:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Easter Island</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07xp-easterisland-1/07xp-easterisland-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse, via Rapanui Municipality/Getty Images</media:credit>
+      <media:description>Many ancient monolithic statues, called moai, have been damaged in a fire in Rapa Nui National Park on Easter Island.</media:description>
+    </item>
+    <item>
       <title>White House Tightens Rules on Counterterrorism Drone Strikes</title>
       <link>https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html</guid>
@@ -412,10 +429,10 @@
       <media:description>Ales Bialiatski, a Belarusian rights activist, speaking at a Right Livelihood Award event in Stockholm in 2020.</media:description>
     </item>
     <item>
-      <title>In Ukraine, the sharing of the prize prompts some backlash.</title>
-      <link>https://www.nytimes.com/2022/10/07/world/europe/ukraine-sharing-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/ukraine-sharing-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/ukraine-sharing-russia.html" rel="standout"></atom:link>
+      <title>In Ukraine, Sharing the Nobel Peace Prize Prompts Backlash</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/ukraine-nobel-prize-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/ukraine-nobel-prize-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/ukraine-nobel-prize-russia.html" rel="standout"></atom:link>
       <description>Some saw the decision to group a Ukrainian organization with human rights defenders from Russia and Belarus — two of the country’s aggressors — as an affront.</description>
       <dc:creator>Megan Specia and Matthew Mpoke Bigg</dc:creator>
       <pubDate>Fri, 07 Oct 2022 18:24:28 +0000</pubDate>
@@ -994,24 +1011,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-shooting-guns/merlin_168720441_f4973c8b-933f-4862-9a15-edc28433d0d8-moth.jpg" width="151"></media:content>
       <media:credit>Chalinee Thirasupa/Agence France-Presse — Getty Images</media:credit>
       <media:description>A gun shop in Nakhon Ratchasima, Thailand, in 2020.</media:description>
-    </item>
-    <item>
-      <title>Yascha Mounk on What Democracy Needs to Survive</title>
-      <link>https://www.nytimes.com/2022/10/06/world/yascha-mounk-democracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/yascha-mounk-democracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/yascha-mounk-democracy.html" rel="standout"></atom:link>
-      <description>The author and educator explains that making diverse democracies work is difficult and offers suggestions on how they can succeed.</description>
-      <dc:creator>Celestine Bohlen</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:02:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mounk, Yascha</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Greece)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07sp-democracy-mounk-inyt1/07sp-democracy-mounk-inyt1-moth.jpg" width="151"></media:content>
-      <media:credit>Dave Chan/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>A marcher at the Canada Day celebrations in July in Ottawa. Yascha Mounk said that Canada was among the countries that had developed a healthy sense of civic and cultural patriotism.</media:description>
     </item>
   </channel>
 </rss>

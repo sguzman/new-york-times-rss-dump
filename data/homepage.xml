@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 17:51:28 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 17:49:54 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 18:22:43 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 18:18:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,6 +34,16 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/business/07dc-exportcontrols/07dc-exportcontrols-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>A semiconductor factory in Nantong, China. New limits on sales of semiconductor technology aim to slow the progress of Chinese military programs.</media:description>
+    </item>
+    <item>
+      <title>Markets fall as investors are more convinced of big rate increases to come.</title>
+      <link>https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html" rel="standout"></atom:link>
+      <description>Fresh data on the labor market solidified investors’ expectations that the Federal Reserve will need to keep acting aggressively to cool the economy.</description>
+      <dc:creator>Joe Rennison and Isabella Simonetti</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 17:18:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
     </item>
     <item>
       <title>The Job Market Has Been Like Musical Chairs. Will the Music Stop?</title>
@@ -71,16 +81,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/business/07gas-prices/07gas-prices-moth.jpg" width="151"></media:content>
       <media:credit>Caroline Brehman/EPA, via Shutterstock</media:credit>
       <media:description>Gas prices in California and in other Western states, including Nevada and Arizona, jumped after several refineries in the region closed.</media:description>
-    </item>
-    <item>
-      <title>Markets fall as investors are more convinced of big rate increases to come.</title>
-      <link>https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/business/stocks-jobs-fed.html" rel="standout"></atom:link>
-      <description>Fresh data on the labor market solidified investors’ expectations that the Federal Reserve will need to keep acting aggressively to cool the economy.</description>
-      <dc:creator>Joe Rennison and Isabella Simonetti</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 17:18:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
     </item>
     <item>
       <title>‘They Are in a Panic’: Ukraine’s Troops Size Up the Enemy</title>
@@ -121,16 +121,18 @@
       <description>After a sudden confrontation that left a golden retriever dead, neighbors came together online to support the owner of the dog. But then things changed.</description>
       <dc:creator>John Leland</dc:creator>
       <pubDate>Fri, 07 Oct 2022 13:26:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guardian Angels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hell Gate LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nextdoor.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Park Slope (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/nyregion/00dogattack1/00dogattack1-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Seng for The New York Times</media:credit>
     </item>
@@ -172,7 +174,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="">howigothere</category>
+      <category domain="">howigothere2022</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05darien-migration-promo/05darien-migration-promo-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
     </item>
@@ -321,7 +323,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/opinion/ukraine-liberal-nationalism.html" rel="standout"></atom:link>
       <description>Only a strong liberal nationalism can defeat the authoritarians.</description>
       <dc:creator>David Brooks</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 22:58:07 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 18:18:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>

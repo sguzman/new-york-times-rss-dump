@@ -7,35 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 12:29:40 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 12:29:01 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 13:34:55 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 13:21:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Global Fallout From Rate Moves Won’t Stop the Fed</title>
-      <link>https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html" rel="standout"></atom:link>
-      <description>The Federal Reserve, like many central banks, sets policy with an eye on the domestic economy. Its battle to control prices is causing pain abroad.</description>
-      <dc:creator>Jeanna Smialek and Alan Rappeport</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 07:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/05dc-FedGlobalFallout/05dc-FedGlobalFallout-moth.jpg" width="151"></media:content>
-      <media:credit>Lauren DeCicca for The New York Times</media:credit>
-      <media:description>A gas station in Thailand. Soaring fuel and food prices were already a crisis in developing countries, and moves by the Federal Reserve and other central banks are adding to the pressures.</media:description>
-    </item>
     <item>
       <title>The Job Market Has Been Like Musical Chairs. Will the Music Stop?</title>
       <link>https://www.nytimes.com/2022/10/07/business/job-market-tightening.html</link>
@@ -53,6 +31,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/business/07musicalchairs-print-01/07musicalchairs-01-moth.jpg" width="151"></media:content>
       <media:credit>Ting Shen for The New York Times</media:credit>
       <media:description>As Debbie Ricks pursued her dream career as a photojournalist, the restaurant jobs that she thought would be a safety net started disappearing.</media:description>
+    </item>
+    <item>
+      <title>Global Fallout From Rate Moves Won’t Stop the Fed</title>
+      <link>https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global-fallout.html" rel="standout"></atom:link>
+      <description>The Federal Reserve, like many central banks, sets policy with an eye on the domestic economy. Its battle to control prices is causing pain abroad.</description>
+      <dc:creator>Jeanna Smialek and Alan Rappeport</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 07:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/05dc-FedGlobalFallout/05dc-FedGlobalFallout-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren DeCicca for The New York Times</media:credit>
+      <media:description>A gas station in Thailand. Soaring fuel and food prices were already a crisis in developing countries, and moves by the Federal Reserve and other central banks are adding to the pressures.</media:description>
     </item>
     <item>
       <title>‘They Are in a Panic’: Ukraine’s Troops Size Up the Enemy</title>
@@ -117,14 +117,15 @@
       <description>Conversations between department officials and the former president’s representatives have underscored investigators’ skepticism about his cooperation and exposed a rift among his lawyers.</description>
       <dc:creator>Michael S. Schmidt, Maggie Haberman and Katie Benner</dc:creator>
       <pubDate>Fri, 07 Oct 2022 00:16:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Archives and Records Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/politics/06dc-trump1/06dc-trump1-moth.jpg" width="151"></media:content>
       <media:credit>Anna Moneymaker for The New York Times</media:credit>
       <media:description>The Justice Department’s continued effort to retrieve documents from former President Donald J. Trump that may still be missing has led to a divide among his lawyers.</media:description>
@@ -255,13 +256,13 @@
       <media:credit>Luis Robayo/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
-      <title>The Constitution Is a Trump Enabler, and We Need to Reckon With That</title>
+      <title>We Had to Force the Constitution to Accommodate Democracy, and It Shows</title>
       <link>https://www.nytimes.com/2022/10/07/opinion/constitution-democracy-biden-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/opinion/constitution-democracy-biden-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/07/opinion/constitution-democracy-biden-trump.html" rel="standout"></atom:link>
       <description>We tend to equate American democracy with the Constitution, but our history makes it clear that the two are in tension with each other.</description>
       <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 09:00:05 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 12:48:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
@@ -274,13 +275,13 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>The Fiery Brilliance of Obama’s Lost Book Manuscript</title>
+      <title>A Lost Manuscript Shows the Fire Barack Obama Couldn’t Reveal on the Campaign Trail</title>
       <link>https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html" rel="standout"></atom:link>
       <description>At Harvard Law, he wrote a blistering manifesto he never published. Its searing advice could help Democrats escape their current political quagmire.</description>
       <dc:creator>Timothy Shenk</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 09:00:14 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 12:40:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Manuscripts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rustin, Bayard</category>
@@ -365,6 +366,26 @@
       <media:credit>Janice Chung for The New York Times</media:credit>
     </item>
     <item>
+      <title>Ninety Years Ago, This Book Tried to Warn Us</title>
+      <link>https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html" rel="standout"></atom:link>
+      <description>A 1933 novel on the Nazi rise to power is still relevant today.</description>
+      <dc:creator>Pamela Paul</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 12:57:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feuchtwanger, Lion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Oppermanns (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Joshua (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/opinion/06paul1/06paul1-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Here’s Hoping Elon Musk Destroys Twitter</title>
       <link>https://www.nytimes.com/2022/10/06/opinion/elon-musk-twitter.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/elon-musk-twitter.html</guid>
@@ -381,24 +402,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/06goldberg1/06goldberg1-moth.jpg" width="151"></media:content>
       <media:credit>Jim Watson/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Ninety Years Ago, This Book Tried to Warn Us</title>
-      <link>https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/the-oppermanns-feuchtwanger.html" rel="standout"></atom:link>
-      <description>A 1933 novel on the Nazi rise to power is still relevant today.</description>
-      <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 23:43:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feuchtwanger, Lion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Oppermanns (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/opinion/06paul1/06paul1-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
     </item>
     <item>
       <title>The Power of Paxlovid</title>
@@ -525,11 +528,12 @@
       <dc:creator>Patricia Mazzei</dc:creator>
       <pubDate>Thu, 06 Oct 2022 22:26:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crist, Charlie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Casey DeSantis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Casey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/00casey-desantis-02/00casey-desantis-02-moth.jpg" width="151"></media:content>
       <media:credit>Hilary Swift for The New York Times</media:credit>
       <media:description>Casey DeSantis visited the Pine Island, Fla., Fire Department on Monday amid the response to Hurricane Ian, which slammed Florida last week.</media:description>

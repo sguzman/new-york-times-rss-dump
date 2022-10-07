@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 15:32:42 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 15:31:46 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 16:00:02 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 15:55:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/thailand-shooting" rel="standout"></atom:link>
       <description>Relatives collapsed in grief as coffins were brought to a temple in the city in northern Thailand, where many of the victims, mostly children, will receive Buddhist rites.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 15:01:00 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 15:33:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/live-blog-20221007-thailand-shooting-header-001-hppromo/live-blog-20221007-thailand-shooting-header-001-moth.jpg" width="151"></media:content>
       <media:credit>Andre Malerba for The New York Times</media:credit>
       <media:description>Volunteer rescue workers unloading a coffin at the Udon Thani Hospital morgue in Udon Thani, Thailand, on Friday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/nobel-peace-prize" rel="standout"></atom:link>
       <description>The three laureates are Ales Bialiatski from Belarus; Memorial, a rights group in Russia; and the Center for Civil Liberties in Ukraine.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 15:18:35 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 15:51:57 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07nobel-peace-header2/07nobel-peace-header2-moth.jpg" width="151"></media:content>
       <media:credit>Ed Ram/Getty Images</media:credit>
       <media:description>Staff of the Center for Civil Liberties, a Ukrainian human rights organization, celebrating in their office in Kyiv on Friday. The other recipients of the Nobel Peace Prize were Ales Bialiatski, a human rights advocate from Belarus, and Memorial, a Russian human rights organization.</media:description>
@@ -45,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The acting mayor of Zaporizhzhia, a major hub for those fleeing fighting in the south, says that Russian shelling has picked up in recent days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 15:21:17 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 15:55:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/07ukraine-briefing-sectionfront/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -262,6 +262,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07nepal-water-02/00nepal-water-03-moth.jpg" width="151"></media:content>
       <media:credit>Uma Bista for The New York Times</media:credit>
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
+    </item>
+    <item>
+      <title>Putin’s 70th birthday is hailed in Russia and derided in Ukraine.</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html" rel="standout"></atom:link>
+      <description>Russian newspapers lauded Mr. Putin’s leadership, comparing him to Peter the Great and Leonid Brezhnev. Some Ukrainians said they hoped the birthday would be his last.</description>
+      <dc:creator>Valeriya Safronova and Megan Specia</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 15:51:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birthdays</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novaya Gazeta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07ukraine-briefing-putin-birthday-ukraine-1-d8c8/07ukraine-briefing-putin-birthday-ukraine-1-d8c8-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitri Lovetsky/Associated Press</media:credit>
+      <media:description>A visitor stands next to Alexey Sergienko’s painting called “Putin with a Puppy,” presented on the eve of Russian President Vladimir V. Putin’s 70th birthday, in St. Petersburg on Thursday.</media:description>
     </item>
     <item>
       <title>An Abortion Ban With Unexpected Consequences for Older Mothers</title>
@@ -582,6 +601,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-ledeall_1/06thailand-ledeall_1-moth.jpg" width="151"></media:content>
       <media:credit>Sirachai Arunrugstichai/Getty Images</media:credit>
       <media:description>Emergency workers carrying coffins with the bodies of victims outside a hospital in Udon Thani.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Police Find Bodies of 534 Civilians in Recaptured Territory</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html" rel="standout"></atom:link>
+      <description>The police have discovered 22 locations that they suspect were used as torture chambers in areas recently reclaimed from Russian control, a Ukrainian official said.</description>
+      <dc:creator>Oleksandr Chubko and Carlotta Gall</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 11:44:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-civilian-bodies02/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Regional police investigators showed where Russian forces held and interrogated prisoners in a basement in Kozacha Lopan, in northern Kharkiv, Ukraine, on Thursday.</media:description>
     </item>
     <item>
       <title>Two Russians Who Braved Miles of Open Sea and Landed on an Alaskan Island Request Asylum.</title>
@@ -969,42 +1004,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anderson, Carol (Author)</category>
-    </item>
-    <item>
-      <title>In Greece, Democracy and Theater Were Closely Intertwined</title>
-      <link>https://www.nytimes.com/2022/10/06/world/europe/greece-democracy-theater.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/greece-democracy-theater.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/greece-democracy-theater.html" rel="standout"></atom:link>
-      <description>In ancient Greece the great playwrights helped to plant and nurture the seeds of representative government through their characters and plots.</description>
-      <dc:creator>David Belcher</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aeschylus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Euripides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Plato (428-348 BC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sophocles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Greece)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07sp-democracy-theater-inyt1/07sp-democracy-theater-inyt1-moth.jpg" width="151"></media:content>
-      <media:credit>Ken Welsh/Education Images/Universal Images Group, via Getty Images</media:credit>
-      <media:description>The idea of democracy was nurtured in the outdoor amphitheaters that dotted the hillsides throughout the many city-states of ancient Greece.</media:description>
-    </item>
-    <item>
-      <title>In Algeria, Veiled From the World, Past and Future Are Shrouded, Too</title>
-      <link>https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/middleeast/algeria-oran-camus.html" rel="standout"></atom:link>
-      <description>A land of thwarted potential, the country fends off outside influences, political change and some of its own history.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 15:38:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oran (Algeria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/00Algeria-Oran-Dispatch/00Algeria-Oran-Dispatch-moth.jpg" width="151"></media:content>
-      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Santa Cruz Chapel in Oran, Algeria, last month. For the ossified politico-military establishment that runs the country, tourism and foreign investment are suspect, as are theaters, cinemas or book stores.</media:description>
     </item>
   </channel>
 </rss>

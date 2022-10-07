@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 21:46:54 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 21:08:19 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 22:24:34 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 22:10:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Nearly 40 rockets hit the southern city of Nikopol, an official said, as Russian shelling has picked up in recent days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 20:54:04 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 21:58:33 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/07ukraine-briefing-sectionfront/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -273,6 +273,29 @@
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
     </item>
     <item>
+      <title>Nobel Peace Prize Winners Share a Past Shadowed by Russian Abuses</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-memorial-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-memorial-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/nobel-peace-prize-memorial-russia.html" rel="standout"></atom:link>
+      <description>Democracy advocates from Belarus, Russia and Ukraine were jointly awarded the world’s most prestigious peace prize, an implicit condemnation of the Kremlin’s war in Ukraine and repression at home.</description>
+      <dc:creator>Anton Troianovski, Megan Specia and Andrew Higgins</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 22:10:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Nobel Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Civil Liberties (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Memorial</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07nobel-leadall_1/07nobel-leadall_1-moth.jpg" width="151"></media:content>
+      <media:credit>Rodrigo Freitas/NTB Scanpix, via Associated Press</media:credit>
+      <media:description>A picture of the jailed Belarus rights activist Ales Bialiatski, one of this year’s Nobel Peace Prize winners, is placed next to previous laureates in the garden of the Nobel Institute in Oslo, Norway. </media:description>
+    </item>
+    <item>
       <title>US Targets Businessmen and Companies in New North Korea Sanctions</title>
       <link>https://www.nytimes.com/2022/10/07/us/politics/north-korea-sanctions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/us/politics/north-korea-sanctions.html</guid>
@@ -318,7 +341,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html" rel="standout"></atom:link>
       <description>A classified new policy requires President Biden’s approval to add suspected terrorists to a kill list. The Trump administration had decentralized control over targeting decisions.</description>
       <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 20:01:14 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 21:58:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -339,7 +362,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/politics/07dc-drones1/07dc-drones1-moth.jpg" width="151"></media:content>
       <media:credit>John Moore/Getty Images</media:credit>
-      <media:description>A U.S. Air Force MQ-1B Predator unmanned aerial vehicle, right, returned from a mission in the Persian Gulf region in January 2016. </media:description>
+      <media:description>An Air Force Predator drone, right, returning from a mission in the Persian Gulf region in 2016. The new policy suggests that the United States intends to launch fewer drone strikes away from recognized war zones.</media:description>
     </item>
     <item>
       <title>Memorial Shed Light on Russia’s Past and Current Repressions</title>
@@ -426,13 +449,16 @@
       <atom:link href="https://www.nytimes.com/article/tropical-storm-julia-hurricane-caribbean-central-america.html" rel="standout"></atom:link>
       <description>The storm, which was expected to reach hurricane strength over the weekend, was lashing the Guajira Peninsula in northern Colombia with heavy rain on Friday.</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 19:33:58 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 22:04:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guajira Peninsula</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07XP-Julia-537PM/07XP-Julia-537PM-moth.jpg" width="151"></media:content>
+      <media:credit>CIRA/NOAA</media:credit>
+      <media:description>A tropical depression in the southwestern Caribbean strengthened into Tropical Storm Julia on Friday.</media:description>
     </item>
     <item>
       <title>Who Is Ales Bialiatski, the Belarusian Nobel Peace Prize Laureate?</title>
@@ -999,23 +1025,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06nobel-literature-winner/06nobel-literature-winner-moth.jpg" width="151"></media:content>
       <media:credit>Isabelle Eshraghi for The New York Times</media:credit>
       <media:description>The French novelist Annie Ernaux in 2020.</media:description>
-    </item>
-    <item>
-      <title>The Politics of Grievance</title>
-      <link>https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/briefing/giorgia-meloni-italy-far-right-election.html" rel="standout"></atom:link>
-      <description>We look at Italy, the largest country in western Europe to elect a far-right government in decades.</description>
-      <dc:creator>David Leonhardt</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 16:25:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06-THE-MORNING-NL-Promo/06-THE-MORNING-NL-Italy-1-1d6e-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Gianni Cipriano for The New York Times</media:credit>
-      <media:description>Giorgia Meloni in Rome last week.</media:description>
     </item>
   </channel>
 </rss>

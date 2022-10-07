@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 04:36:54 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 03:57:55 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 05:21:59 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 05:05:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -51,6 +51,22 @@
       <media:description>Protesters outside the White House in 2016. President Biden said on Thursday that he has asked the attorney general to review how marijuana is legally categorized.</media:description>
     </item>
     <item>
+      <title>‘They Are in a Panic’: Ukraine’s Troops Size Up the Enemy</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/ukraine-war-fighters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/ukraine-war-fighters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/ukraine-war-fighters.html" rel="standout"></atom:link>
+      <description>Ukrainian soldiers are exulting in their smashing of Russian lines in the northeast. They engaged enemy troops up close, and gained confidence from it.</description>
+      <dc:creator>Carlotta Gall and Ivor Prickett</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 04:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06UkraineEast01-promo/06UkraineEast01-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Blunt Criticism of Russian Army Signals New Challenge for Putin</title>
       <link>https://www.nytimes.com/2022/10/06/world/europe/putin-russia-army-criticism.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/putin-russia-army-criticism.html</guid>
@@ -71,36 +87,13 @@
       <media:description>Sergei K. Shoigu, the Russian defense minister, with President Vladimir V. Putin at a commemoration of the victory over Nazi Germany in May.</media:description>
     </item>
     <item>
-      <title>Russia Lashes Out in Ukraine, Raising Question of What’s Next</title>
-      <link>https://www.nytimes.com/2022/10/06/world/europe/russia-war-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/russia-war-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/russia-war-ukraine.html" rel="standout"></atom:link>
-      <description>Facing battlefield setbacks and domestic criticism, the Kremlin has escalated its war, claiming ownership of a nuclear plant and launching more attacks on Ukrainian cities.</description>
-      <dc:creator>Richard Pérez-Peña, Carly Olson and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 01:30:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-ledeall-swap/06ukraine-ledeall-swap-moth.jpg" width="151"></media:content>
-      <media:credit>Marina Moiseyenko/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Ukrainian firefighters battled a blaze after a strike in Zaporizhzhia on Thursday.</media:description>
-    </item>
-    <item>
       <title>Biden Says Risk of Nuclear ‘Armageddon’ Is Highest Since 1962 Crisis</title>
       <link>https://www.nytimes.com/2022/10/06/world/europe/biden-nuclear-war-risk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/europe/biden-nuclear-war-risk.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/06/world/europe/biden-nuclear-war-risk.html" rel="standout"></atom:link>
       <description>The president’s blunt warnings, highly unusual for an American president, were delivered informally to a group of Democratic donors in New York City.</description>
       <dc:creator>Katie Rogers and David E. Sanger</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 03:07:37 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 03:07:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cuban Missile Crisis (1962)</category>
@@ -108,32 +101,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-biden-comments/06ukraine-briefing-biden-comments-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>President Biden boarding Marine One in New York City on Thursday night. “We are trying to figure out: What is Putin’s off ramp?” he said at a fund-raiser there.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Wants ATACMS, Long-Range Missiles the U.S. Says It Doesn’t Need</title>
-      <link>https://www.nytimes.com/2022/10/06/us/ukraine-war-missile.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/ukraine-war-missile.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/us/ukraine-war-missile.html" rel="standout"></atom:link>
-      <description>Ukrainian officials have asked for a weapon that can strike targets 190 miles away. But the Pentagon — wary of widening the war — says the ones it has provided are powerful enough.</description>
-      <dc:creator>John Ismay</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 21:50:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cluster Munitions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/politics/00dc-missile/merlin_208150392_ff7cd280-e287-4de4-943f-c1875b948036-moth.jpg" width="151"></media:content>
-      <media:credit>Yonhap News Agency/Via Reuters</media:credit>
-      <media:description>The Pentagon’s Army Tactical Missile Systems, or ATACMS, are all reserved for top secret war plans in places like the Korean Peninsula.</media:description>
     </item>
     <item>
       <title>Biden’s Choice After OPEC Cuts: Woo Saudi Arabia, or Retaliate?</title>
@@ -237,7 +204,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/us/nebraska-senator-sasse-university-florida-president.html" rel="standout"></atom:link>
       <description>The second-term senator, one of seven Republicans to vote to convict former President Donald J. Trump, is in line to become president of the University of Florida.</description>
       <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 03:36:30 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 03:36:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Florida</category>
@@ -318,8 +285,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/opinion/06paul1/06paul1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/06paul1/06paul1-moth.jpg" width="151"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘It’s Like a War Out There.’ Iran’s Women Haven’t Been This Angry in a Generation.</title>
+      <link>https://www.nytimes.com/2022/10/07/opinion/iran-women-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/opinion/iran-women-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/opinion/iran-women-protests.html" rel="standout"></atom:link>
+      <description>The gap between the freedoms and opportunities enjoyed by the system’s affiliated elite and those of ordinary Iranians has never been so wide.</description>
+      <dc:creator>Azadeh Moaveni</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 05:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/07moaveni-image/07moaveni-image-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Tomkins/Associated Press</media:credit>
+      <media:description>Iranian women demonstrating for equal rights in 1979.</media:description>
     </item>
     <item>
       <title>Has The Fed Gone Too Far on Interest Rates?</title>
@@ -373,7 +357,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/opinion/06goldberg1/06goldberg1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/06goldberg1/06goldberg1-moth.jpg" width="151"></media:content>
       <media:credit>Jim Watson/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
@@ -415,22 +399,6 @@
       <media:credit>Illustration by Shoshana Schultz/The New York Times; Photograph by Scott Raichilson via Getty</media:credit>
     </item>
     <item>
-      <title>The Most Toxic Politicians Are Dragging Us to Hell With Emails and Texts</title>
-      <link>https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/opinion/small-dollar-donations-online.html" rel="standout"></atom:link>
-      <description>Many people once felt small-dollar, online fund-raising would save politics. Two decades later, it’s become a dangerous and awful racket.</description>
-      <dc:creator>Tim Miller</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 19:09:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/sunday/05Miller/05Miller-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Michael Freimuth</media:credit>
-    </item>
-    <item>
       <title>To Avoid Climate Disaster, One Task Is More Urgent Than Anything Else</title>
       <link>https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/opinion/climate-coal-renewable-energy.html</guid>
@@ -446,70 +414,79 @@
       <media:description>A state-owned coal-fired power plant in southern China.</media:description>
     </item>
     <item>
-      <title>Your Thursday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/10/06/briefing/biden-marijuana-pardons-barnard-college.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/biden-marijuana-pardons-barnard-college.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/briefing/biden-marijuana-pardons-barnard-college.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen and Jessica Cheung</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 21:55:04 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/politics/06evening-briefing-nl-MARI/merlin_204885015_0539936e-5bd1-4b45-93d7-5f5c0c80de4b-moth.jpg" width="151"></media:content>
-      <media:credit>Jose Luis Magana/Associated Press</media:credit>
-      <media:description>Demonstrators outside the White House in 2016 calling for the legalization of marijuana.</media:description>
-    </item>
-    <item>
-      <title>‘The Run-Up’: Can Democrats Catch up to Years of Republican Unity?</title>
-      <link>https://www.nytimes.com/2022/10/06/podcasts/run-up-texas-abortion-democrats-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/podcasts/run-up-texas-abortion-democrats-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/podcasts/run-up-texas-abortion-democrats-republicans.html" rel="standout"></atom:link>
-      <description>The overturning of Roe v. Wade has given Democrats a rallying issue to mobilize around before the midterms. Can they catch up to years of Republican unity?</description>
-      <dc:creator>‘The Run-Up’ Team</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 09:00:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <title>Some Democrats Embrace the Police as the G.O.P.’s Crime Attacks Bite</title>
+      <link>https://www.nytimes.com/2022/10/06/us/politics/crime-republicans-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/politics/crime-republicans-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/us/politics/crime-republicans-democrats.html" rel="standout"></atom:link>
+      <description>Violent crime in cities has become a central talking point of Republican campaigns. It’s hurting many Democratic candidates, but not all.</description>
+      <dc:creator>Blake Hounshell and Alyce McFadden</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 23:00:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnes, Mandela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Demings, Val</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, John Neely</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06OnPolitics-kennedy-1-444e/06OnPolitics-kennedy-1-444e-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Stefani Reynolds/EPA, via Shutterstock</media:credit>
+      <media:description>Senator John Kennedy of Louisiana is one of many Republicans accusing Democrats, whether accurately or misleadingly, of wanting to defund the police.</media:description>
+    </item>
+    <item>
+      <title>Winter Squash Every Which Way</title>
+      <link>https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html" rel="standout"></atom:link>
+      <description>As well as a how-to for making your own pumpkin spice blend.</description>
+      <dc:creator>Tejal Rao</dc:creator>
+      <pubDate>Thu, 06 Oct 2022 17:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/04/dining/ns-butternut-squash-salad-copy/merlin_175270455_ed02bf8d-d53d-49e1-a2a6-f0f3211b0ac7-moth.jpg" width="151"></media:content>
+      <media:credit>Nik Sharma for The New York Times (Photography and Styling)</media:credit>
+    </item>
+    <item>
+      <title>Are You ‘Third-Party-Curious’? Andrew Yang and David Jolly Would Like a Word.</title>
+      <link>https://www.nytimes.com/2022/10/05/opinion/third-party-politics-andrew-yang-david-jolly.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/05/opinion/third-party-politics-andrew-yang-david-jolly.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/05/opinion/third-party-politics-andrew-yang-david-jolly.html" rel="standout"></atom:link>
+      <description>Two co-founders of the Forward Party on how the two-party system fails American voters.</description>
+      <dc:creator>‘The Argument’</dc:creator>
+      <pubDate>Wed, 05 Oct 2022 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third-Party Politics (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang, Andrew (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jolly, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forward Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gillibrand, Kirsten E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Mobile LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/podcasts/06runup-image-audio-app/06runup-image-audio-app-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Emil Lippe for The New York Times</media:credit>
+      <category domain="">Texas Tribune Festival</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/opinion/05argument-tx-tribune-image/05argument-tx-tribune-image-moth.jpg" width="151"></media:content>
+      <media:credit>Todd Heisler/The New York Times and Michael S. Schwartz/Getty Images</media:credit>
     </item>
     <item>
-      <title>Have You Changed How You Shop and Where You Dine? We Want To Hear About It.</title>
-      <link>https://www.nytimes.com/2022/10/06/business/food-inflation-restaurants-habits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/business/food-inflation-restaurants-habits.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/business/food-inflation-restaurants-habits.html" rel="standout"></atom:link>
-      <description>Higher food prices are changing people’s behaviors at the grocery store and in restaurants. Let us know how they have affected you.</description>
-      <dc:creator>Julie Creswell</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 17:04:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/00ReaderFoodCallout/00ReaderFoodCallout-moth.jpg" width="151"></media:content>
-      <media:credit>Celeste Noche for The New York Times</media:credit>
-      <media:description>A trip to the grocery store is more expensive than it was two years ago.</media:description>
-    </item>
-    <item>
-      <title>‘Hard Fork’: A New Technology Podcast from The New York Times</title>
-      <link>https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/podcasts/hard-fork-technology.html" rel="standout"></atom:link>
-      <description>A weekly look at the future that’s already here. Listen to the trailer of our new tech podcast.</description>
-      <dc:creator>The ‘Hard Fork’ Team</dc:creator>
-      <pubDate>Tue, 04 Oct 2022 16:11:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newton, Casey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roose, Kevin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/podcasts/hard-fork-promo-art/hard-fork-promo-art-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>Did the Pandemic Deepen Relationships in Your Life? We Want To Hear About It.</title>
+      <link>https://www.nytimes.com/2022/08/11/well/pandemic-relationship-stories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/11/well/pandemic-relationship-stories.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/11/well/pandemic-relationship-stories.html" rel="standout"></atom:link>
+      <description>Tell us about relationships that started during the pandemic and ones that have evolved or been shaped by the last few years.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 11 Aug 2022 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/03/multimedia/00pandemic-relationships-callout/00pandemic-relationships-callout-moth.jpg" width="151"></media:content>
+      <media:credit>Naomieh Jovin for The New York Times</media:credit>
+      <media:description>The pandemic has affected all kinds of relationships, from family bonds and friendships to romantic connections.</media:description>
     </item>
     <item>
       <title>Police Vehicle Crashes Into Crowd in Bronx, Critically Injuring 2</title>
@@ -518,7 +495,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/nyregion/nypd-bronx-crash.html" rel="standout"></atom:link>
       <description>The vehicle drove over a double yellow line, hit a car and careened onto the sidewalk, sending 10 people to the hospital, including two children, the authorities said.</description>
       <dc:creator>Liam Stack and Téa Kvetenadze</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 22:59:53 +0000</pubDate>
+      <pubDate>Thu, 06 Oct 2022 22:59:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>

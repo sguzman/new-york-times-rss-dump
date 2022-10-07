@@ -7,13 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 18:52:59 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 18:47:40 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 19:17:21 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 19:15:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>White House Tightens Rules on Counterterrorism Drone Strikes</title>
+      <link>https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/us/politics/drone-strikes-biden-trump.html" rel="standout"></atom:link>
+      <description>A classified new policy requires President Biden’s approval to add suspected terrorists to a kill list. The Trump administration had decentralized control over targeting decisions.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 19:12:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shabab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/politics/07dc-drones1/07dc-drones1-moth.jpg" width="151"></media:content>
+      <media:credit>John Moore/Getty Images</media:credit>
+      <media:description>A U.S. Air Force MQ-1B Predator unmanned aerial vehicle, right, returned from a mission in the Persian Gulf region in January 2016. </media:description>
+    </item>
     <item>
       <title>Biden Administration Clamps Down on China’s Access to Chip Technology</title>
       <link>https://www.nytimes.com/2022/10/07/business/economy/biden-chip-technology.html</link>
@@ -21,7 +51,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/07/business/economy/biden-chip-technology.html" rel="standout"></atom:link>
       <description>The White House issued sweeping restrictions on selling semiconductors and chip-making equipment to China, an attempt to curb the country’s access to critical technologies.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 16:07:41 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 19:08:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supercomputers</category>
@@ -70,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/07/business/gas-prices-rising.html" rel="standout"></atom:link>
       <description>The gains could raise pressure on policymakers, but analysts say the higher prices may be short-lived as refineries in California and Washington restart production.</description>
       <dc:creator>Isabella Simonetti</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 16:24:44 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 19:05:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
@@ -137,29 +167,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/nyregion/00dogattack1/00dogattack1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/nyregion/16dogattack1/00dogattack1-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Seng for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Justice Dept. Is Said to Believe Trump Has More Documents</title>
-      <link>https://www.nytimes.com/2022/10/06/us/politics/trump-white-house-documents-lawyers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/us/politics/trump-white-house-documents-lawyers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/us/politics/trump-white-house-documents-lawyers.html" rel="standout"></atom:link>
-      <description>Conversations between department officials and the former president’s representatives have underscored investigators’ skepticism about his cooperation and exposed a rift among his lawyers.</description>
-      <dc:creator>Michael S. Schmidt, Maggie Haberman and Katie Benner</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 00:16:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Archives and Records Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/politics/06dc-trump1/06dc-trump1-moth.jpg" width="151"></media:content>
-      <media:credit>Anna Moneymaker for The New York Times</media:credit>
-      <media:description>The Justice Department’s continued effort to retrieve documents from former President Donald J. Trump that may still be missing has led to a divide among his lawyers.</media:description>
     </item>
     <item>
       <title>A Vermeer? It’s Actually an Imitator, National Gallery of Art Reveals</title>
@@ -558,7 +567,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html" rel="standout"></atom:link>
       <description>Consuming alcohol can mess with your emotions the next day by causing stress hormones to spike and sleep to be disrupted overnight.</description>
       <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 00:00:03 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 19:15:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>

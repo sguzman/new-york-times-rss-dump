@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 22:47:33 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Oct 2022 22:10:16 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2022 23:28:15 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2022 23:25:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/07/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Nearly 40 rockets hit the southern city of Nikopol, an official said, as Russian shelling has picked up in recent days.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 21:58:33 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2022 23:25:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/07ukraine-briefing-sectionfront/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -271,6 +271,47 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07nepal-water-02/00nepal-water-03-moth.jpg" width="151"></media:content>
       <media:credit>Uma Bista for The New York Times</media:credit>
       <media:description>Residents south of Kathmandu collecting water at a traditional stone spout, which works only during the rainy season. </media:description>
+    </item>
+    <item>
+      <title>Haiti Appeals for Armed Intervention and Aid to Quell Chaos</title>
+      <link>https://www.nytimes.com/2022/10/07/world/americas/haiti-international-intervention-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/americas/haiti-international-intervention-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/americas/haiti-international-intervention-violence.html" rel="standout"></atom:link>
+      <description>Prime Minister Ariel Henry and his government asked the international community to step in, largely to control gang violence that has ravaged the capital.</description>
+      <dc:creator>Natalie Kitroeff and Maria Abi-Habib</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 23:12:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of American States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Ariel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07haiti-1/07haiti-1-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Pierrin/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Protesters this week in Port-au-Prince, where gang violence has spun out of control. </media:description>
+    </item>
+    <item>
+      <title>Its Army in Retreat, Russia Strikes Multiple Ukrainian Cities</title>
+      <link>https://www.nytimes.com/2022/10/07/world/europe/russia-strikes-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/russia-strikes-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/russia-strikes-ukraine.html" rel="standout"></atom:link>
+      <description>On Vladimir V. Putin’s 70th birthday, his faltering military continued to show that it could use its advantage in long-range munitions to rain death and destruction far from the battlefield.</description>
+      <dc:creator>Megan Specia and Richard Pérez-Peña</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 23:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07ukraine-ledeall-1/07ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Volunteers removing rubble and looking for survivors after a strike in Zaporizhzhia, Ukraine, on Thursday.</media:description>
     </item>
     <item>
       <title>Nobel Peace Prize Winners Share a Past Shadowed by Russian Abuses</title>
@@ -1009,22 +1050,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/06ukraine-briefing-eu-sanctions-image-1-ffcd/06ukraine-briefing-eu-sanctions-image-1-ffcd-moth.jpg" width="151"></media:content>
       <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
       <media:description>Greenpeace activists placed a mock gas pipeline on the Vltava River in Prague before the European Political Community meeting there on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Annie Ernaux Is Awarded the Nobel Prize in Literature</title>
-      <link>https://www.nytimes.com/2022/10/06/books/annie-ernaux-nobel-prize-literature.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/books/annie-ernaux-nobel-prize-literature.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/books/annie-ernaux-nobel-prize-literature.html" rel="standout"></atom:link>
-      <description>Ernaux’s writing has spoken particularly to women and to others who, like her, come from a working class seldom depicted with such clarity in literature.</description>
-      <dc:creator>Alex Marshall, Alexandra Alter, Laura Cappelle and Aurelien Breeden</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 04:40:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ernaux, Annie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06nobel-literature-winner/06nobel-literature-winner-moth.jpg" width="151"></media:content>
-      <media:credit>Isabelle Eshraghi for The New York Times</media:credit>
-      <media:description>The French novelist Annie Ernaux in 2020.</media:description>
     </item>
   </channel>
 </rss>

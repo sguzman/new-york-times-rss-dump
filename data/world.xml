@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 21:20:03 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Oct 2022 21:11:01 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2022 21:41:39 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2022 21:36:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -494,6 +494,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07canadaletterHOCKEY1/07canadaletterHOCKEY1-moth.jpg" width="151"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>The Hockey Canada scandal drove fans away from the junior world championship in August.</media:description>
+    </item>
+    <item>
+      <title>Ukraine’s Zaporizhzhia Nuclear Plant Loses Power Again, Officials Say</title>
+      <link>https://www.nytimes.com/2022/10/08/world/europe/zaporizhzhia-nuclear-power-plant-offline.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/europe/zaporizhzhia-nuclear-power-plant-offline.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/world/europe/zaporizhzhia-nuclear-power-plant-offline.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 21:36:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/14/world/08ukraine-briefing-power-plant-01/08ukraine-briefing-power-plant-01-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>The Zaporizhzhia nuclear power plant, on the Dnipro River, has been occupied by Russian forces since early March.</media:description>
     </item>
     <item>
       <title>Egypt’s New Administrative Capital Rises, but at What Price?</title>
@@ -1062,22 +1079,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-ledeall_1/06thailand-ledeall_1-moth.jpg" width="151"></media:content>
       <media:credit>Sirachai Arunrugstichai/Getty Images</media:credit>
       <media:description>Emergency workers carrying coffins with the bodies of victims outside a hospital in Udon Thani.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Police Find Bodies of 534 Civilians in Recaptured Territory</title>
-      <link>https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/ukraine-civilian-bodies.html" rel="standout"></atom:link>
-      <description>The police have discovered 22 locations that they suspect were used as torture chambers in areas recently reclaimed from Russian control, a Ukrainian official said.</description>
-      <dc:creator>Oleksandr Chubko and Carlotta Gall</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 11:44:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/world/06ukraine-briefing-civilian-bodies02/06ukraine-briefing-civilian-bodies02-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Ivor Prickett for The New York Times</media:credit>
-      <media:description>Regional police investigators showed where Russian forces held and interrogated prisoners in a basement in Kozacha Lopan, in northern Kharkiv, Ukraine, on Thursday.</media:description>
     </item>
   </channel>
 </rss>

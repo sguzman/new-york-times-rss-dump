@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 18:18:56 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Oct 2022 18:14:01 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2022 18:49:26 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2022 18:41:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -342,7 +342,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/08/opinion/writing-annie-ernaux-nobel.html" rel="standout"></atom:link>
       <description>Ernaux’s work insists that nothing in life is simple. And it is from that complexity that her work — and, indeed, her very voice — emerges.</description>
       <dc:creator>Sheila Heti</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 17:59:09 +0000</pubDate>
+      <pubDate>Sat, 08 Oct 2022 18:32:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
@@ -393,17 +393,21 @@
       <description>A loss in the race for Senate could change the direction of the country on major public policy issues.</description>
       <dc:creator>Jon Ralston</dc:creator>
       <pubDate>Fri, 07 Oct 2022 20:39:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Culinary Workers Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laxalt, Adam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masto, Catherine Cortez</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reid, Harry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisolak, Steve</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/07ralston/07ralston-moth.jpg" width="151"></media:content>
       <media:credit>Bridget Bennett for The New York Times</media:credit>
     </item>
@@ -517,28 +521,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
     </item>
     <item>
-      <title>Many of Hurricane Ian’s Victims Were Older Adults Who Drowned</title>
-      <link>https://www.nytimes.com/2022/10/07/us/hurricane-ian-victims-drowned.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/us/hurricane-ian-victims-drowned.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/us/hurricane-ian-victims-drowned.html" rel="standout"></atom:link>
-      <description>The storm, Florida’s deadliest since 1935, has been linked to the deaths of at least 119 people in the state, many of them older residents who lived near the coast.</description>
-      <dc:creator>Mitch Smith, Frances Robles, Eliza Fawcett and Ava Sasani</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 23:28:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charlotte County (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lee County (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Myers (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Myers Beach (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarasota (Fla)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/07ian-deaths-01/07ian-deaths-01-moth.jpg" width="151"></media:content>
-      <media:credit>Jason Andrew for The New York Times</media:credit>
-      <media:description>Search-and-rescue workers combed Fort Myers Beach, Fla., last week after Hurricane Ian’s destructive landfall.</media:description>
+      <title>The Purpose of Extra-Large Marshmallows? A U.K. Court Weighs In</title>
+      <link>https://www.nytimes.com/2022/10/08/world/europe/marshmallow-uk-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/europe/marshmallow-uk-tax.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/world/europe/marshmallow-uk-tax.html" rel="standout"></atom:link>
+      <description>A British tribunal considered how a slightly larger marshmallow might be taxed by evaluating its taste, size and packaging.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 16:58:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Value-Added Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Candy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Leeds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bakeries and Baked Products</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/multimedia/08xp-marshmallow/08xp-marshmallow-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal-Olivas — WPA Pool/Getty Images</media:credit>
+      <media:description>A British tax tribunal examined marshmallows in detail, finding that ones slightly larger in size are “equally palatable” as a snack or roasted.</media:description>
     </item>
     <item>
       <title>For Some Breast Cancer Survivors, October Is the Cruelest Month</title>

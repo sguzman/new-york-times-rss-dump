@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 22:13:25 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 20:44:44 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 22:40:31 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 22:32:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -148,6 +148,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kupiansk (Ukraine)</category>
     </item>
     <item>
+      <title>Ukraine’s Zaporizhzhia Nuclear Plant Gets Power Restored After Shelling</title>
+      <link>https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html" rel="standout"></atom:link>
+      <description>The leader of the International Atomic Energy Agency said getting the plant reconnected to outside power was a “temporary relief in a still untenable situation.”</description>
+      <dc:creator>Carly Olson</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 21:58:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grossi, Rafael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-zaporizhzhia-power-restored/merlin_211410879_b31f3826-8896-4db0-9efd-9578301b2305-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>The Zaporizhzhia Nuclear Power Plant, along the banks of the Dnipro River in southern Ukraine, in August.</media:description>
+    </item>
+    <item>
       <title>Do You Have Questions About the Social Security COLA? We Want to Hear From You</title>
       <link>https://www.nytimes.com/2022/10/07/business/retirement/social-security-cola-questions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/retirement/social-security-cola-questions.html</guid>
@@ -247,25 +266,6 @@
       <media:credit>Scott Dudelson/FilmMagic, via Getty Images</media:credit>
     </item>
     <item>
-      <title>The Failed Quest for Community Mental Health Centers in the U.S.</title>
-      <link>https://www.nytimes.com/2022/10/04/opinion/us-mental-health-community-centers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/opinion/us-mental-health-community-centers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/04/opinion/us-mental-health-community-centers.html" rel="standout"></atom:link>
-      <description>America has neglected people with serious mental illnesses for far too long.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Wed, 05 Oct 2022 01:32:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/opinion/sunday/04InterlandiStill/04InterlandiStill-moth.jpg" width="151"></media:content>
-      <media:credit>Animation by Xander Opiyo. Photographs from Getty Images</media:credit>
-    </item>
-    <item>
       <title>Joe Biden Knows How to Use Donald Trump</title>
       <link>https://www.nytimes.com/2022/10/09/opinion/biden-trump-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/biden-trump-midterms.html</guid>
@@ -295,6 +295,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/09warren-images/09warren-images-moth.jpg" width="151"></media:content>
       <media:credit>Matija Medved</media:credit>
+    </item>
+    <item>
+      <title>Mismanagement and ‘Monster Trains’ Have Wrecked American Rail</title>
+      <link>https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html" rel="standout"></atom:link>
+      <description>Decades of cost-cutting takes a toll.</description>
+      <dc:creator>Justin Roczniak</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 10:09:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conrail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrison, E Hunter</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/09Roczniak-image/09Roczniak-image-moth.jpg" width="151"></media:content>
+      <media:credit>Universal Images Group via Getty Images</media:credit>
     </item>
     <item>
       <title>Chelsea Manning: ‘I’m Still Bound to Secrecy’</title>
@@ -331,50 +349,51 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08ellingson-1-replace/08ellingson-1-replace-moth.png" width="151"></media:content>
     </item>
     <item>
-      <title>From Moscow to Tehran, a Crisis of Illiberalism</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/russia-iran-china-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/russia-iran-china-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/russia-iran-china-putin.html" rel="standout"></atom:link>
-      <description>The liberal West is in trouble, but its rivals still aren’t ready to supplant it.</description>
-      <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 00:26:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">End of History</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fukuyama, Francis</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08douthat1/08douthat1-moth.jpg" width="151"></media:content>
-      <media:credit>Ivor Prickett for The New York Times</media:credit>
-      <media:description>A house used by Russian forces in the village of Kamyanka, Ukraine.</media:description>
+      <title>Donald Trump and Herschel Walker: The Unholy Alliance</title>
+      <link>https://www.nytimes.com/2022/10/08/opinion/herschel-walker-trump-republican.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/herschel-walker-trump-republican.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/herschel-walker-trump-republican.html" rel="standout"></atom:link>
+      <description>Republicans sink to a new low in defending Walker.</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 13:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08dowdNew1/08dowdNew1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ben Gray/Associated Press</media:credit>
     </item>
     <item>
-      <title>Mismanagement and ‘Monster Trains’ Have Wrecked American Rail</title>
-      <link>https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html" rel="standout"></atom:link>
-      <description>Decades of cost-cutting takes a toll.</description>
-      <dc:creator>Justin Roczniak</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 10:09:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conrail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrison, E Hunter</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/09Roczniak-image/09Roczniak-image-moth.jpg" width="151"></media:content>
-      <media:credit>Universal Images Group via Getty Images</media:credit>
+      <title>The Brave Women Protesters in Iran Deserve More U.S. Support</title>
+      <link>https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html" rel="standout"></atom:link>
+      <description>Diplomatic efforts toward a nuclear deal must go hand in hand with American support for Iran’s protest movement.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 20:20:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/08iran1/08iran1-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Keith/Getty Images</media:credit>
     </item>
     <item>
       <title>The Sunday Read: ‘The Search for Intelligent Life Is About to Get a Lot More Interesting’</title>
@@ -424,6 +443,27 @@
       <media:credit> The New York Times</media:credit>
     </item>
     <item>
+      <title>Kanye West’s Antisemitic Posts Land Him in Trouble on Instagram and Twitter</title>
+      <link>https://www.nytimes.com/2022/10/09/business/media/kanye-west-antisemitic-racist-twitter-instagram.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/business/media/kanye-west-antisemitic-racist-twitter-instagram.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/business/media/kanye-west-antisemitic-racist-twitter-instagram.html" rel="standout"></atom:link>
+      <description>The rapper, who now goes by Ye, made remarks on Instagram and Twitter that were widely criticized as antisemitic. They came after he wore a “White Lives Matter” shirt at Paris Fashion Week.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 22:14:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Fashion Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">adidas AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anti-Defamation League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeezy (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/multimedia/10bizsky-kanye-print/09kanye-socialmedia-1-1-a898-moth.jpg" width="151"></media:content>
+      <media:credit>Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ye, the rapper formerly known as Kanye West, at a Paris fashion show last week.</media:description>
+    </item>
+    <item>
       <title>Harvey Weinstein Sex Crimes Trial to Begin Monday in Los Angeles</title>
       <link>https://www.nytimes.com/2022/10/09/business/media/weinstein-los-angeles-trial.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/business/media/weinstein-los-angeles-trial.html</guid>
@@ -448,25 +488,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/us/10weinstein-la-01/10weinstein-la-01-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Etienne Laurent</media:credit>
       <media:description>Harvey Weinstein, who was convicted of rape and criminal sexual assault in New York in 2020, will face a new trial for similar charges in California this week.</media:description>
-    </item>
-    <item>
-      <title>Another Challenge to New York’s Gun Law: Sheriffs Who Won’t Enforce It</title>
-      <link>https://www.nytimes.com/2022/10/09/nyregion/ny-gun-law-sheriffs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/nyregion/ny-gun-law-sheriffs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/nyregion/ny-gun-law-sheriffs.html" rel="standout"></atom:link>
-      <description>Some say the measure, which was passed after a Supreme Court opinion, ignores common sense, the Second Amendment and the way people live outside big cities.</description>
-      <dc:creator>Jesse McKinley and Cole Louison</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 09:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sheriffs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erie County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greene County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison County (NY)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/nyregion/00SHERIFFS/00SHERIFFS-moth.jpg" width="151"></media:content>
-      <media:credit>Lauren Petracca for The New York Times</media:credit>
-      <media:description>Sheriff Robert Milby said aggressive enforcement of the new concealed-carry law won&#39;t happen in Wayne County, N.Y.</media:description>
     </item>
     <item>
       <title>The First Interview With Anna Sorokin After Her Release From Jail</title>

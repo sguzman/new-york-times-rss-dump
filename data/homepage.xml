@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 15:12:17 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 15:11:41 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 15:46:13 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 15:43:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -445,14 +445,15 @@
       <atom:link href="https://www.nytimes.com/2022/10/08/opinion/herschel-walker-trump-republican.html" rel="standout"></atom:link>
       <description>Republicans sink to a new low in defending Walker.</description>
       <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 13:30:33 +0000</pubDate>
+      <pubDate>Sat, 08 Oct 2022 13:30:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08dowdNew1/08dowdNew1-moth-v2.jpg" width="151"></media:content>
@@ -465,13 +466,14 @@
       <atom:link href="https://www.nytimes.com/2022/10/08/opinion/chelsea-manning.html" rel="standout"></atom:link>
       <description>Five years after her release from prison, Chelsea Manning is still fighting to tell her story.</description>
       <dc:creator>Chelsea Manning</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 16:58:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <pubDate>Sat, 08 Oct 2022 16:58:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">README.txt: A Memoir (Book)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/08manning-promo/08manning-promo-moth.jpg" width="151"></media:content>
       <media:credit>Yoshi Sodeoka</media:credit>
@@ -568,14 +570,14 @@
       <atom:link href="https://www.nytimes.com/2022/10/08/style/anna-sorokin-delvey-interview.html" rel="standout"></atom:link>
       <description>In a late-night interview in her new Manhattan apartment, the fake heiress discussed her big plans, possible deportation and the glam potential of an ankle monitor.</description>
       <dc:creator>Emily Palmer</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 23:41:31 +0000</pubDate>
+      <pubDate>Sat, 08 Oct 2022 23:41:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sorokin, Anna (Anna Delvey)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Village (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/fashion/06delvey-interview/06delvey-interview-moth.jpg" width="151"></media:content>
       <media:credit>Ben Rayner for The New York Times</media:credit>
       <media:description>Anna Sorokin shortly after beginning her house arrest in the East Village.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 10:22:06 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 09:10:02 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 10:42:20 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 10:09:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -131,7 +131,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/00BULLET-TRAIN-top/00BULLET-TRAIN-top-moth.jpg" width="151"></media:content>
       <media:credit>Ryan Young for The New York Times</media:credit>
-      <media:description>Construction of the California high-speed rail system is costing about $1.8 million a day, according to projections widely used by engineers and project managers. </media:description>
+      <media:description>Construction of the California high-speed rail system is costing about $1.8 million a day, according to projections widely used by engineers and project managers.</media:description>
     </item>
     <item>
       <title>Decades of Nuclear Reactor Strikes Predate Ukraine Power Plant Crisis</title>
@@ -220,6 +220,41 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/nyregion/00SHERIFFS/00SHERIFFS-moth.jpg" width="151"></media:content>
       <media:credit>Lauren Petracca for The New York Times</media:credit>
       <media:description>Sheriff Robert Milby said aggressive enforcement of the new concealed-carry law won&#39;t happen in Wayne County, N.Y.</media:description>
+    </item>
+    <item>
+      <title>Children Killed in Thailand Massacre Are Laid to Rest</title>
+      <link>https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html" rel="standout"></atom:link>
+      <description>The town of Uthai Sawan in Thailand, a Buddhist-majority country, began formally mourning the victims of a mass killing at a day care center, most of them children.</description>
+      <dc:creator>Sui-Lee Wee and Ryn Jirenuwat</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 02:46:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/world/08thailand-promo/08thailand-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Andre Malerba for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Why Strict but Inconsistent Gun Laws Did Not Keep Thailand Safe</title>
+      <link>https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html" rel="standout"></atom:link>
+      <description>Firearm policy is strict for some people and lax for others, a recipe for problems. The horrific attack by an ex-policeman may spur calls for change, but it will not be easy.</description>
+      <dc:creator>Damien Cave, Muktita Suhartono and Mike Ives</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 09:54:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09thailand-guns1-sub/09thailand-guns1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Andre Malerba for The New York Times</media:credit>
+      <media:description>Mourners at Wat Rat Samakee temple, in Naklang, Thailand, on Saturday, two days after a mass killing in and around a day care center. The attacker’s gun was obtained legally, the police said.</media:description>
     </item>
     <item>
       <title>Judge Narrows Trial of Analyst Who Gathered Steele Dossier Claims About Trump</title>
@@ -325,27 +360,38 @@
       <media:description>Lydia Millet at her home outside Tucson, Ariz., where she has lived for more than 20 years.</media:description>
     </item>
     <item>
-      <title>The Brave Women Protesters in Iran Deserve More U.S. Support</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/iran-protests-women.html" rel="standout"></atom:link>
-      <description>Diplomatic efforts toward a nuclear deal must go hand in hand with American support for Iran’s protest movement.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 20:20:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>The Power of Joe Biden’s Anti-Charisma</title>
+      <link>https://www.nytimes.com/2022/10/09/opinion/biden-trump-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/biden-trump-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/biden-trump-midterms.html" rel="standout"></atom:link>
+      <description>A lot of politicians would have vied with Trump to make the election about them. </description>
+      <dc:creator>Ezra Klein</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 10:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/08iran1/08iran1-moth.jpg" width="151"></media:content>
-      <media:credit>Stephanie Keith/Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/09klein-1/09klein-1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Chelsea Manning: ‘I’m Still Bound to Secrecy’</title>
+      <link>https://www.nytimes.com/2022/10/08/opinion/chelsea-manning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/chelsea-manning.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/chelsea-manning.html" rel="standout"></atom:link>
+      <description>Five years after her release from prison, Chelsea Manning is still fighting to tell her story.</description>
+      <dc:creator>Chelsea Manning</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 16:58:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">README.txt: A Memoir (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/08manning-promo/08manning-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Yoshi Sodeoka</media:credit>
     </item>
     <item>
       <title>Donald Trump and Herschel Walker: The Unholy Alliance</title>
@@ -396,94 +442,68 @@
       <media:description>A house used by Russian forces in the village of Kamyanka, Ukraine.</media:description>
     </item>
     <item>
-      <title>Nicolás Maduro Is President of Venezuela Whether the U.S. Likes It or Not</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/maduro-venezuela-guaido.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/maduro-venezuela-guaido.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/maduro-venezuela-guaido.html" rel="standout"></atom:link>
-      <description>The White House needs a Venezuela policy based on fact, not fiction. And the fact is that Maduro is president of Venezuela and Guaidó is not.</description>
-      <dc:creator>William Neuman</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 23:59:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guaido, Juan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petro, Gustavo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/opinion/08neuman-image/08neuman-image-moth.jpg" width="151"></media:content>
-      <media:credit>Jhonn Zerpa/Agence France-Presse — Getty Images</media:credit>
+      <title>Mismanagement and ‘Monster Trains’ Have Wrecked American Rail</title>
+      <link>https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/business-economics/freight-train-mismanagement.html" rel="standout"></atom:link>
+      <description>Decades of cost-cutting takes a toll.</description>
+      <dc:creator>Justin Roczniak</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 10:09:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conrail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrison, E Hunter</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/09Roczniak-image/09Roczniak-image-moth.jpg" width="151"></media:content>
+      <media:credit>Universal Images Group via Getty Images</media:credit>
     </item>
     <item>
-      <title>A 50/50 Custody Arrangement Could Save Your Marriage</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/married-divorce-parent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/married-divorce-parent.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/married-divorce-parent.html" rel="standout"></atom:link>
-      <description>Married heterosexual motherhood in America is a game no one wins.</description>
-      <dc:creator>Amy Shearn</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 20:14:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <title>The Global Indigenous Movement to Fight Climate Change</title>
+      <link>https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/01/opinion/climate-change-indigenous-activists.html" rel="standout"></atom:link>
+      <description>It’s time for Indigenous voices to lead the climate fight.</description>
+      <dc:creator>Camila Falquez and Isvett Verde</dc:creator>
+      <pubDate>Sat, 01 Oct 2022 19:49:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+    </item>
+    <item>
+      <title>A Lost Friend on My Mind</title>
+      <link>https://www.nytimes.com/2022/10/08/opinion/disappeared-mental-illness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/disappeared-mental-illness.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/disappeared-mental-illness.html" rel="standout"></atom:link>
+      <description>Paul disappeared years ago. Yet I see him everywhere.</description>
+      <dc:creator>Kyle Ellingson</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 15:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08ellingson-1-replace/08ellingson-1-replace-moth.png" width="151"></media:content>
+    </item>
+    <item>
+      <title>Two Kids. One Pony. Hundreds of Miles to Montreal’s Expo 67.</title>
+      <link>https://www.nytimes.com/2022/10/03/opinion/pony-boys-montreal-expo-67.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/03/opinion/pony-boys-montreal-expo-67.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/03/opinion/pony-boys-montreal-expo-67.html" rel="standout"></atom:link>
+      <description>Two brothers from the Boston suburbs set out on an improbable journey to Montreal’s Expo 67 by hoof.</description>
+      <pubDate>Mon, 03 Oct 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World&#39;s Fairs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/opinion/08Shearn/08Shearn-moth-v2.jpg" width="151"></media:content>
-      <media:credit>David Huang</media:credit>
-    </item>
-    <item>
-      <title>A Lost Manuscript Shows the Fire Barack Obama Couldn’t Reveal on the Campaign Trail</title>
-      <link>https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/opinion/obama-lost-book-manuscript.html" rel="standout"></atom:link>
-      <description>At Harvard Law, he wrote a blistering manifesto he never published. Its searing advice could help Democrats escape their current political quagmire.</description>
-      <dc:creator>Timothy Shenk</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 21:15:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Manuscripts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rustin, Bayard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/opinion/07obama_promo/07obama_promo-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>How a Still-Segregated Country Holds Us All Back</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/segregation-progress-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/segregation-progress-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/segregation-progress-america.html" rel="standout"></atom:link>
-      <description>The legal scholar Aziz Rana examines the consequences of racial division.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 15:16:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08bouie-newsletter-1/08bouie-newsletter-1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>What Nobel Prize-Winner Annie Ernaux Understands About the Past</title>
-      <link>https://www.nytimes.com/2022/10/08/opinion/writing-annie-ernaux-nobel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/opinion/writing-annie-ernaux-nobel.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/opinion/writing-annie-ernaux-nobel.html" rel="standout"></atom:link>
-      <description>Ernaux’s work insists that nothing in life is simple. And it is from that complexity that her work — and, indeed, her very voice — emerges.</description>
-      <dc:creator>Sheila Heti</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 18:32:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/opinion/08heti-1/08heti-1-moth.jpg" width="151"></media:content>
-      <media:credit>Ed Alcock/Eyevine, via Redux</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whittemore, Jeff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whittemore, Tony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/01/opinion/opdoc-ponyboys/opdoc-ponyboys-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Stange</media:credit>
     </item>
     <item>
       <title>‘The Run-Up’: Can Democrats Catch up to Years of Republican Unity?</title>
@@ -553,24 +573,6 @@
       <media:description>The pandemic has affected all kinds of relationships, from family bonds and friendships to romantic connections.</media:description>
     </item>
     <item>
-      <title>Children Killed in Thailand Massacre Are Laid to Rest</title>
-      <link>https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/world/asia/thailand-shooting-day-care-funerals.html" rel="standout"></atom:link>
-      <description>The town of Uthai Sawan in Thailand, a Buddhist-majority country, began formally mourning the victims of a mass killing at a day care center, most of them children.</description>
-      <dc:creator>Sui-Lee Wee and Ryn Jirenuwat</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 02:46:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/world/08thailand-promo/08thailand-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Andre Malerba for The New York Times</media:credit>
-    </item>
-    <item>
       <title>The Doctors Risking Everything to Offer Abortions Across State Lines</title>
       <link>https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/04/magazine/abortion-interstate-travel-post-roe.html</guid>
@@ -607,6 +609,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/06/fashion/06delvey-interview/06delvey-interview-moth.jpg" width="151"></media:content>
       <media:credit>Ben Rayner for The New York Times</media:credit>
       <media:description>Anna Sorokin shortly after beginning her house arrest in the East Village.</media:description>
+    </item>
+    <item>
+      <title>Pluribus News, a New Media Start-Up, Will Cover Statehouses</title>
+      <link>https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html" rel="standout"></atom:link>
+      <description>Numerous news start-ups have raced to fill a void of statehouse coverage. Pluribus News is planning to report on the policy trends making their way from one legislature to the next.</description>
+      <dc:creator>Katie Robertson</dc:creator>
+      <pubDate>Sat, 08 Oct 2022 02:12:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Reid (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pluribus News</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/00pluribus-1/00pluribus-1-moth.jpg" width="151"></media:content>
+      <media:credit>Shuran Huang for The New York Times</media:credit>
+      <media:description>Reid Wilson, the founder of Pluribus News, in Washington, D.C. He believes state legislatures often follow one another’s example when lawmaking, revealing broader trends.</media:description>
     </item>
     <item>
       <title>Fall Allergies: What to Know About Causes, Symptoms and Care</title>

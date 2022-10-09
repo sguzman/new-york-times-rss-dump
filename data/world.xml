@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 09:26:51 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 07:28:35 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 09:55:02 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 09:54:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -316,6 +316,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06canada/merlin_212648796_dc294849-9007-40e1-b5da-e3b56ecdc691-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>A vigil for the victims of the killings last month in Prince Albert, Saskatchewan.</media:description>
+    </item>
+    <item>
+      <title>Why Strict but Inconsistent Gun Laws Did Not Keep Thailand Safe</title>
+      <link>https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html" rel="standout"></atom:link>
+      <description>Firearm policy is strict for some people and lax for others, a recipe for problems. The horrific attack by an ex-policeman may spur calls for change, but it will not be easy.</description>
+      <dc:creator>Damien Cave, Muktita Suhartono and Mike Ives</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 09:54:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09thailand-guns1-sub/09thailand-guns1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Andre Malerba for The New York Times</media:credit>
+      <media:description>Mourners at Wat Rat Samakee temple, in Naklang, Thailand, on Saturday, two days after a mass killing in and around a day care center. The attacker’s gun was obtained legally, the police said.</media:description>
     </item>
     <item>
       <title>An American in Ukraine Finds the War He’s Been Searching For</title>
@@ -1064,24 +1081,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/07ambriefing-asia-promo/06thailand-shooting-what-we-know-1-2b37-moth.jpg" width="151"></media:content>
       <media:credit>Lauren Decicca/Getty Images</media:credit>
       <media:description>People outside the child-care facility on Thursday where a mass shooting took place in northeastern Thailand.</media:description>
-    </item>
-    <item>
-      <title>Day-Care Massacre in Thailand Was Among the World’s Deadliest</title>
-      <link>https://www.nytimes.com/2022/10/06/world/asia/shooting-thailand-day-care.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/world/asia/shooting-thailand-day-care.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/world/asia/shooting-thailand-day-care.html" rel="standout"></atom:link>
-      <description>The 36 victims included a 2-year-old child and a teacher who was eight months pregnant, the police said. They identified the gunman as a recently fired officer.</description>
-      <dc:creator>Hannah Beech, Muktita Suhartono, Sui-Lee Wee and Ryn Jirenuwat</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 03:03:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nong Bua Lamphu (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Panya Kamrab</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06thailand-ledeall_1/06thailand-ledeall_1-moth.jpg" width="151"></media:content>
-      <media:credit>Sirachai Arunrugstichai/Getty Images</media:credit>
-      <media:description>Emergency workers carrying coffins with the bodies of victims outside a hospital in Udon Thani.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 11:20:22 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 11:14:11 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 11:41:34 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 11:35:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -318,6 +318,23 @@
       <media:description>A vigil for the victims of the killings last month in Prince Albert, Saskatchewan.</media:description>
     </item>
     <item>
+      <title>North Korea’s Threat</title>
+      <link>https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html" rel="standout"></atom:link>
+      <description>Frustrated and isolated, the North is conducting more missile tests than ever.</description>
+      <dc:creator>Ian Prasad Philbrick</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 11:26:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/09-the-morning-nl-lead-promo/09-the-morning-nl-lead-moth.jpg" width="151"></media:content>
+      <media:credit>Korean Central News Agency, via Associated Press</media:credit>
+      <media:description>A North Korean missile test in 2017.</media:description>
+    </item>
+    <item>
       <title>Deadly Shooting at Israeli Checkpoint Sets Jerusalem on Edge</title>
       <link>https://www.nytimes.com/2022/10/09/world/middleeast/israel-palestinian-checkpoint-shooting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/middleeast/israel-palestinian-checkpoint-shooting.html</guid>
@@ -347,13 +364,13 @@
       <media:description>Israeli security forces are seen after a deadly shooting at a checkpoint late Saturday in Jerusalem.</media:description>
     </item>
     <item>
-      <title>Why Strict but Inconsistent Gun Laws Did Not Keep Thailand Safe</title>
+      <title>Why Thailand’s Strict Gun Laws Did Not Keep It Safe</title>
       <link>https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/09/world/asia/thailand-gun-laws-shootings.html" rel="standout"></atom:link>
-      <description>Firearm policy is strict for some people and lax for others, a recipe for problems. The horrific attack by an ex-policeman may spur calls for change, but it will not be easy.</description>
+      <description>Firearm policy is tough for some people and lax for others, a recipe for problems. The horrific attack by an ex-policeman may spur calls for change, but it will not be easy.</description>
       <dc:creator>Damien Cave, Muktita Suhartono and Mike Ives</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 09:54:11 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 11:26:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Thailand Child-Care Center Shooting (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
@@ -365,9 +382,9 @@
     </item>
     <item>
       <title>An American in Ukraine Finds the War He’s Been Searching For</title>
-      <link>https://www.nytimes.com/2022/10/09/world/asia/urkraine-war-americans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/asia/urkraine-war-americans.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/asia/urkraine-war-americans.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2022/10/09/world/europe/ukraine-war-americans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/ukraine-war-americans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/ukraine-war-americans.html" rel="standout"></atom:link>
       <description>For an unconventional former Marine colonel, Ukraine represents the morally just war that eluded him his entire career. But how much can he and his military start-up help?</description>
       <dc:creator>Jeffrey Gettleman</dc:creator>
       <pubDate>Sun, 09 Oct 2022 04:01:13 +0000</pubDate>
@@ -381,6 +398,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00ukraine-war-mozart08b/00ukraine-war-mozart08b-moth.jpg" width="151"></media:content>
       <media:credit>Laura Boushnak for The New York Times</media:credit>
       <media:description>Andrew Milburn, founder of The Mozart Group, with Richie, a rescued mutt who has become the group’s mascot.</media:description>
@@ -411,7 +429,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/08/world/europe/russia-strikes-kharkiv-ukraine.html" rel="standout"></atom:link>
       <description>Two building complexes used by the Ukrainian military appeared to be the targets.</description>
       <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 20:56:59 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 11:31:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 10:55:08 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 09:54:11 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 11:20:22 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 11:14:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -316,6 +316,35 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06canada/merlin_212648796_dc294849-9007-40e1-b5da-e3b56ecdc691-moth.jpg" width="151"></media:content>
       <media:credit>Amber Bracken for The New York Times</media:credit>
       <media:description>A vigil for the victims of the killings last month in Prince Albert, Saskatchewan.</media:description>
+    </item>
+    <item>
+      <title>Deadly Shooting at Israeli Checkpoint Sets Jerusalem on Edge</title>
+      <link>https://www.nytimes.com/2022/10/09/world/middleeast/israel-palestinian-checkpoint-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/middleeast/israel-palestinian-checkpoint-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/middleeast/israel-palestinian-checkpoint-shooting.html" rel="standout"></atom:link>
+      <description>Surging violence claimed the lives of four Palestinians and an Israeli soldier over the weekend, raising tensions on the eve of a Jewish holiday.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 11:14:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09jerusalem-shooting-image1/merlin_214542504_0f171fdd-c315-4f8d-8961-ef5de5b6063c-moth.jpg" width="151"></media:content>
+      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:description>Israeli security forces are seen after a deadly shooting at a checkpoint late Saturday in Jerusalem.</media:description>
     </item>
     <item>
       <title>Why Strict but Inconsistent Gun Laws Did Not Keep Thailand Safe</title>
@@ -1069,18 +1098,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06ukraine-ledeall-swap/06ukraine-ledeall-swap-moth.jpg" width="151"></media:content>
       <media:credit>Marina Moiseyenko/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ukrainian firefighters battled a blaze after a strike in Zaporizhzhia on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Your Friday Briefing: Mass Shooting in Thailand</title>
-      <link>https://www.nytimes.com/2022/10/06/briefing/thailand-shooting-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/briefing/thailand-shooting-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/briefing/thailand-shooting-russia.html" rel="standout"></atom:link>
-      <description>Plus growing dissent in Russia and China’s debt diplomacy</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 21:53:15 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/multimedia/07ambriefing-asia-promo/06thailand-shooting-what-we-know-1-2b37-moth.jpg" width="151"></media:content>
-      <media:credit>Lauren Decicca/Getty Images</media:credit>
-      <media:description>People outside the child-care facility on Thursday where a mass shooting took place in northeastern Thailand.</media:description>
     </item>
   </channel>
 </rss>

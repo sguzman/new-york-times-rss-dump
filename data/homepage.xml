@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 19:47:13 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 19:44:56 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 20:15:30 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 20:07:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -173,6 +173,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerch Strait</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Investigative Committee (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-putin-bridge/09ukraine-briefing-putin-bridge-moth.jpg" width="151"></media:content>
       <media:credit>Sputnik via Reuters</media:credit>
       <media:description>President Vladimir V. Putin in St. Petersburg, Russia, in a photo released by state media on Sunday.</media:description>
@@ -455,23 +458,6 @@
       <media:credit>Universal Images Group via Getty Images</media:credit>
     </item>
     <item>
-      <title>North Korea’s Threat</title>
-      <link>https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/briefing/north-korea-nuclear-tests.html" rel="standout"></atom:link>
-      <description>Frustrated and isolated, the North is conducting more missile tests than ever.</description>
-      <dc:creator>Ian Prasad Philbrick</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 11:26:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/09-the-morning-nl-lead-promo/09-the-morning-nl-lead-moth.jpg" width="151"></media:content>
-      <media:credit>Korean Central News Agency, via Associated Press</media:credit>
-      <media:description>A North Korean missile test in 2017.</media:description>
-    </item>
-    <item>
       <title>The Sunday Read: ‘The Search for Intelligent Life Is About to Get a Lot More Interesting’</title>
       <link>https://www.nytimes.com/2022/10/09/podcasts/the-daily/extraterrestrials-technosignatures.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/podcasts/the-daily/extraterrestrials-technosignatures.html</guid>
@@ -484,33 +470,39 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily (Radio Program)</category>
     </item>
     <item>
-      <title>Elon Musk’s Hidden Twitter Motives and a Metaverse Meetup</title>
-      <link>https://www.nytimes.com/2022/10/07/podcasts/hard-fork-elon-musk-twitter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/podcasts/hard-fork-elon-musk-twitter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/podcasts/hard-fork-elon-musk-twitter.html" rel="standout"></atom:link>
-      <description>Is the $44 billion  Twitter deal actually for real this time? Our hosts disagree.</description>
-      <dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Hanna Ingber, Corey Schreppel, Dan Powell, Marion Lozano and Elisheba Ittoop</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 16:52:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metaverse (Internet)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/podcasts/hard-fork-episode-1-art/hard-fork-promo-art-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>Talk of ‘Civil War’ Flares Online and More: The Week in Narrated Articles</title>
+      <link>https://www.nytimes.com/2022/10/07/podcasts/civil-war-belle-sebastian-narrated-articles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/podcasts/civil-war-belle-sebastian-narrated-articles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/podcasts/civil-war-belle-sebastian-narrated-articles.html" rel="standout"></atom:link>
+      <description>Five articles from around The Times, narrated just for you.</description>
+      <pubDate>Fri, 07 Oct 2022 13:33:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/14/multimedia/07narrated-4/00pol-civilwar-Mar-a-Lago03-moth.jpg" width="151"></media:content>
+      <media:credit>Marco Bello/Reuters</media:credit>
     </item>
     <item>
-      <title>Winter Squash Every Which Way</title>
-      <link>https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/dining/winter-squash-every-which-way.html" rel="standout"></atom:link>
-      <description>As well as a how-to for making your own pumpkin spice blend.</description>
-      <dc:creator>Tejal Rao</dc:creator>
-      <pubDate>Thu, 06 Oct 2022 17:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/04/dining/ns-butternut-squash-salad-copy/merlin_175270455_ed02bf8d-d53d-49e1-a2a6-f0f3211b0ac7-moth.jpg" width="151"></media:content>
-      <media:credit>Nik Sharma for The New York Times (Photography and Styling)</media:credit>
+      <title>Revisiting Baldwin vs. Buckley</title>
+      <link>https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html" rel="standout"></atom:link>
+      <description>Nicholas Buccola talks about “The Fire Is Upon Us,” and Lydia Millet discusses “The Children’s Bible.”</description>
+      <pubDate>Fri, 07 Oct 2022 14:45:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/17/books/17MEANY-COMBO/00MEANY-COMBO-moth-v2.jpg" width="151"></media:content>
+      <media:credit>From left: Dave Pickoff/Associated Press; Associated Press</media:credit>
+      <media:description>The 1965 debate between James Baldwin and William F. Buckley Jr. at the Cambridge Union was a crucial battle in the fight over civil rights.</media:description>
+    </item>
+    <item>
+      <title>Tell Us: What Questions About Climate Change Can We Answer?</title>
+      <link>https://www.nytimes.com/2022/10/07/climate/climate-change-questions-faq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/climate/climate-change-questions-faq.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/climate/climate-change-questions-faq.html" rel="standout"></atom:link>
+      <description>There is no question too basic, or too big. Your suggestions will be used to help guide the Times’s climate coverage.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 19:32:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/14/climate/00cli-callout-promo/00cli-faq-test-moth-v2.jpg" width="151"></media:content>
+      <media:credit> The New York Times</media:credit>
     </item>
     <item>
       <title>The First Interview With Anna Sorokin After Her Release From Jail</title>

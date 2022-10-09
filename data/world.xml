@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 17:55:40 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 17:40:08 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 18:33:38 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 18:31:27 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/09/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Less than a day after an explosion damaged Moscow’s bridge to Crimea, Russian missiles again hit residential areas of Zaporizhzhia, local officials said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 17:40:08 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:31:27 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-promo-130pm/09ukraine-briefing-carousel-Mykolaivka01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -187,6 +187,18 @@
       <category domain="">howigothere2022</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/05darien-migration-promo/05darien-migration-promo-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Putin Blames Ukraine For Crimea Bridge Blast, Calling It ‘Terrorism’</title>
+      <link>https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html" rel="standout"></atom:link>
+      <description>Mr. Putin’s remarks were his first about Saturday’s explosion on the Kerch Strait Bridge.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 18:31:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-putin-bridge/09ukraine-briefing-putin-bridge-moth.jpg" width="151"></media:content>
+      <media:credit>Sputnik via Reuters</media:credit>
+      <media:description>State media released a photograph of Russian President Vladimir V. Putin in Saint Petersburg on Sunday.</media:description>
     </item>
     <item>
       <title>Former Gov. Bill Richardson ‘Cautiously Optimistic’ About Griner’s Release</title>
@@ -797,7 +809,7 @@
       <atom:link href="https://www.nytimes.com/article/tropical-storm-julia-hurricane-caribbean-central-america.html" rel="standout"></atom:link>
       <description>The storm made landfall as a hurricane in Nicaragua early on Sunday, where it was expected to bring heavy rainfall that could trigger dangerous flash flooding and mudslides, forecasters said.</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 15:27:32 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:07:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
@@ -964,29 +976,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/travel/05remote-work/05remote-work-moth.jpg" width="151"></media:content>
       <media:credit>Hayden Maynard</media:credit>
-    </item>
-    <item>
-      <title>How Iranians in New York Are Helping the Protests Abroad</title>
-      <link>https://www.nytimes.com/2022/10/07/nyregion/iranian-americans-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/nyregion/iranian-americans-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/nyregion/iranian-americans-protests.html" rel="standout"></atom:link>
-      <description>“It’s really been a very long process of suffering that has led to this moment,” one activist said.</description>
-      <dc:creator>Sasha von Oldershausen</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 11:40:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghavamian, Arya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nilchiani, Mani</category>
-      <category domain="">Disco Tehran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/nyregion/09ny-iran-help/07ny-iran-help-moth.jpg" width="151"></media:content>
-      <media:credit>Ahmed Gaber for The New York Times</media:credit>
-      <media:description>Earlier this week, a vigil took place at the Pratt Institute in Brooklyn to show solidarity for protesters in Iran.</media:description>
     </item>
   </channel>
 </rss>

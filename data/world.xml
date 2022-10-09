@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 18:33:38 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 18:31:27 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 18:58:41 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 18:48:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/09/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Less than a day after an explosion damaged Moscow’s bridge to Crimea, Russian missiles again hit residential areas of Zaporizhzhia, local officials said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 18:31:27 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:48:38 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-promo-130pm/09ukraine-briefing-carousel-Mykolaivka01-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -195,10 +195,16 @@
       <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html" rel="standout"></atom:link>
       <description>Mr. Putin’s remarks were his first about Saturday’s explosion on the Kerch Strait Bridge.</description>
       <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 18:31:26 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:47:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerch Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Investigative Committee (Russia)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-putin-bridge/09ukraine-briefing-putin-bridge-moth.jpg" width="151"></media:content>
       <media:credit>Sputnik via Reuters</media:credit>
-      <media:description>State media released a photograph of Russian President Vladimir V. Putin in Saint Petersburg on Sunday.</media:description>
+      <media:description>A photograph of President Vladimir V. Putin in Saint Petersburg released by Russian state media on Sunday.</media:description>
     </item>
     <item>
       <title>Former Gov. Bill Richardson ‘Cautiously Optimistic’ About Griner’s Release</title>
@@ -376,13 +382,13 @@
       <media:description>A couple took a selfie in front of an artwork shaped as a big stamp named “Cotton to the Crimean Bridge.</media:description>
     </item>
     <item>
-      <title>Russia Names a New General to Lead Forces in Ukraine</title>
+      <title>Russia Names New General, Surovikin, to Lead Forces in Ukraine</title>
       <link>https://www.nytimes.com/2022/10/08/world/europe/russia-ukraine-general-sergei-surovikin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/europe/russia-ukraine-general-sergei-surovikin.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/08/world/europe/russia-ukraine-general-sergei-surovikin.html" rel="standout"></atom:link>
       <description>General Surovikin, 55, had been leading troops in Ukraine’s south, where Kyiv’s forces have been waging a counteroffensive to reclaim territory from Russia.</description>
       <dc:creator>Neil MacFarquhar and Cassandra Vinograd</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 18:16:07 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:34:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/multimedia/08-ukraine-briefing-Surovikin-1-0769/08-ukraine-briefing-Surovikin-1-0769-moth.jpg" width="151"></media:content>
       <media:credit>Pavel Golovkin/Associated Press</media:credit>
@@ -809,7 +815,7 @@
       <atom:link href="https://www.nytimes.com/article/tropical-storm-julia-hurricane-caribbean-central-america.html" rel="standout"></atom:link>
       <description>The storm made landfall as a hurricane in Nicaragua early on Sunday, where it was expected to bring heavy rainfall that could trigger dangerous flash flooding and mudslides, forecasters said.</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 18:07:51 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 18:38:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>

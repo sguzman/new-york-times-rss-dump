@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Oct 2022 14:50:57 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Oct 2022 14:31:08 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2022 15:12:17 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2022 15:11:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,7 +106,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/09/us/california-high-speed-rail-politics.html" rel="standout"></atom:link>
       <description>America’s first experiment with high-speed rail has become a multi-billion-dollar nightmare. Political compromises created a project so expensive that almost no one knows how it can be built as originally envisioned.</description>
       <dc:creator>Ralph Vartabedian</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 09:00:26 +0000</pubDate>
+      <pubDate>Sun, 09 Oct 2022 15:11:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
@@ -129,6 +129,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="">future of transportation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/us/00BULLET-TRAIN-top/00BULLET-TRAIN-top-moth.jpg" width="151"></media:content>
       <media:credit>Ryan Young for The New York Times</media:credit>
       <media:description>Construction of the California high-speed rail system is costing about $1.8 million a day, according to projections widely used by engineers and project managers.</media:description>
@@ -580,23 +581,20 @@
       <media:description>Anna Sorokin shortly after beginning her house arrest in the East Village.</media:description>
     </item>
     <item>
-      <title>Pluribus News, a New Media Start-Up, Will Cover Statehouses</title>
-      <link>https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/business/media/pluribus-news-statehouses.html" rel="standout"></atom:link>
-      <description>Numerous news start-ups have raced to fill a void of statehouse coverage. Pluribus News is planning to report on the policy trends making their way from one legislature to the next.</description>
-      <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 02:12:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Reid (Journalist)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pluribus News</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/00pluribus-1/00pluribus-1-moth.jpg" width="151"></media:content>
-      <media:credit>Shuran Huang for The New York Times</media:credit>
-      <media:description>Reid Wilson, the founder of Pluribus News, in Washington, D.C. He believes state legislatures often follow one another’s example when lawmaking, revealing broader trends.</media:description>
+      <title>Susannah Scaroni Wins the Chicago Marathon Women’s Wheelchair Race</title>
+      <link>https://www.nytimes.com/2022/10/09/sports/susannah-scaroni-chicago-marathon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/sports/susannah-scaroni-chicago-marathon.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/sports/susannah-scaroni-chicago-marathon.html" rel="standout"></atom:link>
+      <description>Susannah Scaroni, a Paralympic gold medalist, broke three vertebrae when she was hit by a car in a training session a year ago. On Sunday she won the Chicago marathon, her third marathon in three weeks.</description>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 15:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scaroni, Susannah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chicago Marathon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheelchairs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/sports/09chicago-scaroni/09chicago-scaroni-moth.jpg" width="151"></media:content>
+      <media:credit>AJ Mast for The New York Times</media:credit>
     </item>
     <item>
       <title>How Arsenal Found Its Voice</title>

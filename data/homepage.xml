@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 14:26:08 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Oct 2022 14:21:23 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 14:54:02 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 14:40:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -155,6 +155,27 @@
       <media:description>The Hukumchand Jute Mill in the Indian state of West Bengal, where the country’s jute industry is concentrated.</media:description>
     </item>
     <item>
+      <title>After Giving Up on Cancer Vaccines, Doctors Start to Find Hope</title>
+      <link>https://www.nytimes.com/2022/10/10/health/cancer-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/health/cancer-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/health/cancer-vaccines.html" rel="standout"></atom:link>
+      <description>Encouraging data from preliminary studies are making some doctors feel optimistic about developing immunizations against pancreatic, colon and breast cancers.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pancreas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Preventive Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/science/00sci-cancer-vaccines2/00sci-cancer-vaccines2-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Roth for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Justice Jackson Joins the Supreme Court, and the Debate Over Originalism</title>
       <link>https://www.nytimes.com/2022/10/10/us/politics/jackson-alito-kagan-supreme-court-originalism.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/us/politics/jackson-alito-kagan-supreme-court-originalism.html</guid>
@@ -195,25 +216,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/00Israel-Solar-Dispatch7/merlin_209781582_1c1f091b-6638-489b-96c1-b089ec6cc77a-moth.jpg" width="151"></media:content>
       <media:credit>Amit Elkayam for The New York Times</media:credit>
       <media:description>Shepherds near the Ashalim solar station. Completed in 2019, the tower generates enough electricity to power tens of thousands of homes.</media:description>
-    </item>
-    <item>
-      <title>Boris Johnson Inc. Is About to Go Public</title>
-      <link>https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html" rel="standout"></atom:link>
-      <description>Following in the footsteps of his predecessors, the former prime minister is likely to earn huge sums as an author and speaker, just as the lecture circuit booms back to life.</description>
-      <dc:creator>David Segal</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/00boris-inc/00boris-inc-moth.jpg" width="151"></media:content>
-      <media:credit>Henry Nicholls/Reuters</media:credit>
-      <media:description>Boris Johnson, the former British prime minister, could earn as much as $250,000 per speech, executives at speakers’ bureaus say.</media:description>
     </item>
     <item>
       <title>What I’ve Learned in 60 Years of Listening to the Philharmonic</title>
@@ -472,6 +474,25 @@
       <media:description>Asked to keep the Mets’ season alive, Chris Bassitt lasted only four innings on Sunday. He allowed three earned runs and took the loss.</media:description>
     </item>
     <item>
+      <title>Boris Johnson Inc. Is About to Go Public</title>
+      <link>https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/business/boris-johnson-inc-is-about-to-go-public.html" rel="standout"></atom:link>
+      <description>Following in the footsteps of his predecessors, the former prime minister is likely to earn huge sums as an author and speaker, just as the lecture circuit booms back to life.</description>
+      <dc:creator>David Segal</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 14:40:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/business/00boris-inc/00boris-inc-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>Boris Johnson, the former British prime minister, could earn as much as $250,000 per speech, executives at speakers’ bureaus say.</media:description>
+    </item>
+    <item>
       <title>What Is Indigenous Peoples’ Day and How Is It Celebrated?</title>
       <link>https://www.nytimes.com/article/indigenous-peoples-day.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/indigenous-peoples-day.html</guid>
@@ -487,30 +508,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/11/us/11-INDIGENOUS-PEOPLE-01-PRINT/10indigeous-explainer-1-moth.jpg" width="151"></media:content>
       <media:credit>Pu Huang/Reuters</media:credit>
       <media:description>Fatima Garcia of the group Danza Azteca Guadalupana dances during an event celebrating Indigenous Peoples’ Day in Austin, Texas, in 2021.</media:description>
-    </item>
-    <item>
-      <title>Flu Shot: What to Know About Side Effects, Protection and Timing</title>
-      <link>https://www.nytimes.com/article/flu-shot-vaccine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/flu-shot-vaccine.html</guid>
-      <atom:link href="https://www.nytimes.com/article/flu-shot-vaccine.html" rel="standout"></atom:link>
-      <description>And everything else you’ve been wondering about this annual vaccine.</description>
-      <dc:creator>Knvul Sheikh</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 14:21:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/well/11WELL-FLU-SHOT-EXPLAINER1/11WELL-FLU-SHOT-EXPLAINER1-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>The Joy Workout</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 09:59:06 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Oct 2022 09:24:50 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 10:29:25 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 10:02:43 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -284,6 +284,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/world/08thailand-promo/08thailand-promo-moth.jpg" width="151"></media:content>
       <media:credit>Andre Malerba for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Southern Ukraine, Signs of Low Russian Morale Amid Retreat</title>
+      <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html" rel="standout"></atom:link>
+      <description>The Ukrainians are making gains in the south, an area where Russian soldiers are dug in more securely and where their retreat has been less chaotic than in the north.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 10:02:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09ukraine-south-village-lede/09ukraine-south-village-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers riding in a captured Russian military vehicle in Velyka Oleksandrivka last week.</media:description>
     </item>
     <item>
       <title>In Face of Drought, the Netherlands Reserves Course to Save Water</title>
@@ -955,25 +975,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/business/07eu-energy-01/07eu-energy-01-moth.jpg" width="151"></media:content>
       <media:credit>Patrick Junker for The New York Times</media:credit>
       <media:description>Energy facilities at Wilhelmshaven, a German hub for liquefied natural gas imports. Critics say Germany should prioritize lowering the price of natural gas for the whole E.U., instead of maneuvering to secure more for itself.</media:description>
-    </item>
-    <item>
-      <title>Putin’s 70th Birthday Is Hailed in Russia and Derided in Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/world/europe/putin-birthday-russia-ukraine.html" rel="standout"></atom:link>
-      <description>Russian newspapers lauded Mr. Putin’s leadership, comparing him to Peter the Great and Leonid Brezhnev. Some Ukrainians said they hoped the birthday would be his last.</description>
-      <dc:creator>Valeriya Safronova and Megan Specia</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 10:27:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birthdays</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novaya Gazeta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07ukraine-briefing-putin-birthday-ukraine-1-d8c8/07ukraine-briefing-putin-birthday-ukraine-1-d8c8-moth.jpg" width="151"></media:content>
-      <media:credit>Dmitri Lovetsky/Associated Press</media:credit>
-      <media:description>A visitor stands next to Alexey Sergienko’s painting called “Putin with a Puppy,” presented on the eve of the 70th birthday of Vladimir V. Putin, the Russian president, in St. Petersburg on Thursday.</media:description>
     </item>
   </channel>
 </rss>

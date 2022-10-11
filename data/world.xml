@@ -7,33 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Oct 2022 09:39:12 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2022 09:56:07 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2022 09:44:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Putin Unleashes Barrage of Missiles on Ukrainian Civilian Areas</title>
-      <link>https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html" rel="standout"></atom:link>
-      <description>The Russian president tied the attack to a bombing of the bridge to Crimea, and vowed that more strikes would follow if Russian targets were hit again.</description>
-      <dc:creator>Michael Schwirtz, Andrew E. Kramer, Megan Specia and Eric Nagourney</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 04:07:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-ledeall-1/merlin_214638105_f8760f53-6f76-43a0-ab48-2b832cd8dc61-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Smoke rising over Kyiv, the Ukrainian capital, on Monday after the Russian bombardment.</media:description>
+      <title>Live Updates: Ukrainians Head Underground as Air Raid Sirens Blare Nationwide</title>
+      <link>https://www.nytimes.com/live/2022/10/11/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/11/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/11/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky said he would ask the leaders of the Group of 7 nations for more weapons on Tuesday after Russia’s widespread and indiscriminate attacks on civilians.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 09:44:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11ukraine-blog-header-1am/11ukraine-blog-header-1am-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Damaged buildings in Zaporizhzhia on Monday, after a Russian missile strike on Sunday.</media:description>
+    </item>
+    <item>
+      <title>One Nation Under Xi: How China’s Leader Is Remaking Its Identity</title>
+      <link>https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html" rel="standout"></atom:link>
+      <description>The leader’s nationalist effort to meld ethnic groups, an agenda increasingly central to his rule, is seen as a bulwark against internal divisions and threats from the West.</description>
+      <dc:creator>Chris Buckley, Vivian Wang and Joy Dong</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
+      <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
     </item>
     <item>
       <title>With Attacks on Ukraine, Putin Gives Hard-Liners What They Wanted</title>
@@ -65,6 +75,27 @@
       <media:description>Emergency services workers on Monday at the site of an overnight missile strike in Zaporizhzhia, Ukraine.</media:description>
     </item>
     <item>
+      <title>U.K.’s Young Hobbled by Inflation</title>
+      <link>https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html" rel="standout"></atom:link>
+      <description>Sharp price spikes are forcing the country’s young to move back in with family and worry about finances just as many were hoping to move past the pandemic.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 03:05:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Blackburn (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09uk-economy-youth-02/09uk-economy-youth-02-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Maisie Grattan, 21, left, and Evie Hargreaves, 22, at Ms. Hargreaves’ parents’ home, where they are both living temporarily as they face rising inflation.</media:description>
+    </item>
+    <item>
       <title>Russian Strikes Batter Kyiv and Send Residents Dashing for Cover</title>
       <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html</guid>
@@ -81,6 +112,47 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-scene-new-promo/10ukraine-scene-new-promo-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Injured civilians in Kyiv.</media:description>
+    </item>
+    <item>
+      <title>In Southern Ukraine, Signs of Low Russian Morale Amid Retreat</title>
+      <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html" rel="standout"></atom:link>
+      <description>The Ukrainians are making gains in the south, an area where Russian soldiers are dug in more securely and where their retreat has been less chaotic than in the north.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 14:10:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09ukraine-south-village-lede/09ukraine-south-village-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers riding in a captured Russian military vehicle in Velyka Oleksandrivka last week.</media:description>
+    </item>
+    <item>
+      <title>Putin Unleashes Barrage of Missiles on Ukrainian Civilian Areas</title>
+      <link>https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/russia-missiles-ukraine-civilians.html" rel="standout"></atom:link>
+      <description>The Russian president tied the attack to a bombing of the bridge to Crimea, and vowed that more strikes would follow if Russian targets were hit again.</description>
+      <dc:creator>Michael Schwirtz, Andrew E. Kramer, Megan Specia and Eric Nagourney</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 04:07:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-ledeall-1/merlin_214638105_f8760f53-6f76-43a0-ab48-2b832cd8dc61-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Smoke rising over Kyiv, the Ukrainian capital, on Monday after the Russian bombardment.</media:description>
     </item>
     <item>
       <title>Airbus and Air France Go on Trial Over 2009 Rio-Paris Crash</title>
@@ -104,38 +176,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10france-trial-01/10france-trial-moth.jpg" width="151"></media:content>
       <media:credit>Alexandre Severo, via European Pressphoto Agency</media:credit>
       <media:description>Wreckage recovered after the crash of Air France Flight 447 was brought ashore in Recife, Brazil, in 2009.</media:description>
-    </item>
-    <item>
-      <title>Putin Unleashes Barrage of Missiles on Ukrainian Civilian Areas</title>
-      <link>https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>The strikes killed at least 14 people in Ukraine and disrupted electricity in some regions. Russia said they were in retaliation for a blast on a key bridge to Crimea. The United Nations General Assembly convened an emergency session.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 08:06:42 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/multimedia/10ukraine-briefing-promo-900am/10ukraine-briefing-promo-900am-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>U.K.’s Young Hobbled by Inflation</title>
-      <link>https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/uk-inflation-young-generations.html" rel="standout"></atom:link>
-      <description>Sharp price spikes are forcing the country’s young to move back in with family and worry about finances just as many were hoping to move past the pandemic.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 03:05:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Blackburn (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09uk-economy-youth-02/09uk-economy-youth-02-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>Maisie Grattan, 21, left, and Evie Hargreaves, 22, at Ms. Hargreaves’ parents’ home, where they are both living temporarily as they face rising inflation.</media:description>
     </item>
     <item>
       <title>North Korea Says It Is Building Underwater Nuclear Weapons Silos</title>
@@ -178,26 +218,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10UK-LAWYERS-top-01/10UK-LAWYERS-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Striking criminal barristers, the lawyers who argue cases in court, outside the Supreme Court in London in September. </media:description>
-    </item>
-    <item>
-      <title>In Southern Ukraine, Signs of Low Russian Morale Amid Retreat</title>
-      <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/ukraine-war-south.html" rel="standout"></atom:link>
-      <description>The Ukrainians are making gains in the south, an area where Russian soldiers are dug in more securely and where their retreat has been less chaotic than in the north.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 14:10:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09ukraine-south-village-lede/09ukraine-south-village-lede-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Ukrainian soldiers riding in a captured Russian military vehicle in Velyka Oleksandrivka last week.</media:description>
     </item>
     <item>
       <title>Why Thailand’s Strict Gun Laws Did Not Keep It Safe</title>
@@ -252,25 +272,6 @@
       <media:description>Mud coursed through the streets of Las Tejerías, Venezuela, over the weekend.</media:description>
     </item>
     <item>
-      <title>The West Has a Migration Crisis. Why Does Rwanda Want to Help?</title>
-      <link>https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html" rel="standout"></atom:link>
-      <description>The small African nation has positioned itself as an altruistic partner of wealthier countries seeking to curb migration. But experts say Rwanda’s human rights record makes it no refuge for asylum seekers.</description>
-      <dc:creator>Abdi Latif Dahir</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 14:15:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagame, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations High Commission for Refugees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Rwanda_1/merlin_209631744_4bbaad10-6887-401e-954c-690144519243-moth.jpg" width="151"></media:content>
-      <media:credit>Brian Otieno for The New York Times</media:credit>
-      <media:description>The Emergency Transit Mechanism Center in Gashora, Rwanda, houses African refugees awaiting asylum or resettlement elsewhere.</media:description>
-    </item>
-    <item>
       <title>In Face of Drought, the Netherlands Reserves Course to Save Water</title>
       <link>https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</guid>
@@ -292,25 +293,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/climate/00cli-netherlands1/00cli-netherlands1-moth.jpg" width="151"></media:content>
       <media:credit>Rob Engelaar/EPA, via Shutterstock</media:credit>
       <media:description>A cargo barge on the severely depleted Rhine River at Lobith, the Netherlands, in August, when the river’s discharge hit a record low.</media:description>
-    </item>
-    <item>
-      <title>One Nation Under Xi: How China’s Leader Is Remaking Its Identity</title>
-      <link>https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html" rel="standout"></atom:link>
-      <description>The leader’s nationalist effort to meld ethnic groups, an agenda increasingly central to his rule, is seen as a bulwark against internal divisions and threats from the West.</description>
-      <dc:creator>Chris Buckley, Vivian Wang and Joy Dong</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
-      <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
-      <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
     </item>
     <item>
       <title>It’s Never Too Late to Pivot From N.F.L. Linebacker to Neurosurgeon</title>
@@ -704,6 +686,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/multimedia/09ukraine-briefing-bridge-traffic-image-1-8b68/09ukraine-briefing-bridge-traffic-image-1-8b68-moth.jpg" width="151"></media:content>
       <media:credit>Alexey Pavlishak/Reuters</media:credit>
       <media:description>Passenger cars driving on the Kerch Strait Bridge on Sunday.</media:description>
+    </item>
+    <item>
+      <title>The West Has a Migration Crisis. Why Does Rwanda Want to Help?</title>
+      <link>https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/africa/migration-crisis-rwanda.html" rel="standout"></atom:link>
+      <description>The small African nation has positioned itself as an altruistic partner of wealthier countries seeking to curb migration. But experts say Rwanda’s human rights record makes it no refuge for asylum seekers.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 14:15:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagame, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations High Commission for Refugees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Rwanda_1/merlin_209631744_4bbaad10-6887-401e-954c-690144519243-moth.jpg" width="151"></media:content>
+      <media:credit>Brian Otieno for The New York Times</media:credit>
+      <media:description>The Emergency Transit Mechanism Center in Gashora, Rwanda, houses African refugees awaiting asylum or resettlement elsewhere.</media:description>
     </item>
     <item>
       <title>Greece Tries Stationing Police on Campus, and Students Fight Back</title>

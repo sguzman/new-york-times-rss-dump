@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Oct 2022 23:26:42 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Oct 2022 23:24:23 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 23:59:11 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 23:45:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/russia-putin-ukraine-strikes.html" rel="standout"></atom:link>
       <description>A sharp shift toward deadly strikes signaled that domestic pressure over Russia’s flailing war effort had escalated to the point where Vladimir Putin felt a decisive show of force was necessary.</description>
       <dc:creator>Valerie Hopkins and Anton Troianovski</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 23:11:11 +0000</pubDate>
+      <pubDate>Mon, 10 Oct 2022 23:11:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -175,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/10/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The strikes killed at least 14 people in Ukraine and disrupted electricity in some regions. Russia said they were in retaliation for a blast on a key bridge to Crimea. The United Nations General Assembly convened an emergency session.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 23:24:23 +0000</pubDate>
+      <pubDate>Mon, 10 Oct 2022 23:45:42 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/multimedia/10ukraine-briefing-promo-900am/10ukraine-briefing-promo-900am-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -217,6 +217,24 @@
       <media:description>Mourners at Wat Rat Samakee, a temple in Naklang, Thailand, on Saturday, two days after a mass killing in and around a day care center. The attacker’s gun was obtained legally, the police said.</media:description>
     </item>
     <item>
+      <title>‘Eye of Sauron’: The Dazzling Solar Tower in the Israeli Desert</title>
+      <link>https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html" rel="standout"></atom:link>
+      <description>Looming over a remote village in the Negev, the Ashalim solar plant is, for some, a marvel of green technology. For others, it’s a boondoggle and an eyesore.</description>
+      <dc:creator>Patrick Kingsley and Amit Elkayam</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 19:23:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Negev Desert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/00Israel-Solar-Dispatch7/merlin_209781582_1c1f091b-6638-489b-96c1-b089ec6cc77a-moth.jpg" width="151"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Shepherds near the Ashalim solar station. Completed in 2019, the tower generates enough electricity to power tens of thousands of homes.</media:description>
+    </item>
+    <item>
       <title>Landslides in Venezuela Leave at Least 22 Dead and Dozens Missing</title>
       <link>https://www.nytimes.com/2022/10/09/world/americas/venezuela-mudslides.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/americas/venezuela-mudslides.html</guid>
@@ -251,28 +269,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Rwanda_1/merlin_209631744_4bbaad10-6887-401e-954c-690144519243-moth.jpg" width="151"></media:content>
       <media:credit>Brian Otieno for The New York Times</media:credit>
       <media:description>The Emergency Transit Mechanism Center in Gashora, Rwanda, houses African refugees awaiting asylum or resettlement elsewhere.</media:description>
-    </item>
-    <item>
-      <title>After Secret US Talks Fail, A Hidden War in Africa Rapidly Escalates</title>
-      <link>https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html" rel="standout"></atom:link>
-      <description>Months of discreet American diplomacy have failed to stop the fighting in northern Ethiopia. Now, the civil war is plunging into its most alarming phase yet.</description>
-      <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 14:48:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
     </item>
     <item>
       <title>In Face of Drought, the Netherlands Reserves Course to Save Water</title>
@@ -337,7 +333,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/10/science/black-holes-cosmology-hologram.html" rel="standout"></atom:link>
       <description>Take gravity, add quantum mechanics, stir. What do you get? Just maybe, a holographic cosmos.</description>
       <dc:creator>Dennis Overbye</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 23:07:44 +0000</pubDate>
+      <pubDate>Mon, 10 Oct 2022 23:07:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gravitation and Gravity</category>
@@ -389,7 +385,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/russia-attacks-ukraine-reaction.html" rel="standout"></atom:link>
       <description>Some younger Russians expressed sadness about the missile strikes in civilian areas, but were not ready to put the blame squarely on the Kremlin.</description>
       <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 13:17:59 +0000</pubDate>
+      <pubDate>Mon, 10 Oct 2022 23:45:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
@@ -556,24 +552,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borova (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kupiansk (Ukraine)</category>
-    </item>
-    <item>
-      <title>‘Eye of Sauron’: The Dazzling Solar Tower in the Israeli Desert</title>
-      <link>https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html" rel="standout"></atom:link>
-      <description>Looming over a remote village in the Negev, the Ashalim solar plant is, for some, a marvel of green technology. For others, it’s a boondoggle and an eyesore.</description>
-      <dc:creator>Patrick Kingsley and Amit Elkayam</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 19:23:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Negev Desert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/00Israel-Solar-Dispatch7/merlin_209781582_1c1f091b-6638-489b-96c1-b089ec6cc77a-moth.jpg" width="151"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Shepherds near the Ashalim solar station. Completed in 2019, the tower generates enough electricity to power tens of thousands of homes.</media:description>
     </item>
     <item>
       <title>Putin Blames Ukraine For Crimea Bridge Blast, Calling It ‘Terrorism’</title>
@@ -886,6 +864,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/multimedia/08-ukraine-briefing-Surovikin-1-0769/08-ukraine-briefing-Surovikin-1-0769-moth.jpg" width="151"></media:content>
       <media:credit>Pavel Golovkin/Associated Press</media:credit>
       <media:description>Gen. Sergei Surovikin in 2017.</media:description>
+    </item>
+    <item>
+      <title>After Secret US Talks Fail, A Hidden War in Africa Rapidly Escalates</title>
+      <link>https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/08/world/africa/ethiopia-tigray-war-talks-us.html" rel="standout"></atom:link>
+      <description>Months of discreet American diplomacy have failed to stop the fighting in northern Ethiopia. Now, the civil war is plunging into its most alarming phase yet.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Sun, 09 Oct 2022 14:48:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
     </item>
     <item>
       <title>A Yayoi Kusama Pumpkin Sculpture Is Reinstalled in Japan</title>

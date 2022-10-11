@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Oct 2022 15:25:37 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Oct 2022 15:25:27 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2022 15:51:25 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2022 15:46:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/11/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>At an emergency summit, leaders from the Group of 7 nations warned of “severe consequences” if Russia uses chemical, biological or nuclear weapons in Ukraine. The Ukrainian military said it shot down numerous Russian cruise missiles, a day after Moscow’s broadest strikes in months.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 15:25:27 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 15:46:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11ukraine-blog-header-1am/11ukraine-blog-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Damaged buildings in Zaporizhzhia on Monday, after a Russian missile strike on Sunday.</media:description>
@@ -64,6 +64,26 @@
       <media:description>An Israeli navy vessel patrolled the Mediterranean waters off Rosh Hanikra on the border between Israel and Lebanon on Friday.</media:description>
     </item>
     <item>
+      <title>Bombing Kyiv Into Submission? History Says It Won’t Work.</title>
+      <link>https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html" rel="standout"></atom:link>
+      <description>Even though it creates misery and loss, the methodical bombing of civilian centers has more often been shown to rally support for resistance.</description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 15:33:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11int-russia-01/11int-russia-01-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Smoke over Kyiv, the Ukrainian capital, on Monday after Russian missile strikes.</media:description>
+    </item>
+    <item>
       <title>With Attacks on Ukraine, Putin Gives Hard-Liners What They Wanted</title>
       <link>https://www.nytimes.com/2022/10/10/world/europe/russia-putin-ukraine-strikes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/russia-putin-ukraine-strikes.html</guid>
@@ -72,22 +92,11 @@
       <dc:creator>Valerie Hopkins and Anton Troianovski</dc:creator>
       <pubDate>Tue, 11 Oct 2022 07:56:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadyrov, Ramzan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10russia-putin-1/10russia-putin-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Emergency services workers on Monday at the site of an overnight missile strike in Zaporizhzhia, Ukraine.</media:description>
@@ -118,14 +127,13 @@
       <description>The Ukrainians are making gains in the south, an area where Russian soldiers are dug in more securely and where their retreat has been less chaotic than in the north.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
       <pubDate>Mon, 10 Oct 2022 14:10:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/world/09ukraine-south-village-lede/09ukraine-south-village-lede-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers riding in a captured Russian military vehicle in Velyka Oleksandrivka last week.</media:description>
@@ -253,29 +261,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/00Israel-Solar-Dispatch7/merlin_209781582_1c1f091b-6638-489b-96c1-b089ec6cc77a-moth.jpg" width="151"></media:content>
       <media:credit>Amit Elkayam for The New York Times</media:credit>
       <media:description>Shepherds near the Ashalim solar station. Completed in 2019, the tower generates enough electricity to power tens of thousands of homes.</media:description>
-    </item>
-    <item>
-      <title>In Face of Drought, the Netherlands Reverses Course to Save Water</title>
-      <link>https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html" rel="standout"></atom:link>
-      <description>As climate change dries out Europe, the Netherlands, a country long shaped by its overabundance of water, is suddenly confronting drought.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhine River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Meuse River (Netherlands)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/climate/00cli-netherlands1/00cli-netherlands1-moth.jpg" width="151"></media:content>
-      <media:credit>Rob Engelaar/EPA, via Shutterstock</media:credit>
-      <media:description>A cargo barge on the severely depleted Rhine River at Lobith, the Netherlands, in August, when the river’s discharge hit a record low.</media:description>
     </item>
     <item>
       <title>Biden to ‘Re-Evaluate’ Relationship With Saudi Arabia After Oil Production Cut</title>
@@ -564,6 +549,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yuri Penza</category>
     </item>
     <item>
+      <title>In Face of Drought, the Netherlands Reverses Course to Save Water</title>
+      <link>https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/climate/netherlands-drought-climate-change.html" rel="standout"></atom:link>
+      <description>As climate change dries out Europe, the Netherlands, a country long shaped by its overabundance of water, is suddenly confronting drought.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 09:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhine River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Meuse River (Netherlands)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/climate/00cli-netherlands1/00cli-netherlands1-moth.jpg" width="151"></media:content>
+      <media:credit>Rob Engelaar/EPA, via Shutterstock</media:credit>
+      <media:description>A cargo barge on the severely depleted Rhine River at Lobith, the Netherlands, in August, when the river’s discharge hit a record low.</media:description>
+    </item>
+    <item>
       <title>Putin says the strikes targeted Ukraine’s energy system.</title>
       <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-energy-infrastructure.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-strikes-energy-infrastructure.html</guid>
@@ -826,6 +834,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thessaloniki (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/06greece-universitypolice/29greece-universitypolice-moth.jpg" width="151"></media:content>
       <media:credit>Dimitris Lampropoulos/NurPhoto, via Getty Images</media:credit>
       <media:description>Officers used tear gas in Athens last month to disperse students protesting the newly established university police force.</media:description>
@@ -990,24 +1001,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/08/multimedia/08xp-marshmallow/08xp-marshmallow-moth.jpg" width="151"></media:content>
       <media:credit>Daniel Leal-Olivas — WPA Pool/Getty Images</media:credit>
       <media:description>A British tax tribunal examined marshmallows in detail, finding that ones slightly larger in size are “equally palatable” as a snack or roasted.</media:description>
-    </item>
-    <item>
-      <title>Many Canadians Can’t Afford Homes Despite Cooling Real Estate Market</title>
-      <link>https://www.nytimes.com/2022/10/08/world/canada/canada-real-estate-market.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/world/canada/canada-real-estate-market.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/world/canada/canada-real-estate-market.html" rel="standout"></atom:link>
-      <description>Even in cities that were once considered a good bet for house hunters seeking affordability, affluent households find that prices are high.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 17:29:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamilton (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/00canada-housing/00canada-housing-moth.jpg" width="151"></media:content>
-      <media:credit>Brett Gundlock for The New York Times</media:credit>
-      <media:description>Nippun Goyal, 35, left, and his wife, Ritu Choudhary, 31, packing up their condo in Toronto for the move to Hamilton.</media:description>
     </item>
   </channel>
 </rss>

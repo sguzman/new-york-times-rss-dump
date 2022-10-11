@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Oct 2022 15:47:31 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Oct 2022 15:44:16 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2022 16:21:59 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2022 16:05:24 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -76,6 +76,12 @@
       <description>The idea of sending new arrivals to left-leaning areas circulated in conservative circles for years. It gained traction under Donald J. Trump, and now Republican governors have put it into practice.</description>
       <dc:creator>Maggie Haberman and Michael C. Bender</dc:creator>
       <pubDate>Tue, 11 Oct 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
@@ -85,10 +91,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nielsen, Kirstjen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Sarah Huckabee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Miles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Immigration Studies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
@@ -127,9 +129,9 @@
       <link>https://www.nytimes.com/2022/10/11/health/pediatric-closures-hospitals.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/health/pediatric-closures-hospitals.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/11/health/pediatric-closures-hospitals.html" rel="standout"></atom:link>
-      <description>Adult beds are more lucrative than children’s beds. So as institutions look to boost profit margins, pediatrics are often among the first services to be cut.</description>
+      <description>Adult beds are more lucrative than children’s beds. So as institutions look to boost profit margins, pediatrics is often among the first services to be cut.</description>
       <dc:creator>Emily Baumgaertner</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 09:00:25 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 16:05:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
@@ -183,6 +185,26 @@
       <media:description>The Bank of England earlier this month.</media:description>
     </item>
     <item>
+      <title>Elon Musk Has the World’s Strangest Social Calendar</title>
+      <link>https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html" rel="standout"></atom:link>
+      <description>When the world’s richest man isn’t tweeting, he’s flying to Burning Man, trying to impress comedians and hopping on yachts.</description>
+      <dc:creator>Joseph Bernstein</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 15:21:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Burning Man Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PayPal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/fashion/00ELON-top/00ELON-top-moth.jpg" width="151"></media:content>
+      <media:credit>Sinna Nasseri/Getty Images</media:credit>
+      <media:description>Elon Musk at this year’s Met Gala in New York.</media:description>
+    </item>
+    <item>
       <title>One Nation Under Xi: How China’s Leader Is Remaking Its Identity</title>
       <link>https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</guid>
@@ -200,25 +222,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
       <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
       <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
-    </item>
-    <item>
-      <title>British Official Stresses Threat From China Even Amid Russian Aggression</title>
-      <link>https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/us/politics/uk-gchq-china-russia.html" rel="standout"></atom:link>
-      <description>The head of Britain’s GCHQ spy agency warned that the West should not lose sight of the technological challenge from China as it deals with the immediate problem of Russia’s invasion of Ukraine.</description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 23:02:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Communications Headquarters (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeremy Fleming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/us/politics/10dc-INTEL-CHINA/merlin_213190368_83027172-0a69-42d3-9df1-7ea6798696a5-moth.jpg" width="151"></media:content>
-      <media:credit>Jade Gao/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The director of Britain’s cyber and electronic intelligence agency said he was skeptical about how far China would go to support Russia’s aggression.</media:description>
     </item>
     <item>
       <title>Biden Proposal Could Lead to Employee Status for Gig Workers</title>
@@ -270,30 +273,13 @@
       <media:description>The congestion pricing plan could reduce the number of yellow taxis in Manhattan. </media:description>
     </item>
     <item>
-      <title>Forget Madden. The Hottest Game in the N.F.L. Is Chess.</title>
-      <link>https://www.nytimes.com/2022/10/11/sports/football/nfl-chess-blitzchamps.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/sports/football/nfl-chess-blitzchamps.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/sports/football/nfl-chess-blitzchamps.html" rel="standout"></atom:link>
-      <description>Athletes, known for being gamers, often find ways to compete during their downtime. Football players who tackle chess are drawn to the mental challenge that runs against stereotypes in their sport.</description>
-      <dc:creator>Robert O’Connell</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 11:12:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chess</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Amari (1994- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fitzgerald, Larry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Urschel, John Cameron (1991- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Awuzie, Chidobe (1995- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/multimedia/11nfl-chess1-1-f6e4/11nfl-chess1-1-f6e4-moth.jpg" width="151"></media:content>
-      <media:credit>Maddie Malhotra for The New York Times</media:credit>
-    </item>
-    <item>
       <title>Adnan Syed’s Charges Are Dropped by Baltimore Prosecutors</title>
       <link>https://www.nytimes.com/2022/10/11/us/adnan-syed-charges-dropped.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/us/adnan-syed-charges-dropped.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/11/us/adnan-syed-charges-dropped.html" rel="standout"></atom:link>
       <description>Mr. Syed, whose case was featured in the hit podcast “Serial,” had been convicted in the death of a high school classmate and spent 23 years in prison before being released last month.</description>
       <dc:creator>Amanda Holpuch</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 15:44:16 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 16:05:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syed, Adnan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Serial (Radio Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
@@ -305,27 +291,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/us/11xp-syed1/11xp-syed1-moth.jpg" width="151"></media:content>
       <media:credit>Ting Shen for The New York Times</media:credit>
       <media:description>Adnan Syed, the subject of the podcast “Serial,” left Baltimore City Circuit Court last month after a judge overturned his murder conviction.</media:description>
-    </item>
-    <item>
-      <title>Los Angeles Labor Federation Chief Resigns in Furor Over Leaked Conversation</title>
-      <link>https://www.nytimes.com/2022/10/09/us/los-angeles-city-council-tape-leak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/us/los-angeles-city-council-tape-leak.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/us/los-angeles-city-council-tape-leak.html" rel="standout"></atom:link>
-      <description>Ron Herrera was part of a secretly recorded conversation in which the Los Angeles City Council president, Nury Martinez, mocked Indigenous immigrants and the Black child of a fellow council member.</description>
-      <dc:creator>Jill Cowan and Shawn Hubler</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 04:46:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martinez, Nury</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/us/09losangeles-tape/09losangeles-tape-moth.jpg" width="151"></media:content>
-      <media:credit>Patrick T. Fallon/AFP via Getty Images</media:credit>
-      <media:description>Ron Herrera, president of the Los Angeles County Federation of Labor, resigned on Monday night.</media:description>
     </item>
     <item>
       <title>Cate Blanchett Doesn’t Want to Be Understood</title>
@@ -420,6 +385,45 @@
       <media:credit>Bridget Bennett for The New York Times</media:credit>
     </item>
     <item>
+      <title>Russia’s New Onslaught Against Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Readers respond to the latest Russian attacks in Ukraine. Also: The wonders of math; pandemic spending; Republicans and crime.</description>
+      <pubDate>Mon, 10 Oct 2022 16:40:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-briefing-reporters-Zaporizhzhia01/10ukraine-briefing-reporters-Zaporizhzhia01-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Kanye West’s Exploitative Anti-Blackness</title>
+      <link>https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html" rel="standout"></atom:link>
+      <description>By wearing a “White lives matter” shirt, Kanye West gave white supremacists a boost.</description>
+      <dc:creator>Charles M. Blow</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 15:11:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/09blow1/09blow1-moth.jpg" width="151"></media:content>
+      <media:credit>Scott Dudelson/FilmMagic, via Getty Images</media:credit>
+    </item>
+    <item>
       <title>The Midterms Aren’t the Only Things That Are Looming</title>
       <link>https://www.nytimes.com/2022/10/10/opinion/biden-marijuana-border-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/opinion/biden-marijuana-border-midterms.html</guid>
@@ -443,27 +447,6 @@
       <media:description>An unfinished section of the border wall near Roma, Texas.</media:description>
     </item>
     <item>
-      <title>Russia’s New Onslaught Against Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/opinion/letters/russia-ukraine-war.html" rel="standout"></atom:link>
-      <description>Readers respond to the latest Russian attacks in Ukraine. Also: The wonders of math; pandemic spending; Republicans and crime.</description>
-      <pubDate>Mon, 10 Oct 2022 16:40:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-briefing-reporters-Zaporizhzhia01/10ukraine-briefing-reporters-Zaporizhzhia01-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-    </item>
-    <item>
       <title>How I Fell In Love With Loretta Lynn</title>
       <link>https://www.nytimes.com/2022/10/10/opinion/loretta-lynn-trump-feminism-love.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/opinion/loretta-lynn-trump-feminism-love.html</guid>
@@ -478,24 +461,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/10renkl-1/10renkl-1-moth.jpg" width="151"></media:content>
       <media:credit>Michael Ochs Archives/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Kanye West’s Exploitative Anti-Blackness</title>
-      <link>https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/opinion/racism-kanye-west.html" rel="standout"></atom:link>
-      <description>By wearing a “White lives matter” shirt, Kanye West gave white supremacists a boost.</description>
-      <dc:creator>Charles M. Blow</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 15:11:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/09blow1/09blow1-moth.jpg" width="151"></media:content>
-      <media:credit>Scott Dudelson/FilmMagic, via Getty Images</media:credit>
     </item>
     <item>
       <title>Russia’s Revenge</title>
@@ -564,7 +529,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/11/world/middleeast/israel-and-lebanon-maritime-deal.html" rel="standout"></atom:link>
       <description>If ratified by both governments, the deal is expected to avert the immediate threat of conflict between Israel and Hezbollah, and could eventually help salve energy shortages.</description>
       <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 15:00:55 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 16:02:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aoun, Michel (1935- )</category>
@@ -642,86 +607,91 @@
       <media:description>A cargo barge on the severely depleted Rhine River at Lobith, the Netherlands, in August, when the river’s discharge hit a record low.</media:description>
     </item>
     <item>
-      <title>What Are Your ‘Non-Negotiables’? Readers Share Wellness Rituals</title>
-      <link>https://www.nytimes.com/2022/10/08/well/live/wellness-rituals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/08/well/live/wellness-rituals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/08/well/live/wellness-rituals.html" rel="standout"></atom:link>
-      <description>Reading Nancy Drew. Watching the birds every day. Counting yellow doors. Thousands of Times readers shared their wellness “non-negotiables.”</description>
-      <dc:creator>Dani Blum and Andrea Chronopoulos</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/well/07Well-NonNegotiables-06/07Well-NonNegotiables-06-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Andrea Chronopoulos</media:credit>
-    </item>
-    <item>
-      <title>Fall Allergies: What to Know About Causes, Symptoms and Care</title>
-      <link>https://www.nytimes.com/article/fall-allergies-symptoms-treatment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/fall-allergies-symptoms-treatment.html</guid>
-      <atom:link href="https://www.nytimes.com/article/fall-allergies-symptoms-treatment.html" rel="standout"></atom:link>
-      <description>Climate change is making this allergy season longer and more intense. Here’s how to cope.</description>
-      <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Sat, 08 Oct 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Allergies</category>
+      <title>Flu Shot: What to Know About Side Effects, Protection and Timing</title>
+      <link>https://www.nytimes.com/article/flu-shot-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/flu-shot-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/article/flu-shot-vaccine.html" rel="standout"></atom:link>
+      <description>And everything else you’ve been wondering about this annual vaccine.</description>
+      <dc:creator>Knvul Sheikh</dc:creator>
+      <pubDate>Mon, 10 Oct 2022 14:21:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asthma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colds</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/well/WELL-FALL-ALLERGIES1/WELL-FALL-ALLERGIES1-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/well/11WELL-FLU-SHOT-EXPLAINER1/11WELL-FLU-SHOT-EXPLAINER1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>Hangover Anxiety: How a Night of Drinking Can Tank Your Mood</title>
-      <link>https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html" rel="standout"></atom:link>
-      <description>Consuming alcohol can mess with your emotions the next day by causing stress hormones to spike and sleep to be disrupted overnight.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 07 Oct 2022 19:15:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/well/06Well-NL-Hangxiety/06Well-NL-Hangxiety-moth.jpg" width="151"></media:content>
-      <media:credit>Pablo Delcan</media:credit>
-    </item>
-    <item>
-      <title>What is Microdosing, and Does it Work?</title>
-      <link>https://www.nytimes.com/2022/02/28/well/mind/microdosing-psychedelics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/02/28/well/mind/microdosing-psychedelics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/02/28/well/mind/microdosing-psychedelics.html" rel="standout"></atom:link>
-      <description>Scientists are split over whether the benefits some microdosers experience are a placebo effect or something more.</description>
-      <dc:creator>Dana G Smith</dc:creator>
-      <pubDate>Thu, 07 Apr 2022 21:11:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">LSD (Lysergic Acid Diethylamide)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychedelic and Hallucinogenic Drugs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Placebos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Creativity</category>
+      <title>New Study Strengthens the Link Between Exercise and Memory</title>
+      <link>https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html" rel="standout"></atom:link>
+      <description>Experts have long known that fitness is good for the brain. A recent paper connects different types of workouts with assorted improvements in memory.</description>
+      <dc:creator>Rachel Fairbank</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 02:29:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/08/well/25microdosing-effectiveness/25microdosing-effectiveness-moth.jpg" width="151"></media:content>
-      <media:credit>River Cousin</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07EXERCISE-MEMORY-1-9cd3/07EXERCISE-MEMORY-1-9cd3-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
     </item>
     <item>
-      <title>How to Spot ‘Medical Gaslighting’ and What to Do About It.</title>
-      <link>https://www.nytimes.com/2022/07/29/well/mind/medical-gaslighting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/07/29/well/mind/medical-gaslighting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/07/29/well/mind/medical-gaslighting.html" rel="standout"></atom:link>
-      <description>Experts share tips on advocating for yourself in a health care setting.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Fri, 29 Jul 2022 14:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malpractice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/09/well/01Well-Gaslighting-Service/01Well-Gaslighting-Service-moth.jpg" width="151"></media:content>
-      <media:credit>Lucy Jones</media:credit>
+      <title>Does CBD Help With Insomnia?</title>
+      <link>https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html" rel="standout"></atom:link>
+      <description>The research is sparse, experts say, but there are some hints about how it could soothe you to sleep.</description>
+      <dc:creator>Rachel Rabkin Peachman</dc:creator>
+      <pubDate>Tue, 30 Aug 2022 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insomnia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30ASKWELL-CBD1/30ASKWELL-CBD1-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Gravel Biking is Getting Popular. Here’s How to Start.</title>
+      <link>https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html" rel="standout"></atom:link>
+      <description>A faster bicycle design with thicker tires is allowing cyclists to explore America’s 2.2 million miles of Here’s what you need to know about this new sport.</description>
+      <dc:creator>Hannah Singleton</dc:creator>
+      <pubDate>Wed, 14 Sep 2022 13:24:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Mountain Bike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/multimedia/WNT-GRAVEL-BIKING1/WNT-GRAVEL-BIKING1-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Goodlett for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How Do You Manage Omicron BA.5 Symptoms, Including a Sore Throat?</title>
+      <link>https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html" rel="standout"></atom:link>
+      <description>The longtime symptom of Covid is becoming more common, and sometimes more severe, with the dominant BA.5 subvariant.</description>
+      <dc:creator>Dani Blum</dc:creator>
+      <pubDate>Tue, 09 Aug 2022 16:26:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/well/24covid-ongoing-ba5-symptoms2/24covid-ongoing-ba5-symptoms2-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>Review: Berlin Takes Wagner’s Approach to Staging the ‘Ring’</title>

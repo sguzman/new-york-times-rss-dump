@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 13:55:08 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 13:54:52 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 14:40:43 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 14:34:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/12/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Berlin sent the first of four sophisticated missile systems to help Ukraine counter Russian airstrikes. Defense officials from more than 50 countries were discussing how to speed weapons to Kyiv in response to Moscow’s deadly missile barrage.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 13:54:52 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 14:34:54 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-header-1am/12ukraine-blog-header-1am-moth-v2.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Residents walking past a damaged building in Dnipro, Ukraine, on Tuesday, a day after a Russian missile struck the city.</media:description>
@@ -121,13 +121,13 @@
       <description>The leader’s nationalist effort to meld ethnic groups, an agenda increasingly central to his rule, is seen as a bulwark against internal divisions and threats from the West.</description>
       <dc:creator>Chris Buckley, Vivian Wang and Joy Dong</dc:creator>
       <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
       <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
       <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
@@ -291,7 +291,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/world/europe/zaporizhzhia-nuclear-power-plant-power-cut.html" rel="standout"></atom:link>
       <description>The electricity supply was affected after Russian forces shelled a substation that provides power to the nuclear plant, Ukraine’s state energy company said.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 12:11:12 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 14:34:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
@@ -308,15 +308,15 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/world/europe/poland-oil-pipeline-accident-russia.html" rel="standout"></atom:link>
       <description>News of the episode raised energy security concerns, but a Polish energy official said there was no reason to suspect sabotage.</description>
       <dc:creator>Stanley Reed</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 10:55:41 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 14:20:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-poland-pipeline1/12ukraine-blog-poland-pipeline1-moth.jpg" width="151"></media:content>
-      <media:credit>Sven Kaestner/Associated Press</media:credit>
-      <media:description>A pumping station at the end of the Druzhba oil pipeline in Schwedt, Germany, in 2007.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-poland-pipeline2/12ukraine-blog-poland-pipeline2-moth.jpg" width="151"></media:content>
+      <media:credit>Kacper Pempel/Reuters</media:credit>
+      <media:description>Firefighters near the Druzhba pipeline in Poland where an oil leak was detected on Wednesday.</media:description>
     </item>
     <item>
       <title>Abortion Bans Weigh on Republicans</title>
@@ -325,7 +325,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html" rel="standout"></atom:link>
       <description>Banning abortion is weighing on the party.</description>
       <dc:creator>Lisa Lerer</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 10:39:53 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 14:28:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>

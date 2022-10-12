@@ -3,25 +3,25 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 09:56:52 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 09:55:49 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 10:41:22 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 10:39:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: Allies to Discuss Sending More Weapons to Ukraine as Russia Blames Kyiv for Bridge Blast</title>
+      <title>Live Updates: Allies to Discuss More Weapons for Ukraine as Russia Blames Kyiv for Bridge Blast</title>
       <link>https://www.nytimes.com/live/2022/10/12/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/12/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/12/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>Russia’s domestic intelligence service said that eight people had been arrested in connection with Saturday’s attack on a key bridge. Ukraine’s government has not publicly claimed responsibility for the explosion.</description>
+      <description>Russia’s domestic intelligence service announced eight arrests in connection with the attack on the Crimean bridge. Defense officials from more than 50 countries are meeting as Ukraine demands more air defense systems.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 09:47:57 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 10:11:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-header-1am/12ukraine-blog-header-1am-moth-v2.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Residents walking past a damaged building in Dnipro, Ukraine, on Tuesday, a day after a Russian missile struck the city.</media:description>
@@ -266,6 +266,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10nkorea-01/10nkorea-01-moth.jpg" width="151"></media:content>
       <media:credit>Korean Central News Agency, via Agence France-Presse — Getty Images</media:credit>
       <media:description>A photograph provided by North Korean state media this week showed the country’s leader, Kim Jong-un, monitoring a missile launch at an undisclosed location.</media:description>
+    </item>
+    <item>
+      <title>A Republican Burden</title>
+      <link>https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html" rel="standout"></atom:link>
+      <description>Banning abortion is weighing on the party.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 10:39:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12themorning-promo/12themorning-lede-1-1-6591-moth.jpg" width="151"></media:content>
+      <media:credit>Shuran Huang for The New York Times</media:credit>
     </item>
     <item>
       <title>The ‘Age of P.C.R. Prosperity’? China’s Covid-Testing Strategy Comes Under Strain</title>
@@ -970,25 +986,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/07ukraine-brief-nuke-explainer/07ukraine-brief-nuke-explainer-moth.jpg" width="151"></media:content>
       <media:credit>Oliver Contreras for The New York Times</media:credit>
       <media:description>President Biden, at an appearance in Hagerstown, Md., on Friday as his administration worked to soften his statements about nuclear war delivered at a fund-raiser the day before.</media:description>
-    </item>
-    <item>
-      <title>Ukraine’s Zaporizhzhia Nuclear Plant Gets Power Restored After Shelling</title>
-      <link>https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/ukraine-zaporizhzhia-nuclear-power-plant-power.html" rel="standout"></atom:link>
-      <description>The leader of the International Atomic Energy Agency said getting the plant reconnected to outside power was a “temporary relief in a still untenable situation.”</description>
-      <dc:creator>Carly Olson</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 21:58:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grossi, Rafael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-zaporizhzhia-power-restored/merlin_211410879_b31f3826-8896-4db0-9efd-9578301b2305-moth.jpg" width="151"></media:content>
-      <media:credit>David Guttenfelder for The New York Times</media:credit>
-      <media:description>The Zaporizhzhia Nuclear Power Plant, along the banks of the Dnipro River in southern Ukraine, in August.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 06:15:34 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 05:50:49 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 07:02:26 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 07:00:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -270,6 +270,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10UK-LAWYERS-top-01/10UK-LAWYERS-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Striking criminal barristers, the lawyers who argue cases in court, outside the Supreme Court in London in September. </media:description>
+    </item>
+    <item>
+      <title>Young, Underground Reporters ‘Fight a Gun With a Pen’ in Myanmar</title>
+      <link>https://www.nytimes.com/2022/10/12/world/asia/myanmar-journalists-press-freedom.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/world/asia/myanmar-journalists-press-freedom.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/world/asia/myanmar-journalists-press-freedom.html" rel="standout"></atom:link>
+      <description>The Southeast Asian nation has seen a relentless crackdown on free expression, with a small literary magazine emerging as one of the few remaining independent media outlets.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/00myanmar-media1/merlin_185066217_4b9d6975-5b6d-445b-b6b1-074c7d53a3c0-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Myanmar is now one of the world’s most dangerous places for journalists after the army seized power in a coup last year.</media:description>
     </item>
     <item>
       <title>Your Wednesday Briefing</title>
@@ -956,19 +975,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-putin-bridge/09ukraine-briefing-putin-bridge-moth-v2.jpg" width="151"></media:content>
       <media:credit>Sputnik via Reuters</media:credit>
       <media:description>President Vladimir V. Putin in St. Petersburg, Russia, in a photo released by state media on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Biden turns to lessons from the Cuban Missile Crisis to deal with Putin’s nuclear threat.</title>
-      <link>https://www.nytimes.com/2022/10/09/world/europe/biden-turns-to-lessons-from-the-cuban-missile-crisis-to-deal-with-putins-nuclear-threat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/biden-turns-to-lessons-from-the-cuban-missile-crisis-to-deal-with-putins-nuclear-threat.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/biden-turns-to-lessons-from-the-cuban-missile-crisis-to-deal-with-putins-nuclear-threat.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 18:15:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/politics/08ukraine-briefing-nukes-news-analysis-VERSION/08ukraine-briefing-nukes-news-analysis-VERSION-moth.jpg" width="151"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>President Biden said on Thursday that the world may be facing “the prospect of Armageddon” if Russia uses a tactical nuclear weapon.</media:description>
     </item>
   </channel>
 </rss>

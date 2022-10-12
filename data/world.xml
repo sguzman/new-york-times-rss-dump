@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 12:51:20 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 12:49:41 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 13:55:08 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 13:54:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/12/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Berlin sent the first of four sophisticated missile systems to help Ukraine counter Russian airstrikes. Defense officials from more than 50 countries were discussing how to speed weapons to Kyiv in response to Moscow’s deadly missile barrage.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 12:49:41 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 13:54:52 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-header-1am/12ukraine-blog-header-1am-moth-v2.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Residents walking past a damaged building in Dnipro, Ukraine, on Tuesday, a day after a Russian missile struck the city.</media:description>
@@ -50,7 +50,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/world/middleeast/iran-women-protests-strike.html" rel="standout"></atom:link>
       <description>Human rights groups say at least 185 people have been killed and thousands injured or arrested, but demonstrations that began after the death of Mahsa Amini have continued nearly a month.</description>
       <dc:creator>Farnaz Fassihi and Jane Arraf</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 08:50:13 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 13:42:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
@@ -319,7 +319,7 @@
       <media:description>A pumping station at the end of the Druzhba oil pipeline in Schwedt, Germany, in 2007.</media:description>
     </item>
     <item>
-      <title>A Republican Burden</title>
+      <title>Abortion Bans Weigh on Republicans</title>
       <link>https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html" rel="standout"></atom:link>
@@ -335,7 +335,7 @@
       <media:credit>Shuran Huang for The New York Times</media:credit>
     </item>
     <item>
-      <title>The ‘Age of P.C.R. Prosperity’? China’s Covid-Testing Strategy Comes Under Strain</title>
+      <title>China’s Covid-Testing Strategy Comes Under Strain</title>
       <link>https://www.nytimes.com/2022/10/12/business/china-covid-testing.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/business/china-covid-testing.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/12/business/china-covid-testing.html" rel="standout"></atom:link>
@@ -461,13 +461,14 @@
       <dc:creator>Steven Erlanger, Eric Schmitt, Michael Schwirtz and Eric Nagourney</dc:creator>
       <pubDate>Tue, 11 Oct 2022 22:42:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoltenberg, Jens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11ukraine-ledeall_7/11ukraine-ledeall_7-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A wave of attacks by Russia in Ukraine’s capital, Kyiv, left a large crater in a playground.</media:description>

@@ -3,39 +3,17 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 03:59:37 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 03:47:50 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 05:14:48 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 05:00:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Los Angeles Confronts Racial Divide Anew After Leak of Racist Comments</title>
-      <link>https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html" rel="standout"></atom:link>
-      <description>Scores of residents demanded that three City Council members resign — as did President Biden — over a secretly recorded conversation that involved racist insults and slurs.</description>
-      <dc:creator>Jill Cowan and Shawn Hubler</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 01:36:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martinez, Nury</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herrera, Ron (Union Leader)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/us/11la-politics-1/11la-politics-1-moth.jpg" width="151"></media:content>
-      <media:credit>Sarah Reingewirtz/The Orange County Register, via Associated Press</media:credit>
-      <media:description>Mike Bonin, a member of the Los Angeles City Council, shed tears on Tuesday as he spoke about the racist comments directed toward his son.</media:description>
-    </item>
     <item>
       <title>The Hunt to Arm Ukraine Leads to Difficult Choices for Some Nations</title>
       <link>https://www.nytimes.com/2022/10/11/world/europe/ukraine-cyprus-arms-race.html</link>
@@ -106,6 +84,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/11/world/11ukraine-blog-biden-interview/11ukraine-blog-biden-interview-moth.jpg" width="151"></media:content>
       <media:credit>Cheriss May for The New York Times</media:credit>
       <media:description>President Biden at the White House on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Los Angeles Confronts Racial Divide Anew After Leak of Racist Comments</title>
+      <link>https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/us/los-angeles-city-council-race.html" rel="standout"></atom:link>
+      <description>Scores of residents demanded that three City Council members resign — as did President Biden — over a secretly recorded conversation that involved racist insults and slurs.</description>
+      <dc:creator>Jill Cowan and Shawn Hubler</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 01:36:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martinez, Nury</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herrera, Ron (Union Leader)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/us/11la-politics-1/11la-politics-1-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Reingewirtz/The Orange County Register, via Associated Press</media:credit>
+      <media:description>Mike Bonin, a member of the Los Angeles City Council, shed tears on Tuesday as he spoke about the racist comments directed toward his son.</media:description>
     </item>
     <item>
       <title>Angela Lansbury, TV’s Favorite Sleuth on ‘Murder She Wrote,’ Dies at 96</title>
@@ -185,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/11/us/politics/biden-venezuelans-parole-program.html" rel="standout"></atom:link>
       <description>The program, an effort to deal with a surge in migrants, would be similar to one offered to Ukrainians.</description>
       <dc:creator>Eileen Sullivan and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 03:43:06 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 04:17:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
@@ -219,7 +219,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/11/nyregion/lee-zeldin-shooting-house.html" rel="standout"></atom:link>
       <description>The shooting of two teenagers directly outside his Long Island home has given Mr. Zeldin an opportunity to push his tough-on-crime message within a personal frame.</description>
       <dc:creator>Luis Ferré-Sadurní and Grace Ashford</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 22:41:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 22:41:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -248,26 +248,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/science/11dart1/11dart1-moth.png" width="151"></media:content>
       <media:credit>NASA/ESA/STScI/Hubble</media:credit>
       <media:description>An image captured by NASA’s Hubble Space Telescope on Oct. 8 showed a tail of debris blasted from the surface of Dimorphos 285 hours after the collision with the DART spacecraft.</media:description>
-    </item>
-    <item>
-      <title>Elon Musk Has the World’s Strangest Social Calendar</title>
-      <link>https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/style/elon-musk-social-calendar.html" rel="standout"></atom:link>
-      <description>When the world’s richest man isn’t tweeting, he’s flying to Burning Man, trying to impress comedians and hopping on yachts.</description>
-      <dc:creator>Joseph Bernstein</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 21:27:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Burning Man Festival</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PayPal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/fashion/00ELON-top/00ELON-top-moth.jpg" width="151"></media:content>
-      <media:credit>Sinna Nasseri/Getty Images</media:credit>
-      <media:description>Elon Musk at this year’s Met Gala in New York.</media:description>
     </item>
     <item>
       <title>Florida Jury Prepares to Decide Parkland Gunman’s Punishment</title>
@@ -323,6 +303,43 @@
       <media:credit>Illustration by Chantal Jahchan. Photograph by Getty Images</media:credit>
     </item>
     <item>
+      <title>With Attacks, Russia’s Putin Is Trying to Terrorize Ukrainians</title>
+      <link>https://www.nytimes.com/2022/10/12/opinion/ukraine-attacks-russia-kyiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/opinion/ukraine-attacks-russia-kyiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/opinion/ukraine-attacks-russia-kyiv.html" rel="standout"></atom:link>
+      <description>We are not back to the start of the war.</description>
+      <dc:creator>Margo Gontar</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 05:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/opinion/12gontar-image2/12gontar-image2-moth.jpg" width="151"></media:content>
+      <media:credit>Gleb Garanich/Reuters</media:credit>
+    </item>
+    <item>
+      <title>A Cruel Death in Hebron</title>
+      <link>https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html" rel="standout"></atom:link>
+      <description>National liberation for Palestine means nothing without individual liberties for Palestinians.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 23:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmad Abu Murkhiyeh</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/opinion/11stephens1/11stephens1-moth.jpg" width="151"></media:content>
+      <media:credit>Oded Balilty/Associated Press</media:credit>
+    </item>
+    <item>
       <title>Kanye Shows Where the Right’s Troll Politics Lead</title>
       <link>https://www.nytimes.com/2022/10/11/opinion/kanye-right-antisemitism.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/kanye-right-antisemitism.html</guid>
@@ -343,24 +360,19 @@
       <media:credit>Evan Vucci/Associated Press</media:credit>
     </item>
     <item>
-      <title>A Cruel Death in Hebron</title>
-      <link>https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/opinion/murkhiyeh-death-hebron.html" rel="standout"></atom:link>
-      <description>National liberation for Palestine means nothing without individual liberties for Palestinians.</description>
-      <dc:creator>Bret Stephens</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 23:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmad Abu Murkhiyeh</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/11stephens1/11stephens1-moth.jpg" width="151"></media:content>
-      <media:credit>Oded Balilty/Associated Press</media:credit>
+      <title>Why Do People Think Going to Therapy Makes You a Good Person?</title>
+      <link>https://www.nytimes.com/2022/10/11/opinion/therapy-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/therapy-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/opinion/therapy-america.html" rel="standout"></atom:link>
+      <description>The recent focus on therapy as a cure-all overlooks that there are other ways to heal.</description>
+      <dc:creator>Mychal Denzel Smith</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 16:25:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/sunday/11Smith/11Smith-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Tyler Comrie; photograph by Getty Images/iStockphoto</media:credit>
     </item>
     <item>
       <title>A Nobel Prize for the Economics of Panic</title>
@@ -378,44 +390,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dybvig, Philip H (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diamond, Douglas (1953- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/11krugman-newsletter-image/11krugman-newsletter-image-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/opinion/11krugman-newsletter-image/11krugman-newsletter-image-moth.jpg" width="151"></media:content>
       <media:credit>Illustration by The New York Times; images by vanbeets and Bettmann via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Why Do People Think Going to Therapy Makes You a Good Person?</title>
-      <link>https://www.nytimes.com/2022/10/11/opinion/therapy-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/therapy-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/opinion/therapy-america.html" rel="standout"></atom:link>
-      <description>The recent focus on therapy as a cure-all overlooks that there are other ways to heal.</description>
-      <dc:creator>Mychal Denzel Smith</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 16:25:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/sunday/11Smith/11Smith-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Tyler Comrie; photograph by Getty Images/iStockphoto</media:credit>
-    </item>
-    <item>
-      <title>This Is What Happens When Election Deniers Let Their Freak Flag Fly</title>
-      <link>https://www.nytimes.com/2022/10/11/opinion/election-deniers-trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/opinion/election-deniers-trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/opinion/election-deniers-trump-midterms.html" rel="standout"></atom:link>
-      <description>The 2020-was-rigged crowd has ambitious plans.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 20:01:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/11bouie1/11bouie1-moth.jpg" width="151"></media:content>
-      <media:credit>Bridget Bennett for The New York Times</media:credit>
     </item>
     <item>
       <title>How Facebook Triggers My Bipolar Disorder</title>
@@ -438,61 +414,70 @@
       <media:credit>Tommy Kha for The New York Times</media:credit>
     </item>
     <item>
-      <title>Your Tuesday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/10/11/briefing/nato-ukraine-weapons-angela-lansbury.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/briefing/nato-ukraine-weapons-angela-lansbury.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/briefing/nato-ukraine-weapons-angela-lansbury.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 22:38:00 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/multimedia/11evening-briefing-nl-UKR2-1-83f7/11evening-briefing-nl-UKR2-1-83f7-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>A Russian missile yesterday caused a crater in Ukraine’s capital, Kyiv.</media:description>
+      <title>We Were Three</title>
+      <link>https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html" rel="standout"></atom:link>
+      <description>A story of lies, family, America and what Covid revealed, as well as what it destroyed.</description>
+      <dc:creator>Nancy Updike, Jenelle Pifer, Julie Snyder and Sophie Allison of Soccer Mommy</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 02:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rochester (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-tragedy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Why Republicans Could Prevail in the Popular Vote but Lose in the House</title>
-      <link>https://www.nytimes.com/2022/10/11/upshot/republicans-midterms-house-analysis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/upshot/republicans-midterms-house-analysis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/upshot/republicans-midterms-house-analysis.html" rel="standout"></atom:link>
-      <description>In a potential reversal of recent structural trends, there’s a small chance of something we haven’t seen since 1952.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 09:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <title>Is Ron DeSantis as Strong a Potential Candidate as He Seems?</title>
+      <link>https://www.nytimes.com/2022/10/11/us/politics/ron-desantis-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/us/politics/ron-desantis-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/us/politics/ron-desantis-republicans.html" rel="standout"></atom:link>
+      <description>The Florida governor looks to be well positioned to head into a hypothetical presidential primary in 2024. But past Republican darlings rose just as fast — only to fall quickly.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 23:53:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kildee, Daniel T</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/multimedia/11onpolitics-desantis-1-14b2/11onpolitics-desantis-1-14b2-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>In polls, Gov. Ron DeSantis of Florida consistently rates as the second choice of Republican voters, behind former President Donald Trump but well ahead of any putative rivals.</media:description>
     </item>
     <item>
-      <title>Do You Have Questions About the Social Security COLA? We Want to Hear From You</title>
-      <link>https://www.nytimes.com/2022/10/07/business/retirement/social-security-cola-questions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/business/retirement/social-security-cola-questions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/business/retirement/social-security-cola-questions.html" rel="standout"></atom:link>
-      <description>Reporters and editors working on our coverage of Social Security will find the answers.</description>
-      <pubDate>Mon, 10 Oct 2022 21:07:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Social Security Administration</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/09/business/09Retiring-lede-illo/09Retiring-lede-illo-moth.jpg" width="151"></media:content>
-      <media:credit>Lisa Haney</media:credit>
+      <title>Revisiting Baldwin vs. Buckley</title>
+      <link>https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/07/books/review/revisiting-baldwin-vs-buckley.html" rel="standout"></atom:link>
+      <description>Nicholas Buccola talks about “The Fire Is Upon Us,” and Lydia Millet discusses “The Children’s Bible.”</description>
+      <pubDate>Fri, 07 Oct 2022 14:45:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/17/books/17MEANY-COMBO/00MEANY-COMBO-moth-v2.jpg" width="151"></media:content>
+      <media:credit>From left: Dave Pickoff/Associated Press; Associated Press</media:credit>
+      <media:description>The 1965 debate between James Baldwin and William F. Buckley Jr. at the Cambridge Union was a crucial battle in the fight over civil rights.</media:description>
     </item>
     <item>
-      <title>How to Spend a Day in Red Hook</title>
-      <link>https://www.nytimes.com/2022/10/11/dining/how-to-spend-a-day-in-red-hook.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/dining/how-to-spend-a-day-in-red-hook.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/dining/how-to-spend-a-day-in-red-hook.html" rel="standout"></atom:link>
-      <description>October can feel like the last hurrah for outdoor life. Make the most of it by eating along the Brooklyn waterfront.</description>
-      <dc:creator>Becky Hughes</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 20:07:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/dining/11WTE-redhook-NL4/11WTE-redhook-NL4-moth.jpg" width="151"></media:content>
-      <media:credit>Emon Hassan for The New York Times</media:credit>
-      <media:description>The Valentino special, with fried eggplant, provolone and peppers, at Defonte’s Sandwich Shop.</media:description>
+      <title>Hangover Anxiety: How a Night of Drinking Can Tank Your Mood</title>
+      <link>https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/06/well/live/hangover-anxiety-mood.html" rel="standout"></atom:link>
+      <description>Consuming alcohol can mess with your emotions the next day by causing stress hormones to spike and sleep to be disrupted overnight.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Fri, 07 Oct 2022 19:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/well/06Well-NL-Hangxiety/06Well-NL-Hangxiety-moth.jpg" width="151"></media:content>
+      <media:credit>Pablo Delcan</media:credit>
     </item>
     <item>
       <title>Justice Dept. Asks Supreme Court to Reject Trump Request in Documents Case</title>
@@ -540,7 +525,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/11/us/supreme-court-pigs-animal-cruelty.html" rel="standout"></atom:link>
       <description>A California law requiring that pork sold in the state come from humanely raised pigs posed questions about how far states can go in affecting conduct outside their borders.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 20:54:42 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 20:54:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interstate Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>

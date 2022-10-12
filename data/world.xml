@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 07:53:52 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 07:46:43 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 08:37:44 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 08:33:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/11/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>A day after Moscow’s broadest strikes in months, Jens Stoltenberg, NATO’s secretary-general, said defensive systems supplied by members nations were helping. The Ukrainian military said on Tuesday it had shot down numerous Russian cruise missiles.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 05:50:49 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 08:33:35 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/multimedia/11-ukraine-blog-promo-600pm/11-ukraine-blog-families-1-732f-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -272,6 +272,25 @@
       <media:description>Striking criminal barristers, the lawyers who argue cases in court, outside the Supreme Court in London in September. </media:description>
     </item>
     <item>
+      <title>Protests in Iran Spread, Including to Oil Sector, Despite Violent Crackdown</title>
+      <link>https://www.nytimes.com/2022/10/12/world/middleeast/iran-women-protests-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/world/middleeast/iran-women-protests-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/world/middleeast/iran-women-protests-strike.html" rel="standout"></atom:link>
+      <description>Human rights groups say at least 185 people have been killed and thousands injured or arrested, but demonstrations that began after the death of Mahsa Amini have continued nearly a month.</description>
+      <dc:creator>Farnaz Fassihi and Jane Arraf</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 08:26:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12iran-protests-01/12iran-protests-01-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Tehran, the capital, on Sunday.</media:description>
+    </item>
+    <item>
       <title>Young, Underground Reporters ‘Fight a Gun With a Pen’ in Myanmar</title>
       <link>https://www.nytimes.com/2022/10/12/world/asia/myanmar-journalists-press-freedom.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/world/asia/myanmar-journalists-press-freedom.html</guid>
@@ -307,9 +326,9 @@
       <link>https://www.nytimes.com/2022/10/12/world/europe/ukraine-nuclear-fear.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/world/europe/ukraine-nuclear-fear.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/12/world/europe/ukraine-nuclear-fear.html" rel="standout"></atom:link>
-      <description>Fears of more severe retaliation grew after the attack on Russia’s sole bridge to Crimea. But U.S. officials have said they think the chances of Moscow using nuclear weapons are low.</description>
+      <description>Fears of more severe retaliation grew after the attack on Russia’s sole bridge to Crimea. But U.S. officials have said they think the chances of Moscow’s using nuclear weapons are low.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 04:01:08 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 08:31:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -499,7 +518,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-briefing-yacht-image/10ukraine-briefing-yacht-image-moth.jpg" width="151"></media:content>
       <media:credit>Tyrone Siu/Reuters</media:credit>
-      <media:description>The superyacht Nord is believed to belong to billionaire Alexei Mordashov in the waters off Hong Kong, on Friday.</media:description>
+      <media:description>The superyacht Nord, which is believed to belong to billionaire Alexei Mordashov, in the waters off Hong Kong, on Friday.</media:description>
     </item>
     <item>
       <title>What Russia’s Missile Strikes May Indicate About Its Weapons Stockpile</title>
@@ -936,45 +955,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borova (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kupiansk (Ukraine)</category>
-    </item>
-    <item>
-      <title>‘Eye of Sauron’: The Dazzling Solar Tower in the Israeli Desert</title>
-      <link>https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/middleeast/israel-solar-tower.html" rel="standout"></atom:link>
-      <description>Looming over a remote village in the Negev, the Ashalim solar plant is, for some, a marvel of green technology. For others, it’s a boondoggle and an eyesore.</description>
-      <dc:creator>Patrick Kingsley and Amit Elkayam</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 19:23:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ashalim (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Negev Desert</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/world/00Israel-Solar-Dispatch7/merlin_209781582_1c1f091b-6638-489b-96c1-b089ec6cc77a-moth.jpg" width="151"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Shepherds near the Ashalim solar station. Completed in 2019, the tower generates enough electricity to power tens of thousands of homes.</media:description>
-    </item>
-    <item>
-      <title>Putin Blames Ukraine For Crimea Bridge Blast, Calling It ‘Terrorism’</title>
-      <link>https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/09/world/europe/putin-ukraine-crimea-bridge-terrorism.html" rel="standout"></atom:link>
-      <description>The Russian president’s remarks were his first about Saturday’s explosion on the Kerch Strait Bridge.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Sun, 09 Oct 2022 20:53:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerch Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Investigative Committee (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/09ukraine-briefing-putin-bridge/09ukraine-briefing-putin-bridge-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Sputnik via Reuters</media:credit>
-      <media:description>President Vladimir V. Putin in St. Petersburg, Russia, in a photo released by state media on Sunday.</media:description>
     </item>
   </channel>
 </rss>

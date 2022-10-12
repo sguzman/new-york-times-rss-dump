@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 19:14:31 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 19:04:28 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 19:38:15 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 19:37:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/us/politics/leonard-leo-network.html" rel="standout"></atom:link>
       <description>The groups in the network spent nearly $504 million on policy and political fights, including grants to about 150 allied groups, between mid-2015 and last year.</description>
       <dc:creator>Kenneth P. Vogel</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 17:31:50 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 19:29:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
@@ -108,7 +108,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/world/americas/venezuela-us-sanctions.html" rel="standout"></atom:link>
       <description>The Biden administration may allow the last American company producing oil in Venezuela to resume exports if the Maduro government takes steps to restore democracy.</description>
       <dc:creator>Natalie Kitroeff and Anatoly Kurmanaev</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 18:51:22 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 18:51:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PDVSA</category>
@@ -119,6 +119,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darien Gap</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12venezuela-5/merlin_214002183_c73b85da-424f-41d6-8c3c-f34a20606a9a-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>A Venezuelan family crossing the Darién Gap between Colombia and Panama last month.</media:description>
@@ -139,6 +142,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/00migrants-shot-01/00migrants-shot-01-moth.jpg" width="151"></media:content>
       <media:credit>Ivan Pierre Aguirre for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Liz Truss Stirs Uncertainty Over the UK’s Economic Plans</title>
+      <link>https://www.nytimes.com/2022/10/12/world/europe/britain-economy-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/world/europe/britain-economy-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/world/europe/britain-economy-liz-truss.html" rel="standout"></atom:link>
+      <description>Prime Minister Liz Truss appeared to rule out cuts in public spending, as doubts about the fiscal soundness of the government’s program continued to roil the markets.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 19:29:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12UK-TRUSS-01/12UK-TRUSS-01-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Liz Truss leaving to address Parliament on Wednesday.</media:description>
     </item>
     <item>
       <title>Turmoil Returns to the U.K. Bond Market</title>
@@ -176,29 +201,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12dc-fed-minutes-1-1-4930/12dc-fed-minutes-1-1-4930-moth.jpg" width="151"></media:content>
       <media:credit>Jacquelyn Martin/STF, via Associated Press</media:credit>
       <media:description>Jerome H. Powell, the Federal Reserve chair, at a news conference last month, after the central bank raised interest rates by three-quarters of a percentage point for a third straight time.</media:description>
-    </item>
-    <item>
-      <title>Labor Hoarding Could be Good News for the Economy</title>
-      <link>https://www.nytimes.com/2022/10/12/business/economy/companies-hoarding-workers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/business/economy/companies-hoarding-workers.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/business/economy/companies-hoarding-workers.html" rel="standout"></atom:link>
-      <description>Employers have been burned by a labor shortage. Will that make them act differently if the economy slows down?</description>
-      <dc:creator>Jeanna Smialek, Sydney Ember and Kim Raff</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 09:00:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/business/00dc-laborhoarding01/00dc-laborhoarding01-moth.jpg" width="151"></media:content>
-      <media:description>The dining room of Bistro Provenance, one of Chad Pritchard’s restaurants in Provo, Utah.</media:description>
     </item>
     <item>
       <title>Uvalde Shooting Investigation Miscast Blame For Delayed Police Response</title>
@@ -261,26 +263,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/nyregion/12yeshiva-ruling1/merlin_165643227_9bc0bde0-01a0-40e9-a305-af8c2496321e-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Yeshiva Mesivta Arugath Habosem, an all-boys Hasidic school in Williamsburg, Brooklyn, is not complying with a state education law requiring private schools to offer basic secular studies.</media:description>
-    </item>
-    <item>
-      <title>FDA Authorizes Updated Covid Booster Shots For Kids 5 to 11</title>
-      <link>https://www.nytimes.com/2022/10/12/us/politics/covid-booster-shots-kids.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/us/politics/covid-booster-shots-kids.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/us/politics/covid-booster-shots-kids.html" rel="standout"></atom:link>
-      <description>Regulators authorized the shots for older age groups in late August, but much of the general population appears either unaware or uninterested in them.</description>
-      <dc:creator>Sharon LaFraniere</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 19:02:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/us/politics/12dc-booster/merlin_213530499_f823f18d-2945-4947-9fc1-70ff1505cc5b-moth.jpg" width="151"></media:content>
-      <media:credit>Kristopher Radder/The Brattleboro Reformer, via Associated Press</media:credit>
-      <media:description>The Food and Drug Administration’s action will expand access to Pfizer’s shot to children as young as 5, and to Moderna’s shot to children 6 and older.</media:description>
     </item>
     <item>
       <title>Under the Skin of Jamie Lee Curtis</title>
@@ -391,7 +373,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/opinion/midterms-latino-voters.html" rel="standout"></atom:link>
       <description>The choices made by Latino voters will be crucial to the outcome in a disproportionate share of Senate battleground states and key House races.</description>
       <dc:creator>Thomas B. Edsall</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 18:48:11 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 19:22:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
@@ -431,7 +413,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/opinion/los-angeles-city-council.html" rel="standout"></atom:link>
       <description>Motherhood and racism aren’t compatible? If only it were that easy.</description>
       <dc:creator>Frank Bruni</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 19:04:28 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 19:37:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martinez, Nury</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles County (Calif)</category>

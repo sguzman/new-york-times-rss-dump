@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 16:27:14 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Oct 2022 16:21:34 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 17:22:25 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 17:18:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/us/politics/biden-china-russia-national-security.html" rel="standout"></atom:link>
       <description>The document, which every new administration is required to issue, was delayed last winter as it became clear that Russia’s invasion of Ukraine was imminent.</description>
       <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 16:21:34 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 16:21:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -288,7 +288,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/us/navy-seal-training-death-report.html" rel="standout"></atom:link>
       <description>Seaman Kyle Mullen’s death a few hours after completing the brutal Hell Week portion of the SEALs’ selection course raised broad concerns about how the course is run.</description>
       <dc:creator>Dave Philipps</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 13:38:56 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 17:17:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Navy Seals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullen, Kyle (1997-2022)</category>
@@ -323,9 +323,9 @@
       <link>https://www.nytimes.com/2022/10/12/magazine/american-trash-culture.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/magazine/american-trash-culture.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/12/magazine/american-trash-culture.html" rel="standout"></atom:link>
-      <description>Our trash urges gave movies its musk, its fun, its hickies, its exercise. Where did it go?</description>
+      <description>It’s not just that trash is what Americans want from movies; it’s who we are. So where did it go?</description>
       <dc:creator>Wesley Morris</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 11:40:52 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 16:41:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Waters, John (1946- )</category>
@@ -335,6 +335,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Evil (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Apprentice (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewinsky, Monica S</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/magazine/16mag-trashillo/16mag-trashillo-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Luca Schenardi</media:credit>
     </item>
     <item>
       <title>Haiti Has Been a Plaything of Powerful Forces for Too Long</title>
@@ -447,7 +449,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/opinion/12douthat1/12douthat1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/opinion/12douthat1/12douthat1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Girolamo Di Majo/Associated Press</media:credit>
     </item>
     <item>
@@ -457,7 +459,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/11/opinion/kanye-right-antisemitism.html" rel="standout"></atom:link>
       <description>Why conservatives can’t condemn his antisemitism.</description>
       <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 01:40:22 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2022 17:00:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
@@ -610,105 +612,111 @@
       <media:credit>Ivan Pierre Aguirre for The New York Times</media:credit>
     </item>
     <item>
-      <title>Flu Shot: What to Know About Side Effects, Protection and Timing</title>
-      <link>https://www.nytimes.com/article/flu-shot-vaccine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/flu-shot-vaccine.html</guid>
-      <atom:link href="https://www.nytimes.com/article/flu-shot-vaccine.html" rel="standout"></atom:link>
-      <description>And everything else you’ve been wondering about this annual vaccine.</description>
-      <dc:creator>Knvul Sheikh</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 14:21:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/well/11WELL-FLU-SHOT-EXPLAINER1/11WELL-FLU-SHOT-EXPLAINER1-moth.jpg" width="151"></media:content>
+      <title>Health Panel Recommends Screening All Kids 8 and Up for Anxiety</title>
+      <link>https://www.nytimes.com/2022/10/11/well/family/anxiety-screening-recommendation-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/well/family/anxiety-screening-recommendation-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/well/family/anxiety-screening-recommendation-children.html" rel="standout"></atom:link>
+      <description>To address the mental health crisis facing American youth, experts also said adolescents should be screened for depression.</description>
+      <dc:creator>Catherine Pearson</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 17:29:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Preventive Services Task Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/well/11WELL-DEPRESSION-ANXIETY-SCREENING-KIDS1/11WELL-DEPRESSION-ANXIETY-SCREENING-KIDS1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>New Study Strengthens the Link Between Exercise and Memory</title>
-      <link>https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/07/well/move/exercise-memory.html" rel="standout"></atom:link>
-      <description>Experts have long known that fitness is good for the brain. A recent paper connects different types of workouts with assorted improvements in memory.</description>
-      <dc:creator>Rachel Fairbank</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 02:29:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <title>Can You Drink On Antidepressants? What Experts Say About Safety.</title>
+      <link>https://www.nytimes.com/2022/10/11/well/mind/drinking-alcohol-ssri-antidepressants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/well/mind/drinking-alcohol-ssri-antidepressants.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/well/mind/drinking-alcohol-ssri-antidepressants.html" rel="standout"></atom:link>
+      <description>The internet is full of warnings about antidepressants and drinking. Here’s what mental health experts want you to know.</description>
+      <dc:creator>Jyoti Madhusoodanan</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 18:57:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/07EXERCISE-MEMORY-1-9cd3/07EXERCISE-MEMORY-1-9cd3-moth.jpg" width="151"></media:content>
-      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Does CBD Help With Insomnia?</title>
-      <link>https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/08/30/well/live/does-cbd-help-with-insomnia.html" rel="standout"></atom:link>
-      <description>The research is sparse, experts say, but there are some hints about how it could soothe you to sleep.</description>
-      <dc:creator>Rachel Rabkin Peachman</dc:creator>
-      <pubDate>Tue, 30 Aug 2022 09:00:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insomnia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/30/multimedia/30ASKWELL-CBD1/30ASKWELL-CBD1-moth.jpg" width="151"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Serotonin (Chemical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/multimedia/11ASKWELL-SSRIS1-1-e769/11ASKWELL-SSRIS1-1-e769-moth.jpg" width="151"></media:content>
       <media:credit>Eric Helgas for The New York Times</media:credit>
     </item>
     <item>
-      <title>Gravel Biking is Getting Popular. Here’s How to Start.</title>
-      <link>https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/09/14/well/move/gravel-biking.html" rel="standout"></atom:link>
-      <description>A faster bicycle design with thicker tires is allowing cyclists to explore America’s 2.2 million miles of Here’s what you need to know about this new sport.</description>
-      <dc:creator>Hannah Singleton</dc:creator>
-      <pubDate>Wed, 14 Sep 2022 13:24:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Mountain Bike</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/multimedia/WNT-GRAVEL-BIKING1/WNT-GRAVEL-BIKING1-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Goodlett for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>How Do You Manage Omicron BA.5 Symptoms, Including a Sore Throat?</title>
-      <link>https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/article/omicron-ba5-symptoms-covid.html" rel="standout"></atom:link>
-      <description>The longtime symptom of Covid is becoming more common, and sometimes more severe, with the dominant BA.5 subvariant.</description>
-      <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Tue, 09 Aug 2022 16:26:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <title>Can Stimulating the Vagus Nerve Improve Mental Health?</title>
+      <link>https://www.nytimes.com/2022/06/02/well/mind/vagus-nerve-mental-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/02/well/mind/vagus-nerve-mental-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/02/well/mind/vagus-nerve-mental-health.html" rel="standout"></atom:link>
+      <description>On social media, exercises that aim to “tone” one of our body’s longest nerves have been touted as a cure-all for anxiety and other psychological ailments. Here’s what the research says.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 02 Jun 2022 12:40:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vagus Nerve</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/24/well/24covid-ongoing-ba5-symptoms2/24covid-ongoing-ba5-symptoms2-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/31/well/26Well-Vagus-Nerve/26Well-Vagus-Nerve-moth.jpg" width="151"></media:content>
+      <media:credit>Chloe Cushman</media:credit>
     </item>
     <item>
-      <title>Does Korean Cuisine Belong to Korea?</title>
-      <link>https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html" rel="standout"></atom:link>
-      <description>South Korea has sought to protect and enshrine its national dishes — while also exporting its wonders to the world.</description>
-      <dc:creator>Ligaya Mishan and David Chow</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 11:40:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kimchi (South Korean Food)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michelin Guide</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunlop, Fuchsia</category>
-      <category domain="">tgreats2022</category>
+      <title>How You Can Use Anticipation to Enjoy Life More</title>
+      <link>https://www.nytimes.com/2022/05/31/well/mind/anticipation-happiness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/31/well/mind/anticipation-happiness.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/31/well/mind/anticipation-happiness.html" rel="standout"></atom:link>
+      <description>Looking forward to something can be almost as good as experiencing it.</description>
+      <dc:creator>Holly Burns</dc:creator>
+      <pubDate>Tue, 07 Jun 2022 21:31:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/31/well/26Well-Anticipation/26Well-Anticipation-moth.jpg" width="151"></media:content>
+      <media:credit>Jakov Jakovljevic</media:credit>
+    </item>
+    <item>
+      <title>Virtual Reality Therapy Could Give Relief to Seniors</title>
+      <link>https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/06/well/mind/virtual-reality-therapy-seniors.html" rel="standout"></atom:link>
+      <description>Some care facilities are giving older adults a way to visit their pasts to boost their well-being.</description>
+      <dc:creator>Matt Fuchs</dc:creator>
+      <pubDate>Fri, 06 May 2022 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Headphones and Headsets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement Communities and Assisted Living</category>
+    </item>
+    <item>
+      <title>Melissa Etheridge and Jill Sobule Bring Their Whole Lives to the Stage</title>
+      <link>https://www.nytimes.com/2022/10/11/theater/jill-sobule-melissa-etheridge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/theater/jill-sobule-melissa-etheridge.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/theater/jill-sobule-melissa-etheridge.html" rel="standout"></atom:link>
+      <description>They both first made a splash in the ’90s. They’re now in New York to present new theatrical memoirs that mix storytelling and songs.</description>
+      <dc:creator>Elisabeth Vincentelli</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 17:18:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wild Project Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Etheridge, Melissa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">F*ck7thGrade (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New World Stages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobule, Jill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">My Window -- A Journey Through Life (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/arts/11SOBULE-ETHERIDGE-1HIGHRES/11SOBULE-ETHERIDGE-1HIGHRES-moth.jpg" width="151"></media:content>
+      <media:credit>Luisa Opalesky for The New York Times</media:credit>
+      <media:description>Melissa Etheridge, left, and Jill Sobule. In the 1990s, when Etheridge released the hits “Come to My Window” and “I’m the Only One,” she made a splash. That same decade, Jill Sobule released “I Kissed a Girl.”</media:description>
     </item>
     <item>
       <title>How to Solve Hard Crosswords</title>

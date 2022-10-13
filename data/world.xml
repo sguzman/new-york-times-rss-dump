@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 15:40:05 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 15:38:33 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 15:59:16 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 15:48:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>More than three dozen people have been killed since Russia intensified strikes against civilian areas on Monday, according to Ukrainian officials.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 15:38:33 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 15:48:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/12/world/13ukraine-blog-sfp/12ukraine-blog-carousel-Zaporizhzhia04-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -76,6 +76,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00paris-dispatch01/00paris-dispatch01-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Kevin Ha, 30, left, leader of the On The Spot Parkour collective in Paris, climbs a wall to turn off a shop’s exterior lights on the Avenue des Champs-Élysées, in September.</media:description>
+    </item>
+    <item>
+      <title>Iraqi Parliament Elects Abdul Latif Rashid as New President</title>
+      <link>https://www.nytimes.com/2022/10/13/world/middleeast/iraqi-parliament-elects-latif-rashid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/world/middleeast/iraqi-parliament-elects-latif-rashid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/world/middleeast/iraqi-parliament-elects-latif-rashid.html" rel="standout"></atom:link>
+      <description>The vote is the first step to forming a new government after a year of political deadlock and heightened instability.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 15:43:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salih, Barham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdul Latif Rashid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/world/13iraq-parliament01/merlin_214806333_2b78d8e5-dafe-4740-83f2-5ab5a1cc0ab1-moth.jpg" width="151"></media:content>
+      <media:credit>Iraqi Parliament Media Office/Via Reuters</media:credit>
+      <media:description>Iraqi lawmakers attended a parliamentary session on Thursday to vote for a new president in Baghdad.</media:description>
     </item>
     <item>
       <title>Saudi Arabia Pushes Back at U.S. Outrage Over Oil Cuts</title>
@@ -194,15 +212,12 @@
       <description>Facing nine years in prison in Russia, the U.S. basketball star is struggling emotionally and worried that a swap deal to release her may not materialize, according to one of her attorneys.</description>
       <dc:creator>Valerie Hopkins and Michael Crowley</dc:creator>
       <pubDate>Wed, 12 Oct 2022 18:10:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whelan, Paul N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/15/world/00Brittney-Griner-Update-top/00Brittney-Griner-Update-top-moth-v2.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner at a court outside Moscow in August. The United States has said that her detention and trial were politically motivated.</media:description>
@@ -283,25 +298,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12UK-Brexit-top-01/12UK-Brexit-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Emily Macinnes for The New York Times</media:credit>
       <media:description>Spectators watched as Paisley Abbey was illuminated for an art installation during an “Unboxed: Creativity in the U.K.” event, in Paisley, Scotland, earlier this year.</media:description>
-    </item>
-    <item>
-      <title>One Nation Under Xi: How China’s Leader Is Remaking Its Identity</title>
-      <link>https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html" rel="standout"></atom:link>
-      <description>The leader’s nationalist effort to meld ethnic groups, an agenda increasingly central to his rule, is seen as a bulwark against internal divisions and threats from the West.</description>
-      <dc:creator>Chris Buckley, Vivian Wang and Joy Dong</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
-      <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
-      <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
     </item>
     <item>
       <title>With New Crackdown, Biden Wages Global Campaign on Chinese Technology</title>
@@ -956,6 +952,25 @@
       <media:description>An Israeli navy vessel patrolled the Mediterranean waters off Rosh Hanikra on the border between Israel and Lebanon on Friday.</media:description>
     </item>
     <item>
+      <title>One Nation Under Xi: How China’s Leader Is Remaking Its Identity</title>
+      <link>https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/world/asia/xi-jinping-china-nationhood.html" rel="standout"></atom:link>
+      <description>The leader’s nationalist effort to meld ethnic groups, an agenda increasingly central to his rule, is seen as a bulwark against internal divisions and threats from the West.</description>
+      <dc:creator>Chris Buckley, Vivian Wang and Joy Dong</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 09:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00china-nationhood-01/00china-nationhood-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yao Dawei/Xinhua, via Getty Images</media:credit>
+      <media:description>The Chinese leader, Xi Jinping, meeting with members of ethnic groups in 2015.</media:description>
+    </item>
+    <item>
       <title>It’s Never Too Late to Pivot From N.F.L. Safety to Neurosurgeon</title>
       <link>https://www.nytimes.com/2022/10/11/sports/football/myron-rolle-career-pivot-football-neurosurgeon.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/sports/football/myron-rolle-career-pivot-football-neurosurgeon.html</guid>
@@ -1077,24 +1092,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10russia-putin-1/10russia-putin-1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Emergency services workers on Monday at the site of an overnight missile strike in Zaporizhzhia, Ukraine.</media:description>
-    </item>
-    <item>
-      <title>Russian Strikes Batter Kyiv and Send Residents Dashing for Cover</title>
-      <link>https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/ukraine-kyiv-russia-missiles.html" rel="standout"></atom:link>
-      <description>The fighting in Ukraine had felt far from the capital in recent months, but the barrage of missiles brought many residents back to the fear and uncertainty of the early days of Russia’s invasion.</description>
-      <dc:creator>Michael Schwirtz, Megan Specia and Finbarr O’Reilly</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 08:01:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-scene-new-promo/10ukraine-scene-new-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Injured civilians in Kyiv.</media:description>
     </item>
   </channel>
 </rss>

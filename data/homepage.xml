@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 14:56:15 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 14:49:04 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 15:29:42 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 15:26:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,14 +87,20 @@
       <description>The cutting of Russian gas supplies to Europe has led Germany to step up coal use, despite its goal to phase it out by 2030.</description>
       <dc:creator>Christopher F. Schuetze and Erika Solomon</dc:creator>
       <pubDate>Thu, 13 Oct 2022 04:01:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RWE</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lutzerath (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RWE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/00Germany-Coal-top-01/00Germany-Coal-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Ingmar Nolting for The New York Times</media:credit>
       <media:description>An excavator working at the Garzweiler open-pit coal mine in Germany in August. The prospect of a winter without cheap Russian gas has dampened interest in greener policies.</media:description>
@@ -130,13 +136,16 @@
       <description>In what may be its final public hearing, the committee intends to present new evidence about the former president’s state of mind and central role in the plan to overturn the 2020 election.</description>
       <dc:creator>Luke Broadwater</dc:creator>
       <pubDate>Wed, 12 Oct 2022 22:58:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Virginia Lamp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/us/politics/12dc-Jan6-1/merlin_182048325_534ee07c-0dec-4998-9f9c-2e68721e9c34-moth.jpg" width="151"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
       <media:description>President Donald J. Trump speaking at a rally near the White House on Jan. 6, 2021, just before the Capitol riot.</media:description>
@@ -493,7 +502,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/podcasts/the-daily/afghanistan-girls-taliban.html" rel="standout"></atom:link>
       <description>An update on N, a teenager in Afghanistan who escaped an arranged marriage to a member of the Taliban and went into hiding in Kabul.</description>
       <dc:creator>Lynsea Garrison, Mike Benoist, Marion Lozano, Dan Powell and Elisheba Ittoop</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 10:00:08 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 10:00:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
@@ -577,7 +586,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Detwiler, Andy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>

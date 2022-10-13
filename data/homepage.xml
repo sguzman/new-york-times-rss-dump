@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 10:18:13 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 09:26:46 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 10:47:58 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 10:36:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -368,7 +368,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/opinion/international-world/north-korea-us-nuclear.html" rel="standout"></atom:link>
       <description>The threat of a Korean conflict is rising and the U.S. has few other cards to play.</description>
       <dc:creator>Jeffrey Lewis</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 09:00:12 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 09:00:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
@@ -405,7 +405,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/12/us/politics/national-security-democrats-house.html" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Blake Hounshell</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 23:00:47 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 10:36:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luria, Elaine Goodman</category>
@@ -476,6 +476,36 @@
       <media:description>Retailers have a lot riding on this year’s holiday season.</media:description>
     </item>
     <item>
+      <title>2 Police Officers Are Killed in Connecticut Shooting</title>
+      <link>https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html" rel="standout"></atom:link>
+      <description>A third officer was seriously wounded in the shooting in Bristol, Conn., the state police announced early Thursday.</description>
+      <dc:creator>Mike Ives and Derrick Bryson Taylor</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 10:19:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bristol (Conn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>Andy Detwiler, Armless Farmer Who Became a YouTube Star, Dies at 52</title>
+      <link>https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html" rel="standout"></atom:link>
+      <description>After a childhood accident, he learned how to drive tractors and feed farm animals with his feet. Then he started a popular farming channel on YouTube.</description>
+      <dc:creator>Alex Traub</dc:creator>
+      <pubDate>Wed, 12 Oct 2022 18:37:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Detwiler, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+    </item>
+    <item>
       <title>Inside the Global Effort to Keep Perfectly Good Food Out of the Dump</title>
       <link>https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html</guid>
@@ -516,42 +546,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/nyregion/13nj-handguns/13nj-handguns-moth.jpg" width="151"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>Legislation expected to be introduced in New Jersey on Thursday would ban handguns from 25 categories of public spaces, including bars, beaches, stadiums and day care centers.</media:description>
-    </item>
-    <item>
-      <title>Andy Detwiler, Armless Farmer Who Became a YouTube Star, Dies at 52</title>
-      <link>https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html" rel="standout"></atom:link>
-      <description>After a childhood accident, he learned how to drive tractors and feed farm animals with his feet. Then he started a popular farming channel on YouTube.</description>
-      <dc:creator>Alex Traub</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 18:37:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Detwiler, Andy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-    </item>
-    <item>
-      <title>The 2022 Living Planet Index Is Out. Here’s How to Understand It.</title>
-      <link>https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html" rel="standout"></atom:link>
-      <description>The latest update to an important assessment found that populations had declined by an average of 69 percent since 1970. But that might not mean what you think.</description>
-      <dc:creator>Catrin Einhorn</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 00:14:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="">Living Planet Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Wide Fund for Nature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoological Society of London</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/climate/12cli-wildlife3/merlin_206297871_e34cefde-96f6-4b9a-98a6-a170975d1baa-moth.jpg" width="151"></media:content>
-      <media:credit>Miguel Zambrano/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A conservation biologist in Mérida State, Venezuela, in April. Wednesday’s report looks at how specific populations are changing over time, not overall losses.</media:description>
     </item>
     <item>
       <title>Health Panel Recommends Screening All Kids 8 and Up for Anxiety</title>

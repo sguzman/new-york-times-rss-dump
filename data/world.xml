@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 12:54:58 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 12:53:14 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 14:01:03 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 13:58:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>Seven people were unaccounted for in the rubble of an apartment building in Mykolaiv, a local official said. More than three dozen people have been killed since Russia intensified strikes against civilian areas on Monday.</description>
+      <description>More than three dozen people have been killed since Russia intensified strikes against civilian areas on Monday, according to Ukrainian officials.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 12:53:14 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 13:58:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/12/world/13ukraine-blog-sfp/12ukraine-blog-carousel-Zaporizhzhia04-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -79,13 +79,16 @@
       <description>Human rights groups say at least 185 people have been killed and thousands injured or arrested, but demonstrations that began after the death of Mahsa Amini have continued nearly a month.</description>
       <dc:creator>Farnaz Fassihi and Jane Arraf</dc:creator>
       <pubDate>Thu, 13 Oct 2022 00:28:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12iran-protests-01/12iran-protests-01-moth.jpg" width="151"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Tehran, the capital, on Sunday.</media:description>
@@ -98,16 +101,18 @@
       <description>Even with Soviet-era defensive weapons, the Ukrainians have been more than holding their own, but this week’s barrage prompted calls to better equip them.</description>
       <dc:creator>Michael Schwirtz, Lara Jakes and Eric Schmitt</dc:creator>
       <pubDate>Thu, 13 Oct 2022 06:42:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-air-defense-3/12ukraine-air-defense-3-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Damage from the Russian bombing in Ukraine’s capital, Kyiv.</media:description>
@@ -137,19 +142,17 @@
       <description>The Biden administration may allow the last American company producing oil in Venezuela to resume exports if the Maduro government takes steps to restore democracy.</description>
       <dc:creator>Natalie Kitroeff and Anatoly Kurmanaev</dc:creator>
       <pubDate>Thu, 13 Oct 2022 02:23:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PDVSA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Petroleos de Venezuela SA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darien Gap</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Petroleos de Venezuela SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12venezuela-5/merlin_214002183_c73b85da-424f-41d6-8c3c-f34a20606a9a-moth.jpg" width="151"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>A Venezuelan family crossing the Darién Gap between Colombia and Panama last month.</media:description>
@@ -328,7 +331,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/climate/global-food-waste-solutions.html" rel="standout"></atom:link>
       <description>Around the world, lawmakers and entrepreneurs are taking steps to tackle two of humanity’s most pressing problems: hunger and climate change.</description>
       <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 12:07:52 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 12:07:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
@@ -435,11 +438,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/us/politics/12dc-BIDEN-STRATEGY/merlin_214592427_c1f82c62-cad1-4eaf-bf1f-eebbd0dd42bd-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>In his strategy document, President Biden returned to a theme he has established since his second month in office, describing a coming struggle as one of autocracies versus democracies. </media:description>

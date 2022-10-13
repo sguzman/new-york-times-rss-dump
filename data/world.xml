@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 10:35:08 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 10:24:52 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 10:59:19 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 10:55:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Blackouts are affecting towns and cities across Ukraine after Russian attacks this week damaged about 30 percent of the country’s electrical infrastructure, officials say.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 10:24:52 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 10:55:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/12/world/13ukraine-blog-sfp/12ukraine-blog-carousel-Zaporizhzhia04-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -287,6 +287,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11uk-royals/11uk-royals-moth.jpg" width="151"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>“The coronation will reflect the monarch’s role today and look toward the future,” Buckingham Palace said in a statement, “while being rooted in longstanding traditions and pageantry.”</media:description>
+    </item>
+    <item>
+      <title>What Happened to Monkeypox?</title>
+      <link>https://www.nytimes.com/2022/10/13/briefing/monkeypox-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/briefing/monkeypox-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/briefing/monkeypox-cases.html" rel="standout"></atom:link>
+      <description>Why cases suddenly began to decline.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 10:48:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">LGBTQ Pride Month (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13themorning-promo/13themorning-lede-1-20a5-moth.jpg" width="151"></media:content>
+      <media:credit>Mike Kai Chen for The New York Times</media:credit>
+      <media:description>Positive monkeypox samples at the Renegade Bio processing lab from August.</media:description>
     </item>
     <item>
       <title>Kyiv Region of Ukraine Hit by Suspected ‘Kamikaze’ Drones</title>
@@ -1057,30 +1074,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/10/world/10ukraine-briefing-biden01/10ukraine-briefing-biden01-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>President Biden earlier this month. He did not announce any new measures from the U.S. or its allies in response to the strikes.</media:description>
-    </item>
-    <item>
-      <title>Striking Defense Lawyers in U.K. Agree to Return to Work</title>
-      <link>https://www.nytimes.com/2022/10/10/world/europe/uk-barristers-lawyers-end-strike.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/10/world/europe/uk-barristers-lawyers-end-strike.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/10/world/europe/uk-barristers-lawyers-end-strike.html" rel="standout"></atom:link>
-      <description>The government will increase legal aid fees by 15 percent for new and existing cases, ending a weekslong walkout.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 10 Oct 2022 16:02:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raab, Dominic (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Criminal Court of England and Wales (Old Bailey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, Brandon K (1971- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10UK-LAWYERS-top-01/10UK-LAWYERS-top-01-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Striking criminal barristers, the lawyers who argue cases in court, outside the Supreme Court in London in September. </media:description>
     </item>
   </channel>
 </rss>

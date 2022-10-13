@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 17:21:38 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Oct 2022 17:20:25 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 17:56:44 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 17:47:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/nyregion/trump-ny-lawsuit-james.html" rel="standout"></atom:link>
       <description>The New York attorney general, Letitia James, who is suing the former president, questioned his motive for forming a new company, which will be known in the state as the Trump Organization II.</description>
       <dc:creator>Ben Protess, Jonah E. Bromwich and William K. Rashbaum</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 17:01:10 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 17:01:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
@@ -184,6 +184,23 @@
       <media:description>Jessica Rosenworcel, the F.C.C. chairwoman, said that the agency “remains committed to protecting our national security by ensuring that untrustworthy communications equipment is not authorized for use within our borders.”</media:description>
     </item>
     <item>
+      <title>2 Officers Shot Dead in Connecticut After Being Lured by Fake 911 Call</title>
+      <link>https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html" rel="standout"></atom:link>
+      <description>A third officer was seriously wounded in the violence in Bristol, officials said, and a suspect also died. The police chief called it an act of “senseless violence.”</description>
+      <dc:creator>Michael Gold and Corey Kilgannon</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 17:19:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bristol (Conn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/nyregion/13xp-shooting11/13xp-shooting11-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Buglewicz for The New York Times</media:credit>
+      <media:description>Police officers salute as a body is taken from the scene of the violence in Bristol, Conn.</media:description>
+    </item>
+    <item>
       <title>Sandy Hook Families Win $1 Billion From Alex Jones</title>
       <link>https://www.nytimes.com/2022/10/12/us/politics/alex-jones-sandy-hook-damages.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/us/politics/alex-jones-sandy-hook-damages.html</guid>
@@ -205,6 +222,37 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/us/politics/12dc-jones-sub/12dc-jones-sub-moth.jpg" width="151"></media:content>
       <media:credit>Kirsten Luce for The New York Times</media:credit>
       <media:description>Alex Jones faces financial ruin after a jury awarded the families who had sued him almost $1 billion, though it is unclear how much money the families will ultimately collect.</media:description>
+    </item>
+    <item>
+      <title>In Midterm TV Ad Wars, Sticker Shock Costs Republicans</title>
+      <link>https://www.nytimes.com/2022/10/13/us/politics/midterm-republican-ad-spending.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/us/politics/midterm-republican-ad-spending.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/us/politics/midterm-republican-ad-spending.html" rel="standout"></atom:link>
+      <description>The party is paying far more for TV ads than Democrats on the exact same programs. The reasons are tied to Republicans’ reliance on super PACs.</description>
+      <dc:creator>Shane Goldmacher</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 17:03:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Club for Growth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Republican Senatorial Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Senatorial Campaign Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masto, Catherine Cortez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masters, Blake (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, Timothy J (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13pol-tvads-cortezmasto-1-b142/13pol-tvads-cortezmasto-1-b142-moth.jpg" width="151"></media:content>
+      <media:credit>John Locher/Associated Press</media:credit>
+      <media:description>Senator Catherine Cortez Masto paid far less for a 30-second television commercial during a Las Vegas Raiders game than a Republican super PAC did.</media:description>
     </item>
     <item>
       <title>In Utah, a Trump Loyalist Sends an S.O.S. to Romney</title>
@@ -229,23 +277,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12pol-utah-1-4a0f/12pol-utah-1-4a0f-moth.jpg" width="151"></media:content>
       <media:credit>Kim Raff for The New York Times</media:credit>
       <media:description>Senator Mike Lee played a key role in trying to help Donald J. Trump subvert the 2020 election, while his fellow Republican Utah senator, Mitt Romney, was in staunch opposition.</media:description>
-    </item>
-    <item>
-      <title>2 Officers Shot Dead in Connecticut After Being Lured by Fake 911 Call</title>
-      <link>https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/nyregion/bristol-connecticut-shooting.html" rel="standout"></atom:link>
-      <description>A third officer was seriously wounded in the violence in Bristol, officials said, and a suspect also died. The police chief called it an act of “senseless violence.”</description>
-      <dc:creator>Michael Gold and Corey Kilgannon</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 17:19:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bristol (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/nyregion/13xp-shooting11/13xp-shooting11-moth.jpg" width="151"></media:content>
-      <media:credit>Joe Buglewicz for The New York Times</media:credit>
-      <media:description>Police officers salute as a body is taken from the scene of the violence in Bristol, Conn.</media:description>
     </item>
     <item>
       <title>Chaucer the Rapist? Newly Discovered Documents Suggest Not.</title>
@@ -375,27 +406,6 @@
       <media:credit>Myung J. Chun/Los Angeles Times, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Hurricane Ian Proved Why Ron DeSantis’s Version of Climate Resilience Is a Disaster</title>
-      <link>https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html" rel="standout"></atom:link>
-      <description>As the sea level rises, the resilience projects Gov. Ron DeSantis touts will have to be replaced, made higher, built larger.</description>
-      <dc:creator>Craig Pittman</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crist, Charlie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lee County (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/11pittman-image/11pittman-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-    </item>
-    <item>
       <title>It’s Time to Accept That North Korea Has Nuclear Weapons</title>
       <link>https://www.nytimes.com/2022/10/13/opinion/international-world/north-korea-us-nuclear.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/opinion/international-world/north-korea-us-nuclear.html</guid>
@@ -438,6 +448,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/opinion/12polgreen1/12polgreen1-moth.jpg" width="151"></media:content>
       <media:credit>Richard Pierrin/Agence France-Presse, via Getty Images</media:credit>
       <media:description>Protesters demanding the resignation of Ariel Henry, Haiti’s acting prime minister, set fires in the streets of Port-au-Prince this month.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Ian Proved Why Ron DeSantis’s Version of Climate Resilience Is a Disaster</title>
+      <link>https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/opinion/environment/ron-desantis-hurricane-ian-climate-change.html" rel="standout"></atom:link>
+      <description>As the sea level rises, the resilience projects Gov. Ron DeSantis touts will have to be replaced, made higher, built larger.</description>
+      <dc:creator>Craig Pittman</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crist, Charlie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lee County (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/opinion/11pittman-image/11pittman-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
       <title>What Happened to Monkeypox?</title>
@@ -539,19 +570,19 @@
       <media:description>The former Los Angeles City Council president Nury Martinez during a news conference in Los Angeles last month. Ms. Martinez announced her resignation as a councilwoman on Wednesday.</media:description>
     </item>
     <item>
-      <title>Andy Detwiler, Armless Farmer Who Became a YouTube Star, Dies at 52</title>
-      <link>https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/us/andy-detwiler-dead.html" rel="standout"></atom:link>
-      <description>After a childhood accident, he learned how to drive tractors and feed farm animals with his feet. Then he started a popular farming channel on YouTube.</description>
-      <dc:creator>Alex Traub</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 18:37:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Detwiler, Andy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <title>Michigan State President Samuel Stanley Jr. Resigns</title>
+      <link>https://www.nytimes.com/2022/10/13/us/michigan-state-president-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/us/michigan-state-president-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/13/us/michigan-state-president-resigns.html" rel="standout"></atom:link>
+      <description>Samuel Stanley Jr. is the third president to resign since 2018. He had been under fire for his handling of a Title IX case involving the dean of the business school.</description>
+      <dc:creator>Eliza Fawcett</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 16:59:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/multimedia/13michigan-state/13michigan-state-moth.jpg" width="151"></media:content>
+      <media:credit>Paul Sancya/Associated Press</media:credit>
+      <media:description>Dr. Samuel Stanley Jr., said he had “lost confidence” in the board of trustees.</media:description>
     </item>
     <item>
       <title>Gaming Is Booming. That’s Catnip for Cybercriminals.</title>

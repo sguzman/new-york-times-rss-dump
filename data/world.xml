@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 07:13:37 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 06:19:06 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 07:55:15 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 07:31:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html" rel="standout"></atom:link>
       <description>Prompted by the expanded strikes, European countries made plans to develop joint air defenses and to train Ukrainian soldiers on European Union soil.</description>
       <dc:creator>Matina Stevis-Gridneff, Valerie Hopkins and Eric Nagourney</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 06:19:06 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 07:23:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
@@ -298,6 +298,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12France-Basilica-top-sub/12France-Basilica-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Andrea Mantovani for The New York Times</media:credit>
       <media:description>The Sacré-Coeur Basilica in Paris. Paris’s City Council voted Tuesday to classify the Sacré-Coeur as a “historical monument.”</media:description>
+    </item>
+    <item>
+      <title>The Future of Australian Children’s TV</title>
+      <link>https://www.nytimes.com/2022/10/14/world/australia/australian-children-television-bluey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/australia/australian-children-television-bluey.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/australia/australian-children-television-bluey.html" rel="standout"></atom:link>
+      <description>It might make more economic sense for all English-language programming to be made in Los Angeles, but that would come at a different cost.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 07:29:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bluey (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Broadcasting Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ausletter-1/14ausletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Ludo Studio/Disney Channel, via Associated Press</media:credit>
+      <media:description>A scene from the animated series “Bluey”.</media:description>
     </item>
     <item>
       <title>Your Friday Briefing</title>
@@ -1081,26 +1097,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11ukraine-blog-stoltenberg-image1/11ukraine-blog-stoltenberg-image1-moth.jpg" width="151"></media:content>
       <media:credit>Stephanie Lecocq/EPA, via Shutterstock</media:credit>
       <media:description>NATO Secretary General Jens Stoltenberg holding a news conference in Brussels, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Bombing Kyiv Into Submission? History Says It Won’t Work.</title>
-      <link>https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html" rel="standout"></atom:link>
-      <description>Even though it creates misery and loss, the methodical bombing of civilian centers has more often been shown to rally support for resistance.</description>
-      <dc:creator>Max Fisher</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 18:38:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11int-russia-01/11int-russia-01-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Smoke over Kyiv, the Ukrainian capital, on Monday after Russian missile strikes.</media:description>
     </item>
   </channel>
 </rss>

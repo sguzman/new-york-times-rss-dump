@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 07:55:15 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 07:31:18 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 08:34:11 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 08:23:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -242,7 +242,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The funeral in Bucha came on a day in which the human toll of war again reverberated across Ukraine. Russian missiles continued to strike civilian targets, raising the death count from a four-day barrage to more than three dozen.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 05:41:46 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 08:23:09 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13ukraine-briefing-promo-1230pm-1-a884/13ukraine-briefing-promo-1230pm-1-a884-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -403,24 +403,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/climate/13cli-floridainsurance1/13cli-floridainsurance1-moth.jpg" width="151"></media:content>
       <media:credit>Callaghan O&#39;Hare for The New York Times</media:credit>
       <media:description>Cleanup in the aftermath of Hurricane Ian in Fort Myers Beach, Fla., on Oct. 5.</media:description>
-    </item>
-    <item>
-      <title>Russia Says It Will Evacuate Civilians From Kherson Amid Ukrainian Gains</title>
-      <link>https://www.nytimes.com/2022/10/13/world/europe/russia-kherson-ukraine-evacuation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/world/europe/russia-kherson-ukraine-evacuation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/world/europe/russia-kherson-ukraine-evacuation.html" rel="standout"></atom:link>
-      <description>The announcement seemed timed to deflect attention from Russian forces who, since Monday, have killed more than three dozen Ukrainians in a barrage of missile strikes on towns and cities.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 19:39:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13ukraine-briefing-kherson-topart-1-cae9/13ukraine-briefing-kherson-topart-1-cae9-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Residents of the Kherson region of Ukraine near Mykolaivka, on Sunday. Russian authorities said on Thursday that they would help evacuate residents as Ukrainian forces have continued to advance in the south.</media:description>
     </item>
     <item>
       <title>Putin Offers to Make Turkey a Gas Hub to Preserve EU Energy Hold</title>
@@ -1097,6 +1079,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11ukraine-blog-stoltenberg-image1/11ukraine-blog-stoltenberg-image1-moth.jpg" width="151"></media:content>
       <media:credit>Stephanie Lecocq/EPA, via Shutterstock</media:credit>
       <media:description>NATO Secretary General Jens Stoltenberg holding a news conference in Brussels, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Bombing Kyiv Into Submission? History Says It Won’t Work.</title>
+      <link>https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/world/europe/russia-ukraine-kyiv-bombing.html" rel="standout"></atom:link>
+      <description>Even though it creates misery and loss, the methodical bombing of civilian centers has more often been shown to rally support for resistance.</description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Tue, 11 Oct 2022 18:38:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11int-russia-01/11int-russia-01-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Smoke over Kyiv, the Ukrainian capital, on Monday after Russian missile strikes.</media:description>
     </item>
   </channel>
 </rss>

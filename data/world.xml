@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 05:06:25 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 04:46:56 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 06:26:12 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 06:19:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/world/europe/russia-ukraine-missiles-deaths.html" rel="standout"></atom:link>
       <description>Prompted by the expanded strikes, European countries made plans to develop joint air defenses and to train Ukrainian soldiers on European Union soil.</description>
       <dc:creator>Matina Stevis-Gridneff, Valerie Hopkins and Eric Nagourney</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 01:23:01 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 06:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
@@ -242,7 +242,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The funeral in Bucha came on a day in which the human toll of war again reverberated across Ukraine. Russian missiles continued to strike civilian targets, raising the death count from a four-day barrage to more than three dozen.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 02:24:15 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 05:41:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13ukraine-briefing-promo-1230pm-1-a884/13ukraine-briefing-promo-1230pm-1-a884-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>

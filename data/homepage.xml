@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 21:12:52 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 21:04:15 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 21:43:38 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 21:41:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -78,20 +78,62 @@
       <media:description>Prime Minister Liz Truss of Britain during a news conference on Friday.</media:description>
     </item>
     <item>
-      <title>Elon Musk Says SpaceX Can’t Fund Starlink Internet Service in Ukraine ‘Indefinitely’</title>
-      <link>https://www.nytimes.com/2022/10/14/world/europe/elon-musk-starlink-internet-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/elon-musk-starlink-internet-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/elon-musk-starlink-internet-ukraine.html" rel="standout"></atom:link>
-      <description>Starlink terminals have been critical in allowing the Ukrainian military to coordinate on the battlefield, including in recent offensives.</description>
-      <dc:creator>Cassandra Vinograd and Helene Cooper</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:34:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <title>U.S. Asks Court to End Special Master Review of Files Seized From Trump</title>
+      <link>https://www.nytimes.com/2022/10/14/us/appeal-special-master-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/appeal-special-master-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/us/appeal-special-master-trump.html" rel="standout"></atom:link>
+      <description>The Justice Department told an appeals court that a federal judge was wrong to intervene in its investigation into the former president’s hoarding of sensitive records.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 21:28:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/us/politics/14dc-investigate/merlin_211958208_1f34ccbb-68ee-4dfb-8e50-ecde6a4f33b5-moth.jpg" width="151"></media:content>
+      <media:credit>Leigh Vogel for The New York Times</media:credit>
+      <media:description>The Justice Department said a special master review of files seized from former President Donald J. Trump’s home should be shut down “for multiple independent reasons.”</media:description>
+    </item>
+    <item>
+      <title>Trump, Reacting to Pending Jan. 6 Subpoena, Repeats Election Lies in Letter</title>
+      <link>https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html" rel="standout"></atom:link>
+      <description>In a rambling, 14-page restatement of false claims and conspiracy theories, the former president did not indicate whether he would testify before the House panel investigating the Capitol riot.</description>
+      <dc:creator>Luke Broadwater and Maggie Haberman</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 21:41:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/us/politics/14dc-jan6-1/14dc-jan6-1-moth.jpg" width="151"></media:content>
+      <media:credit>Cheriss May for The New York Times</media:credit>
+      <media:description>The House committee investigating the Capitol attack voted on Thursday to issue a subpoena to former President Donald J. Trump.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk Foments More Geopolitical Controversy With Ukraine Internet Dispute</title>
+      <link>https://www.nytimes.com/2022/10/14/technology/elon-musk-ukraine-internet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/technology/elon-musk-ukraine-internet.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/technology/elon-musk-ukraine-internet.html" rel="standout"></atom:link>
+      <description>The world’s richest man, whose Starlink internet service is critical to the Ukrainian Army, said he could not “indefinitely” fund the system’s use in Ukraine.</description>
+      <dc:creator>Cade Metz, Cassandra Vinograd and Helene Cooper</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 21:24:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14ukraine-briefing-starlink-promo/14ukraine-briefing-starlink-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Rourke/Associated Press</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/business/14JPmusk-ukraine-print/14musk-ukraine-musk-moth.jpg" width="151"></media:content>
+      <media:credit>Steve Nesius/Reuters</media:credit>
+      <media:description>Elon Musk, the founder of SpaceX, provided Ukraine with Starlink internet service at the start of the war with Russia. Now, it’s not clear if his company will continue to fund that service.</media:description>
     </item>
     <item>
       <title>The Fight for the Soul of Pilates</title>
@@ -133,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/herschel-walker-georgia-republicans.html" rel="standout"></atom:link>
       <description>The Senate candidate in Georgia has been slammed by allegations, but he should not have been surprised. Republicans have been discussing the arrival of this moment for months.</description>
       <dc:creator>Shane Goldmacher, Michael C. Bender and Maya King</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 20:06:17 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 20:06:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Herschel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
@@ -195,26 +237,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/business/14dc-useurope01/14dc-useurope01-moth.jpg" width="151"></media:content>
       <media:credit>Brittany Greeson for The New York Times</media:credit>
       <media:description>A 2022 Ford F-150 Lightning, the automaker’s electric pickup truck, in production in Dearborn, Mich. At the center of the trade fight is the more than $50 billion in tax credits to entice Americans to buy electric vehicles, but only those that are assembled in North America.</media:description>
-    </item>
-    <item>
-      <title>Nikola Founder Trevor Milton Is Convicted of Fraud </title>
-      <link>https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html" rel="standout"></atom:link>
-      <description>Trevor Milton was accused of boasting about nonexistent technology to inflate the stock price of Nikola, a maker of electric trucks.</description>
-      <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 20:36:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nikola Motor Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milton, Trevor (1981- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/business/00milton-verdict/00milton-verdict-moth.jpg" width="151"></media:content>
-      <media:credit>Brittainy Newman/Associated Press</media:credit>
-      <media:description>Trevor Milton, left, the founder of Nikola, was accused of lying about the start-up&#39;s electric vehicles.</media:description>
     </item>
     <item>
       <title>For ‘The Great British Baking Show,’ ‘Mexican Week’ Was Not an Accident </title>
@@ -460,22 +482,24 @@
       <media:credit>Illustration by Pablo Delcan; Photographs by Getty Images</media:credit>
     </item>
     <item>
-      <title>Trump, Reacting to Pending Jan. 6 Subpoena, Repeats Election Lies in Letter</title>
-      <link>https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/trump-jan-6-subpoena.html" rel="standout"></atom:link>
-      <description>In a rambling, 14-page restatement of false claims and conspiracy theories, the former president did not indicate whether he would testify before the House panel investigating the Capitol riot.</description>
-      <dc:creator>Luke Broadwater and Maggie Haberman</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:44:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/us/politics/14dc-jan6-1/14dc-jan6-1-moth.jpg" width="151"></media:content>
-      <media:credit>Cheriss May for The New York Times</media:credit>
-      <media:description>The House committee investigating the Capitol attack voted on Thursday to issue a subpoena to former President Donald J. Trump.</media:description>
+      <title>Nikola Founder Trevor Milton Is Convicted of Fraud </title>
+      <link>https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/business/trevor-milton-nikola-fraud.html" rel="standout"></atom:link>
+      <description>Trevor Milton was accused of boasting about nonexistent technology to inflate the stock price of Nikola, a maker of electric trucks.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 21:23:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nikola Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milton, Trevor (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/business/00milton-verdict/00milton-verdict-moth.jpg" width="151"></media:content>
+      <media:credit>Brittainy Newman/Associated Press</media:credit>
+      <media:description>Trevor Milton, left, the founder of Nikola, was accused of lying about the start-up&#39;s electric vehicles.</media:description>
     </item>
     <item>
       <title>Robbie Coltrane, Hagrid in the ‘Harry Potter’ Films, Dies at 72</title>
@@ -516,7 +540,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/arts/design/soup-van-gogh-sunflowers-climate.html" rel="standout"></atom:link>
       <description>Two activists attacked the famous painting at the National Gallery, in London.</description>
       <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 15:02:04 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 15:02:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Gogh, Vincent</category>

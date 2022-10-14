@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 17:58:34 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 17:53:12 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 18:37:25 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 18:27:27 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Kremlin is facing intensifying criticism from pro-war bloggers over the reported deaths of new recruits fighting in Ukraine.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:53:12 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 18:27:27 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-blog-header-sub-1230/14ukraine-blog-header-sub-1230-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed Russian military vehicle near Mykolaivka in the Kherson region on Sunday.</media:description>
@@ -45,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html" rel="standout"></atom:link>
       <description>A New York Times analysis of witness testimony and videos reveals a bloody scene that unfolded last month in Zahedan during Friday Prayer, with mats as stretchers and bodies piled in cars.</description>
       <dc:creator>Cora Engelbrecht, Nilo Tabrizy and Ishaan Jhaveri</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:11:11 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 18:10:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -296,7 +296,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html" rel="standout"></atom:link>
       <description>The president’s plans to bolster America’s electric vehicle and battery production have opened a rift in relationships in Asia and Europe.</description>
       <dc:creator>Alan Rappeport, Ana Swanson and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:50:44 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 18:16:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
@@ -422,11 +422,10 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/world/asia/bangkok-priest-father-joe.html" rel="standout"></atom:link>
       <description>For 50 years, the Rev. Joseph Maier has lived in one of the poorest parts of the Thai capital, ministering to Catholics, Buddhists and Muslims alike, and never finding favor with the church hierarchy.</description>
       <dc:creator>Seth Mydans</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 09:00:32 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 09:00:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maier, Joseph H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joseph H. Maier</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
@@ -447,7 +446,10 @@
       <pubDate>Fri, 14 Oct 2022 09:00:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nomadic People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony Sattin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sattin, Anthony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Nomads: The Wanderers Who Shaped Our World (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/travel/00QNA-nomads/oakImage-1664912219602-moth.jpg" width="151"></media:content>
       <media:credit>Sylvie Franquet</media:credit>
       <media:description>Anthony Sattin’s research for his new book, “Nomads: The Wanderers Who Shaped Our World,” included years of travels with modern-day nomadic peoples in the Middle East, Africa and beyond. Above, the author, in northern Iran.</media:description>

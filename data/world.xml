@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 03:20:11 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 03:20:04 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 05:06:25 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 04:46:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/world/middleeast/iran-protests-killed-teens.html" rel="standout"></atom:link>
       <description>The 16-year-old girls were killed by the Iranian security services in a crackdown on the protests that have rocked the country for the past month.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 22:14:30 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 22:14:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
@@ -300,6 +300,33 @@
       <media:description>The Sacré-Coeur Basilica in Paris. Paris’s City Council voted Tuesday to classify the Sacré-Coeur as a “historical monument.”</media:description>
     </item>
     <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2022/10/14/briefing/ukraine-arms-subpoena-donald-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/briefing/ukraine-arms-subpoena-donald-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/briefing/ukraine-arms-subpoena-donald-trump.html" rel="standout"></atom:link>
+      <description>A fourth day of Russian bombardment.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 04:46:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14AM-brf-euro-promo/14AM-brf-euro-Ukr-1-3daf-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Emergency services workers removed rubble on Wednesday from the site of a missile strike in Zaporizhzhia that killed eight people on Monday.</media:description>
+    </item>
+    <item>
+      <title>Xi Jinping, China’s Leader, Embodies His Authoritarian Era</title>
+      <link>https://www.nytimes.com/2022/10/14/world/asia/china-xi-jinping-communist-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/asia/china-xi-jinping-communist-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/asia/china-xi-jinping-communist-party.html" rel="standout"></atom:link>
+      <description>Xi Jinping was first cast as a firm but genial leader with a common touch. Approaching a second decade in power, he looms over China like a stern Communist monarch.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 04:23:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/00CHINA-CONGRESS-XI-01/00CHINA-CONGRESS-XI-01-moth.jpg" width="151"></media:content>
+      <media:credit>Thomas Peter/Reuters</media:credit>
+      <media:description>Xi Jinping on a giant screen at an event last year in Beijing’s National Stadium to commemorate the 100th anniversary of the founding of the Communist Party of China.</media:description>
+    </item>
+    <item>
       <title>As Immigration Issue Looms, Biden Officials Turn Eye to Latin America</title>
       <link>https://www.nytimes.com/2022/10/13/us/politics/biden-immigration-mexico-border.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/us/politics/biden-immigration-mexico-border.html</guid>
@@ -406,7 +433,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html" rel="standout"></atom:link>
       <description>U.S. officials pushed to choke off China’s access to critical semiconductor technology after internal debates and tough negotiations with allies.</description>
       <dc:creator>Ana Swanson and Edward Wong</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 20:53:30 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 20:53:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -1074,43 +1101,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/11int-russia-01/11int-russia-01-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Smoke over Kyiv, the Ukrainian capital, on Monday after Russian missile strikes.</media:description>
-    </item>
-    <item>
-      <title>Biden Vows ‘Consequences’ for Saudi Arabia After Oil Production Cut</title>
-      <link>https://www.nytimes.com/2022/10/11/us/politics/biden-saudi-arabia-oil-production-cut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/us/politics/biden-saudi-arabia-oil-production-cut.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/us/politics/biden-saudi-arabia-oil-production-cut.html" rel="standout"></atom:link>
-      <description>Angered by the kingdom’s decision to team up with Russia, President Biden signaled openness to retaliatory measures, including a halt to arms sales and allowing price-fixing lawsuits.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 01:51:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/us/politics/11dc-biden-saudi/11dc-biden-saudi-moth.jpg" width="151"></media:content>
-      <media:credit>Cheriss May for The New York Times</media:credit>
-      <media:description>President Biden’s willingness to consider retaliatory measures represents a significant shift for a president who had sought to improve relations with Saudi Arabia in recent months.</media:description>
-    </item>
-    <item>
-      <title>Hong Kong Declines to Seize Superyacht Linked to Russian Oligarch</title>
-      <link>https://www.nytimes.com/2022/10/11/world/europe/china-us-conflict-russia-superyacht.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/world/europe/china-us-conflict-russia-superyacht.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/world/europe/china-us-conflict-russia-superyacht.html" rel="standout"></atom:link>
-      <description>The yacht, named Nord, is believed to belong to Alexei Mordashov, an ally of President Vladimir V. Putin.</description>
-      <dc:creator>Claire Fu</dc:creator>
-      <pubDate>Tue, 11 Oct 2022 13:08:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/10ukraine-briefing-yacht-image/10ukraine-briefing-yacht-image-moth.jpg" width="151"></media:content>
-      <media:credit>Tyrone Siu/Reuters</media:credit>
-      <media:description>The superyacht Nord, which is believed to belong to billionaire Alexei Mordashov, in the waters off Hong Kong, on Friday.</media:description>
     </item>
   </channel>
 </rss>

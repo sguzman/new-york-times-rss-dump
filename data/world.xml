@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 17:33:10 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 17:29:05 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 17:58:34 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 17:53:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Kremlin is facing intensifying criticism from pro-war bloggers over the reported deaths of new recruits fighting in Ukraine.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:29:05 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 17:53:12 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-blog-header-sub-1230/14ukraine-blog-header-sub-1230-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed Russian military vehicle near Mykolaivka in the Kherson region on Sunday.</media:description>
@@ -31,9 +31,9 @@
       <link>https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng" rel="standout"></atom:link>
-      <description>Prime Minister Liz Truss fired Kwasi Kwarteng, her finance minister, and said she would raise corporate taxes, another reversal of the poorly received fiscal plan they proposed last month.</description>
+      <description>Prime Minister Liz Truss fired Kwasi Kwarteng, her finance minister, and said she not block a corporate tax increase, another reversal of the poorly received fiscal plan they proposed last month.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 17:11:59 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 17:51:53 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14-live-truss-header-1-9914/14-live-truss-header-1-9914-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Daniel Leal</media:credit>
       <media:description>Britain’s Prime Minister Liz Truss held a press conference in London on Friday.</media:description>
@@ -290,6 +290,29 @@
       <media:description>Prime Minister Justin Trudeau of Canada this month at the House of Commons on Parliament Hill in Ottawa.</media:description>
     </item>
     <item>
+      <title>Biden’s ‘Made in America’ Policies Anger Key Allies</title>
+      <link>https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html" rel="standout"></atom:link>
+      <description>The president’s plans to bolster America’s electric vehicle and battery production have opened a rift in relationships in Asia and Europe.</description>
+      <dc:creator>Alan Rappeport, Ana Swanson and Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 17:50:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/business/14dc-useurope01/14dc-useurope01-moth.jpg" width="151"></media:content>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <media:description>A 2022 Ford F-150 Lightning, the automaker’s electric pickup truck, in production in Dearborn, Mich. At the center of the trade fight is the more than $50 billion in tax credits to entice Americans to buy electric vehicles, but only those that are assembled in North America.</media:description>
+    </item>
+    <item>
       <title>Report Criticizes C.I.A.’s Initial Handling of Havana Syndrome Cases</title>
       <link>https://www.nytimes.com/2022/10/14/us/politics/cia-havana-syndrome-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/cia-havana-syndrome-report.html</guid>
@@ -349,7 +372,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/elon-musk-starlink-internet-ukraine.html" rel="standout"></atom:link>
       <description>Starlink terminals have been critical in allowing the Ukrainian military to coordinate on the battlefield, including in recent offensives.</description>
       <dc:creator>Cassandra Vinograd and Helene Cooper</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 15:51:41 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 17:34:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
@@ -430,6 +453,18 @@
       <media:description>Anthony Sattin’s research for his new book, “Nomads: The Wanderers Who Shaped Our World,” included years of travels with modern-day nomadic peoples in the Middle East, Africa and beyond. Above, the author, in northern Iran.</media:description>
     </item>
     <item>
+      <title>Western nations rush defensive systems to Ukraine to counter Russian missiles.</title>
+      <link>https://www.nytimes.com/2022/10/14/world/europe/western-nations-rush-defensive-systems-to-ukraine-to-counter-russian-missiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/western-nations-rush-defensive-systems-to-ukraine-to-counter-russian-missiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/western-nations-rush-defensive-systems-to-ukraine-to-counter-russian-missiles.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Schwirtz, Lara Jakes and Eric Schmitt</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 08:36:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/13ukraine-briefing-air-defense-version/12ukraine-air-defense-3-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Damage from Russian bombing in Ukraine’s capital, Kyiv.</media:description>
+    </item>
+    <item>
       <title>The Future of Australian Children’s TV</title>
       <link>https://www.nytimes.com/2022/10/14/world/australia/australian-children-television-bluey.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/australia/australian-children-television-bluey.html</guid>
@@ -506,6 +541,18 @@
       <media:description>Marcelo Ebrard, Mexico’s foreign minister, met with U.S. Secretary of State Antony J. Blinken for the second time in just over a month.</media:description>
     </item>
     <item>
+      <title>At a children’s hospital in Kyiv, young patients seek shelter after days of strikes.</title>
+      <link>https://www.nytimes.com/2022/10/14/world/europe/at-a-childrens-hospital-in-kyiv-young-patients-seek-shelter-after-days-of-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/at-a-childrens-hospital-in-kyiv-young-patients-seek-shelter-after-days-of-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/at-a-childrens-hospital-in-kyiv-young-patients-seek-shelter-after-days-of-strikes.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 22:05:25 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/13/world/13ukraine-briefing-kyiv-anxiety/13ukraine-briefing-kyiv-anxiety-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Alyona Kolotiy, right, sits with her son Denis, 7, in the basement of Ohmadyt Children’s Hospital during an air raid alarm in Kyiv, Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
       <title>Your Friday Briefing: U.S. Inflation Keeps Soaring</title>
       <link>https://www.nytimes.com/2022/10/13/briefing/inflation-europe-energy-china-biden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/briefing/inflation-europe-energy-china-biden.html</guid>
@@ -558,6 +605,17 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/13/world/13ukraine-briefing-sky-shield-sub/13ukraine-briefing-sky-shield-sub-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Workers cleaned up after debris from a Russian missile that had been shot down fell in a park in central Kharkiv, Ukraine, this month.</media:description>
+    </item>
+    <item>
+      <title>In Bucha, a Kyiv suburb haunted by war, a family says goodbye to a fallen soldier.</title>
+      <link>https://www.nytimes.com/2022/10/14/world/europe/in-bucha-a-kyiv-suburb-haunted-by-war-a-family-says-goodbye-to-a-fallen-soldier.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/in-bucha-a-kyiv-suburb-haunted-by-war-a-family-says-goodbye-to-a-fallen-soldier.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/in-bucha-a-kyiv-suburb-haunted-by-war-a-family-says-goodbye-to-a-fallen-soldier.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Finbarr O’Reilly</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 08:02:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/13ukraine-briefing-carousel-1045am/13ukraine-briefing-promo-1030am-1-40ae-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
     <item>
       <title>Hurricane Ian’s Financial Toll Threatens Florida’s Real Estate Market</title>
@@ -1024,95 +1082,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12themorning-promo/12themorning-lede-1-1-6591-moth.jpg" width="151"></media:content>
       <media:credit>Shuran Huang for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>China’s Covid-Testing Strategy Comes Under Strain</title>
-      <link>https://www.nytimes.com/2022/10/12/business/china-covid-testing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/business/china-covid-testing.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/business/china-covid-testing.html" rel="standout"></atom:link>
-      <description>Bills are piling up and infections are spreading, yet there are no signs that Beijing plans to rethink a cornerstone of its pandemic policy.</description>
-      <dc:creator>Alexandra Stevenson and Zixu Wang</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 02:09:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/00china-covid-tests-1/00china-covid-tests-1-moth.jpg" width="151"></media:content>
-      <media:credit>Gilles Sabrié for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>When a Country’s Cuisine Becomes a Cultural Export</title>
-      <link>https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/t-magazine/korean-food-national-royal-cuisine.html" rel="standout"></atom:link>
-      <description>South Korea has sought to protect and enshrine its national dishes — while also sharing its wonders with the world.</description>
-      <dc:creator>Ligaya Mishan and David Chow</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 20:24:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kimchi (South Korean Food)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michelin Guide</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunlop, Fuchsia</category>
-      <category domain="">tgreats2022</category>
-    </item>
-    <item>
-      <title>The E-Bike: The New Car Alternative</title>
-      <link>https://www.nytimes.com/2022/10/12/business/ebike-vanmoof-future-transportation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/business/ebike-vanmoof-future-transportation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/business/ebike-vanmoof-future-transportation.html" rel="standout"></atom:link>
-      <description>VanMoof, the Dutch e-bike company taking inspiration from Apple and Tesla, is one of the world’s hottest brands in a bike market remade by the pandemic. Will it help reshape urban transportation?</description>
-      <dc:creator>Adam Satariano</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Bicycles, Motorcycles and Scooters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">VanMoof BV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
-      <category domain="">Future of Transportation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12Transportation-ebikes/12Transportation-ebikes-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Williams</media:credit>
-    </item>
-    <item>
-      <title>Books About London That Take You Through the City</title>
-      <link>https://www.nytimes.com/2022/10/12/books/london-books-bernardine-evaristo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/books/london-books-bernardine-evaristo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/books/london-books-bernardine-evaristo.html" rel="standout"></atom:link>
-      <description>Bernardine Evaristo, whose “Girl, Woman, Other” won the Booker Prize, invites readers into London, a city whose rich literary landscape is “for everyone, not just the privileged few.”</description>
-      <dc:creator>Bernardine Evaristo</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 09:00:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grenfell Tower Fire (June, 2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Library</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grenfell Tower (London, England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="">literaryguides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ackroyd, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chaucer, Geoffrey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evans, Diana (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Roger (1940-2018)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubenhold, Hallie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stuart, Douglas (Author)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woolf, Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Girl, Woman, Other (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mrs Dalloway (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ordinary People (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Shuggie Bain (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Five: The Untold Lives of the Women Killed by Jack the Ripper (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Young Mungo (Book)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/books/12lit-guide-london/12lit-guide-london-moth.jpg" width="151"></media:content>
-      <media:credit>Raphaelle Macaron</media:credit>
     </item>
   </channel>
 </rss>

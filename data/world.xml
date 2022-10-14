@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Oct 2022 19:48:38 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Oct 2022 19:44:49 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2022 20:30:05 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Oct 2022 20:19:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Russia’s barrage of missile attacks this week has not changed the course of the ground war, though its forces are on the offensive in one area of the east.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 19:44:49 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 20:19:25 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-blog-header-sub-1230/14ukraine-blog-header-sub-1230-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed Russian military vehicle near Mykolaivka in the Kherson region on Sunday.</media:description>
@@ -31,9 +31,9 @@
       <link>https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/uk-finance-minister-truss-kwarteng" rel="standout"></atom:link>
-      <description>Prime Minister Liz Truss fired Kwasi Kwarteng, her finance minister, and said she not block a corporate tax increase, another reversal of the poorly received fiscal plan they proposed last month.</description>
+      <description>Prime Minister Liz Truss fired Kwasi Kwarteng, her finance minister, and said she would not block a corporate tax increase, another reversal of the poorly received fiscal plan they proposed last month.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 19:41:18 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 20:11:23 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14-live-truss-header-1-9914/14-live-truss-header-1-9914-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Daniel Leal</media:credit>
       <media:description>Britain’s Prime Minister Liz Truss held a press conference in London on Friday.</media:description>
@@ -292,6 +292,26 @@
       <media:description>Prime Minister Justin Trudeau of Canada this month at the House of Commons on Parliament Hill in Ottawa.</media:description>
     </item>
     <item>
+      <title>As the Bank of England’s Intervention Ends, Unease Returns to the Bond Markets</title>
+      <link>https://www.nytimes.com/2022/10/14/world/europe/as-the-bank-of-englands-intervention-ends-unease-returns-to-the-bond-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/as-the-bank-of-englands-intervention-ends-unease-returns-to-the-bond-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/as-the-bank-of-englands-intervention-ends-unease-returns-to-the-bond-markets.html" rel="standout"></atom:link>
+      <description>A two-and-a-half-week program of bond buying came to a close on Friday, leaving investors nervous about what will happen when markets reopen on Monday.</description>
+      <dc:creator>Eshe Nelson</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 20:11:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bailey, Andrew (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14britain-bank-of-england-1-bcbc/14britain-bank-of-england-1-bcbc-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>The City of London, the capital’s financial hub, with the Bank of England building on the left. </media:description>
+    </item>
+    <item>
       <title>Biden’s ‘Made in America’ Policies Anger Key Allies</title>
       <link>https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/biden-trade-policy-asia-europe.html</guid>
@@ -424,7 +444,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/travel/anthony-sattin-nomads-interview.html" rel="standout"></atom:link>
       <description>Anthony Sattin, the author of a new book on nomadic groups, discusses how contemporary travelers and digital nomads can learn a few things from traditional cultures.</description>
       <dc:creator>David Farley</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 09:00:29 +0000</pubDate>
+      <pubDate>Fri, 14 Oct 2022 20:12:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nomadic People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sattin, Anthony</category>
@@ -1068,22 +1088,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-blog-poland-pipeline2/12ukraine-blog-poland-pipeline2-moth.jpg" width="151"></media:content>
       <media:credit>Kacper Pempel/Reuters</media:credit>
       <media:description>Firefighters near the Druzhba pipeline in Poland where an oil leak was detected on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Abortion Bans Weigh on Republicans</title>
-      <link>https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/briefing/republican-abortion.html" rel="standout"></atom:link>
-      <description>Banning abortion is weighing on the party.</description>
-      <dc:creator>Lisa Lerer</dc:creator>
-      <pubDate>Wed, 12 Oct 2022 14:28:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/multimedia/12themorning-promo/12themorning-lede-1-1-6591-moth.jpg" width="151"></media:content>
-      <media:credit>Shuran Huang for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

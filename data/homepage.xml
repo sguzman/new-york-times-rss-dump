@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 10:13:07 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 10:09:04 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 10:43:49 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 10:29:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,7 +58,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/15/world/europe/belarus-ukraine-war-russia.html" rel="standout"></atom:link>
       <description>The country’s strongman, Aleksandr Lukashenko, finds himself in a bind. He survives with support from Russia, but entering the fight could be “political suicide.”</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 08:47:36 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 10:27:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -441,21 +441,36 @@
       <media:description>Students on the first day of school in Port-au-Prince, Haiti.</media:description>
     </item>
     <item>
-      <title>The Boys and Girls Off the Bus. Way Off.</title>
-      <link>https://www.nytimes.com/2022/10/14/us/politics/campaign-reporting-misinformation-age.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/us/politics/campaign-reporting-misinformation-age.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/us/politics/campaign-reporting-misinformation-age.html" rel="standout"></atom:link>
-      <description>Campaign reporting has changed enormously since the days of Theodore White, Timothy Crouse and Richard Ben Cramer. Today, a chat with two Times reporters who live in the brave new world of American politics.</description>
-      <dc:creator>Blake Hounshell</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 23:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14OnPolitics-newsletter-1-95a7/14OnPolitics-newsletter-1-95a7-moth.jpg" width="151"></media:content>
-      <media:credit>Rebecca Noble for The New York Times</media:credit>
-      <media:description>On the campaign trail in Arizona.</media:description>
+      <title>Dressing Up</title>
+      <link>https://www.nytimes.com/2022/10/15/briefing/fall-wardrobe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/briefing/fall-wardrobe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/15/briefing/fall-wardrobe.html" rel="standout"></atom:link>
+      <description>As the seasons change and more people return to in-person work, figuring out what to wear can be a challenge.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 10:21:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+    </item>
+    <item>
+      <title>When Biden’s Folksiness Veers Into Folklore and More: The Week in Narrated Articles</title>
+      <link>https://www.nytimes.com/2022/10/14/podcasts/biden-hurrican-ian-ukraine-narrated-articles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/podcasts/biden-hurrican-ian-ukraine-narrated-articles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/podcasts/biden-hurrican-ian-ukraine-narrated-articles.html" rel="standout"></atom:link>
+      <description>Five articles from around The Times, narrated just for you.</description>
+      <pubDate>Fri, 14 Oct 2022 12:40:31 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/us/politics/14narrated-4/merlin_214159758_123a910a-52c6-4a07-96cc-b558648619b3-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>George Saunders on ‘Lincoln in the Bardo’</title>
+      <link>https://www.nytimes.com/2022/10/14/books/review/george-saunders-on-lincoln-in-the-bardo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/books/review/george-saunders-on-lincoln-in-the-bardo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/books/review/george-saunders-on-lincoln-in-the-bardo.html" rel="standout"></atom:link>
+      <description>The writer, celebrated for his short stories, discusses his 2017 debut novel, and the journalist Patrick Radden Keefe talks about “Say Nothing: A True Story of Murder and Memory in Northern Ireland.”</description>
+      <pubDate>Fri, 14 Oct 2022 17:36:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
     </item>
     <item>
       <title>Food waste solutions</title>
@@ -474,37 +489,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/climate/14cli-newsletter-compost/14cli-newsletter-compost-moth.jpg" width="151"></media:content>
       <media:credit>Anna Watts for The New York Times</media:credit>
       <media:description>A smart composing bin for residential drop-off in Queens, New York City.</media:description>
-    </item>
-    <item>
-      <title>How Much Watching Time Do You Have This Weekend?</title>
-      <link>https://www.nytimes.com/2022/10/13/arts/television/tegan-and-sara-homegrown-playing-house-streaming.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/arts/television/tegan-and-sara-homegrown-playing-house-streaming.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/arts/television/tegan-and-sara-homegrown-playing-house-streaming.html" rel="standout"></atom:link>
-      <description>Our TV critic recommends checking out a Tegan and Sara teen series, an underappreciated comedy and a serene backyard-farming show.</description>
-      <dc:creator>Margaret Lyons</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 20:29:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">High School (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Playing House (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Homegrown (2021) (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/arts/13Watching-High/13Watching-High-moth.jpg" width="151"></media:content>
-      <media:credit>Michelle Faye/Freevee</media:credit>
-      <media:description>Railey Gilliland, left, and Seazynn Gilliland in a scene from “High School.”</media:description>
-    </item>
-    <item>
-      <title>🍄 It’s Mushroom Week! 🍄</title>
-      <link>https://www.nytimes.com/2022/10/13/dining/its-mushroom-week.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/dining/its-mushroom-week.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/dining/its-mushroom-week.html" rel="standout"></atom:link>
-      <description>A big batch of mushroom ragout means many delicious meals ahead.</description>
-      <dc:creator>Tejal Rao</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 17:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/25/dining/hm-pasta-stir-fry-copy/hm-pasta-stir-fry-moth.jpg" width="151"></media:content>
-      <media:credit>Beatriz Da Costa for The New York Times. Food Stylist: Rebecca Jurkevich.</media:credit>
     </item>
     <item>
       <title>LA City Council Scandal Highlights Latin American Racism in the U.S.</title>

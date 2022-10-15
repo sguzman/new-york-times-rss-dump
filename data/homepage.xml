@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 15:12:04 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 14:30:44 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 15:42:10 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 15:34:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -177,7 +177,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/15/business/economy/rent-tenant-activism.html" rel="standout"></atom:link>
       <description>For the 44 million households who rent a home or apartment in the U.S., inflation keeps pushing costs higher and higher. Anger is rising too. It could be a breaking point.</description>
       <dc:creator>Conor Dougherty</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 09:00:45 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 09:00:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rent Control and Stabilization</category>
@@ -325,11 +325,13 @@
       <description>Even without his testimony, the Jan. 6 committee has revealed what we need to know about the former president.</description>
       <dc:creator>Jesse Wegman</dc:creator>
       <pubDate>Fri, 14 Oct 2022 21:04:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/opinion/14wegman1/14wegman1-moth.jpg" width="151"></media:content>
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>

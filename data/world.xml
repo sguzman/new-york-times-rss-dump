@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 04:21:21 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 04:17:09 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 05:35:05 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 05:11:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/14/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Russia’s barrage of missile attacks this week has not changed the course of the ground war, though its forces are on the offensive in one area of the east.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 04:17:09 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 04:58:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-blog-header-sub-1230/14ukraine-blog-header-sub-1230-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A destroyed Russian military vehicle near Mykolaivka in the Kherson region on Sunday.</media:description>
@@ -292,6 +292,23 @@
       <media:description>Prime Minister Justin Trudeau of Canada this month at the House of Commons on Parliament Hill in Ottawa.</media:description>
     </item>
     <item>
+      <title>At Least 28 Are Killed in Coal Mine Explosion in Turkey</title>
+      <link>https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html" rel="standout"></atom:link>
+      <description>The accident occurred in the northern province of Bartin. The country’s health minister said that 11 people were being treated.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 05:11:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/multimedia/15xp-turkey-01-1-098b/15xp-turkey-01-1-098b-moth.jpg" width="151"></media:content>
+      <media:credit>Kemal Aslan/Reuters</media:credit>
+      <media:description>People wait outside a coal mine after an explosion in Amasra, Turkey, on Saturday.</media:description>
+    </item>
+    <item>
       <title>Belarus Wavers as Putin Presses It to Join Ukraine War</title>
       <link>https://www.nytimes.com/2022/10/15/world/europe/belarus-ukraine-war-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/europe/belarus-ukraine-war-russia.html</guid>
@@ -317,22 +334,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15ukraine-belarus02/merlin_214334235_2c95a477-a09c-42d2-93fe-70ccdeb5c591-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian troops moving through a recently recaptured village in Eastern Ukraine. Russia hopes that the threat of troops from Belarus will force Ukraine to divert its troops from front lines in the east and south.</media:description>
-    </item>
-    <item>
-      <title>Biden Authorizes an Additional $725 Million in Ukraine Aid</title>
-      <link>https://www.nytimes.com/2022/10/14/world/europe/biden-ukraine-military-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/biden-ukraine-military-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/biden-ukraine-military-aid.html" rel="standout"></atom:link>
-      <description>An air defense system is still not a part of the package, but that may be on the way soon.</description>
-      <dc:creator>Helene Cooper</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 02:23:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-brief-biden-aid/14ukraine-brief-biden-aid-moth.jpg" width="151"></media:content>
-      <media:credit>Aaron Favila/Associated Press</media:credit>
-      <media:description>The newest aid package will include munitions for the High Mobility Artillery Rocket System, known as HIMARS.</media:description>
     </item>
     <item>
       <title>Despite Its Barrage of Missiles, Russia Still Loses Ground in Ukraine</title>
@@ -419,7 +420,7 @@
       <media:description>Elon Musk, the founder of SpaceX, provided Ukraine with Starlink internet service at the start of the war with Russia. Now, it’s not clear if his company will continue to fund that service.</media:description>
     </item>
     <item>
-      <title>For Truss and the Tories, a ‘Fairy Tale’ Unravels</title>
+      <title>For Truss, a ‘Fairy Tale’ Unravels After Ousting of Kwasi Kwarteng</title>
       <link>https://www.nytimes.com/2022/10/14/world/europe/truss-tories-fairy-tale-unravels.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/europe/truss-tories-fairy-tale-unravels.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/14/world/europe/truss-tories-fairy-tale-unravels.html" rel="standout"></atom:link>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 11:21:00 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 11:06:07 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 11:41:24 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 11:29:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/15/world/europe/ukraine-bucha-women-russia.html" rel="standout"></atom:link>
       <description>New reporting illuminates the fortitude of three women — a former public servant, an animal lover, a grandmother — who were victims of Russian brutality.</description>
       <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 09:51:21 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 09:51:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -112,13 +112,13 @@
       <media:description>Ukrainian troops moving through a recently recaptured village in eastern Ukraine. Russia hopes that the threat of troops from Belarus will force Ukraine to divert its troops from front lines in the east and south.</media:description>
     </item>
     <item>
-      <title>At Least 28 Are Killed in Coal Mine Explosion in Turkey</title>
+      <title>Coal Mine Explosion in Turkey Kills at Least 40</title>
       <link>https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/15/world/europe/turkey-mine-explosion.html" rel="standout"></atom:link>
-      <description>The accident was Turkey’s worst mine disaster in years. Rescue crews were working to reach more than a dozen miners still trapped inside.</description>
-      <dc:creator>Ben Hubbard and Mike Ives</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 07:17:27 +0000</pubDate>
+      <description>The accident, the country’s worst mine disaster in years, led the president to promise an investigation into the “tragic incident.”</description>
+      <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 11:29:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
@@ -126,7 +126,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/multimedia/15xp-turkey-01-1-098b/15xp-turkey-01-1-098b-moth.jpg" width="151"></media:content>
       <media:credit>Kemal Aslan/Reuters</media:credit>
-      <media:description>People waiting outside a coal mine after an explosion in Amasra, Turkey, on Saturday.</media:description>
+      <media:description>People waiting on Saturday outside a coal mine after an explosion in Amasra, Turkey.</media:description>
     </item>
     <item>
       <title>How Security Forces Cracked Down in Southeastern Iran</title>
@@ -299,6 +299,22 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/world/12ukraine-explainer-top-01/12ukraine-explainer-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Smoke rising over Kyiv, the Ukrainian capital, on Monday after Russian missile strikes.</media:description>
+    </item>
+    <item>
+      <title>Rising Waters Again Force Evacuations and Spread Misery in Australia</title>
+      <link>https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html" rel="standout"></atom:link>
+      <description>In the southern state of Victoria, worst hit by the recent floods, officials warn that the danger will remain for weeks, with the ground already saturated.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 11:25:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15oz-floods01/15oz-floods01-moth.jpg" width="151"></media:content>
+      <media:credit>Diego Fedele/EPA, via Shutterstock</media:credit>
+      <media:description>In Seymour, in the Australian state of Victoria, on Saturday. The states of New South Wales, Victoria and Tasmania have all experienced flash flooding over the past week.</media:description>
     </item>
     <item>
       <title>Dressing Up</title>
@@ -1106,26 +1122,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/12ukraine-ledeall_1/12ukraine-ledeall_1-moth.jpg" width="151"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>A worker in Zaporizhzhia, Ukraine, on Wednesday salvaged tools from what was left of an auto-body shop, which was destroyed by a missile strike on Wednesday that killed one person.</media:description>
-    </item>
-    <item>
-      <title>The 2022 Living Planet Index Is Out. Here’s How to Understand It.</title>
-      <link>https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/climate/living-planet-index-wildlife-declines.html" rel="standout"></atom:link>
-      <description>The latest update to an important assessment found that populations had declined by an average of 69 percent since 1970. But that might not mean what you think.</description>
-      <dc:creator>Catrin Einhorn</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 15:59:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="">Living Planet Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Wide Fund for Nature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoological Society of London</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/climate/12cli-wildlife3/merlin_206297871_e34cefde-96f6-4b9a-98a6-a170975d1baa-moth.jpg" width="151"></media:content>
-      <media:credit>Miguel Zambrano/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A conservation biologist in Mérida State, Venezuela, in April. Wednesday’s report looks at how specific populations are changing over time, not overall losses.</media:description>
     </item>
   </channel>
 </rss>

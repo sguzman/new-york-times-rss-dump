@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 15:48:36 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 15:45:40 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 16:34:22 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 16:02:50 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -100,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/15/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The International Atomic Energy Agency chief said that the nuclear plant’s employees were being pushed to sign contracts with a Russian energy company. The move is part of Moscow’s attempts to support its illegal annexation claims of Ukrainian lands.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 15:22:00 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 16:02:50 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15ukraine-briefing-header/15ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>The damaged facade of a monastery in Sviatohirsk on Friday.</media:description>
@@ -171,12 +171,12 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html" rel="standout"></atom:link>
       <description>A New York Times analysis of witness testimony and videos reveals a bloody scene that unfolded last month in Zahedan during Friday Prayer, with mats as stretchers and bodies piled in cars.</description>
       <dc:creator>Cora Engelbrecht, Nilo Tabrizy and Ishaan Jhaveri</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 03:40:58 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 15:54:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zahedan (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
     </item>
     <item>
@@ -367,15 +367,12 @@
       <description>“They use their expensive rockets for nothing, just to frighten people,” a member of Ukraine’s Parliament said of Russian attacks on the country’s cities and infrastructure.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
       <pubDate>Fri, 14 Oct 2022 23:03:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovyansk (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-ledeall-1/14ukraine-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian troops riding in the back of a truck near the village of Sydorov in eastern Ukraine on Friday.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Oct 2022 15:42:10 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Oct 2022 15:34:14 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 16:17:16 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 16:01:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,15 +38,12 @@
       <description>“They use their expensive rockets for nothing, just to frighten people,” a member of Ukraine’s Parliament said of Russian attacks on the country’s cities and infrastructure.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
       <pubDate>Fri, 14 Oct 2022 23:03:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovyansk (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14ukraine-ledeall-1/14ukraine-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Ukrainian troops riding in the back of a truck near the village of Sydorov in eastern Ukraine on Friday.</media:description>
@@ -216,12 +213,12 @@
       <atom:link href="https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html" rel="standout"></atom:link>
       <description>A New York Times analysis of witness testimony and videos reveals a bloody scene that unfolded last month in Zahedan during Friday Prayer, with mats as stretchers and bodies piled in cars.</description>
       <dc:creator>Cora Engelbrecht, Nilo Tabrizy and Ishaan Jhaveri</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 03:40:58 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 15:54:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zahedan (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
     </item>
     <item>
@@ -302,20 +299,25 @@
       <media:description>A woman urged President Biden to cancel student debt.</media:description>
     </item>
     <item>
-      <title>Strength Training Beginners Guide: How to Make the Workout a Habit</title>
-      <link>https://www.nytimes.com/2022/10/12/well/move/strength-training-beginners-guide.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/well/move/strength-training-beginners-guide.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/well/move/strength-training-beginners-guide.html" rel="standout"></atom:link>
-      <description>For real this time.</description>
-      <dc:creator>Danielle Friedman</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 18:48:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight Lifting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/03/well/STRENGTH-TRAINING-BEGINNERS5/STRENGTH-TRAINING-BEGINNERS5-moth.jpg" width="151"></media:content>
-      <media:credit>Ryan Frigillana for The New York Times</media:credit>
+      <title>Can Balenciaga Break With Kanye?</title>
+      <link>https://www.nytimes.com/2022/10/14/style/kanye-west-balenciaga-demna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/style/kanye-west-balenciaga-demna.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/style/kanye-west-balenciaga-demna.html" rel="standout"></atom:link>
+      <description>The fashion brand and the rapper have had an intense love affair. But after Ye’s White Lives Matter shirt and antisemitic comments, the company may need to be heartless.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 23:48:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Fashion Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Balenciaga (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeezy (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gvasalia, Demna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/fashion/14kanye-balenciaga/14kanye-balenciaga-moth.jpg" width="151"></media:content>
+      <media:credit>Julien Mignot for The New York Times; Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Donald Trump Has Told Americans Exactly Who He Is</title>
@@ -336,23 +338,6 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>The Jan. 6 Hearings Are Over. These 3 Things Must Happen Now.</title>
-      <link>https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html" rel="standout"></atom:link>
-      <description>The torch now passes to other actors who hold the power to achieve accountability for the attack on the Capitol.</description>
-      <dc:creator>Norman Eisen, Danielle Brian and E. Danya Perry</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 19:42:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/opinion/14eisen-perry-image2/14eisen-perry-image2-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times; images by Jon Cherry and Free Agents Limited via Getty Images</media:credit>
-    </item>
-    <item>
       <title>A Phone Call With Angela Lansbury Changed Me</title>
       <link>https://www.nytimes.com/2022/10/15/opinion/angela-lansbury-memory-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/angela-lansbury-memory-dead.html</guid>
@@ -371,6 +356,23 @@
       <media:credit>Fred R. Conrad/The New York Times</media:credit>
     </item>
     <item>
+      <title>The Jan. 6 Hearings Are Over. These 3 Things Must Happen Now.</title>
+      <link>https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/opinion/january-6-committee-trump.html" rel="standout"></atom:link>
+      <description>The torch now passes to other actors who hold the power to achieve accountability for the attack on the Capitol.</description>
+      <dc:creator>Norman Eisen, Danielle Brian and E. Danya Perry</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 19:42:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/opinion/14eisen-perry-image2/14eisen-perry-image2-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times; images by Jon Cherry and Free Agents Limited via Getty Images</media:credit>
+    </item>
+    <item>
       <title>Same-Sex Marriage Is a Religious Freedom</title>
       <link>https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</guid>
@@ -385,6 +387,36 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/opinion/15paulikas-image/15paulikas-image-moth-v2.jpg" width="151"></media:content>
       <media:credit>Bryan Thomas for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Put Latino Heritage and History Where It Belongs</title>
+      <link>https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html" rel="standout"></atom:link>
+      <description>When they see themselves represented it leaves them empowered and curious to learn more.</description>
+      <dc:creator>Arlene Dávila</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 15:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/opinion/15davila/15davila-moth.jpg" width="151"></media:content>
+      <media:credit>Dominic Bodden</media:credit>
+    </item>
+    <item>
+      <title>Wonking Out: What’s Really Happening to Inflation?</title>
+      <link>https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Fri, 14 Oct 2022 19:50:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/opinion/14krugman-newsletter-image/14krugman-newsletter-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Illustration by The New York Times; image by NoDerog via Getty Images</media:credit>
     </item>
     <item>
       <title>Migrants Are Seeing the Depths of New York’s Housing Crisis</title>
@@ -412,37 +444,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/opinion/14gay-top/14gay-yop-moth.jpg" width="151"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
       <media:description>Yefferson Rojas is one of more than 19,400 asylum seekers who have arrived in New York since April.</media:description>
-    </item>
-    <item>
-      <title>This Is How to Put the Supreme Court in Its Place</title>
-      <link>https://www.nytimes.com/2022/10/14/opinion/supreme-court-reform.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/opinion/supreme-court-reform.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/opinion/supreme-court-reform.html" rel="standout"></atom:link>
-      <description>Democrats in the 21st Century should not make the same mistake Republicans in the 19th Century did.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 13:58:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/opinion/14bouie-1/14bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Wonking Out: What’s Really Happening to Inflation?</title>
-      <link>https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/opinion/inflation-numbers-housing.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 19:50:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/opinion/14krugman-newsletter-image/14krugman-newsletter-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; image by NoDerog via Getty Images</media:credit>
     </item>
     <item>
       <title>In the Face of Inflation, Let’s Give Everyone a Lift</title>

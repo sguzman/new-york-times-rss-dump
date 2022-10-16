@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 05:28:49 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 05:17:09 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 06:09:29 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 05:35:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -100,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/15/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Internet service provided by Mr. Musk’s company, SpaceX, has been crucial for the Ukrainian army’s communication as it moves to retake Russian-occupied territory. Russia’s Defense Ministry said two men shot and killed fellow soldiers at a training camp in the Belgorod region.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 05:17:09 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 05:31:03 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15ukraine-briefing-header/15ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>The damaged facade of a monastery in Sviatohirsk on Friday.</media:description>
@@ -297,6 +297,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/14Turkey01/14Turkey01-moth.jpg" width="151"></media:content>
       <media:credit>Petr David Josek/Associated Press</media:credit>
       <media:description>President Recep Tayyip Erdogan of Turkey last week in Prague. Mr. Erdogan had argued that the newly passed legislation was necessary to fight disinformation.</media:description>
+    </item>
+    <item>
+      <title>Russian nuclear fears loom in the geopolitical background for China.</title>
+      <link>https://www.nytimes.com/2022/10/16/world/asia/russian-nuclear-fears-loom-in-the-geopolitical-background-for-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/asia/russian-nuclear-fears-loom-in-the-geopolitical-background-for-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/world/asia/russian-nuclear-fears-loom-in-the-geopolitical-background-for-china.html" rel="standout"></atom:link>
+      <description>On Sunday, Xi Jinping, China’s top leader, skipped the opportunity to note the dangers of nuclear war and the anniversary of the missile crisis of 60 years ago.</description>
+      <dc:creator>Jane Perlez</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 05:35:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, John Fitzgerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khrushchev, Nikita S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cuban Missile Crisis (1962)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Fidel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-cuba/16china-party-congress-cuba-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images</media:credit>
+      <media:description>A P2V Neptune U.S. patrol plane flying over a Soviet freighter during the Cuban missile crisis in 1962.</media:description>
     </item>
     <item>
       <title>Putin Moves to Cement Annexations in Ukraine</title>
@@ -1053,29 +1074,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/world/13iraq-parliament01/merlin_214806333_2b78d8e5-dafe-4740-83f2-5ab5a1cc0ab1-moth.jpg" width="151"></media:content>
       <media:credit>Iraqi Parliament, via Reuters</media:credit>
       <media:description>Iraqi lawmakers attended a parliamentary session on Thursday to vote for a new president in Baghdad.</media:description>
-    </item>
-    <item>
-      <title>With New Crackdown, Biden Wages Global Campaign on Chinese Technology</title>
-      <link>https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html" rel="standout"></atom:link>
-      <description>U.S. officials pushed to choke off China’s access to critical semiconductor technology after internal debates and tough negotiations with allies.</description>
-      <dc:creator>Ana Swanson and Edward Wong</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 15:20:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/us/politics/00dc-chinatech-sub-top/merlin_161385162_d380cb4c-91ed-4cba-87f7-4dd9a224783d-moth.jpg" width="151"></media:content>
-      <media:credit>How Hwee Young/EPA, via Shutterstock</media:credit>
-      <media:description>An effort by the Biden administration would try to use U.S. influence over global technology and supply chains to choke off China’s access to advanced chips and chip production tools needed to power those abilities.</media:description>
     </item>
   </channel>
 </rss>

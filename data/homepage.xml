@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 18:24:20 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 18:10:28 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 18:52:00 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 18:47:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/15/us/politics/new-generation-of-combat-vets-eyeing-house-strike-from-the-right.html" rel="standout"></atom:link>
       <description>A class of political newcomers with remarkable military records are challenging old ideas about interventionism — and the assumption that electing veterans is a way to bring back bipartisanship.</description>
       <dc:creator>Jonathan Weisman</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 18:55:59 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 18:31:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
@@ -269,7 +269,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/books/paul-newman-memoir.html" rel="standout"></atom:link>
       <description>Compiled from interviews he gave to a close friend, “The Extraordinary Life of an Ordinary Man” sheds light on the self-doubt of the seemingly imperturbable Hollywood star.</description>
       <dc:creator>Dave Itzkoff</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 15:42:26 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 18:47:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
@@ -372,16 +372,10 @@
       <dc:creator>Ross Douthat</dc:creator>
       <pubDate>Sat, 15 Oct 2022 19:00:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Just Stop Oil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15douthat1/15douthat1-moth.jpg" width="151"></media:content>
       <media:credit>Henry Nicholls/Reuters</media:credit>
       <media:description>A Just Stop Oil protester in London last week.</media:description>
@@ -444,22 +438,20 @@
       <media:credit>Kendrick Brinson for The New York Times</media:credit>
     </item>
     <item>
-      <title>A Phone Call With Angela Lansbury Changed Me</title>
-      <link>https://www.nytimes.com/2022/10/15/opinion/angela-lansbury-memory-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/angela-lansbury-memory-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/opinion/angela-lansbury-memory-dead.html" rel="standout"></atom:link>
-      <description>Many prefer to airbrush vulnerabilities away, but Angela Lansbury brought a combination of dignity and forthrightness to her life and work.</description>
-      <dc:creator>Patrick Healy</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 13:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lansbury, Angela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sweeney Todd: The Demon Barber of Fleet Street (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Manchurian Candidate (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Murder, She Wrote (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15haely-image3/15haely-image3-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Fred R. Conrad/The New York Times</media:credit>
+      <title>Same-Sex Marriage Is a Religious Freedom</title>
+      <link>https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html" rel="standout"></atom:link>
+      <description>If the law allows same-sex couples to be treated differently from other couples, then our religious freedom to be married is not complete. </description>
+      <dc:creator>Steven Paulikas</dc:creator>
+      <pubDate>Sat, 15 Oct 2022 10:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15paulikas-image/15paulikas-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Bryan Thomas for The New York Times</media:credit>
     </item>
     <item>
       <title>Ketanji Brown Jackson’s Debut</title>

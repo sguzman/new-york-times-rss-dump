@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 17:12:33 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 17:10:25 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 17:44:39 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 17:23:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -136,7 +136,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/16/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Explosions rocked Belgorod on Sunday, wounding three people, a day after shelling set fire to a fuel depot, Russian officials said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 15:26:17 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 17:23:22 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16ukraine-briefing-header/16ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O’Reilly for The New York Times</media:credit>
       <media:description>Technicians repairing an electrical power line that was damaged by a Russian missile in the city of Zaporizhzhia, in southeastern Ukraine, on Saturday.</media:description>
@@ -424,9 +424,14 @@
       <description>The service has been crucial for communications in Ukraine’s army as it advances into territory occupied by Russia.</description>
       <dc:creator>Cade Metz</dc:creator>
       <pubDate>Sun, 16 Oct 2022 00:04:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/15ukraine-briefing-musk-starlink/14ukraine-briefing-starlink-promo-moth.jpg" width="151"></media:content>
       <media:credit>Matt Rourke/Associated Press</media:credit>
       <media:description>Elon Musk announced on Twitter on Saturday that his company would continue to provide internet service to Ukraine.</media:description>
@@ -502,20 +507,23 @@
       <atom:link href="https://www.nytimes.com/2022/10/15/technology/peter-thiel-malta-citizenship.html" rel="standout"></atom:link>
       <description>Obtaining citizenship in Malta would provide another passport for Mr. Thiel, who is one of the largest individual donors for the U.S. midterm elections.</description>
       <dc:creator>Ryan Mac and Justin Scheck</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 18:04:10 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2022 18:04:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thiel, Peter A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Valletta (Malta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masters, Blake (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Valletta (Malta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masters, Blake (1986- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/business/00thiel-malta-rnc/00thiel-malta-rnc-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Smialowski/Agence France-Presse — Getty Images</media:credit>
       <media:description>Peter Thiel, the billionaire technology investor, during the Republican National Convention in 2016. Mr. Thiel was born in Germany and holds U.S. and New Zealand passports.</media:description>

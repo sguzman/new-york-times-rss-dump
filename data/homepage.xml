@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 13:16:42 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 12:37:28 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 13:54:13 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 13:46:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,6 +22,8 @@
       <description>Polls show voters liked direct payments from President Biden’s 2021 economic rescue bill. But they have become fodder for Republican inflation attacks.</description>
       <dc:creator>Jim Tankersley</dc:creator>
       <pubDate>Sun, 16 Oct 2022 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -29,10 +31,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/business/00dc-Dems-Econ01/00dc-Dems-Econ01-moth.jpg" width="151"></media:content>
       <media:credit>Stefani Reynolds for The New York Times</media:credit>
       <media:description>A signing ceremony for the American Rescue Plan last year on Capitol Hill. The pandemic aid has largely vanished from stump speeches or campaign ads.</media:description>
@@ -73,21 +76,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/00pol-veterans-kent02-1-402d/00pol-veterans-kent02-1-402d-moth.jpg" width="151"></media:content>
       <media:credit>Nathan Howard/Getty Images</media:credit>
       <media:description>Joe Kent prays with supporters at a campaign event in Kent, Wash.</media:description>
-    </item>
-    <item>
-      <title>On Taiwan, Xi Jinping warns against international ‘interference.’</title>
-      <link>https://www.nytimes.com/2022/10/16/world/asia/on-taiwan-xi-jinping-warns-against-international-interference.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/asia/on-taiwan-xi-jinping-warns-against-international-interference.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/world/asia/on-taiwan-xi-jinping-warns-against-international-interference.html" rel="standout"></atom:link>
-      <description>The Chinese leader struck a firm note on unification with Taiwan, saying that Beijing reserved the right to use force.</description>
-      <dc:creator>Damien Cave and Amy Chang Chien</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 08:08:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-taiwan-video/16china-party-congress-taiwan-video-moth.jpg" width="151"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
     </item>
     <item>
       <title>On tech, Xi points to self-reliance and state-led initiatives.</title>
@@ -341,34 +329,41 @@
       <media:description>A Just Stop Oil protester in London last week.</media:description>
     </item>
     <item>
-      <title>Same-Sex Marriage Is a Religious Freedom</title>
-      <link>https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html" rel="standout"></atom:link>
-      <description>If the law allows same-sex couples to be treated differently from other couples, then our religious freedom to be married is not complete. </description>
-      <dc:creator>Steven Paulikas</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 10:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <title>How to Fight Back Against the Inhumanity of Modern Work</title>
+      <link>https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html" rel="standout"></atom:link>
+      <description>Digital technology has transformed work, often for the worse. Here are some solutions.</description>
+      <dc:creator>Tish Harrison Warren</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 13:15:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15paulikas-image/15paulikas-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Bryan Thomas for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berry, Wendell</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/opinion/16warren-image/16warren-image-moth.jpg" width="151"></media:content>
+      <media:credit>Matija Medved</media:credit>
     </item>
     <item>
-      <title>What My Students Don’t Know About Their Own History</title>
-      <link>https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html" rel="standout"></atom:link>
-      <description>When Lat see themselves represented it leaves them empowered and curious to learn more.</description>
-      <dc:creator>Arlene Dávila</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 17:47:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/opinion/15davila/15davila-moth.jpg" width="151"></media:content>
-      <media:credit>Dominic Bodden</media:credit>
+      <title>Three Things Americans Should Learn From Xi’s China</title>
+      <link>https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html" rel="standout"></atom:link>
+      <description>The tactics he has used to maintain power may end up weakening his country in the end.</description>
+      <dc:creator>Farah Stockman</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/16stockman-image2/16stockman-image2-moth.jpg" width="151"></media:content>
+      <media:credit>Greg Baker/AFP via Getty Images</media:credit>
     </item>
     <item>
       <title>Herschel Walker, Butcher of Language</title>

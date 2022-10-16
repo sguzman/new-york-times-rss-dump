@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 20:16:07 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 19:32:21 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 20:41:25 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 20:36:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/nyregion/politicians-housing-crisis-real-estate.html" rel="standout"></atom:link>
       <description>Lawmakers on the left are fierce critics of the real estate industry. But some are embracing new housing development, even if it’s not fully affordable.</description>
       <dc:creator>Mihir Zaveri</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 16:08:08 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 20:32:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
@@ -238,7 +238,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/world/europe/paris-protest-inflation.html" rel="standout"></atom:link>
       <description>The demonstration occurred on the heels of strikes at oil refineries, adding to a tense political atmosphere.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 17:10:25 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 20:27:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -318,6 +318,21 @@
       <media:credit>Kendrick Brinson for The New York Times</media:credit>
     </item>
     <item>
+      <title>Wait, Who Did You Say Is Middle-Aged?</title>
+      <link>https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html" rel="standout"></atom:link>
+      <description>Boomers didn’t appreciate getting long in the tooth. But as a Gen Xer, I have to assume it’s worse for us.</description>
+      <dc:creator>Pamela Paul</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 10:00:06 +0000</pubDate>
+      <category domain="">aging</category>
+      <category domain="">middle age</category>
+      <category domain="">growing old</category>
+      <category domain="">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+    </item>
+    <item>
       <title>We Should Try to Prevent Another Alex Jones</title>
       <link>https://www.nytimes.com/2022/10/16/opinion/alex-jones-sandy-hook.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/alex-jones-sandy-hook.html</guid>
@@ -343,22 +358,6 @@
       <media:description>Alex Jones outside the courthouse in Waterbury, Conn., in September.</media:description>
     </item>
     <item>
-      <title>Wait, Who Did You Say Is Middle-Aged?</title>
-      <link>https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html" rel="standout"></atom:link>
-      <description>Boomers didn’t appreciate getting long in the tooth. But as a Gen Xer, I have to assume it’s worse for us.</description>
-      <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 10:00:06 +0000</pubDate>
-      <category domain="">aging</category>
-      <category domain="">middle age</category>
-      <category domain="">growing old</category>
-      <category domain="">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baby Boomers</category>
-    </item>
-    <item>
       <title>The Contradictions of Climate Activism</title>
       <link>https://www.nytimes.com/2022/10/15/opinion/oil-energy-crisis-van-gogh.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/oil-energy-crisis-van-gogh.html</guid>
@@ -374,43 +373,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15douthat1/15douthat1-moth.jpg" width="151"></media:content>
       <media:credit>Henry Nicholls/Reuters</media:credit>
       <media:description>A Just Stop Oil protester in London last week.</media:description>
-    </item>
-    <item>
-      <title>How to Fight Back Against the Inhumanity of Modern Work</title>
-      <link>https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html" rel="standout"></atom:link>
-      <description>Digital technology has transformed work, often for the worse. Here are some solutions.</description>
-      <dc:creator>Tish Harrison Warren</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 13:15:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berry, Wendell</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/opinion/16warren-image/16warren-image-moth.jpg" width="151"></media:content>
-      <media:credit>Matija Medved</media:credit>
-    </item>
-    <item>
-      <title>Three Things Americans Should Learn From Xi’s China</title>
-      <link>https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html" rel="standout"></atom:link>
-      <description>The tactics he has used to maintain power may end up weakening his country in the end.</description>
-      <dc:creator>Farah Stockman</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 13:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/16stockman-image2/16stockman-image2-moth.jpg" width="151"></media:content>
-      <media:credit>Greg Baker/AFP via Getty Images</media:credit>
     </item>
     <item>
       <title>Herschel Walker, Butcher of Language</title>
@@ -433,6 +395,26 @@
       <media:credit>Kendrick Brinson for The New York Times</media:credit>
     </item>
     <item>
+      <title>Three Things Americans Should Learn From Xi’s China</title>
+      <link>https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/xi-jinping-china-economy.html" rel="standout"></atom:link>
+      <description>The tactics he has used to maintain power may end up weakening his country in the end.</description>
+      <dc:creator>Farah Stockman</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/16stockman-image2/16stockman-image2-moth.jpg" width="151"></media:content>
+      <media:credit>Greg Baker/AFP via Getty Images</media:credit>
+    </item>
+    <item>
       <title>Same-Sex Marriage Is a Religious Freedom</title>
       <link>https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/opinion/same-sex-marriage-is-a-religious-freedom.html</guid>
@@ -447,6 +429,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/15paulikas-image/15paulikas-image-moth-v2.jpg" width="151"></media:content>
       <media:credit>Bryan Thomas for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How to Fight Back Against the Inhumanity of Modern Work</title>
+      <link>https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/work-rest-sabbath.html" rel="standout"></atom:link>
+      <description>Digital technology has transformed work, often for the worse. Here are some solutions.</description>
+      <dc:creator>Tish Harrison Warren</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 13:15:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berry, Wendell</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/opinion/16warren-image/16warren-image-moth.jpg" width="151"></media:content>
+      <media:credit>Matija Medved</media:credit>
     </item>
     <item>
       <title>We Were Three</title>

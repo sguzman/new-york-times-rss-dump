@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 15:13:36 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 14:53:41 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 15:43:42 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 15:42:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -121,18 +121,14 @@
       <description>Lawmakers on the left are fierce critics of the real estate industry. But some are embracing new housing development, even if it’s not fully affordable.</description>
       <dc:creator>Mihir Zaveri</dc:creator>
       <pubDate>Sun, 16 Oct 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Two Trees Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torres-Springer, Maria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Velazquez, Marjorie (1981- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astoria (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astoria (Queens, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harlem (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prospect Heights (Brooklyn, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Throgs Neck (Bronx, NY)</category>
@@ -235,7 +231,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/books/a-posthumous-memoir-reveals-paul-newman-in-his-own-words.html" rel="standout"></atom:link>
       <description>Compiled from interviews he gave to a close friend, “The Extraordinary Life of an Ordinary Man” sheds light on the self-doubt of the seemingly imperturbable Hollywood star.</description>
       <dc:creator>Dave Itzkoff</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 09:00:11 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 15:42:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
@@ -289,7 +285,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/opinion/alex-jones-sandy-hook.html" rel="standout"></atom:link>
       <description>Even a billion-dollar verdict won’t stop the lies.</description>
       <dc:creator>Zeynep Tufekci</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 10:00:09 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 15:16:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -500,20 +496,18 @@
       <description>The 43-year-old man was arrested early on Saturday while he was “out hunting” for another victim, said the police chief, who added, “We are sure we stopped another killing.”</description>
       <dc:creator>Eduardo Medina</dc:creator>
       <pubDate>Sun, 16 Oct 2022 00:28:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Serial Murders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brownlee, Wesley</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockton (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Joaquin County (Calif)</category>
     </item>
     <item>
       <title>Padres Eliminate Dodgers and Advance to N.L.C.S.</title>
       <link>https://www.nytimes.com/2022/10/16/sports/baseball/padres-eliminate-dodgers-nlds.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/sports/baseball/padres-eliminate-dodgers-nlds.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/16/sports/baseball/padres-eliminate-dodgers-nlds.html" rel="standout"></atom:link>
-      <description>In front of a wild crowd at Petco Park, San Diego topped their Southern California rival, advancing to the N.L.C.S.</description>
+      <description>In front of a wild home crowd, San Diego topped its Southern California rival, advancing to the N.L.C.S.</description>
       <dc:creator>Scott Miller</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 12:33:34 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 15:36:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Padres</category>

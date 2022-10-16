@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 21:51:19 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Oct 2022 21:50:18 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2022 22:13:08 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2022 21:55:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -181,6 +181,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Free Agents (Sports)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neymar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sonda, Delcir</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Barcelona (Soccer Team)</category>
@@ -283,25 +284,20 @@
       <media:description>“I am certain that nobody can always be responsible for what other people are,” Paul Newman says in a posthumous memoir surprising for its candor and vulnerability. “You can only be responsible for who you are.”</media:description>
     </item>
     <item>
-      <title>Sex, Death, Family: Sharon Olds Is Still Shockingly Intimate</title>
-      <link>https://www.nytimes.com/2022/10/12/magazine/sharon-olds-poetry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/magazine/sharon-olds-poetry.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/12/magazine/sharon-olds-poetry.html" rel="standout"></atom:link>
-      <description>“No one should read more than one poem at a time from this book.”</description>
-      <dc:creator>Sam Anderson</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 19:38:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olds, Sharon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="">cultureissue2022</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hayes, Terrance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vuong, Ocean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Odes (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/magazine/16mag-olds-02/16mag-olds-02-moth.jpg" width="151"></media:content>
-      <media:credit>Ruven Afanador for The New York Times</media:credit>
+      <title>Stay Warm This Fall With Butternut Squash Lasagna</title>
+      <link>https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html" rel="standout"></atom:link>
+      <description>A pasta pie becomes a seasonal reverie for the senses.</description>
+      <dc:creator>Yotam Ottolenghi</dc:creator>
+      <pubDate>Sun, 16 Oct 2022 02:52:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Senses and Sensation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/magazine/16mag-eat/16mag-eat-moth.jpg" width="151"></media:content>
+      <media:credit>Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.</media:credit>
     </item>
     <item>
       <title>Why Herschel Walker May Win</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 08:15:46 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Oct 2022 05:13:41 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 09:03:47 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 09:02:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -197,6 +197,23 @@
       <media:credit>Reuters</media:credit>
     </item>
     <item>
+      <title>Is This the World’s Most Picturesque High Dive?</title>
+      <link>https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html" rel="standout"></atom:link>
+      <description>Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hundreds of years, divers have leaped from a bridge in the southern city of Mostar.</description>
+      <dc:creator>Alessio Mamo and Marta Bellingreri</dc:creator>
+      <pubDate>Mon, 17 Oct 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Neretva River</category>
+    </item>
+    <item>
       <title>Your Monday Briefing</title>
       <link>https://www.nytimes.com/2022/10/17/briefing/russia-draft-paris-protests-xi-jinping.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/briefing/russia-draft-paris-protests-xi-jinping.html</guid>
@@ -215,7 +232,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/17/world/middleeast/iran-protests-revolutionary-guards.html" rel="standout"></atom:link>
       <description>The Revolutionary Guards — the country’s most powerful military force — have become so deeply woven into Iran’s economy and power structure that they have everything to lose if the system falls.</description>
       <dc:creator>Ben Hubbard and Farnaz Fassihi</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 04:02:32 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 09:02:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
@@ -918,19 +935,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-protest/merlin_214798065_0ba6c1c3-a0c5-45df-b98e-2566b4b6eece-moth.jpg" width="151"></media:content>
       <media:credit>Dake Kang/Associated Press</media:credit>
       <media:description>An intersection near a Beijing bridge, where social media videos appeared to show smoke and protest banners on Thursday. Covid-19 policies were among the criticisms raised.</media:description>
-    </item>
-    <item>
-      <title>Herschel Walker’s Polling Dip</title>
-      <link>https://www.nytimes.com/2022/10/14/briefing/herschel-walkers-senate-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/briefing/herschel-walkers-senate-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/briefing/herschel-walkers-senate-midterms.html" rel="standout"></atom:link>
-      <description>How the Senate race in Georgia is shaking out.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Fri, 14 Oct 2022 10:39:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/14themorning-promo/14themorning-lede-1-1b7e-moth.jpg" width="151"></media:content>
-      <media:credit>Nicole Craine for The New York Times</media:credit>
-      <media:description>Herschel Walker.</media:description>
     </item>
   </channel>
 </rss>

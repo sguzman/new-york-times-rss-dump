@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 14:46:23 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Oct 2022 14:46:11 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 15:27:12 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 15:27:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/17/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>At least four people were killed in the attacks on the Ukrainian capital. Three others died in a Russian strike in the northeastern Sumy region, officials said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 14:46:11 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 15:27:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17ukraine-briefing-kyiv1/17ukraine-briefing-kyiv1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Taking shelter in a subway station after a series of early morning explosions on Monday in Kyiv, Ukraine.</media:description>
@@ -134,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/17/world/asia/manchester-china-consulate-beating.html" rel="standout"></atom:link>
       <description>The scuffle came as tensions have escalated between Beijing and London, which has offered special visas to Hong Kongers seeking to leave.</description>
       <dc:creator>Tiffany May</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 14:45:49 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 15:06:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -223,13 +223,13 @@
       <dc:creator>Maria Varenikova, Andrew E. Kramer and Lynsey Addario</dc:creator>
       <pubDate>Sun, 16 Oct 2022 14:36:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01ukraine-surrogacy1-promo/01ukraine-surrogacy1-moth.jpg" width="151"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
     </item>
@@ -362,16 +362,16 @@
       <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/russia-ukraine-iran-drones.html" rel="standout"></atom:link>
       <description>Russia has used the drones to strike on the battlefield and in Ukrainian cities. Their use may be a sign that Moscow is running low on precision-guided weapons.</description>
       <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 13:21:35 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 15:22:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/17ukraine-briefing-promo/17ukraine-briefing-carousel-update-01-1-1eae-moth.jpg" width="151"></media:content>
-      <media:credit>Yasuyoshi Chiba/AFP, via Getty Images</media:credit>
-      <media:description>A residential building hit by Monday’s strikes in Kyiv.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/17ukraine-briefing-drones2-1-7eeb/17ukraine-briefing-drones2-1-7eeb-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Pedestrians walked past wreckage from an explosive drone attack in Kyive on Monday.</media:description>
     </item>
     <item>
       <title>Is This the World’s Most Picturesque High Dive?</title>
@@ -1016,21 +1016,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/world/00netherlands-princess-01/00netherlands-princess-01-moth.jpg" width="151"></media:content>
       <media:credit>Robin Van Lonkhuijsen/EPA, via Shutterstock</media:credit>
       <media:description>Princess Amalia of the Netherlands, center, arriving for a speech by her father the king at the Royal Theater in The Hague, the Netherlands, in September.</media:description>
-    </item>
-    <item>
-      <title>How Security Forces Cracked Down in Southeastern Iran</title>
-      <link>https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/14/world/middleeast/iran-zahedan-crackdown.html" rel="standout"></atom:link>
-      <description>A New York Times analysis of witness testimony and videos reveals a bloody scene that unfolded last month in Zahedan during Friday Prayer, with mats as stretchers and bodies piled in cars.</description>
-      <dc:creator>Cora Engelbrecht, Nilo Tabrizy and Ishaan Jhaveri</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 15:54:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zahedan (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
     </item>
   </channel>
 </rss>

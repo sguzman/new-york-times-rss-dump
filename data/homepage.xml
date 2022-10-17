@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 09:11:41 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Oct 2022 09:02:35 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 09:52:12 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 09:52:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -145,6 +145,7 @@
       <description>The Revolutionary Guards — the country’s most powerful military force — have become so deeply woven into Iran’s economy and power structure that they have everything to lose if the system falls.</description>
       <dc:creator>Ben Hubbard and Farnaz Fassihi</dc:creator>
       <pubDate>Mon, 17 Oct 2022 09:02:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
@@ -154,7 +155,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quds Force</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15Iran-Security-1/15Iran-Security-1-moth.jpg" width="151"></media:content>
       <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
       <media:description>The Revolutionary Guards, a force with hundreds of thousands of members, is separate from the national army and is charged specifically with defending the ruling system.</media:description>
@@ -167,14 +168,16 @@
       <description>Xi Jinping is expected to secure a third term as leader during a pivotal meeting of the Communist Party, extending his authoritarian rule over the country.</description>
       <dc:creator>Chris Buckley, Keith Bradsher, Vivian Wang and Austin Ramzy</dc:creator>
       <pubDate>Mon, 17 Oct 2022 01:26:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16china-congress-ledeall1/16china-congress-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
       <media:description>President Xi Jinping of China on Sunday at the opening ceremony of the 20th National Congress of the Communist Party of China at the Great Hall of the People in Beijing.</media:description>
@@ -353,7 +356,6 @@
       <category domain="">aging</category>
       <category domain="">middle age</category>
       <category domain="">growing old</category>
-      <category domain="">Elderly</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
     </item>
@@ -364,7 +366,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/opinion/alex-jones-sandy-hook.html" rel="standout"></atom:link>
       <description>Even a billion-dollar verdict won’t stop the lies.</description>
       <dc:creator>Zeynep Tufekci</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 15:16:12 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 15:16:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -378,7 +380,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infowars</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Alex (1974- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sandy Hook Elementary School (Newtown, Conn)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/opinion/16tufekci1/16tufekci1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/16tufekci1/16tufekci1-moth.jpg" width="151"></media:content>
       <media:credit>Kirsten Luce for The New York Times</media:credit>
       <media:description>Alex Jones outside the courthouse in Waterbury, Conn., in September.</media:description>
     </item>

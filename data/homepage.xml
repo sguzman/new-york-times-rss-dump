@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Oct 2022 12:32:36 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Oct 2022 12:25:43 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 13:42:47 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 13:37:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/17/upshot/midterms-poll-republicans-lead.html" rel="standout"></atom:link>
       <description>Is four points the real margin nationally? That’s a good question.</description>
       <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 09:00:11 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 12:59:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -100,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/russia-ukraine-iran-drones.html" rel="standout"></atom:link>
       <description>Russia has used the drones to strike on the battlefield and in Ukrainian cities. Their use may be a sign that Moscow is running low on precision-guided weapons.</description>
       <dc:creator>Austin Ramzy</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 11:26:03 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 13:21:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -191,25 +191,6 @@
       <media:description>An image of Xi Jinping, China’s leader, at a military museum in Beijing.</media:description>
     </item>
     <item>
-      <title>In Xi’s China, the Business of Business Is State-Controlled</title>
-      <link>https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html" rel="standout"></atom:link>
-      <description>The Chinese leader has increasingly demanded that businesses conform to the aims of the Communist Party, an agenda he doubled down on this week at an important political gathering.</description>
-      <dc:creator>Daisuke Wakabayashi, Chang Che and Claire Fu</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 11:56:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/00china-business-01/00china-business-01-moth.jpg" width="151"></media:content>
-      <media:credit>Kevin Frayer/Getty Images</media:credit>
-      <media:description>Chinese leader Xi Jinping during his speech at the Communist Party congress in Beijing, on Sunday.</media:description>
-    </item>
-    <item>
       <title>China Delays the Release of G.D.P. and Other Economic Data</title>
       <link>https://www.nytimes.com/2022/10/17/business/china-gdp-delay.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/business/china-gdp-delay.html</guid>
@@ -227,6 +208,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/china-gdp-1-f5cd/china-gdp-1-f5cd-moth.jpg" width="151"></media:content>
       <media:credit>Mark Schiefelbein/Associated Press</media:credit>
       <media:description>Delegates in Beijing on Sunday leave after the opening ceremony of the national congress of the Communist Party. </media:description>
+    </item>
+    <item>
+      <title>In Xi’s China, the Business of Business Is State-Controlled</title>
+      <link>https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/17/business/china-xi-jinping-business-economy.html" rel="standout"></atom:link>
+      <description>The Chinese leader has increasingly demanded that businesses conform to the aims of the Communist Party, an agenda he doubled down on this week at an important political gathering.</description>
+      <dc:creator>Daisuke Wakabayashi, Chang Che and Claire Fu</dc:creator>
+      <pubDate>Mon, 17 Oct 2022 11:56:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/00china-business-01/00china-business-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>Chinese leader Xi Jinping during his speech at the Communist Party congress in Beijing, on Sunday.</media:description>
     </item>
     <item>
       <title>Fencing Can Be Six-Figure Expensive, but It Wins in College Admissions</title>
@@ -298,13 +298,38 @@
       <media:description>Charlie Kirk, a conservative who hosts a radio show for Salem Media, at a political rally in August. He has joined a tour backed by Salem to promote his views and Republican candidates ahead of the midterm elections.</media:description>
     </item>
     <item>
+      <title>The Problem of Marjorie Taylor Greene</title>
+      <link>https://www.nytimes.com/2022/10/17/magazine/marjorie-taylor-greene.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/magazine/marjorie-taylor-greene.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/17/magazine/marjorie-taylor-greene.html" rel="standout"></atom:link>
+      <description>What the rise of the far-right congresswoman means for the House, the G.O.P. and the nation.</description>
+      <dc:creator>Robert Draper</dc:creator>
+      <pubDate>Mon, 17 Oct 2022 09:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cheney, Liz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">QAnon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/magazine/23mag-greene/23mag-greene-moth.jpg" width="151"></media:content>
+      <media:credit>Stephen Voss for The New York Times</media:credit>
+      <media:description>Greene outside the United States Capitol in September.</media:description>
+    </item>
+    <item>
       <title>Migrants in New York Are Grateful for Help. But They Want to Work.</title>
       <link>https://www.nytimes.com/2022/10/17/nyregion/nyc-asylum-seekers-bronx.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/nyregion/nyc-asylum-seekers-bronx.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/17/nyregion/nyc-asylum-seekers-bronx.html" rel="standout"></atom:link>
       <description>Newly arrived asylum seekers are finding that their job options are limited by federal rules on work permits.</description>
       <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 07:00:14 +0000</pubDate>
+      <pubDate>Mon, 17 Oct 2022 07:00:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -324,7 +349,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/16/sports/basketball/victor-wembanyama-nba-draft-2023.html" rel="standout"></atom:link>
       <description>Wembanyama, an 18-year-old with an eight-foot wingspan, will almost certainly be the top pick in next year’s N.B.A. draft. He’s been preparing for the moment for years.</description>
       <dc:creator>Tania Ganguli and James Hill</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 18:26:36 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 18:26:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wembanyama, Victor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 21:35:05 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 21:13:33 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 21:50:42 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 21:49:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -84,7 +84,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/iran-drones-russia-ukraine.html" rel="standout"></atom:link>
       <description>The trainers from Iran’s paramilitary wing have been deployed to help Russia overcome mechanical problems with the fleet.</description>
       <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 20:35:41 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 21:36:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -254,7 +254,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html" rel="standout"></atom:link>
       <description>The California student went missing after Mr. Flores, a fellow student, escorted her to the dorms after an off-campus party. She was never seen again.</description>
       <dc:creator>Christine Hauser and Michael Levenson</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 21:13:33 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 21:49:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Polytechnic State University</category>
@@ -302,25 +302,20 @@
       <media:description>The Capitol on Jan. 6, 2022.</media:description>
     </item>
     <item>
-      <title>Preparing for Republican Debt Blackmail</title>
-      <link>https://www.nytimes.com/2022/10/17/opinion/republican-debt-federal-budget.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/opinion/republican-debt-federal-budget.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/opinion/republican-debt-federal-budget.html" rel="standout"></atom:link>
-      <description>Democrats should do whatever it takes to block extortion.</description>
+      <title>Liz Truss in the Libertarian Wilderness</title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-conservative-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-conservative-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-conservative-politics.html" rel="standout"></atom:link>
+      <description>The political economy of a debacle.</description>
       <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 23:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/17krugman1/17krugman1-moth.jpg" width="151"></media:content>
-      <media:credit>Shuran Huang for The New York Times</media:credit>
+      <pubDate>Tue, 18 Oct 2022 21:48:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/18krugman-newsletter-image/18krugman-newsletter-image-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times; photograph by Jeff J Mitchell via Getty Images</media:credit>
     </item>
     <item>
       <title>The Fall of Liz Cheney and the Rise of Marjorie Taylor Greene</title>
@@ -363,22 +358,6 @@
       <media:credit>Pool photo by Daniel Leal, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Reindeer Dog vs. the Swedish Tax Agency </title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html" rel="standout"></atom:link>
-      <description>Indigenous Sami tradition versus Swedish bureaucracy — who wins this dogfight?</description>
-      <dc:creator>Maria Fredriksson</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 14:17:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reindeer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Samis (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-    </item>
-    <item>
       <title>A Legendary World Builder on Multiverses, Revolution and the ‘Souls’ of Cities</title>
       <link>https://www.nytimes.com/2022/10/18/opinion/ezra-klein-podcast-nk-jemisin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/ezra-klein-podcast-nk-jemisin.html</guid>
@@ -397,13 +376,29 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
+      <title>Reindeer Dog vs. the Swedish Tax Agency </title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html" rel="standout"></atom:link>
+      <description>Indigenous Sami tradition versus Swedish bureaucracy — who wins this dogfight?</description>
+      <dc:creator>Maria Fredriksson</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 14:17:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reindeer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Samis (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+    </item>
+    <item>
       <title>A Utah Jury Acquitted Two Animal Rights Activists.</title>
       <link>https://www.nytimes.com/2022/10/18/opinion/animal-rights-factory-farming.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/animal-rights-factory-farming.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/18/opinion/animal-rights-factory-farming.html" rel="standout"></atom:link>
       <description>The acquittal of animal rights activists in Utah suggests attitudes may be changing about factory farming.</description>
       <dc:creator>Wayne Hsiung</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 19:55:21 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 21:40:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -522,7 +517,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/nyregion/ny-attorney-general-violent-videos.html" rel="standout"></atom:link>
       <description>Following the mass shooting this year in Buffalo, Attorney General Letitia James is urging legislators to punish those who make and distribute videos of extreme violence.</description>
       <dc:creator>Jonah E. Bromwich and Jesse McKinley</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 18:15:28 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 21:48:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>

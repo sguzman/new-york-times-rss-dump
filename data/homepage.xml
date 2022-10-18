@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 09:21:59 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 08:47:38 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 09:51:42 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 09:00:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -223,6 +223,41 @@
       <media:description>Maharaja Sweets, one of New York City’s most beloved South Asian sweet shops, does brisk business on Diwali.</media:description>
     </item>
     <item>
+      <title>Britain’s Liz Truss Is Finished</title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html" rel="standout"></atom:link>
+      <description>Britain’s prime minister may limp on, powerless, but she will fall.</description>
+      <dc:creator>Tanya Gold</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/18gold-image/18gold-image-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Daniel Leal, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Jim Crow Should Have Made One Thing Clear</title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html" rel="standout"></atom:link>
+      <description>We don’t need foreign models to understand America’s authoritarian tendencies</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/18bouie-1/18bouie-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Peterson for The New York Times</media:credit>
+      <media:description>The Capitol on Jan. 6, 2022.</media:description>
+    </item>
+    <item>
       <title>Preparing for Republican Debt Blackmail</title>
       <link>https://www.nytimes.com/2022/10/17/opinion/republican-debt-federal-budget.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/opinion/republican-debt-federal-budget.html</guid>
@@ -239,22 +274,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/17krugman1/17krugman1-moth.jpg" width="151"></media:content>
       <media:credit>Shuran Huang for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Britain’s Liz Truss Is Finished</title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html" rel="standout"></atom:link>
-      <description>Britain’s prime minister may limp on, powerless, but she will fall.</description>
-      <dc:creator>Tanya Gold</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 05:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/18gold-image/18gold-image-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Daniel Leal, via Getty Images</media:credit>
     </item>
     <item>
       <title>The Fall of Liz Cheney and the Rise of Marjorie Taylor Greene</title>
@@ -278,55 +297,38 @@
       <media:description>Marjorie Taylor Greene, ascendant in the Republican Party.</media:description>
     </item>
     <item>
-      <title>A New Playbook for Saving Democracy, Defeating Fascism and Winning Elections</title>
-      <link>https://www.nytimes.com/2022/10/17/opinion/midterm-democracy-crisis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/opinion/midterm-democracy-crisis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/opinion/midterm-democracy-crisis.html" rel="standout"></atom:link>
-      <description>In the longer contest to tell the better story about America and draw people into that story, there is a great worry among organizers that the left is badly falling short.</description>
-      <dc:creator>Anand Giridharadas</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 14:53:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/17Giridharadas/17Giridharadas-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Jon Han</media:credit>
+      <title>Reindeer Dog vs. the Swedish Tax Agency </title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html" rel="standout"></atom:link>
+      <description>Indigenous Sami tradition vs. Swedish bureaucracy — who wins this dogfight?</description>
+      <dc:creator>Maria Fredriksson</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reindeer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Samis (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
     </item>
     <item>
-      <title>Unseparate and Unequal</title>
-      <link>https://www.nytimes.com/2022/10/17/opinion/workers-employers-unequal-power.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/opinion/workers-employers-unequal-power.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/opinion/workers-employers-unequal-power.html" rel="standout"></atom:link>
-      <description>Workers may have more leverage these days, but the boss is still the boss.</description>
-      <dc:creator>Peter Coy</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 19:22:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Adam (1723-90)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lincoln, Abraham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">New Deal (1930&#39;s)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/17coy-image/17coy-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Imagining a Post-Global World</title>
-      <link>https://www.nytimes.com/2022/10/17/opinion/neoliberalism-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/opinion/neoliberalism-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/opinion/neoliberalism-economy.html" rel="standout"></atom:link>
-      <description>The chaos that’s engulfed the economy is driven by a seismic shift toward a better balance between the global and the local.</description>
-      <dc:creator>Rana Foroohar</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 15:24:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/opinion/17faroohar/17faroohar-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Illustration by Jordan Awan for The New York Times; photographs by Javier Zayas Photography and dikobraziy, via Getty Images</media:credit>
+      <title>A Legendary World-Builder on Multiverses, Revolution and the ‘Souls’ of Cities</title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/ezra-klein-podcast-nk-jemisin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/ezra-klein-podcast-nk-jemisin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/ezra-klein-podcast-nk-jemisin.html" rel="standout"></atom:link>
+      <description>How the fantasy and science-fiction writer N.K. Jemisin thinks about people and difference in our complex world.</description>
+      <dc:creator>‘The Ezra Klein Show’</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jemisin, N K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science Fiction</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The World We Make (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/18eks-jemisin-image/18eks-jemisin-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Welcome to the Madness of Our Trumpy, Trumpy World</title>
@@ -348,20 +350,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/17conversation1/17conversation1-moth.jpg" width="151"></media:content>
       <media:credit>Stefani Reynolds/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>Grutter v. Bollinger’s affirmation of affirmative action may well be the next precedent to fall.</media:description>
-    </item>
-    <item>
-      <title>Wait, Who Did You Say Is Middle-Aged?</title>
-      <link>https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/opinion/middle-age-gen-x-boomer.html" rel="standout"></atom:link>
-      <description>Boomers didn’t appreciate getting long in the tooth. But as a Gen Xer, I have to assume it’s worse for us.</description>
-      <dc:creator>Pamela Paul</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 10:00:06 +0000</pubDate>
-      <category domain="">aging</category>
-      <category domain="">middle age</category>
-      <category domain="">growing old</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
     </item>
     <item>
       <title>Your Monday Evening Briefing</title>

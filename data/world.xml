@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 14:45:03 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 14:27:37 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 15:32:02 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 15:13:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/18/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that 30 percent of Ukraine’s power stations “have been destroyed” in the past eight days, causing “massive blackouts across the country.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 14:27:37 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 15:11:02 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-briefing-header-3am/18ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Anna Voitenko/Reuters</media:credit>
       <media:description>Smoke rising on the outskirts of Kyiv, Ukraine, during a Russian missile attack on Tuesday.</media:description>
@@ -54,7 +54,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/berlusconi-italy-right-wing.html" rel="standout"></atom:link>
       <description>Giorgia Meloni’s likely turn as prime minister will depend on support from the billionaire media mogul. So may the health of Italian democracy.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 13:15:52 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 15:05:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -200,6 +200,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17Ukraine-Kyiv-Dispatch-01b-promo/17Ukraine-Kyiv-Dispatch-01b-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Smoke billows from the site of a drone attack as passengers walk with their luggage from nearby train and bus stations in Kyiv, Ukraine, on Monday.</media:description>
@@ -311,13 +314,14 @@
       <description>The anti-immigrant Sweden Democrats will have a say over new policies for the incoming government under a complicated leadership agreement.</description>
       <dc:creator>Christina Anderson</dc:creator>
       <pubDate>Mon, 17 Oct 2022 20:02:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akesson, Jimmie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kristersson, Ulf</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17SWEDEN1/17SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ulf Kristersson, who will be Sweden’s new prime minister, in Parliament in Stockholm on Monday.</media:description>
@@ -985,23 +989,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15uk-politics01sub/15uk-politics01sub-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Carlos Jasso</media:credit>
       <media:description>In addition to her other problems, Britain’s beleaguered prime minister, Liz Truss, has never been known as a good communicator. </media:description>
-    </item>
-    <item>
-      <title>When Cemeteries Are Flooded, Where Do You Bury the Dead?</title>
-      <link>https://www.nytimes.com/2022/10/15/world/asia/pakistan-floods-dadu-sindh.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/asia/pakistan-floods-dadu-sindh.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/world/asia/pakistan-floods-dadu-sindh.html" rel="standout"></atom:link>
-      <description>Record-shattering flooding has submerged cemeteries across much of Pakistan. Now, with deaths from flood-related diseases mounting, families are struggling with where to bury loved ones.</description>
-      <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 13:45:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dadu (Pakistan)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/00pakistan-graves-dispatch-1/00pakistan-graves-dispatch-1-moth.jpg" width="151"></media:content>
-      <media:credit>Saiyna Bashir for The New York Times</media:credit>
-      <media:description>A flooded graveyard in Dadu, Pakistan, last month.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 14:09:13 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 14:04:52 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 14:45:03 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 14:27:37 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/18/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that 30 percent of Ukraine’s power stations “have been destroyed” in the past eight days, causing “massive blackouts across the country.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 14:04:52 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 14:27:37 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-briefing-header-3am/18ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Anna Voitenko/Reuters</media:credit>
       <media:description>Smoke rising on the outskirts of Kyiv, Ukraine, during a Russian missile attack on Tuesday.</media:description>
@@ -321,6 +321,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17SWEDEN1/17SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ulf Kristersson, who will be Sweden’s new prime minister, in Parliament in Stockholm on Monday.</media:description>
+    </item>
+    <item>
+      <title>Denmark Says ‘Powerful Explosions’ Caused Nord Stream Pipeline Leaks</title>
+      <link>https://www.nytimes.com/2022/10/18/world/europe/nord-stream-pipeline-leaks-explosions-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/nord-stream-pipeline-leaks-explosions-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/nord-stream-pipeline-leaks-explosions-russia.html" rel="standout"></atom:link>
+      <description>The findings were similar to those of Swedish investigators, who reported earlier that the leaks were the result of detonations that were likely acts of sabotage.</description>
+      <dc:creator>Jasmina Nielsen</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 14:16:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18ukraine-briefing-nordstream-denmark-01-1-a44e/18ukraine-briefing-nordstream-denmark-01-1-a44e-moth.jpg" width="151"></media:content>
+      <media:credit>Danish Defense Command, via Agence France-Press — Getty Images</media:credit>
+      <media:description>A photo from Sept. 29 shows gas leaking from one of the damaged Nord Stream pipelines in the Baltic Sea.</media:description>
     </item>
     <item>
       <title>Power in the N.F.L.</title>
@@ -983,22 +1002,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/00pakistan-graves-dispatch-1/00pakistan-graves-dispatch-1-moth.jpg" width="151"></media:content>
       <media:credit>Saiyna Bashir for The New York Times</media:credit>
       <media:description>A flooded graveyard in Dadu, Pakistan, last month.</media:description>
-    </item>
-    <item>
-      <title>Rising Waters Again Force Evacuations and Spread Misery in Australia</title>
-      <link>https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/world/australia/australia-floods-evacuations.html" rel="standout"></atom:link>
-      <description>In the southern state of Victoria, worst hit by the recent floods, officials warn that the danger will remain for weeks, with the ground already saturated.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 17:54:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15oz-floods01/15oz-floods01-moth.jpg" width="151"></media:content>
-      <media:credit>Diego Fedele/EPA, via Shutterstock</media:credit>
-      <media:description>In Seymour, in the Australian state of Victoria, on Saturday. The states of New South Wales, Victoria and Tasmania have all experienced flash flooding over the past week.</media:description>
     </item>
   </channel>
 </rss>

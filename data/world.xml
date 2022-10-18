@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 19:09:56 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 19:08:18 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 19:35:15 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 19:26:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/18/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that 30 percent of Ukraine’s power stations were “destroyed” in the past eight days, causing “massive blackouts across the country.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 19:08:18 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 19:26:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-briefing-header-3am/18ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Anna Voitenko/Reuters</media:credit>
       <media:description>Smoke rising on the outskirts of Kyiv, Ukraine, during a Russian missile attack on Tuesday.</media:description>
@@ -337,6 +337,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17SWEDEN1/17SWEDEN1-moth.jpg" width="151"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ulf Kristersson, who will be Sweden’s new prime minister, in Parliament in Stockholm on Monday.</media:description>
+    </item>
+    <item>
+      <title>Germany Sacks Cybersecurity Official Over Possible Links to Russia</title>
+      <link>https://www.nytimes.com/2022/10/18/world/europe/germany-russia-cybersecurity-arne-schoenbohm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/germany-russia-cybersecurity-arne-schoenbohm.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/germany-russia-cybersecurity-arne-schoenbohm.html" rel="standout"></atom:link>
+      <description>The dismissal comes after reports that the official kept contact with a lobbying group that had links to Russian intelligence even after Russia invaded Ukraine.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 19:25:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/world/18ukraine-briefing-germany-cyber-01/18ukraine-briefing-germany-cyber-01-moth.jpg" width="151"></media:content>
+      <media:credit>Henning Kaiser/picture alliance, via Getty Images</media:credit>
+      <media:description>Arne Schönbohm was removed from his role as Germany’s Federal Office for Information Security on Tuesday.</media:description>
     </item>
     <item>
       <title>Denmark Says ‘Powerful Explosions’ Caused Nord Stream Pipeline Leaks</title>
@@ -1025,26 +1043,6 @@
       <dc:creator>Megan Specia</dc:creator>
       <pubDate>Sat, 15 Oct 2022 23:19:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-    </item>
-    <item>
-      <title>Elon Musk Says His Company Will Continue to Fund Internet Service in Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/15/world/europe/musk-ukraine-internet-starlink.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/15/world/europe/musk-ukraine-internet-starlink.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/15/world/europe/musk-ukraine-internet-starlink.html" rel="standout"></atom:link>
-      <description>The service has been crucial for communications in Ukraine’s army as it advances into territory occupied by Russia.</description>
-      <dc:creator>Cade Metz</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 00:04:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/14/multimedia/15ukraine-briefing-musk-starlink/14ukraine-briefing-starlink-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Rourke/Associated Press</media:credit>
-      <media:description>Elon Musk announced on Twitter on Saturday that his company would continue to provide internet service to Ukraine.</media:description>
     </item>
   </channel>
 </rss>

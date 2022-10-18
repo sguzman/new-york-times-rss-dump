@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 20:25:38 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Oct 2022 20:23:49 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2022 20:50:45 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2022 20:49:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/18/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that 30 percent of Ukraine’s power stations were “destroyed” in the past eight days, causing “massive blackouts across the country.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 20:23:49 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 20:49:53 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-briefing-header-3am/18ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Anna Voitenko/Reuters</media:credit>
       <media:description>Smoke rising on the outskirts of Kyiv, Ukraine, during a Russian missile attack on Tuesday.</media:description>
@@ -340,6 +340,27 @@
       <media:description>The Algerian flag draped over coffins containing the 19th-century remains of people who were said to have been freedom fighters. The bones were returned to Algeria by France in 2020.</media:description>
     </item>
     <item>
+      <title>Iran Sends Drone Trainers to Crimea to Aid Russian Military</title>
+      <link>https://www.nytimes.com/2022/10/18/us/politics/iran-drones-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/iran-drones-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/iran-drones-russia-ukraine.html" rel="standout"></atom:link>
+      <description>The trainers from Iran’s paramilitary wing have been deployed to help Russia overcome mechanical problems with the fleet.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 20:35:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/politics/18dc-Intel-1/merlin_215044776_ef3b9493-0947-46fb-9017-13e6a65db693-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>A protest outside the Iranian Embassy in Kyiv on Monday.</media:description>
+    </item>
+    <item>
       <title>Denmark Says ‘Powerful Explosions’ Caused Nord Stream Pipeline Leaks</title>
       <link>https://www.nytimes.com/2022/10/18/world/europe/nord-stream-pipeline-leaks-explosions-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/nord-stream-pipeline-leaks-explosions-russia.html</guid>
@@ -480,6 +501,16 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17NigeriaFlood01/17NigeriaFlood01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Vehicles on an unflooded road in Lokoja, Nigeria, on Oct. 13. The floods have partly or wholly destroyed farmland, infrastructure and 200,000 homes.</media:description>
+    </item>
+    <item>
+      <title>Ukraine and Russia exchange prisoners, many of them women.</title>
+      <link>https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Dan Bilefsky</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 07:59:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
     <item>
       <title>Crude Comments From Europe’s Top Diplomat Point to Bigger Problems</title>
@@ -1036,16 +1067,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/video/15vid-iran-evin-prison-COVER/15vid-iran-evin-prison-COVER-moth.png" width="151"></media:content>
       <media:credit>Reuters</media:credit>
-    </item>
-    <item>
-      <title>An orchestra conductor has been killed after refusing to cooperate with Russian occupiers, Ukrainian officials say.</title>
-      <link>https://www.nytimes.com/2022/10/16/world/europe/an-orchestra-conductor-has-been-killed-after-refusing-to-cooperate-with-russian-occupiers-ukrainian-officials-say.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/europe/an-orchestra-conductor-has-been-killed-after-refusing-to-cooperate-with-russian-occupiers-ukrainian-officials-say.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/world/europe/an-orchestra-conductor-has-been-killed-after-refusing-to-cooperate-with-russian-occupiers-ukrainian-officials-say.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sat, 15 Oct 2022 23:19:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
   </channel>
 </rss>

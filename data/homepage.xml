@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 09:41:17 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 08:21:16 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 10:19:23 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 09:46:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html" rel="standout"></atom:link>
       <description>The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.</description>
       <dc:creator>Liz Alderman</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 07:10:22 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 09:46:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
@@ -54,26 +54,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19europe-bread-1/19europe-bread-1-moth.jpg" width="151"></media:content>
       <media:credit>Violette Franchi for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The Fed, Staring Down Two Big Choices, Charts an Aggressive Path</title>
-      <link>https://www.nytimes.com/2022/10/18/business/economy/federal-reserve-inflation-november-meeting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/business/economy/federal-reserve-inflation-november-meeting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/business/economy/federal-reserve-inflation-november-meeting.html" rel="standout"></atom:link>
-      <description>Federal Reserve officials are barreling toward another three-quarter-point increase in November, and they may decide to do more next year.</description>
-      <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:45:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/business/18dc-FedFuture-1/18dc-FedFuture-1-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>The Federal Reserve is poised to raise interest rates three-quarters of a point next month.</media:description>
     </item>
     <item>
       <title>IRS Announces Inflation Adjustments for Tax Rates in 2023</title>
@@ -97,6 +77,25 @@
       <media:description>With inflation taking a bite out of paychecks, the Internal Revenue Service will increase the amount of income subject to taxes.</media:description>
     </item>
     <item>
+      <title>Small Businesses Build Their Own Supply Chains</title>
+      <link>https://www.nytimes.com/2022/10/19/business/small-businesses-supply-chain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/business/small-businesses-supply-chain.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/business/small-businesses-supply-chain.html" rel="standout"></atom:link>
+      <description>They’re shifting to domestic sourcing and production, like some big manufacturers, but with at least one advantage the giants don’t have.</description>
+      <dc:creator>Amy Haimerl</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/00smallbiz-supplychain01/00smallbiz-supplychain01-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>Forloh, a company that makes technical hunting gear, designs and assembles its products from a factory run by Tough Stitch/Drift Dry in Vernon, Calif.</media:description>
+    </item>
+    <item>
       <title>Where Have All the Men in Moscow Gone?</title>
       <link>https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html</guid>
@@ -111,258 +110,183 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
     <item>
-      <title>Russia Targets Power, Water and Heat for Ukraine’s Civilians</title>
-      <link>https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html" rel="standout"></atom:link>
-      <description>The stepped-up attacks on cities, including through the heavy use of Iranian-made exploding drones, threaten a new sort of humanitarian crisis for Ukrainians this winter.</description>
-      <dc:creator>Megan Specia and Andrew E. Kramer</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 08:21:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <title>Waiting for Refugee Status, Thousands Live in Limbo</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html" rel="standout"></atom:link>
+      <description>As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.</description>
+      <dc:creator>Zolan Kanno-Youngs and Miriam Jordan</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Rescue workers on Monday combed though the rubble of a building in Kyiv, Ukraine, that was hit by an exploding drone.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/00dc-refugees_1/00dc-refugees_1-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>Feroza Binti Abdul Rashid, a Rohingya refugee, and her 5-year-old daughter at their home in Milwaukee. Her husband has not been able to join the family in the United States.</media:description>
     </item>
     <item>
-      <title>McCarthy Suggests a G.O.P.-Led House Would Question Ukraine Aid</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/mccarthy-ukraine-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/mccarthy-ukraine-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/mccarthy-ukraine-republicans.html" rel="standout"></atom:link>
-      <description>The House minority leader, who is in line to be speaker should Republicans win a majority, said in an interview that his party would resist giving a “blank check” to the war-torn country.</description>
-      <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 08:17:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Foreign Affairs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCaul, Michael T</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18dc-mccarthy-1-aac7/18dc-mccarthy-1-aac7-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Representative Kevin McCarthy’s comments reflected the rising tide of isolationism in the Republican Party, especially in the House.</media:description>
+      <title>Students, Legal Scholars Push California Universities to Hire Undocumented Students</title>
+      <link>https://www.nytimes.com/2022/10/19/us/daca-dreamers-university-of-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/daca-dreamers-university-of-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/daca-dreamers-university-of-california.html" rel="standout"></atom:link>
+      <description>With a soaring number of immigrant students not eligible to work legally, a new campaign is urging the influential University of California system to employ undocumented students.</description>
+      <dc:creator>Miriam Jordan</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Los Angeles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/19DACA-2/merlin_214991454_ce345f1d-1d92-40fb-b488-ce1a6ce1ee33-moth.jpg" width="151"></media:content>
+      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+      <media:description>Undocumented student leaders from the University of California, Los Angeles, will present a letter to the president of the U.C. system on Wednesday demanding that it put in place a strategy for hiring undocumented students.</media:description>
     </item>
     <item>
-      <title>Russian Analyst for Trump Dossier Acquitted of Lying to the FBI</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html" rel="standout"></atom:link>
-      <description>John H. Durham, the special counsel who investigated the Russia inquiry for more than three years, failed to develop any cases that resulted in convictions.</description>
-      <dc:creator>Charlie Savage and Linda Qiu</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 02:40:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BuzzFeed Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Danchenko, Igor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durham, John H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steele, Christopher (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sussmann, Michael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/politics/00dc-danchenko/00dc-danchenko-moth.jpg" width="151"></media:content>
-      <media:credit>Drew Angerer/Getty Images</media:credit>
-      <media:description>Two F.B.I. agents have testified that Igor Danchenko, who became a paid confidential source, had provided the bureau with valuable information.</media:description>
+      <title>Goodbye Planes, Trains and Automobiles. Hello, Luxury Bus?</title>
+      <link>https://www.nytimes.com/2022/10/19/travel/luxury-bus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/travel/luxury-bus.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/travel/luxury-bus.html" rel="standout"></atom:link>
+      <description>Start-up travel companies are hoping more Americans will embrace the concept of sleeper and luxury coaches. Just don’t call them buses.</description>
+      <dc:creator>Maria Cramer</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Country Music Hall of Fame and Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DePaul University</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/travel/19travel-sleeper-bus-overall/merlin_215031468_57d701a5-6332-448a-aee4-a55d388af6f3-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>Passengers on the Napaway coach get comfortable as the bus leaves Washington, D.C., on Oct. 14 for an overnight trip to Nashville. </media:description>
     </item>
     <item>
-      <title>Poll Shows Voters See Democracy in Peril, but Saving It Isn’t a Priority</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/midterm-election-voters-democracy-poll.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/midterm-election-voters-democracy-poll.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/midterm-election-voters-democracy-poll.html" rel="standout"></atom:link>
-      <description>A New York Times/Siena College poll found that other problems have seized voters’ focus — even as many do not trust this year’s election results and are open to anti-democratic candidates.</description>
-      <dc:creator>Nick Corasaniti, Michael C. Bender, Ruth Igielnik and Kristen Bayrakdarian</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/us/oct-poll-comfortable-voting-election-denier-promo/oct-poll-comfortable-voting-election-denier-promo-moth.png" width="151"></media:content>
-    </item>
-    <item>
-      <title>4 Takeaways From the Rubio-Demings Debate in Florida</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html" rel="standout"></atom:link>
-      <description>Exchanges between Marco Rubio and Val Demings got fiery at times over questions on abortion, guns and more.</description>
-      <dc:creator>Lisa Lerer and Maggie Astor</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 02:51:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Demings, Val</category>
+      <title>As Midterm Campaign Norms Erode, Even Debates Are Under Debate</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/midterm-campaigns-debates-democracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/midterm-campaigns-debates-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/midterm-campaigns-debates-democracy.html" rel="standout"></atom:link>
+      <description>Direct political engagement with voters is waning as candidates surround themselves with supporters. “They run these campaigns in bubbles,” a former congressman said.</description>
+      <dc:creator>Lisa Lerer and Jazmine Ulloa</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/00pol-norms-1-d71c/00pol-norms-1-d71c-moth.jpg" width="151"></media:content>
+      <media:credit>Ellen Schmidt/Associated Press</media:credit>
+      <media:description>A debate in the Nevada governor’s race between Gov. Steve Sisolak, left, and Joe Lombardo, right, was streamed live for $99 before it was broadcast to the public the next day.</media:description>
     </item>
     <item>
-      <title>Suspect in Stockton Serial Killings Charged With 3 Counts of Murder</title>
-      <link>https://www.nytimes.com/2022/10/18/us/stockton-serial-killer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/stockton-serial-killer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/stockton-serial-killer.html" rel="standout"></atom:link>
-      <description>A suspect was charged Tuesday in a series of murders in the California city, which has faced municipal bankruptcy, crippling crime waves and decades of setbacks.</description>
-      <dc:creator>Livia Albeck-Ripka, Shawn Hubler and Holly Secon</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:33:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockton (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/18stockton-hearing-top/18stockton-hearing-top-moth.jpg" width="151"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>A memorial for Jonathan Hernandez Rodriguez, who was murdered in August in Stockton, Calif.</media:description>
-    </item>
-    <item>
-      <title>Special Master Asks Trump Team to Back Up Privilege Claim </title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/special-master-trump-privilege.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/special-master-trump-privilege.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/special-master-trump-privilege.html" rel="standout"></atom:link>
-      <description>“What’s the expression — ‘Where’s the beef?’ I need some beef,” Judge Raymond Dearie, the independent arbiter, said during a conference call.</description>
-      <dc:creator>Charlie Savage and Alan Feuer</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 18:21:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dearie, Raymond J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cannon, Aileen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/politics/18dc-specialmaster/18dc-specialmaster-moth.jpg" width="151"></media:content>
-      <media:credit>Rebecca Noble for The New York Times</media:credit>
-      <media:description>Judge Raymond J. Dearie complained that an initial log of documents over which former President Donald J. Trump is seeking to claim privilege lacked sufficient information.</media:description>
-    </item>
-    <item>
-      <title>Trump Acknowledged in Interview That Letters to Kim Were ‘Top Secret’</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/trump-kim-woodward-letters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/trump-kim-woodward-letters.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/trump-kim-woodward-letters.html" rel="standout"></atom:link>
-      <description>Recordings made by Bob Woodward of his interviews with Donald Trump appear to contradict Mr. Trump’s claims that none of the documents he took with him from the White House were classified.</description>
-      <dc:creator>Chris Cameron</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 00:37:37 +0000</pubDate>
+      <title>What’s on the Minds of 12 Young Voters</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/young-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/young-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/young-voters.html" rel="standout"></atom:link>
+      <description>For these Americans under 30, all living in swing states, political priorities ranged from the highly personal to the universal.</description>
+      <pubDate>Wed, 19 Oct 2022 09:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Archives and Records Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woodward, Bob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18dc-trump-tapes-1-d65e/18dc-trump-tapes-1-d65e-moth.jpg" width="151"></media:content>
-      <media:credit>Susan Walsh/Associated Press</media:credit>
-      <media:description>President Donald J. Trump and Kim Jong-un met in the border village of Panmunjom in the Demilitarized Zone in 2019.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/us/politics/00pol-youngvoters/00pol-youngvoters-moth.jpg" width="151"></media:content>
+      <media:credit>From left, Nicole Craine for The New York Times, Jamie Kelter Davis for The New York Times, Hannah Beier for The New York Times</media:credit>
     </item>
     <item>
-      <title>For Broadway’s ‘1776’ Revival, the Drama Is Offstage</title>
-      <link>https://www.nytimes.com/2022/10/18/theater/1776-broadway-sara-porkalob.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/theater/1776-broadway-sara-porkalob.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/theater/1776-broadway-sara-porkalob.html" rel="standout"></atom:link>
-      <description>A cast member criticized the consciously progressive revival for its handling of race in rehearsals, saying there had been “harm done.” She later apologized for her comments.</description>
-      <dc:creator>Michael Paulson and Jennifer Schuessler</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:20:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">1776 (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Porkalob, Sara</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Jeffrey L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paulus, Diane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Revolutionary War, American (1775-83)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Filipino-Americans</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18seventeen-one-1-ab23/18seventeen-one-1-ab23-moth.jpg" width="151"></media:content>
-      <media:credit>Sara Krulwich/The New York Times</media:credit>
-      <media:description>Sara Porkalob, center, as the South Carolina delegate Edward Rutledge in the musical “1776.”</media:description>
+      <title>For Women in China’s Communist Party, It’s Lonely at the Top</title>
+      <link>https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html" rel="standout"></atom:link>
+      <description>Mao’s phrase that “women hold up half the sky,” rings hollow as China’s most powerful female politician readies for retirement with few others in line.</description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:27:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sun Chunlan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19china-women-1/19china-women-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Lee/Reuters</media:credit>
+      <media:description>Sun Chunlan at National People’s Congress in 2018. At this year’s Communist Party congress less than a third of the delegates are women.</media:description>
     </item>
     <item>
-      <title>Yankees Beat Guardians in Game 5, Advancing to ALCS</title>
-      <link>https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html" rel="standout"></atom:link>
-      <description>Giancarlo Stanton and Aaron Judge gave the Yankees an early lead in Game 5 of their division series and Nestor Cortes and the bullpen made it last. Next up: the Houston Astros.</description>
-      <dc:creator>James Wagner</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Guardians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houston Astros</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cortes, Nestor Jr (1994- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Giancarlo</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-yankees-g5-STANTON-1-147a/18mlb-yankees-g5-STANTON-1-147a-moth.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>Giancarlo Stanton of the Yankees got the scoring started with a three-run homer in the first inning on Tuesday in Game 5 of his team’s division series with the Cleveland Guardians.</media:description>
+      <title>These Doctors Admit They Don’t Want Patients With Disabilities</title>
+      <link>https://www.nytimes.com/2022/10/19/health/doctors-patients-disabilities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/health/doctors-patients-disabilities.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/health/doctors-patients-disabilities.html" rel="standout"></atom:link>
+      <description>When granted anonymity in focus groups, physicians let their guards down and shared opinions consistent with experiences of many people with disabilities.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheelchairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans With Disabilities Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health Affairs (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/science/00disabled-patients1/00disabled-patients1-moth.jpg" width="151"></media:content>
+      <media:credit>M. Scott Brauer for The New York Times</media:credit>
+      <media:description>Lisa Iezzoni, a professor of medicine at Harvard, wanted to understand why people with disabilities kept reporting receiving substandard care. “I thought I needed to start talking to doctors,” she said.</media:description>
     </item>
     <item>
-      <title>On Short Rest, Nestor Cortes Pitches Yankees Past Guardians</title>
-      <link>https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html" rel="standout"></atom:link>
-      <description>Nestor Cortes’s gutsy performance on short rest helped the Yankees get past Cleveland and has the bullpen rested ahead of the American League Championship Series.</description>
-      <dc:creator>Gary Phillips</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:39:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Guardians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cortes, Nestor Jr (1994- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-yankees-g5-cortes-7-1-e74c/18mlb-yankees-g5-cortes-7-1-e74c-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>Despite pitching on short rest, Nestor Cortes delivered a solid effort. He allowed one run in five innings of work.</media:description>
+      <title>Is This the World’s Most Picturesque High Dive?</title>
+      <link>https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html" rel="standout"></atom:link>
+      <description>Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hundreds of years, divers have leaped from a bridge in the southern city of Mostar.</description>
+      <dc:creator>Alessio Mamo and Marta Bellingreri</dc:creator>
+      <pubDate>Mon, 17 Oct 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Neretva River</category>
     </item>
     <item>
-      <title>NLCS: Zack Wheeler and Phillies Beat Padres in Game 1</title>
-      <link>https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html" rel="standout"></atom:link>
-      <description>Bryce Harper and Kyle Schwarber both went deep, and Zack Wheeler and Philadelphia’s bullpen combined to allow only one hit in a hard-fought Game 1.</description>
-      <dc:creator>Scott Miller</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 03:08:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia Phillies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Padres</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheeler, Zack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darvish, Yu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwarber, Kyle (1993- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-nlcs-g1-wheeler-1-3bb2/18mlb-nlcs-g1-wheeler-1-3bb2-moth.jpg" width="151"></media:content>
-      <media:credit>Kiyoshi Mio/USA Today Sports, via Reuters</media:credit>
-      <media:description>Philadelphia’s Zack Wheeler held San Diego to one hit over seven scoreless innings on Tuesday in Game 1 of the National League Championship Series.</media:description>
-    </item>
-    <item>
-      <title>How Atlanta History Shaped Lil Baby and Generations of Rappers</title>
-      <link>https://www.nytimes.com/2022/10/17/arts/music/lil-baby-atlanta-rap-capital.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/arts/music/lil-baby-atlanta-rap-capital.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/arts/music/lil-baby-atlanta-rap-capital.html" rel="standout"></atom:link>
-      <description>The city is home to one of the world’s most important musical ecosystems, and the 27-year-old is one of its biggest new stars.</description>
-      <dc:creator>Joe Coscarelli</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 15:39:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <title>Thank You, Xi Jinping</title>
+      <link>https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html" rel="standout"></atom:link>
+      <description>China’s paramount leader is restoring faith in the free world — inadvertently, of course.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 23:09:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Rap Capital: An Atlanta Story (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lil Baby (Rapper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">It&#39;s Only Me (Album)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/arts/23LIL-BABY2/23LIL-BABY2-moth.jpg" width="151"></media:content>
-      <media:credit>Kevin Amato for The New York Times</media:credit>
-      <media:description>“It’s the upbringing, it’s the culture, it’s the things we see, the people we watched on TV,” Lil Baby said of Atlanta, his hometown. “It’s a repeating cycle of greatness.”</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/18stephens1/18stephens1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
     </item>
     <item>
       <title>The Last Thatcherite</title>
@@ -383,36 +307,66 @@
       <media:credit>Illustration by Zisiga Mukulu/The New York Times; photograph by Alastair Grant/Pool via REUTERS</media:credit>
     </item>
     <item>
-      <title>When Robbing Your Own Bank Account Is the Only Option</title>
-      <link>https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html" rel="standout"></atom:link>
-      <description>The Lebanese want their money, and they’re done asking politely.</description>
-      <dc:creator>Lina Mounzer</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 05:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bank Robberies</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/19mounzer/19mounzer-moth.jpg" width="151"></media:content>
-      <media:credit>Raphaelle Macaron</media:credit>
+      <title>‘Politically Homeless Is Not Politically Hopeless’</title>
+      <link>https://www.nytimes.com/2022/10/19/opinion/midterms-libertarians-republicans-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/midterms-libertarians-republicans-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/midterms-libertarians-republicans-democrats.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ross Douthat, Liel Leibovitz and Stephanie Slade</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libertarianism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Ted</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Mark E (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemp, Brian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lake, Kari A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masters, Blake (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mastriano, Doug</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19politics-roundtable/19politics-roundtable-moth.png" width="151"></media:content>
+      <media:credit>Illustration by Shoshana Schultz/The New York Times; photographs by Brian Ach and Jeff Swensen via Getty; David Duncan Wallace via The Library of Congress; and Missouri History Museum, via Wikimedia Commons</media:credit>
     </item>
     <item>
-      <title>Thank You, Xi Jinping</title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html" rel="standout"></atom:link>
-      <description>China’s paramount leader is restoring faith in the free world — inadvertently, of course.</description>
-      <dc:creator>Bret Stephens</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:09:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/18stephens1/18stephens1-moth.jpg" width="151"></media:content>
-      <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
+      <title>Democrats Are Having Trouble Holding Onto Their Coalition</title>
+      <link>https://www.nytimes.com/2022/10/19/opinion/los-angeles-city-council.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/los-angeles-city-council.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/los-angeles-city-council.html" rel="standout"></atom:link>
+      <description>The city of angels is no stranger to zero-sum politics.</description>
+      <dc:creator>Thomas B. Edsall</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19edsall-1/19edsall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Genaro Molina/Los Angeles Times, via Getty Images</media:credit>
+      <media:description>The mess in L.A. helps us see why.</media:description>
     </item>
     <item>
       <title>Liz Truss in the Libertarian Wilderness</title>
@@ -431,23 +385,42 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; photograph by Jeff J Mitchell via Getty Images</media:credit>
     </item>
     <item>
-      <title>The U.S. Thinks ‘It Can’t Happen Here.’ It Already Has.</title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/democracy-america-authoritarianism-midterms.html" rel="standout"></atom:link>
-      <description>We don’t need foreign models to understand America’s authoritarian tendencies.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 14:46:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/18bouie-1/18bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Mark Peterson for The New York Times</media:credit>
-      <media:description>The Capitol on Jan. 6, 2022.</media:description>
+      <title>America and China Don’t Need to Knock Each Other Out to Win</title>
+      <link>https://www.nytimes.com/2022/10/19/opinion/international-world/united-states-china-taiwan-xi-jinping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/international-world/united-states-china-taiwan-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/international-world/united-states-china-taiwan-xi-jinping.html" rel="standout"></atom:link>
+      <description>China and the United States should invest more resources in a vision of success not defined by undermining the other.</description>
+      <dc:creator>Jessica Chen Weiss</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19weiss-image/merlin_211492371_7b264fa0-2f6e-4dd0-b210-267c623101c1-moth.jpg" width="151"></media:content>
+      <media:credit>Lai Qiaoquan/Xinhua, via Associated Press</media:credit>
+      <media:description>Chinese military conducted live-fire military exercises to intimidate Taiwan after a high-profile visit by Nancy Pelosi, the House speaker, to Taipei in August.</media:description>
+    </item>
+    <item>
+      <title>When Robbing Your Own Bank Account Is the Only Option</title>
+      <link>https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/lebanon-bank-robberies.html" rel="standout"></atom:link>
+      <description>The Lebanese want their money, and they’re done asking politely.</description>
+      <dc:creator>Lina Mounzer</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 05:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bank Robberies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/19mounzer/19mounzer-moth.jpg" width="151"></media:content>
+      <media:credit>Raphaelle Macaron</media:credit>
     </item>
     <item>
       <title>A Utah Jury Acquitted Two Animal Rights Activists.</title>
@@ -464,38 +437,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Direct Action Everywhere</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jury System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-    </item>
-    <item>
-      <title>Reindeer Dog vs. the Swedish Tax Agency </title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/svonni-swedish-tax-agency-sami.html" rel="standout"></atom:link>
-      <description>Indigenous Sami tradition versus Swedish bureaucracy — who wins this dogfight?</description>
-      <dc:creator>Maria Fredriksson</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 14:17:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reindeer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Samis (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-    </item>
-    <item>
-      <title>Britain’s Liz Truss Is Finished</title>
-      <link>https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/opinion/liz-truss-uk-hunt.html" rel="standout"></atom:link>
-      <description>Britain’s prime minister may limp on, powerless, but she will fall.</description>
-      <dc:creator>Tanya Gold</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 05:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/18gold-image/18gold-image-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Daniel Leal, via Getty Images</media:credit>
     </item>
     <item>
       <title>How to Manage Trump, According to a Diplomat He Fired in Anger</title>
@@ -586,61 +527,63 @@
       <media:description>Residents and protesters blocked a road to the nearby Thaad base in Soseong-ri, South Korea, in September.</media:description>
     </item>
     <item>
-      <title>Paul Flores Found Guilty of Murdering Kristin Smart in 1996</title>
-      <link>https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html" rel="standout"></atom:link>
-      <description>The California student went missing after Mr. Flores, a fellow student, escorted her to the dorms after an off-campus party. She was never seen again.</description>
-      <dc:creator>Christine Hauser and Michael Levenson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:04:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Polytechnic State University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Paul (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flores, Ruben (1941- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smart, Kristin (d 1996)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Luis Obispo (Calif)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/multimedia/00xp-smartverdictHFO1/00xp-smartverdictHFO1-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Daniel Dreifuss</media:credit>
-      <media:description>Paul Flores during his trial in Monterey County Superior Court in Salinas, Calif., in July.</media:description>
+      <title>What to Know as Trump Is Deposed in E. Jean Carroll Suit Accusing Him of Rape</title>
+      <link>https://www.nytimes.com/2022/10/19/nyregion/trump-e-jean-carroll-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/nyregion/trump-e-jean-carroll-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/nyregion/trump-e-jean-carroll-lawsuit.html" rel="standout"></atom:link>
+      <description>The former president on Wednesday will be asked questions under oath in a defamation case brought by the writer E. Jean Carroll, who says he raped her in a dressing room.</description>
+      <dc:creator>Benjamin Weiser</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carroll, E Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/nyregion/19Trump-deposition1/19Trump-deposition1-moth.jpg" width="151"></media:content>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <media:description>Former President Donald J. Trump has said his accuser is lying, and has denied harming her. </media:description>
     </item>
     <item>
-      <title>Former Oath Keeper Says Militia Planned to Use ‘Any Means Necessary’ on Jan. 6</title>
-      <link>https://www.nytimes.com/2022/10/18/us/politics/oath-keepers-militia-jan-6.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/oath-keepers-militia-jan-6.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/oath-keepers-militia-jan-6.html" rel="standout"></atom:link>
-      <description>Testifying at the seditious conspiracy trial of the far-right group’s leader and four other defendants, an ex-member said the organization envisioned a battle breaking out in Washington that day.</description>
-      <dc:creator>Alan Feuer and Zach Montague</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 22:20:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oath Keepers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meggs, Kelly (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caldwell, Thomas Edward</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrelson, Kenneth (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Watkins, Jessica Marie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhodes, Stewart (1966- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18dc-oathkeepers-1-7826/18dc-oathkeepers-1-7826-moth.jpg" width="151"></media:content>
-      <media:credit>Manuel Balce Ceneta/Associated Press</media:credit>
-      <media:description>Members of the Oath Keepers standing on the East Front of the Capitol on Jan. 6, 2021. The group’s leader and four other members are on trial for seditious conspiracy.</media:description>
+      <title>Britain Scales Back Foreign Aid, Threatening Progress in Global Health</title>
+      <link>https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html" rel="standout"></atom:link>
+      <description>The nation is often the second-largest donor to groups working in poor countries to prevent and treat infectious diseases, and to provide reproductive health services to women.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 08:41:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trachoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuberculosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/science/15uk-donations1/15uk-donations1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A shipment of medical supplies, sent from the Foreign, Commonwealth and Development Office in Britain, arriving in New Delhi last year.</media:description>
     </item>
     <item>
-      <title>Not Just a Big Fish, but Perhaps the Biggest Bony Fish Ever</title>
-      <link>https://www.nytimes.com/2022/10/18/science/giant-sunfish-record-azores.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/science/giant-sunfish-record-azores.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/science/giant-sunfish-record-azores.html" rel="standout"></atom:link>
-      <description>A sunfish found near the Azores in the Atlantic Ocean weighed as much as an S.U.V. Scientists say it’s a sign that the sea’s largest creatures can live if we let them.</description>
-      <dc:creator>Annie Roth</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 20:25:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azores Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Journal of Fish Biology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <title>Did Crush Snub Black Fans at a Concert in South Korea? </title>
+      <link>https://www.nytimes.com/2022/10/19/arts/music/crush-racism-kpop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/arts/music/crush-racism-kpop.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/arts/music/crush-racism-kpop.html" rel="standout"></atom:link>
+      <description>The singer Crush apologized for a “misunderstanding” after the exchange, which highlights what experts call K-pop’s uneasy relationship with Black culture.</description>
+      <dc:creator>John Yoon and Mike Ives</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:42:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhythm and Blues (Music)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crush (Singer)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/00xp-crush-01/00xp-crush-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yonhap/European Pressphoto Agency</media:credit>
+      <media:description>The South Korean singer Crush in Seoul in 2018.</media:description>
     </item>
     <item>
       <title>5 Ways to Prevent Running Injuries This Marathon Season</title>

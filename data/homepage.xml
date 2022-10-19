@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 14:18:26 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 14:16:58 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 14:53:21 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 14:46:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,7 +35,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/uk-prices-inflation-september.html" rel="standout"></atom:link>
       <description>After easing slightly the previous month, inflation continued rising in September, heightening the country’s cost-of-living crisis.</description>
       <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 13:39:38 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 14:46:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
@@ -56,7 +56,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html" rel="standout"></atom:link>
       <description>The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.</description>
       <dc:creator>Liz Alderman</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 14:09:51 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 14:40:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
@@ -262,6 +262,23 @@
       <media:description>Lisa Iezzoni, a professor of medicine at Harvard, wanted to understand why people with disabilities kept reporting receiving substandard care. “I thought I needed to start talking to doctors,” she said.</media:description>
     </item>
     <item>
+      <title>Weeks After Hurricane Ian, Hundreds of Floridians Remain in Shelters</title>
+      <link>https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html" rel="standout"></atom:link>
+      <description>Sleeping on cots and air mattresses are newly homeless service-sector employees, low-income retirees and newcomers to the area with few resources or connections.</description>
+      <dc:creator>Jennifer Reed</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 14:08:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/00IAN-SHELTERS-1/00IAN-SHELTERS-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alfonso Duran for The New York Times</media:credit>
+      <media:description>Irene Peralta and Oscar Garcia returned to the Hertz Arena shelter after taking their daughter Janet to a dance rehearsal.</media:description>
+    </item>
+    <item>
       <title>Is This the World’s Most Picturesque High Dive?</title>
       <link>https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</guid>
@@ -296,13 +313,13 @@
       <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
     </item>
     <item>
-      <title>The Last Thatcherite</title>
+      <title>Truss and Kwarteng Believed in Markets. Markets Did Not Believe in Them.</title>
       <link>https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html" rel="standout"></atom:link>
       <description>Animated by a fantasy version of the free market, Prime Minister Liz Truss set off a sequence of events that led her to the brink of being ousted by her own party.</description>
       <dc:creator>Quinn Slobodian</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 05:53:29 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 14:21:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -451,7 +468,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html" rel="standout"></atom:link>
       <description>Why Europe’s inflation crisis is different from America’s.</description>
       <dc:creator>German Lopez</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 10:48:02 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 14:27:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>

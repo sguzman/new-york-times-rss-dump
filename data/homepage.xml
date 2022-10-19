@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 15:49:38 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 15:47:49 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 16:25:06 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 16:24:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html" rel="standout"></atom:link>
       <description>Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.</description>
       <dc:creator>Valerie Hopkins and Nanna Heitmann</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 13:33:07 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 16:19:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
@@ -93,7 +93,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html" rel="standout"></atom:link>
       <description>Prime Minister Liz Truss of Britain, who has seen her entire economic agenda repudiated, told lawmakers that she was not a quitter.</description>
       <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 15:47:49 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 16:18:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -140,18 +140,17 @@
       <description>As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.</description>
       <dc:creator>Zolan Kanno-Youngs and Miriam Jordan</dc:creator>
       <pubDate>Wed, 19 Oct 2022 07:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/00dc-refugees_1/00dc-refugees_1-moth.jpg" width="151"></media:content>
       <media:credit>Taylor Glascock for The New York Times</media:credit>
       <media:description>Feroza Binti Abdul Rashid, a Rohingya refugee, and her 5-year-old daughter at their home in Milwaukee. Her husband has not been able to join the family in the United States.</media:description>
@@ -206,9 +205,10 @@
       <description>Direct political engagement with voters is waning as candidates surround themselves with supporters. “They run these campaigns in bubbles,” a former congressman said.</description>
       <dc:creator>Lisa Lerer and Jazmine Ulloa</dc:creator>
       <pubDate>Wed, 19 Oct 2022 07:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
@@ -219,6 +219,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/multimedia/00pol-norms-1-d71c/00pol-norms-1-d71c-moth.jpg" width="151"></media:content>
       <media:credit>Ellen Schmidt/Associated Press</media:credit>
       <media:description>A debate in the Nevada governor’s race between Gov. Steve Sisolak, left, and Joe Lombardo, right, was streamed live for $99 before it was broadcast to the public the next day.</media:description>
+    </item>
+    <item>
+      <title>Zeldin Built His Profile Defending Trump. Will New Yorkers Mind?</title>
+      <link>https://www.nytimes.com/2022/10/19/nyregion/zeldin-trump-january-6th.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/nyregion/zeldin-trump-january-6th.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/nyregion/zeldin-trump-january-6th.html" rel="standout"></atom:link>
+      <description>Lee Zeldin, a Republican congressman from Long Island, voted to overturn 2020 election results and blamed Democrats for Jan. 6 violence. Now, he wants to lead New York State.</description>
+      <dc:creator>Nicholas Fandos</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 16:07:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/00zeldin-trump-1-5a03/00zeldin-trump-1-5a03-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Foley/EPA, via Shutterstock</media:credit>
+      <media:description>Representative Lee Zeldin, at the 2022 Columbus Day Parade, was one of the earliest congressmen to encourage Donald J. Trump’s presidential bid. </media:description>
     </item>
     <item>
       <title>What’s on the Minds of 12 Young Voters</title>
@@ -291,38 +313,43 @@
       <media:description>Lisa Iezzoni, a professor of medicine at Harvard, wanted to understand why people with disabilities kept reporting receiving substandard care. “I thought I needed to start talking to doctors,” she said.</media:description>
     </item>
     <item>
-      <title>Weeks After Hurricane Ian, Hundreds of Floridians Remain in Shelters</title>
-      <link>https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html" rel="standout"></atom:link>
-      <description>Sleeping on cots and air mattresses are newly homeless service-sector employees, low-income retirees and newcomers to the area with few resources or connections.</description>
-      <dc:creator>Jennifer Reed</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 14:08:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Red Cross</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/00IAN-SHELTERS-1/00IAN-SHELTERS-1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Alfonso Duran for The New York Times</media:credit>
-      <media:description>Irene Peralta and Oscar Garcia returned to the Hertz Arena shelter after taking their daughter Janet to a dance rehearsal.</media:description>
+      <title>How Did a Minister Come to Own Hundreds of Edward Hoppers?</title>
+      <link>https://www.nytimes.com/2022/10/19/arts/design/edward-hopper-whitney-arthayer-sanborn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/arts/design/edward-hopper-whitney-arthayer-sanborn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/arts/design/edward-hopper-whitney-arthayer-sanborn.html" rel="standout"></atom:link>
+      <description>An exhibition at the Whitney Museum of American Art exploring Hopper’s vision of New York has also rekindled questions about how a Baptist minister came to own so much of his art.</description>
+      <dc:creator>Kevin Flynn, Julia Jacobs and Robin Pogrebin</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 16:09:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorabilia and Souvenirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Whitney Museum of American Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hopper, Edward</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanborn, Arthayer R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gail Levin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nyack (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/arts/17hopper-cityroofs/17hopper-cityroofs-moth.jpg" width="151"></media:content>
+      <media:credit>Heirs of Josephine N. Hopper/Licensed by Artists Rights Society (ARS), New York</media:credit>
+      <media:description>“City Roofs,” an oil by Edward Hopper from 1932, is among the works in the new Whitney show that were once owned by the Rev. Arthayer R. Sanborn. It depicts the view from the roof of the Greenwich Village building where Hopper lived.</media:description>
     </item>
     <item>
-      <title>Is This the World’s Most Picturesque High Dive?</title>
-      <link>https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/travel/mostar-bridge-diving-bosnia.html" rel="standout"></atom:link>
-      <description>Catch a glimpse of a storied tradition in Bosnia and Herzegovina, where, for hundreds of years, divers have leaped from a bridge in the southern city of Mostar.</description>
-      <dc:creator>Alessio Mamo and Marta Bellingreri</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Neretva River</category>
+      <title>In-Line Skating is Back — Again</title>
+      <link>https://www.nytimes.com/2022/10/19/well/move/rollerblading-benefits-basics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/well/move/rollerblading-benefits-basics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/well/move/rollerblading-benefits-basics.html" rel="standout"></atom:link>
+      <description>Once you’re up to speed on the basics, getting outside on Rollerblades is a surprisingly good workout.</description>
+      <dc:creator>Amanda Loudin</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 16:11:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">In-Line Skating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muscles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rollerblade Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19WNT-INLINE-SKATING3-1-2759/19WNT-INLINE-SKATING3-1-2759-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Ciaglo for The New York Times</media:credit>
     </item>
     <item>
       <title>The Mess in Los Angeles Points to Trouble for Democrats</title>
@@ -410,7 +437,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/opinion/climate-pregnancy.html" rel="standout"></atom:link>
       <description>Parents shouldn’t freak out. We should push for change.</description>
       <dc:creator>Jessica Grose</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 15:20:15 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 15:20:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Sandy (2012)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ida (2021)</category>
@@ -479,7 +506,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/opinion/international-world/united-states-china-taiwan-xi-jinping.html" rel="standout"></atom:link>
       <description>China and the United States should invest more resources in a vision of success not defined by undermining the other.</description>
       <dc:creator>Jessica Chen Weiss</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 09:00:09 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 09:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
@@ -588,6 +615,23 @@
       <media:description>The preterm birth drug Makena has been in use for 11 years, but the F.D.A. recommended withdrawing it from the market. The decision was widely viewed as a test of the agency’s “accelerated approval” program.</media:description>
     </item>
     <item>
+      <title>Weeks After Hurricane Ian, Hundreds of Floridians Remain in Shelters</title>
+      <link>https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/hurricane-ian-shelters.html" rel="standout"></atom:link>
+      <description>Sleeping on cots and air mattresses are newly homeless service-sector employees, low-income retirees and newcomers to the area with few resources or connections.</description>
+      <dc:creator>Jennifer Reed</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 14:08:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/us/00IAN-SHELTERS-1/00IAN-SHELTERS-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Alfonso Duran for The New York Times</media:credit>
+      <media:description>Irene Peralta and Oscar Garcia returned to the Hertz Arena shelter after taking their daughter Janet to a dance rehearsal.</media:description>
+    </item>
+    <item>
       <title>What to Know as Trump Is Deposed in E. Jean Carroll Suit Accusing Him of Rape</title>
       <link>https://www.nytimes.com/2022/10/19/nyregion/trump-e-jean-carroll-lawsuit.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/nyregion/trump-e-jean-carroll-lawsuit.html</guid>
@@ -603,25 +647,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/nyregion/19Trump-deposition1/19Trump-deposition1-moth.jpg" width="151"></media:content>
       <media:credit>Brittany Greeson for The New York Times</media:credit>
       <media:description>Former President Donald J. Trump has said his accuser is lying, and has denied harming her. </media:description>
-    </item>
-    <item>
-      <title>Iranian Climber Elnaz Rekabi Is Welcomed by Crowds in Tehran</title>
-      <link>https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html" rel="standout"></atom:link>
-      <description>Elnaz Rekabi, whose appearance without a head scarf at an event in Seoul raised fears about her future, was welcomed home by crowds in Tehran. Her motivations, and her fate, however, remain unclear.</description>
-      <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 13:04:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19iran-athlete-image/merlin_215077053_79e69a71-5cb4-47cd-996b-0269c716bac4-moth.jpg" width="151"></media:content>
-      <media:credit>Rhea Kang/International Federation of Sport Climbing, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>Elnaz Rekabi competing at the Asian Championships in Seoul on Sunday, in a photograph provided by the International Federation of Sport Climbing.</media:description>
     </item>
     <item>
       <title>Did Crush Snub Black Fans at a Concert in South Korea? </title>

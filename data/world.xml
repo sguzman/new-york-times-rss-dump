@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 11:22:36 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 10:48:02 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 11:46:00 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 11:32:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/19/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Pro-Kremlin officials in Kherson said they would move tens of thousands of people, as the commander of Russia’s invasion acknowledged his army’s grip on the city was tenuous.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 10:44:28 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 11:29:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-briefing-header-1am/19ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Repairing a broken window on Tuesday after recent shelling in Kupiansk, Ukraine.</media:description>
@@ -65,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html" rel="standout"></atom:link>
       <description>The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.</description>
       <dc:creator>Liz Alderman</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 09:46:12 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 09:46:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
@@ -167,6 +167,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18GERMANY-CYBER_1/18GERMANY-CYBER_1-moth.jpg" width="151"></media:content>
       <media:credit>Christophe Gateau/PA via Getty Images</media:credit>
       <media:description>ZDF Magazin Royale reported that Arne Schönbohm kept contact with a lobbying group he co-founded a decade ago that included at least one Russian cybersecurity firm.</media:description>
+    </item>
+    <item>
+      <title>India Bars Kashmiri Photographer From Traveling to Receive Pulitzer</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html" rel="standout"></atom:link>
+      <description>The Indian authorities stopped Sanna Irshad Mattoo at the New Delhi airport, in the latest case of harassment of journalists in the country.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 11:30:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19india-photographer-01/19india-photographer-01-moth.jpg" width="151"></media:content>
+      <media:credit>Saqib Majeed/SOPA Images/LightRocket, via Getty Images</media:credit>
+      <media:description>The Kashmiri photojournalist Sanna Irshad Mattoo, center, celebrating her Pulitzer Prize for feature photography at her home in Srinagar in May.</media:description>
     </item>
     <item>
       <title>Italy’s Next Government Hinges on a Familiar Face: Silvio Berlusconi</title>
@@ -306,28 +324,6 @@
       <media:description>An Apple Store in Sydney, Australia, in 2020. Strikes in the country’s retail sector are rare.</media:description>
     </item>
     <item>
-      <title>China Recruiting Former R.A.F. Pilots to Train Army Pilots., U.K. Says</title>
-      <link>https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html" rel="standout"></atom:link>
-      <description>Citing national security, Britain wants to stop its retired military pilots from accepting lucrative contracts to train members of the People’s Liberation Army.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 00:27:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17UK-CHINA01/17UK-CHINA01-moth.jpg" width="151"></media:content>
-      <media:credit>Chinatopix, via Associated Press</media:credit>
-      <media:description>A J-16 fighter jet at a training base for the People’s Liberation Army in Ningbo, China, last year. China has contracted with as many as 30 retired British military pilots to train its crews, an official said.</media:description>
-    </item>
-    <item>
       <title>The Two Inflation Crises</title>
       <link>https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</guid>
@@ -344,24 +340,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19themorning-lead-1-4f0f/19themorning-lead-1-4f0f-moth.jpg" width="151"></media:content>
       <media:credit>Alice Zoo for The New York Times</media:credit>
       <media:description>Oxford Circus in London this year.</media:description>
-    </item>
-    <item>
-      <title>India Bars Kashmiri Photographer From Traveling to Receive Pulitzer</title>
-      <link>https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html" rel="standout"></atom:link>
-      <description>The Indian authorities stopped Sanna Irshad Mattoo at the New Delhi airport, in the latest case of harassment of journalists in the country.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 10:07:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19india-photographer-01/19india-photographer-01-moth.jpg" width="151"></media:content>
-      <media:credit>Saqib Majeed/SOPA Images/LightRocket, via Getty Images</media:credit>
-      <media:description>The Kashmiri photojournalist Sanna Irshad Mattoo, center, celebrating her Pulitzer Prize for feature photography at her home in Srinagar in May.</media:description>
     </item>
     <item>
       <title>South Korean Super App Kakao Goes Down, Putting a Halt on Life</title>
@@ -409,7 +387,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html" rel="standout"></atom:link>
       <description>The nation is often the second-largest donor to groups working in poor countries to prevent and treat infectious diseases, and to provide reproductive health services to women.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 08:41:42 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 08:41:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
@@ -610,6 +588,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17ukraine-ledeall1/17ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Smoke billowing from the site of an explosive drone strike in Kyiv on Monday.</media:description>
+    </item>
+    <item>
+      <title>China Recruiting Former R.A.F. Pilots to Train Army Pilots., U.K. Says</title>
+      <link>https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/china-recruit-uk-military-pilots.html" rel="standout"></atom:link>
+      <description>Citing national security, Britain wants to stop its retired military pilots from accepting lucrative contracts to train members of the People’s Liberation Army.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 18 Oct 2022 00:27:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17UK-CHINA01/17UK-CHINA01-moth.jpg" width="151"></media:content>
+      <media:credit>Chinatopix, via Associated Press</media:credit>
+      <media:description>A J-16 fighter jet at a training base for the People’s Liberation Army in Ningbo, China, last year. China has contracted with as many as 30 retired British military pilots to train its crews, an official said.</media:description>
     </item>
     <item>
       <title>Your Tuesday Briefing: Kyiv is Attacked by Iranian-Made Drones</title>

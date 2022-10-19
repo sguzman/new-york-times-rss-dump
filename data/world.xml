@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 06:36:19 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 05:20:37 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 07:28:27 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 07:22:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -269,7 +269,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/18/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said that 30 percent of Ukraine’s power stations were “destroyed” in the past eight days, causing “massive blackouts across the country.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 05:20:37 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 07:22:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-briefing-header-3am/18ukraine-briefing-header-3am-moth.jpg" width="151"></media:content>
       <media:credit>Anna Voitenko/Reuters</media:credit>
       <media:description>Smoke rising on the outskirts of Kyiv, Ukraine, during a Russian missile attack on Tuesday.</media:description>
@@ -337,6 +337,72 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/world/00france-algeria-skulls-top/00france-algeria-skulls-top-moth.jpg" width="151"></media:content>
       <media:credit>Ryad Kramdi/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Algerian flag draped over coffins containing the 19th-century remains of people who were said to have been freedom fighters. The bones were returned to Algeria by France in 2020.</media:description>
+    </item>
+    <item>
+      <title>Waiting for Refugee Status, Thousands Live in Limbo</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html" rel="standout"></atom:link>
+      <description>As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.</description>
+      <dc:creator>Zolan Kanno-Youngs and Miriam Jordan</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/00dc-refugees_1/00dc-refugees_1-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>Feroza Binti Abdul Rashid, a Rohingya refugee, and her 5-year-old daughter at their home in Milwaukee. Her husband has not been able to join the family in the United States.</media:description>
+    </item>
+    <item>
+      <title>Britain Scales Back Foreign Aid, Threatening Progress in Global Health</title>
+      <link>https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html" rel="standout"></atom:link>
+      <description>The nation is often the second-largest donor to groups working in poor countries to prevent and treat infectious diseases, and to provide reproductive health services to women.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trachoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuberculosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/science/15uk-donations1/15uk-donations1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A shipment of medical supplies, sent from the Foreign, Commonwealth and Development Office in Britain, arriving in New Delhi last year.</media:description>
+    </item>
+    <item>
+      <title>South Korea Gets Squeezed Between the US and China</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html" rel="standout"></atom:link>
+      <description>The intensifying rivalry between Washington and Beijing is causing jitters in South Korea, where security ties and economic priorities are not always aligned.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/world/00skorea-yankees-01/00skorea-yankees-01-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Residents and protesters blocked a road to the nearby Thaad base in Soseong-ri, South Korea, in September</media:description>
     </item>
     <item>
       <title>Your Wednesday Briefing</title>
@@ -983,52 +1049,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/multimedia/16-THE-MORNING-promo/-1-5b5f-moth.jpg" width="151"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
       <media:description>Justice Ketanji Brown Jackson</media:description>
-    </item>
-    <item>
-      <title>On tech, Xi points to self-reliance and state-led initiatives.</title>
-      <link>https://www.nytimes.com/2022/10/16/world/asia/on-tech-xi-points-to-self-reliance-and-state-led-initiatives.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/asia/on-tech-xi-points-to-self-reliance-and-state-led-initiatives.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/world/asia/on-tech-xi-points-to-self-reliance-and-state-led-initiatives.html" rel="standout"></atom:link>
-      <description>Mr. Xi signaled that little would change on tech policy, as he emphasized internet controls, state-led innovation projects and a battle for key core technology.</description>
-      <dc:creator>Paul Mozur and John Liu</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 10:20:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16china-party-congress-tech/16china-party-congress-tech-moth.jpg" width="151"></media:content>
-      <media:credit>Ng Han Guan/Associated Press</media:credit>
-      <media:description>Looking at a computer chip through a microscope at the China Beijing International High-tech Expo in 2018. China has struggled to free itself from reliance on foreign countries for microchips.</media:description>
-    </item>
-    <item>
-      <title>A blast damages an administration building in Russian-occupied eastern Ukraine, killing one man.</title>
-      <link>https://www.nytimes.com/2022/10/17/world/europe/a-blast-damages-an-administration-building-in-russian-occupied-eastern-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/a-blast-damages-an-administration-building-in-russian-occupied-eastern-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/a-blast-damages-an-administration-building-in-russian-occupied-eastern-ukraine.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 15:26:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16ukraine-briefing-donetsk2/16ukraine-briefing-donetsk2-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>Explosions in Donetsk on Sunday hit a building used by the Russian-occupied city’s puppet local government.</media:description>
-    </item>
-    <item>
-      <title>China Doubles Down on ‘Covid Zero’ Despite Economic Toll</title>
-      <link>https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html" rel="standout"></atom:link>
-      <description>Xi Jinping doubled down on the idea that the measures have saved lives and vowed to continue the stringent set of policies.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 16:49:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/16china-party-congress-covid-ru-copy/16china-party-congress-covid-ru-copy-moth.jpg" width="151"></media:content>
-      <media:credit>Gilles Sabrié for The New York Times</media:credit>
-      <media:description>A temporary testing booth in a commercial neighborhood of Beijing, in September.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 18:53:51 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 18:53:27 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 19:18:56 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 19:16:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -100,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/uk-prices-inflation-september.html" rel="standout"></atom:link>
       <description>After easing slightly the previous month, inflation continued rising in September, heightening the country’s cost-of-living crisis.</description>
       <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 17:07:09 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 19:05:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
@@ -138,7 +138,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html" rel="standout"></atom:link>
       <description>Britain’s prime minister dismissed Suella Braverman after an email breach. Ms. Truss was also grilled in Parliament over her repudiated budget.</description>
       <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 18:31:21 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 19:16:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -180,7 +180,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/us/florida-voter-fraud-arrests-video.html" rel="standout"></atom:link>
       <description>A crackdown in August on voter fraud announced by Gov. Ron DeSantis seems to have ensnared former felons who were puzzled that they were accused of violating voting laws.</description>
       <dc:creator>Michael Wines and Neil Vigdor</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 17:34:14 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 19:09:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
@@ -475,6 +475,24 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
+      <title>We Advised Biden on the Pandemic. Much Work Remains to Face the Next Crisis.</title>
+      <link>https://www.nytimes.com/2022/10/19/opinion/covid-pandemic-failures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/covid-pandemic-failures.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/covid-pandemic-failures.html" rel="standout"></atom:link>
+      <description>Even with the successes against Covid, there is much room for improvement.</description>
+      <dc:creator>Ezekiel J. Emanuel, David Michaels, Rick Bright and Michael T. Osterholm</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19emanuel/19emanuel-moth.jpg" width="151"></media:content>
+      <media:credit>George Wylesol</media:credit>
+    </item>
+    <item>
       <title>Thank You, Xi Jinping</title>
       <link>https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/opinion/china-xi-jinping.html</guid>
@@ -482,11 +500,12 @@
       <description>China’s paramount leader is restoring faith in the free world — inadvertently, of course.</description>
       <dc:creator>Bret Stephens</dc:creator>
       <pubDate>Tue, 18 Oct 2022 23:09:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/18stephens1/18stephens1-moth.jpg" width="151"></media:content>
       <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
@@ -529,24 +548,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19politics-roundtable/19politics-roundtable-moth.png" width="151"></media:content>
       <media:credit>Illustration by Shoshana Schultz/The New York Times; photographs by Brian Ach and Jeff Swensen via Getty; David Duncan Wallace via The Library of Congress; and Missouri History Museum, via Wikimedia Commons</media:credit>
-    </item>
-    <item>
-      <title>Truss and Kwarteng Believed in Markets. Markets Did Not Believe in Them.</title>
-      <link>https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/liz-truss-kwasi-kwarteng-uk.html" rel="standout"></atom:link>
-      <description>Animated by a fantasy version of the free market, Prime Minister Liz Truss set off a sequence of events that led her to the brink of being ousted by her own party.</description>
-      <dc:creator>Quinn Slobodian</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 18:12:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/19slobodian-illo/19slobodian-illo-moth.png" width="151"></media:content>
-      <media:credit>Illustration by Zisiga Mukulu/The New York Times; pool photo by Alastair Grant</media:credit>
     </item>
     <item>
       <title>The Two Inflation Crises</title>
@@ -666,7 +667,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html" rel="standout"></atom:link>
       <description>No Republican in Congress voted for the Inflation Reduction Act. But their districts and states will greatly benefit from the investments spurred by the law.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 18:35:17 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 19:10:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
@@ -700,7 +701,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/nyregion/mafia-anthony-zottola-convicted.html" rel="standout"></atom:link>
       <description>Anthony Zottola was convicted of murder-for-hire Wednesday. Prosecutors say he wanted the real estate business of his father, Sylvester, a reputed Bonnano crime family associate.</description>
       <dc:creator>Colin Moynihan</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 18:53:27 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 19:10:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cosa Nostra</category>

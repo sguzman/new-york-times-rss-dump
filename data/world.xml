@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 17:02:50 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 17:02:17 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 18:00:08 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 17:50:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/19/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Pro-Kremlin officials said they would move tens of thousands out of the key southern city of Kherson as Ukrainian forces press forward.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 16:56:01 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 17:48:41 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-briefing-header-1am/19ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Repairing a broken window on Tuesday after recent shelling in Kupiansk, Ukraine.</media:description>
@@ -187,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html" rel="standout"></atom:link>
       <description>The Indian authorities stopped Sanna Irshad Mattoo at the New Delhi airport, in the latest case of harassment of journalists in the country.</description>
       <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 11:30:15 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 17:14:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
@@ -266,8 +266,8 @@
       <pubDate>Tue, 18 Oct 2022 21:32:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schonbohm, Arne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -301,6 +301,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18italy-berlusconi-PROMO/18italy-berlusconi-PROMO-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Russia Shrinks Forces in Syria, a Factor in Israeli Strategy There</title>
+      <link>https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html" rel="standout"></atom:link>
+      <description>Moscow withdrew a key air defense system and some troops to bolster its war in Ukraine, officials said, potentially altering Israel’s calculations about striking Syria or arming Ukraine.</description>
+      <dc:creator>Patrick Kingsley and Ronen Bergman</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 17:44:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gantz, Benny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19Israel-Ukraine01/merlin_171449583_b6d83a07-ce2b-4490-8bdc-eeabb0de3d51-moth.jpg" width="151"></media:content>
+      <media:credit>Delil Souleiman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Russian military police in the northeastern Syrian city of Qamishli in 2020. Moscow is sending more military police to Syria to help replace troops withdrawn from the country.</media:description>
     </item>
     <item>
       <title>Liz Truss or Lettuce: Who Will Wilt First?</title>
@@ -445,7 +467,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/iran-drones-russia-ukraine.html" rel="standout"></atom:link>
       <description>The trainers from Iran’s paramilitary wing have been deployed to help Russia overcome mechanical problems with the fleet.</description>
       <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 21:36:22 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 17:28:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -503,16 +525,15 @@
       <description>Elnaz Rekabi flew back to Iran on Tuesday after competing in an international climbing competition without her hijab — breaching the Islamic Republic’s rules for women athletes.</description>
       <dc:creator>Euan Ward and John Yoon</dc:creator>
       <pubDate>Tue, 18 Oct 2022 16:13:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rekabi, Elnaz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rock Climbing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18Iran-athlete01/merlin_215076288_411fdbb6-4dec-4583-adea-5b2279613b1a-moth.jpg" width="151"></media:content>
       <media:credit>Rhea Kang/Agence France-Presse, via International Federation of Sport Climbing</media:credit>
       <media:description>Elnaz Rekabi competing at the Asian Championships in Seoul, in a photo provided by the International Federation of Sport Climbing.</media:description>
@@ -1012,15 +1033,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/17ambriefing-europe-nl-PROMO/15Ukraine-Military-Training-1-moth.jpg" width="151"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
       <media:description>Russian conscripts at army games in the Moscow region in August. Russia struggled with training even before September’s draft, experts said.</media:description>
-    </item>
-    <item>
-      <title>Here’s what we know about the attacks on Kyiv.</title>
-      <link>https://www.nytimes.com/2022/10/17/world/europe/kyiv-hit-by-early-morning-explosions-one-week-after-deadly-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/kyiv-hit-by-early-morning-explosions-one-week-after-deadly-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/kyiv-hit-by-early-morning-explosions-one-week-after-deadly-attack.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Michael Schwirtz, Megan Specia and Austin Ramzy</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 11:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

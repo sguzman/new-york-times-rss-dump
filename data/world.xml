@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 10:46:56 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 10:44:28 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 11:22:36 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 10:48:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -326,6 +326,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17UK-CHINA01/17UK-CHINA01-moth.jpg" width="151"></media:content>
       <media:credit>Chinatopix, via Associated Press</media:credit>
       <media:description>A J-16 fighter jet at a training base for the People’s Liberation Army in Ningbo, China, last year. China has contracted with as many as 30 retired British military pilots to train its crews, an official said.</media:description>
+    </item>
+    <item>
+      <title>The Two Inflation Crises</title>
+      <link>https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html" rel="standout"></atom:link>
+      <description>Why Europe’s inflation crisis is different from America’s.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 10:48:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19themorning-lead-1-4f0f/19themorning-lead-1-4f0f-moth.jpg" width="151"></media:content>
+      <media:credit>Alice Zoo for The New York Times</media:credit>
+      <media:description>Oxford Circus in London this year.</media:description>
     </item>
     <item>
       <title>India Bars Kashmiri Photographer From Traveling to Receive Pulitzer</title>
@@ -1001,26 +1019,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/16/world/16ukraine-briefing-Belarus/16ukraine-briefing-Belarus-moth.jpg" width="151"></media:content>
       <media:credit>Didor Sadulloev/Reuters</media:credit>
       <media:description>President Aleksandr G. Lukashenko of Belarus in Dushanbe, Tajikistan, last week.</media:description>
-    </item>
-    <item>
-      <title>Russia’s Draft Sends Barely Trained Men to War in Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/16/world/europe/russia-draft-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/16/world/europe/russia-draft-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/16/world/europe/russia-draft-ukraine.html" rel="standout"></atom:link>
-      <description>Newly mobilized recruits are already at the front in Ukraine, a growing chorus of reports says, fighting and dying after only days of training.</description>
-      <dc:creator>Neil MacFarquhar</dc:creator>
-      <pubDate>Sun, 16 Oct 2022 19:32:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shoigu, Sergei K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/world/15Ukraine-Military-Training-1/15Ukraine-Military-Training-1-moth.jpg" width="151"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>Russian conscripts at army games in the Moscow region in August. Russia struggled with training even before September’s draft, experts said.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 06:57:14 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 06:36:36 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 07:45:10 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 07:26:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/business/uk-prices-inflation-september.html" rel="standout"></atom:link>
       <description>After easing slightly the previous month, inflation continued rising in September, heightening the country’s cost-of-living crisis.</description>
       <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 06:36:36 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 07:26:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
@@ -34,6 +34,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19UK-INFLATION/19UK-INFLATION-moth.jpg" width="151"></media:content>
       <media:credit>Sam Bush for The New York Times</media:credit>
       <media:description>Food shopping in London. </media:description>
+    </item>
+    <item>
+      <title>Bread Prices Skyrocket as Inflation Grips Europe</title>
+      <link>https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/business/europe-food-prices-inflation.html" rel="standout"></atom:link>
+      <description>The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:10:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bread</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19europe-bread-1/19europe-bread-1-moth.jpg" width="151"></media:content>
+      <media:credit>Violette Franchi for The New York Times</media:credit>
     </item>
     <item>
       <title>The Fed, Staring Down Two Big Choices, Charts an Aggressive Path</title>
@@ -75,26 +95,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18dc-irs-2-1-59c7/18dc-irs-2-1-59c7-moth.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>With inflation taking a bite out of paychecks, the Internal Revenue Service will increase the amount of income subject to taxes.</media:description>
-    </item>
-    <item>
-      <title>U.S. to Release Millions More Barrels of Oil to Contain Gas Prices</title>
-      <link>https://www.nytimes.com/2022/10/18/business/us-oil-reserve-gas-prices.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/business/us-oil-reserve-gas-prices.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/business/us-oil-reserve-gas-prices.html" rel="standout"></atom:link>
-      <description>The Department of Energy will release 15 million more barrels from the Strategic Petroleum Reserve and plans additional releases this winter.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:33:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18dc-energy-photo-1-aaa6/18dc-energy-photo-1-aaa6-moth.jpg" width="151"></media:content>
-      <media:credit>Gabby Jones for The New York Times</media:credit>
-      <media:description>Gas prices in the United States have risen again after easing in the summer.</media:description>
     </item>
     <item>
       <title>Where Have All the Men in Moscow Gone?</title>
@@ -566,6 +566,26 @@
       <media:credit>Jaime Molina for The New York Times</media:credit>
     </item>
     <item>
+      <title>South Korea Gets Squeezed Between the US and China</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html" rel="standout"></atom:link>
+      <description>The intensifying rivalry between Washington and Beijing is causing jitters in South Korea, where security ties and economic priorities are not always aligned.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/world/00skorea-yankees-01/00skorea-yankees-01-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Residents and protesters blocked a road to the nearby Thaad base in Soseong-ri, South Korea, in September</media:description>
+    </item>
+    <item>
       <title>Paul Flores Found Guilty of Murdering Kristin Smart in 1996</title>
       <link>https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</guid>
@@ -584,23 +604,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/multimedia/00xp-smartverdictHFO1/00xp-smartverdictHFO1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Daniel Dreifuss</media:credit>
       <media:description>Paul Flores during his trial in Monterey County Superior Court in Salinas, Calif., in July.</media:description>
-    </item>
-    <item>
-      <title>New York to Open Tent Camp for Migrants on Randalls Island</title>
-      <link>https://www.nytimes.com/2022/10/18/nyregion/migrant-tents-randalls-island.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/nyregion/migrant-tents-randalls-island.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/nyregion/migrant-tents-randalls-island.html" rel="standout"></atom:link>
-      <description>The facility, with about 500 beds for single men as well as a recreation center and cafeteria, is set to open Wednesday after buses arrive at Port Authority.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:10:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Randalls Island (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuelan-Americans</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/nyregion/18migrant-tent/18migrant-tent-moth.jpg" width="151"></media:content>
-      <media:credit>Sarah Blesener for The New York Times</media:credit>
-      <media:description>The Randalls Island Humanitarian Emergency Response Center is an 84,400-square-foot facility that holds 500 beds for single men and also contains a recreation center and cafeteria.</media:description>
     </item>
     <item>
       <title>Former Oath Keeper Says Militia Planned to Use ‘Any Means Necessary’ on Jan. 6</title>

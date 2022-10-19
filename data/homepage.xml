@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 01:35:50 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 01:32:08 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 04:07:26 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 04:01:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,6 +39,20 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Rescue workers on Monday combed though the rubble of a building in Kyiv, Ukraine, that was hit by an exploding drone.</media:description>
+    </item>
+    <item>
+      <title>Where Have All the Men in Moscow Gone?</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html" rel="standout"></atom:link>
+      <description>Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.</description>
+      <dc:creator>Valerie Hopkins and Nanna Heitmann</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 04:01:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
     </item>
     <item>
       <title>Iran Sends Drone Trainers to Crimea to Aid Russian Military</title>
@@ -107,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/business/irs-tax-rates-inflation-2023.html" rel="standout"></atom:link>
       <description>Filers whose salaries have not kept pace with inflation could see savings on their federal income tax bills.</description>
       <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:32:08 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 01:32:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
@@ -128,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/business/us-oil-reserve-gas-prices.html" rel="standout"></atom:link>
       <description>The Department of Energy will release 15 million more barrels from the Strategic Petroleum Reserve and plans additional releases this winter.</description>
       <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:33:14 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 23:33:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -146,9 +160,9 @@
       <link>https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/igor-danchenko-russia-acquittal-trump.html" rel="standout"></atom:link>
-      <description>John H. Durham, the special counsel who had been looking into the origins of the Russia investigation, failed to secure any convictions in three years.</description>
+      <description>John H. Durham, the special counsel who investigated the Russia inquiry for more than three years, failed to develop any cases that resulted in convictions.</description>
       <dc:creator>Charlie Savage and Linda Qiu</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 23:38:15 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 02:40:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BuzzFeed Inc</category>
@@ -184,24 +198,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/us/oct-poll-comfortable-voting-election-denier-promo/oct-poll-comfortable-voting-election-denier-promo-moth.png" width="151"></media:content>
     </item>
     <item>
-      <title>‘You Don’t Look Anorexic’</title>
-      <link>https://www.nytimes.com/2022/10/18/magazine/anorexia-obesity-eating-disorder.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/magazine/anorexia-obesity-eating-disorder.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/magazine/anorexia-obesity-eating-disorder.html" rel="standout"></atom:link>
-      <description>New research shows that our assumptions about eating disorders are often wrong — and that many larger-bodied people are starving themselves.</description>
-      <dc:creator>Kate Siber</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 09:02:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anorexia Nervosa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/magazine/23mag-anorexia/23mag-anorexia-moth.jpg" width="151"></media:content>
-      <media:credit>Ryan Pfluger for The New York Times</media:credit>
-      <media:description>Sharon Maxwell is recovering from atypical anorexia. She suffered from disordered eating for 19 years before receiving a diagnosis.</media:description>
+      <title>4 Takeaways From the Rubio-Demings Debate in Florida</title>
+      <link>https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/us/politics/florida-debate-takeaways-rubio-demings.html" rel="standout"></atom:link>
+      <description>Exchanges between Marco Rubio and Val Demings got fiery at times over questions on abortion, guns and more.</description>
+      <dc:creator>Lisa Lerer and Maggie Astor</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 02:51:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Demings, Val</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
     </item>
     <item>
       <title>Suspect in Stockton Serial Killings Charged With 3 Counts of Murder</title>
@@ -280,6 +288,62 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18seventeen-one-1-ab23/18seventeen-one-1-ab23-moth.jpg" width="151"></media:content>
       <media:credit>Sara Krulwich/The New York Times</media:credit>
       <media:description>Sara Porkalob, center, as the South Carolina delegate Edward Rutledge in the musical “1776.”</media:description>
+    </item>
+    <item>
+      <title>Yankees Beat Guardians in Game 5, Advancing to ALCS</title>
+      <link>https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/yankees-guardians-alds-game-5.html" rel="standout"></atom:link>
+      <description>Giancarlo Stanton and Aaron Judge gave the Yankees an early lead in Game 5 of their division series and Nestor Cortes and the bullpen made it last. Next up: the Houston Astros.</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 01:46:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Guardians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houston Astros</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cortes, Nestor Jr (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stanton, Giancarlo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-yankees-g5-STANTON-1-147a/18mlb-yankees-g5-STANTON-1-147a-moth.jpg" width="151"></media:content>
+      <media:credit>Johnny Milano for The New York Times</media:credit>
+      <media:description>Giancarlo Stanton of the Yankees got the scoring started with a three-run homer in the first inning on Tuesday in Game 5 of his team’s division series with the Cleveland Guardians.</media:description>
+    </item>
+    <item>
+      <title>On Short Rest, Nestor Cortes Pitches Yankees Past Guardians</title>
+      <link>https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/nestor-cortes-yankees-alds.html" rel="standout"></atom:link>
+      <description>Nestor Cortes’s gutsy performance on short rest helped the Yankees get past Cleveland and has the bullpen rested ahead of the American League Championship Series.</description>
+      <dc:creator>Gary Phillips</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 01:39:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Guardians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cortes, Nestor Jr (1994- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-yankees-g5-cortes-7-1-e74c/18mlb-yankees-g5-cortes-7-1-e74c-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Johnny Milano for The New York Times</media:credit>
+      <media:description>Despite pitching on short rest, Nestor Cortes delivered a solid effort. He allowed one run in five innings of work.</media:description>
+    </item>
+    <item>
+      <title>NLCS: Zack Wheeler and Phillies Beat Padres in Game 1</title>
+      <link>https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/18/sports/baseball/padres-phillies-nlcs-game-1-score.html" rel="standout"></atom:link>
+      <description>Bryce Harper and Kyle Schwarber both went deep, and Zack Wheeler and Philadelphia’s bullpen combined to allow only one hit in a hard-fought Game 1.</description>
+      <dc:creator>Scott Miller</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 03:08:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia Phillies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Padres</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheeler, Zack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darvish, Yu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwarber, Kyle (1993- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/multimedia/18mlb-nlcs-g1-wheeler-1-3bb2/18mlb-nlcs-g1-wheeler-1-3bb2-moth.jpg" width="151"></media:content>
+      <media:credit>Kiyoshi Mio/USA Today Sports, via Reuters</media:credit>
+      <media:description>Philadelphia’s Zack Wheeler held San Diego to one hit over seven scoreless innings on Tuesday in Game 1 of the National League Championship Series.</media:description>
     </item>
     <item>
       <title>How Atlanta History Shaped Lil Baby and Generations of Rappers</title>
@@ -373,7 +437,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/opinion/18stephens1/18stephens1-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/18stephens1/18stephens1-moth.jpg" width="151"></media:content>
       <media:credit>Mark R Cristino/EPA, via Shutterstock</media:credit>
     </item>
     <item>
@@ -474,7 +538,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/dining/affordable-oysters-and-more-reader-requests.html" rel="standout"></atom:link>
       <description>Looking for the best happy hour deals with quality food? We have recommendations.</description>
       <dc:creator>Nikita Richardson</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 20:00:10 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 20:00:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
@@ -483,7 +547,7 @@
       <media:description>At Shukette in Chelsea, the Middle Eastern menu’s selection of oven-fired breads, richly spiced vegetables and seafood, and dips lends itself handsomely to group dining. </media:description>
     </item>
     <item>
-      <title>Jury Convicts Paul Flores of Murdering Kristin Smart in 1996</title>
+      <title>Paul Flores Found Guilty of Murdering Kristin Smart in 1996</title>
       <link>https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/18/us/paul-flores-guilty-kristin-smart.html" rel="standout"></atom:link>
@@ -509,7 +573,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/nyregion/migrant-tents-randalls-island.html" rel="standout"></atom:link>
       <description>The facility, with about 500 beds for single men as well as a recreation center and cafeteria, is set to open Wednesday after buses arrive at Port Authority.</description>
       <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 01:10:37 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 01:10:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Randalls Island (Manhattan, NY)</category>
@@ -629,12 +693,13 @@
       <atom:link href="https://www.nytimes.com/2022/10/18/style/christian-girl-autumn-caitlin-covington.html" rel="standout"></atom:link>
       <description>Caitlin Covington became a meme in 2019 for her love of fall. Three years later, she’s leaning into it harder than ever.</description>
       <dc:creator>Madison Malone Kircher</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 20:51:42 +0000</pubDate>
+      <pubDate>Tue, 18 Oct 2022 20:51:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Covington, Caitlin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pumpkins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">T3</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burlington (Vt)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bennington (Vt)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chapel Hill (NC)</category>

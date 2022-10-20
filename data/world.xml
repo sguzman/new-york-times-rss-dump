@@ -7,13 +7,25 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Oct 2022 11:43:31 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Oct 2022 11:34:15 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2022 12:54:55 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2022 12:54:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>U.K. Live Updates: Liz Truss Says She Will Resign as Prime Minister</title>
+      <link>https://www.nytimes.com/live/2022/10/20/world/liz-truss-resigns</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/20/world/liz-truss-resigns</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/20/world/liz-truss-resigns" rel="standout"></atom:link>
+      <description>Her departure, after six weeks in office, came as virtually all of her signature tax cuts were being reversed, a stark repudiation of her leadership.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:54:53 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-truss-blog-header-9am-ET/20uk-truss-blog-header-9am-ET-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss announcing her intention to resign as Britain’s prime minister, outside 10 Downing Street in London on Thursday.</media:description>
+    </item>
     <item>
       <title>Ukraine Will Curb Electricity Under Strain From Russian Attacks</title>
       <link>https://www.nytimes.com/live/2022/10/20/world/russia-ukraine-war-news</link>
@@ -21,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/20/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Ukraine’s electric utility said that under rolling blackouts, some households could experience outages of up to four hours.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 11:34:15 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 12:41:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/20ukraine-briefing-header/20ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Only a few people remained in the village of Kamyanka on Wednesday.</media:description>
@@ -99,7 +111,9 @@
       <dc:creator>Aina J. Khan</dc:creator>
       <pubDate>Wed, 19 Oct 2022 21:57:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
@@ -108,13 +122,13 @@
       <media:description>Mariam Sindawi in the kitchen of her home, in Haifa, Israel, with her granddaughter Abeer Abbasi. “Our relationship is really based around the kitchen,” Ms. Abbasi said.</media:description>
     </item>
     <item>
-      <title>How Taiwan’s ‘Adorable’ and Ambitious Diplomacy Aims to Keep the Island Safe</title>
+      <title>How Taiwan’s Ambitious Diplomacy Aims to Keep the Island Safe From China</title>
       <link>https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html" rel="standout"></atom:link>
       <description>Even as China’s threats on reunification grow more pointed, most recently at the Communist Party congress, Taiwan is working creatively to bolster its alliances.</description>
       <dc:creator>Damien Cave and Amy Chang Chien</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 09:51:49 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 12:45:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
@@ -173,12 +187,17 @@
       <description>Mao’s phrase that “women hold up half the sky” rings hollow as China’s most powerful female politician prepares for retirement with few others in line.</description>
       <dc:creator>Alexandra Stevenson</dc:creator>
       <pubDate>Wed, 19 Oct 2022 18:13:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sun Chunlan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sun Chunlan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19china-women-1/19china-women-1-moth.jpg" width="151"></media:content>
       <media:credit>Jason Lee/Reuters</media:credit>
       <media:description>Sun Chunlan at the National People’s Congress in 2018. At this year’s Communist Party congress, fewer than a third of the delegates are women.</media:description>
@@ -232,15 +251,18 @@
       <description>The elevated costs of flour, nuts, eggs and even electricity are forcing bakers to increase their prices and cut their production.</description>
       <dc:creator>Liz Alderman</dc:creator>
       <pubDate>Wed, 19 Oct 2022 21:52:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bread</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eurozone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bakeries and Baked Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19europe-bread-1/19europe-bread-1-moth.jpg" width="151"></media:content>
       <media:credit>Violette Franchi for The New York Times</media:credit>
     </item>
@@ -267,22 +289,30 @@
       <media:description>Russian military police in the northeastern Syrian city of Qamishli in 2020. Moscow is sending more military police to Syria to help replace troops withdrawn from the country.</media:description>
     </item>
     <item>
-      <title>Liz Truss or Lettuce: Who Will Wilt First?</title>
-      <link>https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html" rel="standout"></atom:link>
-      <description>Inspired by a columnist’s turn of phrase, a British newspaper is tracking whether the embattled prime minister can outlast off-the-shelf produce.</description>
-      <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 16:52:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Star (British Newspaper)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economist, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <title>Mystery Surrounds Deadly Attack at a Notorious Myanmar Prison</title>
+      <link>https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html" rel="standout"></atom:link>
+      <description>A little-known group has claimed responsibility for two explosions, yet it remains unclear how the bombs got in, and how much of the carnage was a result of subsequent gunfire.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:51:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20Myanmar-prison01/merlin_214411539_60cbef37-8bb5-4508-8e89-c9ac39150c73-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>The main gate to Insein Prison in Yangon earlier this month. Explosions and shooting at a building where prisoners’ family members deliver packages killed eight people on Wednesday and injured 18.</media:description>
+    </item>
+    <item>
+      <title>1897: India Frontier Fighting</title>
+      <link>https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html" rel="standout"></atom:link>
+      <description>A skirmish between British-led colonial forces and Pashtuns in what would later become northwestern Pakistan, near Afghanistan, left 10 dead and 53 wounded.</description>
+      <dc:creator>The International Herald Tribune</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:42:17 +0000</pubDate>
     </item>
     <item>
       <title>The State of the Midterms</title>
@@ -391,16 +421,16 @@
       <dc:creator>Andrew E. Kramer and Neil MacFarquhar</dc:creator>
       <pubDate>Thu, 20 Oct 2022 07:32:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Martial Law</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Martial Law</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-ledeall-TOPART/19ukraine-ledeall-TOPART-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Destroyed vehicles on Wednesday in Bakhmut, in Ukraine’s eastern Donetsk region, which has been under constant assault by Russian forces.</media:description>
@@ -489,6 +519,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19ukraine-briefing-eu-drone-sanctions-topart-1-d962/19ukraine-briefing-eu-drone-sanctions-topart-1-d962-moth.jpg" width="151"></media:content>
       <media:credit>Ed Ram/Getty Images</media:credit>
       <media:description>An apartment building in Kyiv was among many sites of drone strikes across Ukraine this week. The European Union is preparing to impose sanctions on the Iranian company that manufactures drones that Russia is using.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss or Lettuce: Who Will Wilt First?</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html" rel="standout"></atom:link>
+      <description>Inspired by a columnist’s turn of phrase, a British newspaper is tracking whether the embattled prime minister can outlast off-the-shelf produce.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:47:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Star (British Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economist, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
     </item>
     <item>
       <title>The Two Inflation Crises</title>
@@ -1072,59 +1120,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17NigeriaFlood01/17NigeriaFlood01-moth.jpg" width="151"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Vehicles on an unflooded road in Lokoja, Nigeria, on Oct. 13. The floods have partly or wholly destroyed farmland, infrastructure and 200,000 homes.</media:description>
-    </item>
-    <item>
-      <title>Ukraine and Russia exchange prisoners, many of them women.</title>
-      <link>https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/ukraine-and-russia-exchange-prisoners-many-of-them-women.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Dan Bilefsky</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 07:59:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-    </item>
-    <item>
-      <title>Crude Comments From Europe’s Top Diplomat Point to Bigger Problems</title>
-      <link>https://www.nytimes.com/2022/10/17/world/europe/eu-ukraine-josep-borrell-fontelles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/eu-ukraine-josep-borrell-fontelles.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/eu-ukraine-josep-borrell-fontelles.html" rel="standout"></atom:link>
-      <description>Josep Borrell Fontelles said Europe was “a garden,” and the world “a jungle,” triggering charges of neocolonialism and racism just as the E.U. tries to drum up support in the developing world.</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Tue, 18 Oct 2022 13:47:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borrell Fontelles, Josep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17eu-diplo-1/17eu-diplo-1-moth.jpg" width="151"></media:content>
-      <media:credit>Tobias Schwarz/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The European Union’s top diplomat, Josep Borrell Fontelles, on Saturday in Berlin. Recent comments by Mr. Borrell have been widely denounced.</media:description>
-    </item>
-    <item>
-      <title>Resilient Kyiv Patches Up After Attacks, but Some Things Can’t Be Fixed</title>
-      <link>https://www.nytimes.com/2022/10/17/world/europe/kyiv-russia-strikes-resilience.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/world/europe/kyiv-russia-strikes-resilience.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/world/europe/kyiv-russia-strikes-resilience.html" rel="standout"></atom:link>
-      <description>After a barrage of Russian missile and drone strikes on the Ukrainian capital, its residents show a resolve to clean up and press on.</description>
-      <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 19:15:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/17Ukraine-Kyiv-Dispatch-01b-promo/17Ukraine-Kyiv-Dispatch-01b-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Smoke billows from the site of a drone attack as passengers walk with their luggage from nearby train and bus stations in Kyiv, Ukraine, on Monday.</media:description>
     </item>
   </channel>
 </rss>

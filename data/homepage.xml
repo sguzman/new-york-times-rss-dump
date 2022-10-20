@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Oct 2022 23:18:20 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Oct 2022 23:09:21 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2022 23:49:33 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
       <description>The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.</description>
       <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 22:59:28 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
@@ -73,6 +73,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18Ukraine-occupation-promo/18Ukraine-occupation-promo-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Oleksandr Avdeev, 60, looked on as a rescue worker worked to exhume the body of his son Serhii Avdeev, who was abducted and killed by Russian forces last month, in Borova.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Rations Power Despite Battle Gains in Kherson</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html" rel="standout"></atom:link>
+      <description>Russia may be preparing to retreat from the southern city of Kherson, Western analysts say, but Ukraine’s president warned of possible destruction of a dam upstream.</description>
+      <dc:creator>Megan Specia, Monika Pronczuk and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20UKRAINE-LEDEALL-TOP/20UKRAINE-LEDEALL-TOP-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>The Podil neighborhood of Kyiv on Thursday. The government asked Ukrainians to cut back on energy usage to ensure enough heat and light during the coming winter months.</media:description>
     </item>
     <item>
       <title>Berlusconi, Caught on Tape Gushing Over Putin, Heightens Anxiety About Italy</title>
@@ -137,24 +158,45 @@
       <media:description>Former President Donald J. Trump’s baseless claims of a stolen election have pulsed through public consciousness despite his banishment from platforms like Facebook and Twitter.</media:description>
     </item>
     <item>
-      <title>Biden Promotes Infrastructure Law in Pennsylvania Swing With Fetterman</title>
-      <link>https://www.nytimes.com/2022/10/20/business/biden-fetterman-pennsylvania-infrastructure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/business/biden-fetterman-pennsylvania-infrastructure.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/business/biden-fetterman-pennsylvania-infrastructure.html" rel="standout"></atom:link>
-      <description>The fate of a Senate race in President Biden’s home state could determine the prospects of the rest of his legislative agenda.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 22:01:03 +0000</pubDate>
+      <title>Lindsey Graham Must Testify in Georgia Elections Inquiry, Court Rules</title>
+      <link>https://www.nytimes.com/2022/10/20/us/lindsey-graham-georgia-inquiry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/lindsey-graham-georgia-inquiry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/us/lindsey-graham-georgia-inquiry.html" rel="standout"></atom:link>
+      <description>A federal appeals court ruled that the senator must appear before the special grand jury that is investigating efforts to overturn Donald J. Trump’s election loss in Georgia.</description>
+      <dc:creator>Richard Fausset and Danny Hakim</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:18:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Fani T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/us/20GRAHAM-GEORGIA-2/20GRAHAM-GEORGIA-2-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Dietsch/Getty Images</media:credit>
+      <media:description>Senator Lindsey Graham during a Senate Judiciary Committee meeting in Washington last month.</media:description>
+    </item>
+    <item>
+      <title>This Minnesota Race Will Show the Potency of Crime vs. Abortion</title>
+      <link>https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html" rel="standout"></atom:link>
+      <description>Keith Ellison, the state’s progressive attorney general, faces a Republican challenger who is looking to harness public unease since George Floyd’s murder.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Keith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schultz, Jim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Attorneys General</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fetterman, John (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Jobs Plan (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/us/politics/20dc-biden-2/merlin_215199045_773961dc-4f84-4736-98ae-4f8c20496cbe-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Biden stopped by a local sandwich shop in Pittsburgh on Thursday as he injected himself into one of the most hotly contested Senate elections in the country.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20onpolitics-minnesota-1-319d/20onpolitics-minnesota-1-319d-moth.jpg" width="151"></media:content>
+      <media:credit>Glen Stubbe/Star Tribune, via Associated Press</media:credit>
+      <media:description>Attorney General Keith Ellison of Minnesota, right, and his Republican challenger, Jim Schultz, before a debate in St. Paul.</media:description>
     </item>
     <item>
       <title>The Mysterious Patient in Room 23: The Hermit Baroness</title>
@@ -163,20 +205,42 @@
       <atom:link href="https://www.nytimes.com/2022/10/20/nyregion/baroness-birgit-thyssen-bornemisza.html" rel="standout"></atom:link>
       <description>Birgit Thyssen-Bornemisza led a life of eccentric anonymity and shabby gentility. Then her money got cut off. Then she had a stroke.</description>
       <dc:creator>George Rush, John Leland and Rutu Modan</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 17:09:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <pubDate>Thu, 20 Oct 2022 17:09:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Art Students League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mount Sinai Medical Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="">Guardianship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thyssen-Bornemisza, Birgit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mount Sinai Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="">Guardianship</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/nyregion/23BIRGIT1/23BIRGIT1-moth.jpg" width="151"></media:content>
       <media:credit>Rutu Modan</media:credit>
       <media:description>Scenes from an imagined life: The baroness and her mother in Manhattan.</media:description>
+    </item>
+    <item>
+      <title>Kevin Spacey Is Cleared of Anthony Rapp’s Battery Claim</title>
+      <link>https://www.nytimes.com/2022/10/20/arts/television/kevin-spacey-verdict-anthony-rapp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/television/kevin-spacey-verdict-anthony-rapp.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/arts/television/kevin-spacey-verdict-anthony-rapp.html" rel="standout"></atom:link>
+      <description>A jury found Mr. Spacey not liable in a civil trial. Mr. Rapp, an original cast member in “Rent,” had filed a lawsuit accusing Mr. Spacey of making a sexual advance when Mr. Rapp was 14.</description>
+      <dc:creator>Julia Jacobs and Nate Schweber</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:26:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rapp, Anthony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spacey, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Child Victims Act (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20spacey-verdict-01-1-62f6/20spacey-verdict-01-1-62f6-moth.jpg" width="151"></media:content>
+      <media:credit>Yuki Iwamura/Agence France-Presse — Getty Images</media:credit>
+      <media:description>After less than an hour and a half of deliberation on Thursday, a jury in the U.S. District Court in Manhattan decided in favor of Kevin Spacey.</media:description>
     </item>
     <item>
       <title>Here’s What Anthony Rapp and Kevin Spacey Said in Their Testimony</title>

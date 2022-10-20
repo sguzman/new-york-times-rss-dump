@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Oct 2022 23:59:51 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Oct 2022 23:42:12 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Oct 2022 03:06:13 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Oct 2022 02:58:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/19/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Pro-Kremlin officials said they would move tens of thousands out of the key southern city of Kherson as Ukrainian forces press forward.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 23:42:12 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 02:05:34 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-briefing-header-1am/19ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Repairing a broken window on Tuesday after recent shelling in Kupiansk, Ukraine.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/russia-moscow-army-draft.html" rel="standout"></atom:link>
       <description>Across the capital, there are noticeably fewer men at restaurants, stores and social gatherings. Many have been called up to fight in Ukraine. Others have fled to avoid being drafted.</description>
       <dc:creator>Valerie Hopkins and Nanna Heitmann</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 16:19:11 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 01:31:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html" rel="standout"></atom:link>
       <description>Britain’s prime minister dismissed Suella Braverman after an email breach. Ms. Truss was also grilled in Parliament over her repudiated budget.</description>
       <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 21:03:43 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 02:18:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -124,7 +124,7 @@
       <media:description>Residents and protesters blocked a road to the nearby Thaad base in Soseong-ri, South Korea, in September.</media:description>
     </item>
     <item>
-      <title>For Women in China’s Communist Party, It’s Lonely at the Top</title>
+      <title>Sun Chunlan Nears Retirement With Few Women in China’s Communist Party</title>
       <link>https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/19/business/china-women-communist-party.html" rel="standout"></atom:link>
@@ -148,7 +148,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html" rel="standout"></atom:link>
       <description>Elnaz Rekabi, whose appearance without a head scarf at an event in Seoul raised fears about her future, was welcomed home by crowds in Tehran. Her motivations, and her fate, however, remain unclear.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 13:04:40 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 02:58:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
@@ -300,7 +300,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html" rel="standout"></atom:link>
       <description>Russian forces have deployed two types of Iranian drones. Dozens of models of the remote-controlled and programmable weapons are now being used in the war.</description>
       <dc:creator>John Ismay</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 23:32:40 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 23:32:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -326,7 +326,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/russia-putin-ukraine-martial-law.html" rel="standout"></atom:link>
       <description>The Russian leader also imposed restrictions in over two dozen areas in Russia, signaling an attempt to crack down on dissent at home.</description>
       <dc:creator>Andrew E. Kramer and Neil MacFarquhar</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 23:16:06 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 00:42:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Martial Law</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -361,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/biden-gas-prices-oil-electric-vehicles.html" rel="standout"></atom:link>
       <description>Depleting emergency oil reserves spurs criticism that the White House is trying to lower gas prices with midterm election politics in mind.</description>
       <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 23:36:31 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2022 23:36:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -411,6 +411,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19ev-investment1/19ev-investment1-moth.jpg" width="151"></media:content>
       <media:credit>Juan Diego Reyes for The New York Times</media:credit>
       <media:description>BMW said on Wednesday that it would expand its manufacturing complex in Spartanburg, S.C.</media:description>
+    </item>
+    <item>
+      <title>Iran Denies It Supplied Russia With Drones</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html" rel="standout"></atom:link>
+      <description>Iran has denied supplying Russia with drones for use in Ukraine.</description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 02:04:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19ukraine-briefing-eu-drone-sanctions-topart-1-d962/19ukraine-briefing-eu-drone-sanctions-topart-1-d962-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Ram/Getty Images</media:credit>
+      <media:description>An apartment building in Kyiv was among many sites of drone strikes across Ukraine this week. The European Union is preparing to impose sanctions on the Iranian company that manufactures drones Russia is using.</media:description>
     </item>
     <item>
       <title>The Two Inflation Crises</title>
@@ -1083,24 +1098,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/17ukraine-briefing-zaporizhzhia-01-1-3cb8/17ukraine-briefing-zaporizhzhia-01-1-3cb8-moth.jpg" width="151"></media:content>
       <media:credit>David Guttenfelder for The New York Times</media:credit>
       <media:description>A blast on Monday morning disconnected the Zaporizhzhia Nuclear Power Plant from external power sources.</media:description>
-    </item>
-    <item>
-      <title>Marjorie Taylor Greene’s Comeback</title>
-      <link>https://www.nytimes.com/2022/10/17/briefing/marjorie-taylor-greene.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/17/briefing/marjorie-taylor-greene.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/17/briefing/marjorie-taylor-greene.html" rel="standout"></atom:link>
-      <description>Republican leaders have embraced the former political pariah, demonstrating Trumpism’s hold over the party.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Mon, 17 Oct 2022 17:46:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/17themorning-promo/17themorning-lede-1-0a58-moth.jpg" width="151"></media:content>
-      <media:credit>Brittany Greeson for The New York Times</media:credit>
-      <media:description>Marjorie Taylor-Greene.</media:description>
     </item>
   </channel>
 </rss>

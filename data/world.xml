@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 16:00:22 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 15:59:42 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 16:58:15 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 16:57:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Ukrainian officials say Russian forces are shelling villages around Svatove, a major conduit for supplies to Moscow’s forces in the east.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:59:42 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:57:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ukraine-briefing-promo-10am-1-23b6/21ukraine-briefing-promo-10am-1-23b6-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -33,7 +33,8 @@
       <description>The downfall of Britain’s prime minister served as a warning to all of the political peril that awaits those who fail to address the erosion of living standards, no matter the cause.</description>
       <dc:creator>Jason Horowitz</dc:creator>
       <pubDate>Fri, 21 Oct 2022 10:20:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -41,34 +42,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conte, Giuseppe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latvia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/00europe-inflation01/merlin_207551574_915f0898-ae07-4b89-a215-b2467c10f25d-moth.jpg" width="151"></media:content>
@@ -76,13 +60,13 @@
       <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
     </item>
     <item>
-      <title>In Shattered Homes, Ukrainians Brace for a Cold Winter</title>
+      <title>Ukrainians Brace for a Cold Winter Amid Russian Conflict</title>
       <link>https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html" rel="standout"></atom:link>
       <description>In cities and towns battered by the war, residents worry about how to heat their homes as temperatures drop. But even in places spared from the worst of the fighting, Russian strikes on infrastructure have raised new fears.</description>
       <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:35:21 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:26:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
@@ -99,7 +83,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html" rel="standout"></atom:link>
       <description>Former Prime Minister Boris Johnson and the man who helped oust him from his job, the former Finance Minister Rishi Sunak, are seen as two of the top contenders within the governing Conservative Party.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:08:47 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:16:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -135,6 +119,26 @@
       <media:description>Alexandre de Moraes, a Supreme Court justice in Brazil who leads the nation’s electoral court, will now have broad power to order tech companies to remove content.</media:description>
     </item>
     <item>
+      <title>Imran Khan, Pakistan’s Ex-Leader, Is Barred From Office</title>
+      <link>https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html" rel="standout"></atom:link>
+      <description>The decision by Pakistan’s election commission is a major escalation of the showdown between the ruling establishment and Mr. Khan, and it raises the specter of unrest.</description>
+      <dc:creator>Christina Goldbaum and Salman Masood</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 16:45:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21Pakistan-Khan-01/21Pakistan-Khan-01-moth.jpg" width="151"></media:content>
+      <media:credit>Waseem Khan/Reuters</media:credit>
+      <media:description>Former Prime Minister Imran Khan of Pakistan in September outside a court in Islamabad.</media:description>
+    </item>
+    <item>
       <title>She’s Inheriting Millions of Euros. She Wants Her Wealth Taxed Away.</title>
       <link>https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html</guid>
@@ -164,7 +168,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/sweden-speed-camera-theft.html" rel="standout"></atom:link>
       <description>The disappearance of the pricey cameras from rural roads is a mystery. Theories abound on why the cameras have become such a target.</description>
       <dc:creator>Christina Anderson</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:45:55 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:49:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speed Limits and Speeding</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nikon Corp</category>
@@ -175,13 +179,34 @@
       <media:description>Driving near Sävsjö, Sweden. There are 2,300 speed cameras across the country, and drivers who are caught speeding get a ticket in the mail.</media:description>
     </item>
     <item>
+      <title>Security Forces Open Fire on Protesters in Chad, Killing at Least 50</title>
+      <link>https://www.nytimes.com/2022/10/21/world/africa/chad-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/africa/chad-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/africa/chad-protests.html" rel="standout"></atom:link>
+      <description>Demonstrators had taken to the streets, demanding that the ruling military junta stick to its promises to hold elections.</description>
+      <dc:creator>Ruth Maclean and Mahamat Adamou</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 16:29:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deby, Idriss</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deby, Mahamat Idriss</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ndjamena (Chad)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21chad4/21chad4-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Anti-government demonstrators set a barricade on fire during clashes in N’Djamena, Chad, on Thursday.</media:description>
+    </item>
+    <item>
       <title>British Lawmaker Quits After Watchdog Finds Him Guilty of Sexual Misconduct</title>
       <link>https://www.nytimes.com/2022/10/21/world/europe/british-parliament-sexual-misconduct.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/british-parliament-sexual-misconduct.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/british-parliament-sexual-misconduct.html" rel="standout"></atom:link>
       <description>The findings came after a complaint from a junior staffer that the lawmaker, Christian Matheson, had made unwanted advances on her. Mr. Matheson denied any sexual misconduct, but resigned.</description>
       <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:44:49 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:07:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -208,29 +233,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21oz-qatar/21oz-qatar-moth.jpg" width="151"></media:content>
       <media:credit>Karim Jaafar/Agence France-Presse — Getty Images</media:credit>
       <media:description>Hamad International Airport in Doha, Qatar, in 2018.</media:description>
-    </item>
-    <item>
-      <title>Liz Truss Resigns After 6 Chaotic Weeks, Igniting New Leadership Fight</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
-      <description>The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.</description>
-      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-truss-blog-header-9am-ET/20uk-truss-blog-header-9am-ET-moth.jpg" width="151"></media:content>
-      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Liz Truss announced her intention to resign as Britain’s prime minister outside 10 Downing Street in London on Thursday.</media:description>
     </item>
     <item>
       <title>Could Boris Johnson Make a Comeback as U.K. Prime Minister?</title>
@@ -275,28 +277,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18Ukraine-occupation-promo/18Ukraine-occupation-promo-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Oleksandr Avdeev, 60, looked on as a rescue worker worked to exhume the body of his son Serhii Avdeev, who was abducted and killed by Russian forces last month, in Borova.</media:description>
-    </item>
-    <item>
-      <title>Truss Defied the Markets, and They Ruthlessly Sealed Her Fate</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html" rel="standout"></atom:link>
-      <description>World leaders buffeted by economic challenges are watching the turmoil in Britain with anything but relish, hoping that Liz Truss’s woes won’t be a harbinger for other countries.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 18:22:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-analysis_2/20uk-analysis_2-moth.jpg" width="151"></media:content>
-      <media:credit>Sam Bush for The New York Times</media:credit>
-      <media:description>The scene outside the Bank of England in central London. The market’s swift, withering verdict on Prime Minister Liz Truss’s tax-cutting agenda shattered her credibility.</media:description>
     </item>
     <item>
       <title>Berlusconi, Caught on Tape Gushing Over Putin, Heightens Anxiety About Italy</title>
@@ -449,6 +429,29 @@
       <media:description>The Podil neighborhood of Kyiv on Thursday. The government asked Ukrainians to cut back on energy usage to ensure enough heat and light during the coming winter months.</media:description>
     </item>
     <item>
+      <title>Liz Truss Resigns After 6 Chaotic Weeks, Igniting New Leadership Fight</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
+      <description>The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-truss-blog-header-9am-ET/20uk-truss-blog-header-9am-ET-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss announced her intention to resign as Britain’s prime minister outside 10 Downing Street in London on Thursday.</media:description>
+    </item>
+    <item>
       <title>Liz Truss Is Eligible for an Allowance of $129,000 a Year for Life</title>
       <link>https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html</guid>
@@ -532,7 +535,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html" rel="standout"></atom:link>
       <description>King Charles has never sworn in a prime minister, and he will not be crowned until May, making the task of projecting stability more difficult.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 20:59:41 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 16:42:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
@@ -556,6 +559,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/multimedia/18uk-blog-truss-memes-image2-1-7356/18uk-blog-truss-memes-image2-1-7356-moth.jpg" width="151"></media:content>
       <media:credit>Toby Melville/Reuters</media:credit>
       <media:description>Prime Minister Liz Truss onstage at the Conservative Party’s annual conference in Birmingham, England, this month.</media:description>
+    </item>
+    <item>
+      <title>Truss Defied the Markets, and They Ruthlessly Sealed Her Fate</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html" rel="standout"></atom:link>
+      <description>World leaders buffeted by economic challenges are watching the turmoil in Britain with anything but relish, hoping that Liz Truss’s woes won’t be a harbinger for other countries.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 18:22:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-analysis_2/20uk-analysis_2-moth.jpg" width="151"></media:content>
+      <media:credit>Sam Bush for The New York Times</media:credit>
+      <media:description>The scene outside the Bank of England in central London. The market’s swift, withering verdict on Prime Minister Liz Truss’s tax-cutting agenda shattered her credibility.</media:description>
     </item>
     <item>
       <title>American Woman Pleads Guilty in Death of British Teenager</title>
@@ -1078,69 +1103,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/lens/19xp-lettucevideo-promo/19xp-lettucevideo-promo-moth-v5.png" width="151"></media:content>
       <media:credit>The Daily Star</media:credit>
       <media:description>A days-old head of lettuce has become a caricature of Prime Minister Liz Truss’s tenuous grip on power in Britain.</media:description>
-    </item>
-    <item>
-      <title>In Britain, Demands for Tough Response After Beating at Chinese Consulate</title>
-      <link>https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html" rel="standout"></atom:link>
-      <description>Activists who fled Hong Kong and some British lawmakers have called for a tough government response to the episode in Manchester, as the man who was beaten spoke out.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 18:43:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19china-consulate/19china-consulate-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Bob Chan, a Hong Kong pro-democracy protester, was kicked and beaten just inside the gates of the Chinese Consulate in Manchester, England, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Preserving a Palestinian Identity in the Kitchen</title>
-      <link>https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html" rel="standout"></atom:link>
-      <description>With many Palestinians fearful that their cuisine is being lost, kitchen practices handed down by family matriarchs for generations are still being passed along.</description>
-      <dc:creator>Aina J. Khan</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 21:57:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/08/world/08palestinian-food1/08palestinian-food1-moth-v3.jpg" width="151"></media:content>
-      <media:credit>Samar Hazboun for The New York Times</media:credit>
-      <media:description>Mariam Sindawi in the kitchen of her home, in Haifa, Israel, with her granddaughter Abeer Abbasi. “Our relationship is really based around the kitchen,” Ms. Abbasi said.</media:description>
-    </item>
-    <item>
-      <title>Liz Truss Fires Home Secretary Suella Braverman After Email Breach</title>
-      <link>https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html" rel="standout"></atom:link>
-      <description>Britain’s prime minister dismissed Suella Braverman after an email breach. Ms. Truss was also grilled in Parliament over her repudiated budget.</description>
-      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 03:08:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scottish National Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19uk-politics-image/19uk-politics-image-moth.jpg" width="151"></media:content>
-      <media:credit>Rob Pinney/Getty Images</media:credit>
-      <media:description>Prime Minister Liz Truss of Britain said she would guarantee a pension increase that her finance chief had called into question.</media:description>
     </item>
   </channel>
 </rss>

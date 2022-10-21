@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 21:45:05 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 21:09:24 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 22:23:25 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 22:18:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>As Russia moved thousands of troops into Belarus, Ukraine and the Pentagon played down the likelihood that Moscow would launch a new push into Ukraine from the north.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 21:03:00 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 22:18:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ukraine-briefing-promo-10am-1-23b6/21ukraine-briefing-promo-10am-1-23b6-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -283,6 +283,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21uk-johnson-promo/21uk-johnson-promo-moth.jpg" width="151"></media:content>
       <media:credit>Isabel Infantes/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Zelensky Accuses Russia of Deliberately Slowing Grain Shipments</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-grain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-grain.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/zelensky-putin-russia-ukraine-grain.html" rel="standout"></atom:link>
+      <description>The U.N. confirmed a backlog of 150 ships waiting to fulfill contracts to transport Ukrainian food products, a delay that comes as a deadline to renew a grain deal nears.</description>
+      <dc:creator>James C. McKinley Jr.</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 22:00:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ukraine-briefing-grain-update-1-1-05e0/21ukraine-briefing-grain-update-1-1-05e0-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mehmet Caliskan/Reuters</media:credit>
+      <media:description>Ellie M, a cargo ship carrying Ukrainian corn, awaiting an inspection while anchored off Istanbul last week.</media:description>
     </item>
     <item>
       <title>How a Prison Fire Unfolded in Iran</title>
@@ -1092,28 +1116,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19ev-investment1/19ev-investment1-moth.jpg" width="151"></media:content>
       <media:credit>Juan Diego Reyes for The New York Times</media:credit>
       <media:description>BMW said on Wednesday that it would expand its manufacturing complex in Spartanburg, S.C.</media:description>
-    </item>
-    <item>
-      <title>Russia Shrinks Forces in Syria, a Factor in Israeli Strategy There</title>
-      <link>https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html" rel="standout"></atom:link>
-      <description>Moscow withdrew a key air defense system and some troops to bolster its war in Ukraine, officials said, potentially altering Israel’s calculations about striking Syria or arming Ukraine.</description>
-      <dc:creator>Patrick Kingsley and Ronen Bergman</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 17:44:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gantz, Benny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19Israel-Ukraine01/merlin_171449583_b6d83a07-ce2b-4490-8bdc-eeabb0de3d51-moth.jpg" width="151"></media:content>
-      <media:credit>Delil Souleiman/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Russian military police in the northeastern Syrian city of Qamishli in 2020. Moscow is sending more military police to Syria to help replace troops withdrawn from the country.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 10:43:29 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 10:43:10 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 11:00:18 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 10:57:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -323,6 +323,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21xp-cough-syrup-01/21xp-cough-syrup-01-moth.jpg" width="151"></media:content>
       <media:credit>Tatan Syuflana/Associated Press</media:credit>
       <media:description>A notice at a pharmacy in Jakarta, Indonesia, on Thursday announcing that the sale of medicinal syrup had been halted. </media:description>
+    </item>
+    <item>
+      <title>How Australia Fell Behind on Data Privacy</title>
+      <link>https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html" rel="standout"></atom:link>
+      <description>A recent spate of cyberattacks have highlighted the nation’s relatively lax approach to safeguarding personal data. But change may be on the way.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 10:57:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21ausletter-1/21ausletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Baker/Associated Press</media:credit>
+      <media:description>An Optus store in Sydney’s central business district this week. A data breach at the company was the largest in Australian history.</media:description>
     </item>
     <item>
       <title>Hasta la Vista? This Time, Boris Johnson May Say, ‘I’m Back’</title>
@@ -1121,31 +1134,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-    </item>
-    <item>
-      <title>Russia Targets Power, Water and Heat for Ukraine’s Civilians</title>
-      <link>https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/18/world/europe/ukraine-russia-blackout-water.html" rel="standout"></atom:link>
-      <description>The stepped-up attacks on cities, including through the heavy use of Iranian-made exploding drones, threaten a new sort of humanitarian crisis for Ukrainians this winter.</description>
-      <dc:creator>Megan Specia and Andrew E. Kramer</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 08:21:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Rescue workers on Monday combed though the rubble of a building in Kyiv, Ukraine, that was hit by an exploding drone.</media:description>
     </item>
   </channel>
 </rss>

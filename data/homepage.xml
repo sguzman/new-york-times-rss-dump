@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 21:35:46 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 21:19:29 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 21:50:50 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 21:49:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/2022/10/21/us/politics/trump-subpoena-jan-6.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/politics/trump-subpoena-jan-6.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/us/politics/trump-subpoena-jan-6.html" rel="standout"></atom:link>
-      <description>While the former president has suggested he might testify live before the committee, it was far more likely that the demand would lead to a protracted legal fight.</description>
+      <description>While the former president has suggested he might testify live before the committee, it was far more likely that the demand would lead to a legal fight.</description>
       <dc:creator>Luke Broadwater and Michael S. Schmidt</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 19:25:48 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 21:48:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/us/politics/steve-bannon-sentence-contempt-congress.html" rel="standout"></atom:link>
       <description>Stephen Bannon was found guilty of two counts of contempt of Congress this summer for defying a subpoena from the House Jan. 6 committee.</description>
       <dc:creator>Glenn Thrush and Alan Feuer</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 18:24:50 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 21:49:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -348,25 +348,24 @@
       <media:description>Tim Ryan, the Democratic Senate nominee in Ohio, in Columbus this month. As manufacturing has declined in the state, so have Democratic fortunes.</media:description>
     </item>
     <item>
-      <title>Why Republicans Are Surging</title>
-      <link>https://www.nytimes.com/2022/10/20/opinion/midterms-republicans-surging.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/opinion/midterms-republicans-surging.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/opinion/midterms-republicans-surging.html" rel="standout"></atom:link>
-      <description>The Democrats have serious holes in their political strategy.</description>
-      <dc:creator>David Brooks</dc:creator>
+      <title>Biden Just Clobbered China’s Chip Industry</title>
+      <link>https://www.nytimes.com/2022/10/20/opinion/biden-china-semiconductor-chip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/opinion/biden-china-semiconductor-chip.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/opinion/biden-china-semiconductor-chip.html" rel="standout"></atom:link>
+      <description>The latest American trade restrictions could significantly set back China’s semiconductor ambitions.</description>
+      <dc:creator>Farhad Manjoo</dc:creator>
       <pubDate>Thu, 20 Oct 2022 23:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/opinion/20brooks1/20brooks1-moth.jpg" width="151"></media:content>
-      <media:credit>Rebecca Noble for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/opinion/21manjoo-image1/merlin_215169381_2188c86a-9171-47fe-a6d7-700a56fa24fe-moth.jpg" width="151"></media:content>
+      <media:credit>Florence Lo/Reuters</media:credit>
     </item>
     <item>
       <title>What if We Let Majoritarian Democracy Take Root?</title>
@@ -437,23 +436,22 @@
       <media:credit>Henry Nicholls/Reuters</media:credit>
     </item>
     <item>
-      <title>Will Gas Prices Doom Democracy?</title>
-      <link>https://www.nytimes.com/2022/10/20/opinion/will-gas-prices-doom-democracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/opinion/will-gas-prices-doom-democracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/opinion/will-gas-prices-doom-democracy.html" rel="standout"></atom:link>
-      <description>Their political salience is ludicrous, and terrifying.</description>
-      <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 14:46:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <title>There’s Been a ‘Regime Change’ in How Democrats Think About Elections</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html" rel="standout"></atom:link>
+      <description>Matt Yglesias breaks down the polls and helps take stock of this wild midterm election year.</description>
+      <dc:creator>‘The Ezra Klein Show’</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 13:15:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydraulic Fracturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/20krugman1/20krugman1-moth.jpg" width="151"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yglesias, Matthew</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21eks-yglesias-image/21eks-yglesias-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Liz Truss’s Downfall</title>

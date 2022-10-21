@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 12:30:51 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 12:29:59 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 13:36:08 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 13:34:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,6 +65,28 @@
       <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
     </item>
     <item>
+      <title>Boris Johnson and Rishi Sunak Among Top Contenders to Replace UK Prime Minister</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html" rel="standout"></atom:link>
+      <description>Former Prime Minister Boris Johnson and the man who helped oust him from his job, the former Finance Minister Rishi Sunak, are seen as two of the top contenders within the governing Conservative Party.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 12:40:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mordaunt, Penny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21uk-politics01/merlin_215226411_0cdac5e4-95d9-4e9e-9d15-d599de31a9a7-moth.jpg" width="151"></media:content>
+      <media:credit>Frank Augstein/Associated Press</media:credit>
+      <media:description>The door to 10 Downing Street in London, the prime minister’s office and residence.</media:description>
+    </item>
+    <item>
       <title>After a Storm, Britain’s Economy Finds Itself Rudderless</title>
       <link>https://www.nytimes.com/2022/10/21/business/uk-economy-liz-truss.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/uk-economy-liz-truss.html</guid>
@@ -86,27 +108,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/business/21uk-econ-1/merlin_213983622_66b02947-d065-4fec-8ab2-cdf6541e0c6f-moth.jpg" width="151"></media:content>
       <media:credit>Alex Ingram for The New York Times</media:credit>
       <media:description>The Waterloo Station in London this month. The next prime minister, the third this year, will face a long list of economic challenges, including annual inflation that topped 10 percent last month.</media:description>
-    </item>
-    <item>
-      <title>Liz Truss Resigns After 6 Chaotic Weeks, Igniting New Leadership Fight</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
-      <description>The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.</description>
-      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-truss-blog-header-9am-ET/20uk-truss-blog-header-9am-ET-moth.jpg" width="151"></media:content>
-      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Liz Truss announced her intention to resign as Britain’s prime minister outside 10 Downing Street in London on Thursday.</media:description>
     </item>
     <item>
       <title>Hasta la Vista? This Time, Boris Johnson May Say, ‘I’m Back.’</title>
@@ -155,7 +156,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/us/politics/democrats-secretary-of-state-candidates-election-deniers.html" rel="standout"></atom:link>
       <description>Democrats are outspending Republicans 57-to-1 on television ads for their secretary of state candidates. It still may not be enough.</description>
       <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 09:00:27 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 12:34:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -334,7 +335,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/arts/music/taylor-swift-midnights.html" rel="standout"></atom:link>
       <description>The singer-songwriter’s 10th studio album is a return to the pop pipeline, with production from her longtime collaborator Jack Antonoff.</description>
       <dc:creator>Ben Sisario</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 04:36:41 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 13:26:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Midnights (Album)</category>
@@ -483,13 +484,13 @@
       <media:credit>Doug Mills/The New York Times</media:credit>
     </item>
     <item>
-      <title>Have Both Democrats and Republicans Lost Touch With Their Voters?</title>
+      <title>There’s Been a ‘Regime Change’ in How Democrats Think About Elections</title>
       <link>https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html" rel="standout"></atom:link>
       <description>Matt Yglesias breaks down the polls and helps take stock of this wild midterm election year.</description>
       <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 11:00:53 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 13:15:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Matthew Yglesias</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -584,7 +585,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/nyregion/wagner-park-manhattan.html" rel="standout"></atom:link>
       <description>A resiliency plan would tear down Wagner Park in Lower Manhattan and rebuild it on higher ground, but some residents say it goes too far.</description>
       <dc:creator>Winnie Hu and Anne Barnard</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 12:11:00 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 12:11:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Battery Park City Authority</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levine, Mark D</category>

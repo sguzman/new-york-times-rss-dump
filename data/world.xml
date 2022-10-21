@@ -7,13 +7,24 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 14:51:09 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 14:50:33 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 15:30:04 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 15:29:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Intense Fighting Rages Near a Key City in Ukraine</title>
+      <link>https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>Ukrainian officials say Russian forces are shelling villages around Svatove, a major conduit for supplies to Moscow’s forces in the east.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 15:13:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ukraine-briefing-promo-10am-1-23b6/21ukraine-briefing-promo-10am-1-23b6-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+    </item>
     <item>
       <title>As Inflation Stalks Europe, Leaders Shudder</title>
       <link>https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html</link>
@@ -65,15 +76,21 @@
       <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
     </item>
     <item>
-      <title>Intense Fighting Rages Near a Key City in Ukraine</title>
-      <link>https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>Ukrainian officials say Russian forces are shelling villages around Svatove, a major conduit for supplies to Moscow’s forces in the east.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 14:50:33 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ukraine-briefing-promo-10am-1-23b6/21ukraine-briefing-promo-10am-1-23b6-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <title>In Shattered Homes, Ukrainians Brace for a Cold Winter</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/ukraine-heat-winter.html" rel="standout"></atom:link>
+      <description>In cities and towns battered by the war, residents worry about how to heat their homes as temperatures drop. But even in places spared from the worst of the fighting, Russian strikes on infrastructure have raised new fears.</description>
+      <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 15:29:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yahidne (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00ukraine-heat-01-promo/00ukraine-heat-01-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
     <item>
       <title>Boris Johnson and Rishi Sunak Among Top Contenders to Replace UK Prime Minister</title>
@@ -82,7 +99,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/british-prime-minister-race.html" rel="standout"></atom:link>
       <description>Former Prime Minister Boris Johnson and the man who helped oust him from his job, the former Finance Minister Rishi Sunak, are seen as two of the top contenders within the governing Conservative Party.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 12:40:25 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 15:08:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -249,24 +266,6 @@
       <media:description>The scene outside the Bank of England in central London. The market’s swift, withering verdict on Prime Minister Liz Truss’s tax-cutting agenda shattered her credibility.</media:description>
     </item>
     <item>
-      <title>Liz Truss’s Quick Resignation Spurs Anger and Bewilderment Among Britons</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html" rel="standout"></atom:link>
-      <description>Prime Minister Liz Truss’s resignation, yet another episode of political instability, only added to concerns over galloping inflation and a looming economic crisis.</description>
-      <dc:creator>Euan Ward and Isabella Kwai</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 07:02:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-voices-4-1-2d4a/20uk-voices-4-1-2d4a-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Ingram for The New York Times</media:credit>
-      <media:description>Market stalls in Kingston upon Thames, England. Britons who had already stared down a year of economic and political turmoil met the latest developments with anxiety and concern.</media:description>
-    </item>
-    <item>
       <title>Ukraine Rations Power Despite Battle Gains in Kherson</title>
       <link>https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</guid>
@@ -336,6 +335,27 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21xp-cough-syrup-01/21xp-cough-syrup-01-moth.jpg" width="151"></media:content>
       <media:credit>Tatan Syuflana/Associated Press</media:credit>
       <media:description>A notice at a pharmacy in Jakarta, Indonesia, on Thursday announcing that the sale of medicinal syrup had been halted. </media:description>
+    </item>
+    <item>
+      <title>Who Will the Next U.K. Prime Minister Be and How Will They Be Chosen?</title>
+      <link>https://www.nytimes.com/article/prime-minister-britain-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/prime-minister-britain-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/article/prime-minister-britain-uk.html" rel="standout"></atom:link>
+      <description>The process, which does not include the general public, will be swift, with plans to have a result by next week.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 15:18:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21xp-truss-podium-02-1-63cd/21xp-truss-podium-02-1-63cd-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+      <media:description>Britain could have a new prime minister as soon as Monday. </media:description>
     </item>
     <item>
       <title>Liz Truss’s Downfall</title>
@@ -584,6 +604,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-boris-johnson-topart-1-af76/20uk-blog-truss-boris-johnson-topart-1-af76-moth.jpg" width="151"></media:content>
       <media:credit>Aaron Chown/Press Association, via Associated Press</media:credit>
       <media:description>During his final speech as prime minister on Sept. 6, Boris Johnson hinted at the possibility of a comeback.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss’s Quick Resignation Spurs Anger and Bewilderment Among Britons</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html" rel="standout"></atom:link>
+      <description>Prime Minister Liz Truss’s resignation, yet another episode of political instability, only added to concerns over galloping inflation and a looming economic crisis.</description>
+      <dc:creator>Euan Ward and Isabella Kwai</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 07:02:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-voices-4-1-2d4a/20uk-voices-4-1-2d4a-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>Market stalls in Kingston upon Thames, England. Britons who had already stared down a year of economic and political turmoil met the latest developments with anxiety and concern.</media:description>
     </item>
     <item>
       <title>E.U. Places New Sanctions on Iran for Supplying Russia With Drones</title>
@@ -1109,42 +1147,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19themorning-lead-1-4f0f/19themorning-lead-1-4f0f-moth.jpg" width="151"></media:content>
       <media:credit>Alice Zoo for The New York Times</media:credit>
       <media:description>Oxford Circus in London this year.</media:description>
-    </item>
-    <item>
-      <title>India Bars Kashmiri Photographer From Traveling to Receive Pulitzer</title>
-      <link>https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html" rel="standout"></atom:link>
-      <description>The Indian authorities stopped Sanna Irshad Mattoo at the New Delhi airport, in the latest case of harassment of journalists in the country.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 17:14:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/19india-photographer-01/19india-photographer-01-moth.jpg" width="151"></media:content>
-      <media:credit>Saqib Majeed/SOPA Images/LightRocket, via Getty Images</media:credit>
-      <media:description>The Kashmiri photojournalist Sanna Irshad Mattoo, center, celebrating her Pulitzer Prize for feature photography at her home in Srinagar in May.</media:description>
-    </item>
-    <item>
-      <title>South Korean Super App Kakao Goes Down, Putting a Halt on Life</title>
-      <link>https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html" rel="standout"></atom:link>
-      <description>A days-long outage at Kakao has led to the resignation of a co-CEO and a reckoning over Big Tech’s extensive grip over the South Korean economy.</description>
-      <dc:creator>Chang Che and Jin Yu Young</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 08:09:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KakaoTalk</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19skorea-kakao-01/19skorea-kakao-01-moth.jpg" width="151"></media:content>
-      <media:credit>Hwang Gwang-Mo/Yonhap, via Associated Press</media:credit>
-      <media:description>The co-chiefs of Kakao. Namkoong Whon, left, and Hong Eun-taek, right, during a news conference at Kakao’s office in Pangyo, South Korea, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

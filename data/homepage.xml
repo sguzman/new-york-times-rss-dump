@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 11:13:09 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 11:00:53 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 11:39:57 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 11:29:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -115,7 +115,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html" rel="standout"></atom:link>
       <description>A comeback by Mr. Johnson is viewed as a very real possibility, delighting some Conservative Party lawmakers and repelling others.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 10:32:00 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 10:32:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
@@ -219,6 +219,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="">future of transportation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/business/20airlines-1/merlin_205674240_35cddbcf-26bb-41a2-89e4-0d347716a27b-moth.jpg" width="151"></media:content>
       <media:credit>Gabby Jones for The New York Times</media:credit>
       <media:description>Remote work and hybrid work have allowed Americans to travel more and combine personal and professional trips.</media:description>
@@ -333,7 +334,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/arts/music/taylor-swift-midnights.html" rel="standout"></atom:link>
       <description>The singer-songwriter’s 10th studio album is a return to the pop pipeline, with production from her longtime collaborator Jack Antonoff.</description>
       <dc:creator>Ben Sisario</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 04:36:40 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 04:36:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Midnights (Album)</category>
@@ -362,13 +363,13 @@
       <media:credit>Rebecca Noble for The New York Times</media:credit>
     </item>
     <item>
-      <title>Britain Is a Global Laughingstock, and It’s Not Just Liz Truss’s Fault</title>
+      <title>Liz Truss and the Ruination of Britain</title>
       <link>https://www.nytimes.com/2022/10/21/opinion/liz-truss-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/liz-truss-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/opinion/liz-truss-uk.html" rel="standout"></atom:link>
       <description>The Conservative Party has brought chaos to the country.</description>
       <dc:creator>Peter Oborne</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 07:31:58 +0000</pubDate>
+      <pubDate>Fri, 21 Oct 2022 11:21:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
@@ -502,66 +503,79 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>四通桥事件与习近平治下的魔幻十年</title>
-      <link>https://www.nytimes.com/zh-hans/2022/10/20/world/asia/xi-jinping-china-protest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/zh-hans/2022/10/20/world/asia/xi-jinping-china-protest.html</guid>
-      <atom:link href="https://www.nytimes.com/zh-hans/2022/10/20/world/asia/xi-jinping-china-protest.html" rel="standout"></atom:link>
-      <description>四通桥抗议震动海内外，当局对这一事件迅速、彻底、充满荒诞意味的审查也像是中国过去十年的一个注脚。这十年来，人们很难不意识到威权统治的牢笼正在收紧，权力之任性魔幻应该也是海外华人越来越惧怕回国、更多人往国外跑的原因。</description>
-      <dc:creator>Zhan Juan</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 08:08:08 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/CN-00CHINA-CONGRESS-XI-01-copy/00CHINA-CONGRESS-XI-01-moth.jpg" width="151"></media:content>
-      <media:credit>Thomas Peter/Reuters</media:credit>
-      <media:description>去年在北京国家体育场举行的纪念中国共产党成立100周年的活动中，习近平出现在大屏幕上</media:description>
+      <title>Liz Truss’s Downfall</title>
+      <link>https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html" rel="standout"></atom:link>
+      <description>Liz Truss is inflation’s latest political victim, and probably not its last.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 11:04:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21-THE-MORNING-NL-TRUSS-PROMO/21-THE-MORNING-NL-TRUSS-3-e3f4-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss.</media:description>
     </item>
     <item>
-      <title>Has Polling Broken Politics?</title>
-      <link>https://www.nytimes.com/2022/10/19/opinion/midterms-polling-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/opinion/midterms-polling-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/opinion/midterms-polling-politics.html" rel="standout"></atom:link>
-      <description>As the midterms near, Margie Omero and Nate Silver consider what voter surveys are good for.</description>
-      <dc:creator>‘The Argument’</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 09:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omero, Margie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Silver, Nate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>The Rapid Downfall of Liz Truss</title>
+      <link>https://www.nytimes.com/2022/10/21/podcasts/the-daily/liz-truss-resigns-conservative-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/podcasts/the-daily/liz-truss-resigns-conservative-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/podcasts/the-daily/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
+      <description>Ms. Truss is the shortest-serving prime minister in British history. How did she get here?</description>
+      <dc:creator>Michael Barbaro, Michael Simon Johnson, Rachelle Bonja, Will Reid, Chris Wood, Sydney Harper, Anita Badejo and Marion Lozano</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:28:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FiveThirtyEight.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/opinion/19argument-polling-image/19argument-polling-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Remembering Loretta Lynn</title>
-      <link>https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html" rel="standout"></atom:link>
-      <description>A conversation about the country music titan’s sly radicalism and the many readings and misreadings of her work.</description>
-      <pubDate>Thu, 20 Oct 2022 14:15:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20popcast-1-f651/20popcast-1-f651-moth.jpg" width="151"></media:content>
-      <media:credit>Ethan Miller/Reuters</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/podcasts/21daily-1/21DAILY-TRUSS-audio-app-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Liz Truss delivered her resignation statement outside 10 Downing Street on Thursday in London.</media:description>
     </item>
     <item>
-      <title>How Much Watching Time Do You Have This Weekend?</title>
-      <link>https://www.nytimes.com/2022/10/20/arts/television/heartbreak-high-acapulco-heartbreak-high.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/television/heartbreak-high-acapulco-heartbreak-high.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/arts/television/heartbreak-high-acapulco-heartbreak-high.html" rel="standout"></atom:link>
-      <description>This weekend our TV critic recommends a gorgeous Italian drama, a naughty Australian teen show and a happy rom-com set in Mexico.</description>
-      <dc:creator>Margaret Lyons</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 22:14:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Ignorant Angels (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heartbreak High (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Acapulco (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/arts/20Watching-Angels/20Watching-Angels-moth.jpg" width="151"></media:content>
-      <media:credit>Hulu</media:credit>
-      <media:description>Luca Argentero, left, and Eduardo Scarpetta in a scene from “The Ignorant Angels.”</media:description>
+      <title>Generative A.I. Is Here. Who Should Control It?</title>
+      <link>https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html" rel="standout"></atom:link>
+      <description>Emad Mostaque, the founder of Stability AI, says his Stable Diffusion image generator is the key to unlocking creativity. His critics say it’s a potential threat.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Corey Schreppel, Dan Powell, Marion Lozano and Elisheba Ittoop</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Creativity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/podcasts/hard-fork-episode-2-art-copy-copy/hard-fork-promo-art-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>This Minnesota Race Will Show the Potency of Crime vs. Abortion</title>
+      <link>https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/us/politics/minnesota-ag-keith-ellison-jim-schultz.html" rel="standout"></atom:link>
+      <description>Keith Ellison, the state’s progressive attorney general, faces a Republican challenger who is looking to harness public unease since George Floyd’s murder.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Keith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schultz, Jim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20onpolitics-minnesota-1-319d/20onpolitics-minnesota-1-319d-moth.jpg" width="151"></media:content>
+      <media:credit>Glen Stubbe/Star Tribune, via Associated Press</media:credit>
+      <media:description>Attorney General Keith Ellison of Minnesota, right, and his Republican challenger, Jim Schultz, before a debate in St. Paul.</media:description>
     </item>
     <item>
       <title>Wagner Park, a Haven in Lower Manhattan, Could Soon Be Demolished </title>

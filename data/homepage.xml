@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 13:46:12 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 13:31:13 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 14:05:15 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 13:58:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,12 +79,13 @@
       <description>In cities and towns battered by the war, residents worry about how to heat their homes as temperatures drop. But even in places spared from the worst of the fighting, Russian strikes on infrastructure have raised new fears.</description>
       <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
       <pubDate>Fri, 21 Oct 2022 19:59:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yahidne (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00ukraine-heat-01-promo/00ukraine-heat-01-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
@@ -232,7 +233,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/22/world/asia/china-xi-jinping-congress.html" rel="standout"></atom:link>
       <description>A new lineup of the Communist Party elite will limit potential resistance to Mr. Xi’s agenda of bolstering security and expanding state sway over the economy.</description>
       <dc:creator>Chris Buckley and Keith Bradsher</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 12:51:39 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 13:58:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
@@ -423,24 +424,6 @@
       <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Wonking Out: Facts, Feelings and Rural Politics</title>
-      <link>https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html" rel="standout"></atom:link>
-      <description>What explains small-town America’s sense of rage?</description>
-      <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 18:02:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21krugman-newsletter-image/21krugman-newsletter-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times; photograph by Ed Freeman</media:credit>
-    </item>
-    <item>
       <title>Trauma Is the Best Comedy Material, but April 7 Was Not Funny</title>
       <link>https://www.nytimes.com/2022/10/21/opinion/israel-palestine-comedy-terror.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/israel-palestine-comedy-terror.html</guid>
@@ -457,6 +440,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21shuster-image2/21shuster-image2-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ariel Schalit/Associated Press</media:credit>
       <media:description>The scene of a shooting attack in Tel Aviv on April 7.</media:description>
+    </item>
+    <item>
+      <title>Wonking Out: Facts, Feelings and Rural Politics</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/rural-america-politics.html" rel="standout"></atom:link>
+      <description>What explains small-town America’s sense of rage?</description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 18:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21krugman-newsletter-image/21krugman-newsletter-image-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times; photograph by Ed Freeman</media:credit>
     </item>
     <item>
       <title>Notes on the Condition of Liberalism</title>

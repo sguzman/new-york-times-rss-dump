@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 20:18:56 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 19:52:13 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 20:36:17 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 20:26:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -276,6 +276,25 @@
       <media:description>Peggy Collson’s home on the island of Matlacha had survived previous hurricanes, but it was destroyed by floodwaters from Ian.</media:description>
     </item>
     <item>
+      <title>Hurricane Roslyn Strengthens to Category 4 and Heads Toward  Mexico</title>
+      <link>https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
+      <description>Roslyn became a Category 4 hurricane on Saturday. Forecasters warned it could bring coastal flooding and dangerous winds to cities along the Pacific Coast.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 19:31:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/multimedia/22xp-roslyn/22xp-roslyn-moth.jpg" width="151"></media:content>
+      <media:credit>NOAA</media:credit>
+      <media:description>Hurricane Roslyn approaching the coast of west-central Mexico.</media:description>
+    </item>
+    <item>
       <title>Pickleball Is Expanding. Tennis Is Mad.</title>
       <link>https://www.nytimes.com/2022/10/21/style/pickleball-tennis-courts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/style/pickleball-tennis-courts.html</guid>
@@ -414,10 +433,10 @@
       <dc:creator>Noam Shuster Eliassi</dc:creator>
       <pubDate>Sat, 22 Oct 2022 01:51:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21shuster-image2/21shuster-image2-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ariel Schalit/Associated Press</media:credit>
@@ -501,23 +520,24 @@
       <media:credit>Ethan Miller/Reuters</media:credit>
     </item>
     <item>
-      <title>Hurricane Roslyn Strengthens to Category 4 and Heads Toward  Mexico</title>
-      <link>https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
-      <description>Roslyn became a Category 4 hurricane on Saturday. Forecasters warned it could bring coastal flooding and dangerous winds to cities along the Pacific Coast.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 19:31:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/multimedia/22xp-roslyn/22xp-roslyn-moth.jpg" width="151"></media:content>
-      <media:credit>NOAA</media:credit>
-      <media:description>Hurricane Roslyn approaching the coast of west-central Mexico.</media:description>
+      <title>Some Palestinians Move Into Caves to Resist Israeli Expulsion</title>
+      <link>https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html" rel="standout"></atom:link>
+      <description>Israel’s Supreme Court has ordered the removal of about 1,200 Palestinians from their villages in the occupied West Bank. The United Nations says that could amount to a war crime.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 13:53:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/00westbank-caves-top-05/00westbank-caves-top-05-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
+      <media:description>Members of the Abu Sabha family in July inside a cave in Khirbet al-Fakheit, a village in the West Bank. The family’s home was destroyed three times, so they turned to the cave.</media:description>
     </item>
     <item>
       <title>NLCS: How the Phillies Decided to Travel Home Early</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 14:46:26 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 13:58:39 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 15:05:17 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 15:03:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -119,7 +119,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html" rel="standout"></atom:link>
       <description>Ukrainian officials confirmed missile strikes in at least half a dozen regions, and the country’s state energy company imposed restrictions in several areas.</description>
       <dc:creator>Michael Schwirtz and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 13:15:54 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 14:49:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/obituaries/22ukraine-ledeall-1/22ukraine-ledeall-1-moth.jpg" width="151"></media:content>
@@ -446,15 +446,13 @@
       <dc:creator>Andrew Higgins</dc:creator>
       <pubDate>Sat, 22 Oct 2022 01:58:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shoigu, Sergei K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latvia</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21ukraine-belarus1/21ukraine-belarus1-moth.jpg" width="151"></media:content>
       <media:credit>Emile Ducke for The New York Times</media:credit>
       <media:description>President Aleksandr G. Lukashenko of Belarus during a joint military exercise in Asipovichy, with Russian forces, a week before the invasion of Ukraine in February.</media:description>

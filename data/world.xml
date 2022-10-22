@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 09:51:05 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 09:46:10 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 10:05:27 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 10:05:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -56,6 +56,17 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22europe-trains-dispatch01/22europe-trains-dispatch01-moth.jpg" width="151"></media:content>
       <media:credit>Emile Ducke for The New York Times</media:credit>
       <media:description>At the railway station in Rumburk, Czech Republic, on the border with Germany. “We need to get more people on trains,” said Jon Worth, the self-appointed monitor of Europe’s railroad system.</media:description>
+    </item>
+    <item>
+      <title>Scenes From the Front Line</title>
+      <link>https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines</link>
+      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines</guid>
+      <atom:link href="https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines" rel="standout"></atom:link>
+      <description>The war in Ukraine has reached into every pocket of the country — from urban areas to the countryside, where soldiers monitor drones to pinpoint deadly attacks and civilians brace for destruction.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 09:52:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22ukraine-front-SFpromo/22ukraine-front-SFpromo-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
     <item>
       <title>China’s Leader, Xi Jinping, Elevates Loyalists in Party Elite </title>
@@ -161,7 +172,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/uk-rwanda-asylum-charter-airline.html" rel="standout"></atom:link>
       <description>Amid protests, Privilege Style said it would stop running the deportation flights as part of Britain’s highly criticized effort. The move has left the deal in further disarray.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 08:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 10:05:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
@@ -249,26 +260,6 @@
       <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
     </item>
     <item>
-      <title>Imran Khan, Pakistan’s Ex-Leader, Is Barred From Office</title>
-      <link>https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html" rel="standout"></atom:link>
-      <description>The decision by Pakistan’s election commission is a major escalation of the showdown between the ruling establishment and Mr. Khan, and it raises the specter of unrest.</description>
-      <dc:creator>Christina Goldbaum and Salman Masood</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 16:45:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21Pakistan-Khan-01/21Pakistan-Khan-01-moth.jpg" width="151"></media:content>
-      <media:credit>Waseem Khan/Reuters</media:credit>
-      <media:description>Former Prime Minister Imran Khan of Pakistan in September outside a court in Islamabad.</media:description>
-    </item>
-    <item>
       <title>Giorgia Meloni Gets Go-Ahead for New Italian Government</title>
       <link>https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html</guid>
@@ -311,6 +302,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2014/08/19/nyregion/21sweden-cameras-image2/21sweden-cameras-image2-moth-v2.jpg" width="151"></media:content>
       <media:credit>Alexander Mahmoud for The New York Times</media:credit>
       <media:description>Driving near Sävsjö, Sweden. There are 2,300 speed cameras across the country, and drivers who are caught speeding get a ticket in the mail.</media:description>
+    </item>
+    <item>
+      <title>Getting People Back on Trains, After the Pandemic Turned Many to Cars</title>
+      <link>https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html" rel="standout"></atom:link>
+      <description>While the federal government is committed to a multibillion-dollar improvement to train service, an already long schedule may face delays.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 10:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22CANADA-LETTER-TRAINS2/22CANADA-LETTER-TRAINS2-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Osorio/Reuters</media:credit>
+      <media:description>The federal government has said it is committed to a new passenger rail line through Ontario and Quebec.</media:description>
     </item>
     <item>
       <title>Zar Amir Ebrahimi, an Iranian Exile, Channels Trauma in ‘Holy Spider’</title>
@@ -432,6 +442,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21iran-prison-image2/21iran-prison-image2-moth.jpg" width="151"></media:content>
       <media:credit>Majid Asgaripour/Wana News Agency, via Reuters</media:credit>
       <media:description>The aftermath of the Oct. 15 fire in Evin Prison, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Imran Khan, Pakistan’s Ex-Leader, Is Barred From Office</title>
+      <link>https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html" rel="standout"></atom:link>
+      <description>The decision by Pakistan’s election commission is a major escalation of the showdown between the ruling establishment and Mr. Khan, and it raises the specter of unrest.</description>
+      <dc:creator>Christina Goldbaum and Salman Masood</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 16:45:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21Pakistan-Khan-01/21Pakistan-Khan-01-moth.jpg" width="151"></media:content>
+      <media:credit>Waseem Khan/Reuters</media:credit>
+      <media:description>Former Prime Minister Imran Khan of Pakistan in September outside a court in Islamabad.</media:description>
     </item>
     <item>
       <title>Security Forces Open Fire on Protesters in Chad, Killing at Least 50</title>
@@ -1091,44 +1121,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20taiwan-diplomacy-01/20taiwan-diplomacy-01-moth.jpg" width="151"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Taiwanese flags at Taiwan’s National Day celebrations in Taoyuan, Taiwan, this month.</media:description>
-    </item>
-    <item>
-      <title>Nyege Nyege, a Cutting-Edge Music Festival in Uganda, Keeps the Beat</title>
-      <link>https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html" rel="standout"></atom:link>
-      <description>Despite being called “immoral” by some politicians, this year’s Nyege Nyege festival celebrated diversity and innovation in contemporary African music.</description>
-      <dc:creator>Tom Faber</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 09:00:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nyege Nyege (Music Collective)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dilsizian, Arlen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Debru, Derek</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/arts/23nyege07/23nyege07-moth.jpg" width="151"></media:content>
-      <media:credit>Martin Kharumwa/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>DJ Kampire of Uganda is one of the Nyege Nyege collective’s biggest stars.</media:description>
-    </item>
-    <item>
-      <title>U.S. Sees Opportunity for Ukraine to Capitalize on Russian Weakness</title>
-      <link>https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html" rel="standout"></atom:link>
-      <description>The next six weeks, before fall mud spreads, could allow Ukraine’s military to press forward in the Donbas and potentially retake Kherson, American officials said. But Russia may not be deterred.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 14:00:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/politics/19dc-intel-1/merlin_214910700_3dd58aed-73a3-4a18-9a15-17c51410332b-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Military analysts say that Ukrainian forces have momentum on their side.</media:description>
     </item>
   </channel>
 </rss>

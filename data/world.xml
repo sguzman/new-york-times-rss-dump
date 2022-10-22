@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 19:24:02 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 18:54:25 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 19:35:42 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 19:33:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -296,6 +296,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/00europe-inflation01/merlin_207551574_915f0898-ae07-4b89-a215-b2467c10f25d-moth.jpg" width="151"></media:content>
       <media:credit>Alessandro Grassani for The New York Times</media:credit>
       <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Roslyn to Hit Mexico as a Major Storm</title>
+      <link>https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/americas/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
+      <description>Roslyn became a Category 4 hurricane on Saturday. Forecasters warned it could bring coastal flooding and dangerous winds to cities along the Pacific Coast.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 19:31:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/multimedia/22xp-roslyn/22xp-roslyn-moth.jpg" width="151"></media:content>
+      <media:credit>NOAA</media:credit>
+      <media:description>Hurricane Roslyn approaching the coast of west-central Mexico.</media:description>
     </item>
     <item>
       <title>Ian Hamilton, 97, Who Stole a Scottish Relic From Westminster Abbey, Dies</title>
@@ -1134,25 +1153,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20truss-explainer-03-1-9984/20truss-explainer-03-1-9984-moth.jpg" width="151"></media:content>
       <media:credit>Alberto Pezzali/Associated Press</media:credit>
       <media:description>Prime Minister Liz Truss of Britain announced on Thursday that she would resign, as her husband, Hugh O’Leary, looked on.</media:description>
-    </item>
-    <item>
-      <title>Shetland Cut Off From the World After Undersea Cable Breaks</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html" rel="standout"></atom:link>
-      <description>The remote archipelago became even more so with phone and internet service disrupted.</description>
-      <dc:creator>Derrick Bryson Taylor and Christine Chung</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 13:26:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shetland Islands (Scotland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BT Group PLC</category>
-      <category domain="">subsea cable</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Faroese Telecom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20xp-shetland-02-1-a736/20xp-shetland-02-1-a736-moth.jpg" width="151"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Lerwick, in the Shetland Islands. There are about 100 islands in Shetland, only 16 of which are inhabited. </media:description>
     </item>
   </channel>
 </rss>

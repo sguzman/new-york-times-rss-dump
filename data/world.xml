@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 07:24:13 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 07:19:37 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 07:47:21 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 07:43:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -317,6 +317,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21uk-johnson-promo/21uk-johnson-promo-moth.jpg" width="151"></media:content>
       <media:credit>Isabel Infantes/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Russian Strikes Hit Cities Across Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html" rel="standout"></atom:link>
+      <description>Ukraine’s military scrambled fighter jets, and people took shelter in basements.</description>
+      <dc:creator>Michael Schwirtz</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 07:43:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/obituaries/22ukraine-ledeall-1/22ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Damage from part of an intercepted Russian missile in the center of Zaporizhzia, Ukraine, this week.</media:description>
     </item>
     <item>
       <title>Russian Troops in Belarus Spur Debate Over the Threat to Ukraine</title>
@@ -1105,18 +1119,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-ledeall-TOPART/19ukraine-ledeall-TOPART-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Destroyed vehicles on Wednesday in Bakhmut, in Ukraine’s eastern Donetsk region, which has been under constant assault by Russian forces.</media:description>
-    </item>
-    <item>
-      <title>Your Thursday Briefing: Russia Declares Martial Law In Occupied Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html" rel="standout"></atom:link>
-      <description>Plus the British prime minister pushed to resign, China’s most powerful female politician to retire.</description>
-      <dc:creator>Lauren Hard</dc:creator>
-      <pubDate>Wed, 19 Oct 2022 22:04:18 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/20ambriefing-asia-nl-russia-OCT-PROMO/19ukraine-briefing-russia-martial-law-topart-1-f035-moth.jpg" width="151"></media:content>
-      <media:credit>Alexander Ermochenko/Reuters</media:credit>
-      <media:description>Carrying Ukrainian flags in a city administration building that was heavily damaged by shelling in the Donetsk region of Ukraine this week.</media:description>
     </item>
   </channel>
 </rss>

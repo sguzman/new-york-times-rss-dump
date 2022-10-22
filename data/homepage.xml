@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Oct 2022 23:44:58 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Oct 2022 23:44:33 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 01:26:19 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 01:18:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/21/us/lindsey-graham-subpoena-appeal.html" rel="standout"></atom:link>
       <description>Mr. Graham has been fighting a subpoena requiring him to appear before a special grand jury examining efforts to overturn former President Donald J. Trump’s election loss.</description>
       <dc:creator>Richard Fausset</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 22:58:22 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:59:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
@@ -73,6 +73,43 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/us/21graham-georgia-hfo/21graham-georgia-hfo-moth.jpg" width="151"></media:content>
       <media:credit>Sarahbeth Maney/The New York Times</media:credit>
       <media:description>Senator Lindsey Graham, Republican of South Carolina, has argued that the Constitution shields him from having to face a grand jury’s questions.</media:description>
+    </item>
+    <item>
+      <title>Appeals Court Temporarily Halts Biden’s Student Debt Cancellation</title>
+      <link>https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html" rel="standout"></atom:link>
+      <description>A federal appeals court on Friday temporarily halted President Biden’s student debt relief plan, preventing the government from moving forward with the debt cancellation it had said could start as early as next week.</description>
+      <dc:creator>Stacy Cowley and Alan Rappeport</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 01:07:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21studentdebt-1-9418/21studentdebt-1-9418-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Joe Biden speaking about student loan forgiveness at Delaware State University on Friday in Dover.</media:description>
+    </item>
+    <item>
+      <title>Russian Troops in Belarus Spur Debate Over the Threat to Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/ukraine-belarus-russian-troops.html" rel="standout"></atom:link>
+      <description>The United States and its allies are playing down the dangers posed by the deployment of thousands of Russian soldiers to Belarus, but the intelligence assessments come with a dose of uncertainty.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 22:35:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shoigu, Sergei K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latvia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21ukraine-belarus1/21ukraine-belarus1-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>President Aleksandr G. Lukashenko of Belarus during a joint military exercise in Asipovichy, with Russian forces, a week before the invasion of Ukraine in February.</media:description>
     </item>
     <item>
       <title>Ukrainians Brace for a Cold Winter Amid Russian Conflict</title>
@@ -92,74 +129,13 @@
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
     <item>
-      <title>Federal Budget Deficit Fell to $1.4 Trillion as Pandemic Spending Eased</title>
-      <link>https://www.nytimes.com/2022/10/21/us/politics/federal-budget-deficit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/politics/federal-budget-deficit.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/us/politics/federal-budget-deficit.html" rel="standout"></atom:link>
-      <description>The gap between what the government borrows and what it spends narrowed amid less spending and higher tax receipts.</description>
-      <dc:creator>Zolan Kanno-Youngs and Alan Rappeport</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 18:49:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/business/21dc-deficit-sub/21dc-deficit-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Biden said on Friday that the federal budget deficit fell to $1.4 trillion.</media:description>
-    </item>
-    <item>
-      <title>Here Are the 401(k) Contribution Limits for 2023</title>
-      <link>https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html" rel="standout"></atom:link>
-      <description>The I.R.S. announced one of its largest increases in decades to caps on retirement contributions, allowing workers with access to the plans to save more.</description>
-      <dc:creator>Lora Kelley</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 22:21:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">401(k), 403(b) and 457 Plans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Savings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/business/21401k-print/merlin_199720890_941c347e-1b04-41cf-845c-cf3595526d9f-moth.jpg" width="151"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>The Internal Revenue Service will raise the limit on what Americans can contribute to tax-advantaged retirement accounts next year by nearly 10 percent.</media:description>
-    </item>
-    <item>
-      <title>Relentless Rise in Interest Rates Looms Over Another Volatile Week for Markets</title>
-      <link>https://www.nytimes.com/2022/10/21/business/bonds-interest-rates-stocks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/bonds-interest-rates-stocks.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/business/bonds-interest-rates-stocks.html" rel="standout"></atom:link>
-      <description>The 10-year U.S. Treasury yield, which underpins everything from mortgages to credit cards, rose for a 12th consecutive week, matching the longest streak since 1984.</description>
-      <dc:creator>Joe Rennison and Isabella Simonetti</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 20:22:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/business/21stocks-promo-alt/21stocks-promo-alt-moth.png" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
       <title>Critics Say Katie Hobbs Has Run Too Subdued a Race Against Kari Lake</title>
       <link>https://www.nytimes.com/2022/10/21/us/az-governor-katie-hobbs-kari-lake.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/az-governor-katie-hobbs-kari-lake.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/us/az-governor-katie-hobbs-kari-lake.html" rel="standout"></atom:link>
       <description>In the final weeks of a tight contest, critics say the Democrat, Katie Hobbs, has been too subdued. Her Republican rival, Kari Lake, a former TV news anchor, is taking full advantage.</description>
       <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 23:13:45 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:55:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -192,38 +168,27 @@
       <media:description>Doug Mastriano with Jenna Ellis in May, after Mr. Mastriano won the Republican nomination for governor in Pennsylvania.</media:description>
     </item>
     <item>
-      <title>Appeals Court Temporarily Halts Biden’s Student Debt Relief Plan</title>
-      <link>https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/business/appeals-court-student-debt-relief-biden.html" rel="standout"></atom:link>
-      <description>A federal appeals court temporarily halted President Biden’s debt relief plan, preventing the government from moving forward with the debt cancellation it had said could start as early as next week.</description>
-      <dc:creator>Stacy Cowley</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 23:43:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21studentdebt-1-9418/21studentdebt-1-9418-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Joe Biden speaking about student loan forgiveness at Delaware State University on Friday in Dover.</media:description>
-    </item>
-    <item>
-      <title>Biden Says 22 Million Americans Have Applied for Student Loan Debt Relief</title>
-      <link>https://www.nytimes.com/2022/10/21/us/biden-student-loan-debt-relief.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/biden-student-loan-debt-relief.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/us/biden-student-loan-debt-relief.html" rel="standout"></atom:link>
-      <description>President Biden accused Republicans of hypocrisy for trying to block the debt forgiveness.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 23:39:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pell Grants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaware State University</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/us/politics/21dc-studentloans-vid/merlin_215245485_d1e0708e-61a7-4fbd-b272-994774b0f833-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Biden compared the student debt relief plan to the $2 trillion tax cuts that Republicans passed in 2017.</media:description>
+      <title>TikTok failed to stop most misleading political ads in a test run by researchers.</title>
+      <link>https://www.nytimes.com/2022/10/21/technology/tiktok-youtube-facebook-misinformation-ads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/technology/tiktok-youtube-facebook-misinformation-ads.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/technology/tiktok-youtube-facebook-misinformation-ads.html" rel="standout"></atom:link>
+      <description>YouTube and Facebook fared better in the experiment.</description>
+      <dc:creator>Tiffany Hsu</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 20:42:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/business/21online-ads-tiktok/21online-ads-tiktok-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Dwyer/Associated Press</media:credit>
+      <media:description>TikTok allowed election ads with misleading advertising on the site.</media:description>
     </item>
     <item>
       <title>She’s Inheriting Millions. She Wants Her Wealth Taxed Away.</title>
@@ -270,22 +235,19 @@
       <media:description>Twitter’s headquarters in San Francisco. For months, the company’s 7,500 employees have worried how Elon Musk may change the service.</media:description>
     </item>
     <item>
-      <title>Teenager to Plead Guilty in Michigan School Shooting</title>
-      <link>https://www.nytimes.com/2022/10/21/us/michigan-school-shooting-plea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/michigan-school-shooting-plea.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/us/michigan-school-shooting-plea.html" rel="standout"></atom:link>
-      <description>The student is expected to plead guilty on Monday. The attack at Oxford High School killed four students.</description>
-      <dc:creator>Stephanie Saul</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 22:13:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oxford Charter Township, Mich, Shooting (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crumbley, Ethan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crumbley, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crumbley, Jennifer</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21crumbley/merlin_198691650_7b548040-da13-4ca5-a244-adb27d491f8a-moth.jpg" width="151"></media:content>
-      <media:credit>Nick Hagen for The New York Times</media:credit>
-      <media:description>Students at a vigil in memory of the victims of the Oxford High School shooting.</media:description>
+      <title>New Questions Over Actions of State Police in Uvalde School Shooting</title>
+      <link>https://www.nytimes.com/2022/10/21/us/uvalde-police-response-dps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/us/uvalde-police-response-dps.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/us/uvalde-police-response-dps.html" rel="standout"></atom:link>
+      <description>The Department of Public Safety moved to fire a sergeant, and a captain is under investigation for his role in the response at Robb Elementary.</description>
+      <dc:creator>J. David Goodman</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 01:18:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uvalde, Tex, Shooting (May 24, 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uvalde (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robb Elementary School (Uvalde, Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/us/21uvalde-response-1/merlin_211890924_cb80a207-1c25-4070-b649-653fb6f8ea32-moth.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>Capt. Joel Betancourt’s actions are the subject of an internal investigation by the Texas Department of Public Safety into its own officers’ response to the May 24 school shooting in Uvalde, Texas.</media:description>
     </item>
     <item>
       <title>Lucy Simon, Singer and Broadway Composer, Dies at 82</title>
@@ -416,55 +378,23 @@
       <media:credit>Ver&amp;oacute;nica G. C&amp;aacute;rdenas for The New York Times</media:credit>
     </item>
     <item>
-      <title>What if We Let Majoritarian Democracy Take Root?</title>
-      <link>https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html" rel="standout"></atom:link>
-      <description>Majority rule is not perfect but rule by a narrow, reactionary minority is far worse.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:49:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21bouie-1/21bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Notes on the Condition of Liberalism</title>
-      <link>https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html" rel="standout"></atom:link>
-      <description>The prospects for our present order’s renewal — or collapse.</description>
-      <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:35:25 +0000</pubDate>
+      <title>Britain’s Troubles Are Teaching Us Something About Financial Markets</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/britain-pound-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/britain-pound-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/britain-pound-economy.html" rel="standout"></atom:link>
+      <description>They have enormous influence over governments.</description>
+      <dc:creator>Peter Coy</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 19:00:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21douthat-newsletter-image/21douthat-newsletter-image-moth.jpg" width="151"></media:content>
-      <media:credit>Alain Pilon</media:credit>
-    </item>
-    <item>
-      <title>Finally, a Great Movie About Cancel Culture</title>
-      <link>https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html" rel="standout"></atom:link>
-      <description>Why we need films like “Tár.”</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 18:20:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancel Culture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tar (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanchett, Cate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Field, Todd</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/opinion/21goldberg-image/21goldberg-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; photograph by Focus Features</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/opinion/21coy-image/21coy-image-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by The New York Times; images by CSA Images, via Getty Images</media:credit>
     </item>
     <item>
       <title>Liz Truss and the Ruination of Britain</title>
@@ -484,22 +414,55 @@
       <media:credit>Henry Nicholls/Reuters</media:credit>
     </item>
     <item>
-      <title>There’s Been a ‘Regime Change’ in How Democrats Think About Elections</title>
-      <link>https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/ezra-klein-podcast-matthew-yglesias.html" rel="standout"></atom:link>
-      <description>Matt Yglesias breaks down the polls and helps take stock of this wild midterm election year.</description>
-      <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 13:15:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <title>Finally, a Great Movie About Cancel Culture</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/tar-movie-cancel-culture.html" rel="standout"></atom:link>
+      <description>Why we need films like “Tár.”</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 18:20:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancel Culture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tar (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanchett, Cate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Field, Todd</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/opinion/21goldberg-image/21goldberg-image-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by The New York Times; photograph by Focus Features</media:credit>
+    </item>
+    <item>
+      <title>Notes on the Condition of Liberalism</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/condition-of-liberalism.html" rel="standout"></atom:link>
+      <description>The prospects for our present order’s renewal — or collapse.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 15:35:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21douthat-newsletter-image/21douthat-newsletter-image-moth.jpg" width="151"></media:content>
+      <media:credit>Alain Pilon</media:credit>
+    </item>
+    <item>
+      <title>What if We Let Majoritarian Democracy Take Root?</title>
+      <link>https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/opinion/minority-rule-majoritarian-democracy.html" rel="standout"></atom:link>
+      <description>Majority rule is not perfect but rule by a narrow, reactionary minority is far worse.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 15:49:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yglesias, Matthew</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21eks-yglesias-image/21eks-yglesias-image-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/opinion/21bouie-1/21bouie-1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
     </item>
     <item>
       <title>Your Friday Evening Briefing</title>
@@ -559,13 +522,31 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
     </item>
     <item>
+      <title>Here Are the 401(k) Contribution Limits for 2023</title>
+      <link>https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/business/401k-contribution-limits-2023.html" rel="standout"></atom:link>
+      <description>The I.R.S. announced one of its largest increases in decades to caps on retirement contributions, allowing workers with access to the plans to save more.</description>
+      <dc:creator>Lora Kelley</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 22:21:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">401(k), 403(b) and 457 Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Savings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/business/21401k-print/merlin_199720890_941c347e-1b04-41cf-845c-cf3595526d9f-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>The Internal Revenue Service will raise the limit on what Americans can contribute to tax-advantaged retirement accounts next year by nearly 10 percent.</media:description>
+    </item>
+    <item>
       <title>How a Prison Fire Unfolded in Iran</title>
       <link>https://www.nytimes.com/2022/10/21/world/middleeast/iran-prison-fire-protest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/middleeast/iran-prison-fire-protest.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/21/world/middleeast/iran-prison-fire-protest.html" rel="standout"></atom:link>
       <description>The cause of the fire last weekend remains unclear, but witnesses and families of prisoners say that the authorities had been bracing for unrest in the notorious Evin Prison in northern Tehran.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 22:28:09 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 00:12:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Evin Prison</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
@@ -577,6 +558,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21iran-prison-image2/21iran-prison-image2-moth.jpg" width="151"></media:content>
       <media:credit>Majid Asgaripour/Wana News Agency, via Reuters</media:credit>
       <media:description>The aftermath of the Oct. 15 fire in Evin Prison, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Why Japan Stands Virtually Alone in Keeping Interest Rates Ultralow</title>
+      <link>https://www.nytimes.com/2022/10/21/business/japan-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/business/japan-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/business/japan-interest-rates.html" rel="standout"></atom:link>
+      <description>The yen is plummeting and inflation is climbing, but Japan’s economic circumstances have led to a view that raising rates would do more harm than good.</description>
+      <dc:creator>Ben Dooley</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 23:05:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yen (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantitative Easing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kuroda, Haruhiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kishida, Fumio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/business/21JPjapan-economy-print/21japan-economy-1-moth.jpg" width="151"></media:content>
+      <media:credit>Noriko Hayashi for The New York Times</media:credit>
+      <media:description>Tokyo’s business district. Diverging economic circumstances in Japan and the United States have led to drastically different monetary policies.</media:description>
     </item>
     <item>
       <title>New York’s Gun Law, Already in Jeopardy, Is Dealt Another Blow</title>
@@ -597,49 +598,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/nyregion/21ny-gun-law/21ny-gun-law-moth.jpg" width="151"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>The Supreme Court left to lower courts many decisions about what areas could be declared off limits to firearms.</media:description>
-    </item>
-    <item>
-      <title>Cough Syrup: What We Know About Tainted Medicine from India</title>
-      <link>https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html" rel="standout"></atom:link>
-      <description>Tainted syrup from India may be connected to the deaths of dozens of children in Gambia, officials said. Indonesia banned cough syrup sales, though the link there is unclear.</description>
-      <dc:creator>Mike Ives</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 12:39:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethylene Glycol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haryana (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21xp-cough-syrup-01/21xp-cough-syrup-01-moth.jpg" width="151"></media:content>
-      <media:credit>Tatan Syuflana/Associated Press</media:credit>
-      <media:description>A notice at a pharmacy in Jakarta, Indonesia, on Thursday announcing that the sale of medicinal syrup had been halted. </media:description>
-    </item>
-    <item>
-      <title>Imran Khan, Pakistan’s Ex-Leader, Is Barred From Office</title>
-      <link>https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/pakistan-imran-khan.html" rel="standout"></atom:link>
-      <description>The decision by Pakistan’s election commission is a major escalation of the showdown between the ruling establishment and Mr. Khan, and it raises the specter of unrest.</description>
-      <dc:creator>Christina Goldbaum and Salman Masood</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 16:45:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21Pakistan-Khan-01/21Pakistan-Khan-01-moth.jpg" width="151"></media:content>
-      <media:credit>Waseem Khan/Reuters</media:credit>
-      <media:description>Former Prime Minister Imran Khan of Pakistan in September outside a court in Islamabad.</media:description>
     </item>
     <item>
       <title>Melatonin for Sleep: How the Aid Works</title>

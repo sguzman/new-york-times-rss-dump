@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Oct 2022 18:40:07 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Oct 2022 18:24:42 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2022 18:56:20 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2022 18:54:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/explain/2022/10/22/world/russia-ukraine-war-front-lines" rel="standout"></atom:link>
       <description>The war in Ukraine has reached into every pocket of the country — from urban areas to the countryside, where soldiers monitor drones to pinpoint deadly attacks and civilians brace for destruction.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 18:24:42 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2022 18:51:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22ukraine-front-SFpromo/22ukraine-front-SFpromo-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -231,14 +231,16 @@
       <description>Brazilian authorities granted the country’s elections chief broad power to order the takedown of online content in a bid to combat soaring misinformation ahead of this month’s election.</description>
       <dc:creator>Jack Nicas</dc:creator>
       <pubDate>Sat, 22 Oct 2022 02:39:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21brazil-elections/21brazil-elections-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Alexandre de Moraes, a Supreme Court justice in Brazil who leads the nation’s electoral court, will now have broad power to order tech companies to remove content.</media:description>

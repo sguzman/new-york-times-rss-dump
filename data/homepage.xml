@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 10:58:51 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 10:14:23 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 11:17:09 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 10:43:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -277,23 +277,6 @@
       <media:credit>Jingyu Lin for The New York Times</media:credit>
     </item>
     <item>
-      <title>Not-So-Great Britain’s Conservative Crackup</title>
-      <link>https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html" rel="standout"></atom:link>
-      <description>Was Liz Truss a cat’s paw for a Boris Johnson comeback?</description>
-      <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 18:14:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/opinion/22dowd-image/22dowd-image-moth.jpg" width="151"></media:content>
-      <media:credit>David Cliff/Associated Press</media:credit>
-    </item>
-    <item>
       <title>How Los Angeles Made Affordable Housing Maddeningly Unaffordable</title>
       <link>https://www.nytimes.com/2022/10/23/opinion/los-angeles-homelessness-affordable-housing.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/opinion/los-angeles-homelessness-affordable-housing.html</guid>
@@ -313,6 +296,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/opinion/23klein-1/23klein-1-moth.jpg" width="151"></media:content>
       <media:credit>Philip Cheung for The New York Times</media:credit>
       <media:description>Jeremiah Dean, near an encampment in the parking lot where the Venice Dell Community project may be built in Los Angeles. Mr. Dean is homeless and has been living in a tent in the parking lot for more than three months.</media:description>
+    </item>
+    <item>
+      <title>Not-So-Great Britain’s Conservative Crackup</title>
+      <link>https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/opinion/uk-conservative-boris-johnson-truss.html" rel="standout"></atom:link>
+      <description>Was Liz Truss a cat’s paw for a Boris Johnson comeback?</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 18:14:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/opinion/22dowd-image/22dowd-image-moth.jpg" width="151"></media:content>
+      <media:credit>David Cliff/Associated Press</media:credit>
     </item>
     <item>
       <title>The Three Blunders of Joe Biden</title>
@@ -413,20 +413,34 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
-      <title>Generative A.I. Is Here. Who Should Control It?</title>
-      <link>https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/podcasts/generative-ai-is-here-who-should-control-it.html" rel="standout"></atom:link>
-      <description>Emad Mostaque, the founder of Stability AI, says his Stable Diffusion image generator is the key to unlocking creativity. His critics say it’s a potential threat.</description>
-      <dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Corey Schreppel, Dan Powell, Marion Lozano and Elisheba Ittoop</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 20:57:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Creativity</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/podcasts/hard-fork-ep1-short-audio-app2/hard-fork-ep1-short-audio-app2-moth-v5.jpg" width="151"></media:content>
+      <title>Republicans’ Persistent 2020 Election Doubts</title>
+      <link>https://www.nytimes.com/2022/10/23/briefing/republicans-election-misinformation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/briefing/republicans-election-misinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/briefing/republicans-election-misinformation.html" rel="standout"></atom:link>
+      <description>Hundreds of Republicans running for offices this year have questioned the 2020 election.</description>
+      <dc:creator>Ashley Wu</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 10:43:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/multimedia/23themorning-republican-candidates-promo/23themorning-republican-candidates-moth.jpg" width="151"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Sunday Read: ‘How Yiyun Li Became a Beacon for Readers in Mourning’</title>
+      <link>https://www.nytimes.com/2022/10/23/podcasts/the-daily/the-sunday-read-how-yiyun-li-became-a-beacon-for-readers-in-mourning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/podcasts/the-daily/the-sunday-read-how-yiyun-li-became-a-beacon-for-readers-in-mourning.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/podcasts/the-daily/the-sunday-read-how-yiyun-li-became-a-beacon-for-readers-in-mourning.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Alexandra Kleeman, Jack D’Isidoro, Elisheba Ittoop, John Woo, Sophia Lanman and Devin Murphy</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 10:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li, Yiyun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily (Radio Program)</category>
     </item>
     <item>
       <title>The 2022 Midterms: Is Wisconsin the Future of America? </title>
@@ -447,29 +461,18 @@
       <media:credit>ilbusca/ Getty Images</media:credit>
     </item>
     <item>
-      <title>Facing Surgery? Here’s How to Prepare.</title>
-      <link>https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html" rel="standout"></atom:link>
-      <description>The best way to navigate a surgery recommendation is to ask a lot of questions.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 00:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Joan Wong; Photographs by Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Remembering Loretta Lynn</title>
-      <link>https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/arts/music/popcast-loretta-lynn.html" rel="standout"></atom:link>
-      <description>A conversation about the country music titan’s sly radicalism and the many readings and misreadings of her work.</description>
-      <pubDate>Thu, 20 Oct 2022 14:15:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynn, Loretta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20popcast-1-f651/20popcast-1-f651-moth.jpg" width="151"></media:content>
-      <media:credit>Ethan Miller/Reuters</media:credit>
+      <title>Vegetarian Snacks for Diwali and Beyond</title>
+      <link>https://www.nytimes.com/2022/10/20/dining/vegetarian-snacks-for-diwali-and-beyond.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/dining/vegetarian-snacks-for-diwali-and-beyond.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/dining/vegetarian-snacks-for-diwali-and-beyond.html" rel="standout"></atom:link>
+      <description>Sweets, extra-crispy samosas, nachos layered with chutney and more recipes.</description>
+      <dc:creator>Tejal Rao</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 17:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/dining/SSE-peanut-butter-fudge-rex-copy/SSE-peanut-butter-fudge-rex-moth.jpg" width="151"></media:content>
+      <media:credit>David Malosh for The New York Times. Food Stylist: Hadas Smirnoff.</media:credit>
     </item>
     <item>
       <title>Hassles of Cross-Border Trains Hamper EU’s Green Ambitions</title>

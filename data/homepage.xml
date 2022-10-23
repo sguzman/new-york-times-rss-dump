@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 20:48:20 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 20:47:00 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 21:00:33 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 20:57:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -220,7 +220,7 @@
       <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
     </item>
     <item>
-      <title>Trump’s Business, Under Threat, Faces a Tough Test in Court</title>
+      <title>Trump Organization’s Tax Fraud Trial to Begin on Monday</title>
       <link>https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html" rel="standout"></atom:link>
@@ -265,7 +265,6 @@
       <description>Flu cases are higher than usual for this time of year and are expected to soar in the coming weeks. A third virus, R.S.V., is straining pediatric hospitals in some states.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
       <pubDate>Sun, 23 Oct 2022 07:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
@@ -273,6 +272,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Syncytial Virus (RSV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/science/00virus-flu-01/00virus-flu-01-moth.jpg" width="151"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>A young girl receiving a Covid test at Esperanza Health Center in Chicago in September.</media:description>
@@ -346,12 +347,13 @@
       <description>In-person voting begins on Oct. 29.</description>
       <dc:creator>The Editorial Board</dc:creator>
       <pubDate>Sat, 22 Oct 2022 15:09:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/opinion/22hochulNew/22hochulNew-moth.jpg" width="151"></media:content>
       <media:credit>Jingyu Lin for The New York Times</media:credit>
     </item>

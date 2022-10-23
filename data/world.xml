@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 20:37:02 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 20:33:43 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 20:52:05 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 20:47:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,13 +34,13 @@
       <description>At the important Communist Party congress this week, the Chinese leader didn’t mention two long-repeated maxims. To many, it’s a warning of the turbulent times ahead.</description>
       <dc:creator>Chris Buckley</dc:creator>
       <pubDate>Sat, 22 Oct 2022 11:08:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22china-threats-01/22china-threats-01-moth.jpg" width="151"></media:content>
       <media:credit>Li Xueren/Xinhua, via Associated Press</media:credit>
       <media:description>China’s top leader, Xi Jinping, is expected to secure a precedent-defying third term at the end of the Communist Party congress. </media:description>
@@ -50,9 +50,9 @@
       <link>https://www.nytimes.com/2022/10/23/world/europe/uk-prime-minister-race-sunak-johnson.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/uk-prime-minister-race-sunak-johnson.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/uk-prime-minister-race-sunak-johnson.html" rel="standout"></atom:link>
-      <description>Pulling out of the race to succeed Liz Truss, the former prime minister left a clear path for Rishi Sunak, his former chancellor of the Exchequer, to become Britain’s next leader.</description>
+      <description>Pulling out of the race to succeed Liz Truss, the former prime minister may have helped clear a path for Rishi Sunak, his former chancellor of the Exchequer.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 20:33:43 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 20:44:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
@@ -271,6 +271,11 @@
       <pubDate>Sat, 22 Oct 2022 22:42:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/obituaries/22ukraine-ledeall-1/22ukraine-ledeall-1-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>Damage from part of an intercepted Russian missile in the center of Zaporizhzia, Ukraine, this week.</media:description>
@@ -478,15 +483,16 @@
       <atom:link href="https://www.nytimes.com/2022/10/22/world/middleeast/israel-palestinians-caves.html" rel="standout"></atom:link>
       <description>Israel’s Supreme Court has ordered the removal of about 1,200 Palestinians from their villages in the occupied West Bank. The United Nations says that could amount to a war crime.</description>
       <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 20:05:29 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 20:05:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/10/world/00westbank-caves-top-05/00westbank-caves-top-05-moth.jpg" width="151"></media:content>
       <media:credit>Samar Hazboun for The New York Times</media:credit>
       <media:description>Members of the Abu Sabha family in July in a cave in Khirbet al-Fakheit, a village in the West Bank. The family’s home was destroyed three times, so they turned to the cave.</media:description>
@@ -774,13 +780,13 @@
       <media:description>Chris Matheson, a member of Parliament with the Labour Party, resigned on Thursday.</media:description>
     </item>
     <item>
-      <title>Who Will the Next U.K. Prime Minister Be and How Will They Be Chosen?</title>
+      <title>How the Next British Prime Minister Will Be Chosen</title>
       <link>https://www.nytimes.com/article/prime-minister-britain-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/prime-minister-britain-uk.html</guid>
       <atom:link href="https://www.nytimes.com/article/prime-minister-britain-uk.html" rel="standout"></atom:link>
       <description>The process, which does not include the general public, will be swift, with plans to have a result by next week.</description>
       <dc:creator>Daniel Victor</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 15:18:19 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 20:47:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>

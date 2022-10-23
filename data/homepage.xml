@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 15:19:51 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 15:18:16 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 15:34:40 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 15:28:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -379,20 +379,10 @@
       <description>How the Biden White House has contributed to the Democratic Party’s midterm troubles.</description>
       <dc:creator>Ross Douthat</dc:creator>
       <pubDate>Sat, 22 Oct 2022 19:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Rescue Plan (2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Summers, Lawrence H</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/opinion/22douthat1/22douthat1-moth.jpg" width="151"></media:content>
       <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
     </item>
@@ -404,12 +394,14 @@
       <description>Was Liz Truss a cat’s paw for a Boris Johnson comeback?</description>
       <dc:creator>Maureen Dowd</dc:creator>
       <pubDate>Sat, 22 Oct 2022 18:14:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/opinion/22dowd-image/22dowd-image-moth.jpg" width="151"></media:content>
       <media:credit>David Cliff/Associated Press</media:credit>
     </item>

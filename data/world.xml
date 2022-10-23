@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 21:02:07 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 20:53:45 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 21:20:05 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 21:18:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -92,7 +92,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/23/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Pentagon said the U.S. defense secretary had rejected any pretext for Russian escalation in his call with Sergei K. Shoigu.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 20:28:21 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 21:18:49 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-promo-145pm/merlin_215332572_9325c9c4-be81-47c8-8604-b0af101f1dd0-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -145,7 +145,7 @@
       <atom:link href="https://www.nytimes.com/article/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
       <description>The storm brought coastal flooding and dangerous winds to the country’s Pacific Coast, killing at least two people, damaging buildings and knocking out power.</description>
       <dc:creator>Amanda Holpuch</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 19:49:29 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 21:04:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -165,15 +165,15 @@
       <description>Thousands of Ukrainian children have been transferred to Russia. “I didn’t want to go,” one girl told The New York Times from a foster home near Moscow.</description>
       <dc:creator>Emma Bubola</dc:creator>
       <pubDate>Sat, 22 Oct 2022 04:02:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/00Ukraine-Children01/merlin_203925159_28b0e2d9-3bf6-4ae8-a297-cc681caf2523-moth.jpg" width="151"></media:content>
       <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
       <media:description>A broken window at a hospital in March in Mariupol, Ukraine. Russian officials have made clear that their goal is to replace any childhood attachment to home with a love for Russia.</media:description>
@@ -308,6 +308,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24ambriefing-asia-nl-PROMO/merlin_214841076_e2e0a96d-297f-4336-bb23-b95f889428a8-moth.jpg" width="151"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>A display featuring Chinese President Xi Jinping at The Museum of the Communist Party in October.</media:description>
+    </item>
+    <item>
+      <title>More Ukrainian Officials Accuse Russia of Slowing Grain Shipments</title>
+      <link>https://www.nytimes.com/2022/10/23/world/europe/more-ukrainian-officials-accuse-russia-of-intentionally-slowing-grain-shipments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/more-ukrainian-officials-accuse-russia-of-intentionally-slowing-grain-shipments.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/more-ukrainian-officials-accuse-russia-of-intentionally-slowing-grain-shipments.html" rel="standout"></atom:link>
+      <description>A U.N.-brokered deal ended a five-month Russian blockade of Ukrainian ports and freed millions of tons of agricultural products for a 120-day period.</description>
+      <dc:creator>Carly Olson and James C. McKinley Jr.</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 21:15:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-grain/23ukraine-briefing-grain--moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>A cargo vessel filled with grain at Port Pivdennyi, Ukraine, in August.</media:description>
     </item>
     <item>
       <title>Ngo Vinh Long, Lightning Rod for Opposing the Vietnam War, Dies at 78</title>
@@ -1124,27 +1137,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-truss-allowance-01-1-d1e9/20uk-blog-truss-truss-allowance-01-1-d1e9-moth.jpg" width="151"></media:content>
       <media:credit>Henry Nicholls/Reuters</media:credit>
       <media:description>Prime Minister Liz Truss is eligible for the Public Duty Costs Allowance, a reimbursement of expenses incurred after she leaves office.</media:description>
-    </item>
-    <item>
-      <title>Russian Errors Prompted Deployment of Iranian Drone Personnel to Ukraine, U.S. Says</title>
-      <link>https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html" rel="standout"></atom:link>
-      <description>John Kirby, a National Security Council official, also warned that Russia may try to buy advanced missiles from Iran.</description>
-      <dc:creator>Julian E. Barnes and John Ismay</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 09:12:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/20ukraine-briefing-kirby-iran-drones/17russia-iran1-moth.jpg" width="151"></media:content>
-      <media:credit>Yasuyoshi Chiba/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A drone believed to be an Iranian Shahed-136, which explodes on impact, nearing a target in Kyiv, Ukraine, on Monday.</media:description>
     </item>
   </channel>
 </rss>

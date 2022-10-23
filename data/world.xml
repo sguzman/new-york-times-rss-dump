@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Oct 2022 13:17:57 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Oct 2022 12:53:54 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2022 13:43:07 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2022 13:41:50 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/22/world/china-xi-jinping-congress" rel="standout"></atom:link>
       <description>The men who were chosen have longstanding ties with Mr. Xi. For the first time in decades, no woman was chosen for the party’s Politburo, the policymaking body.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 12:16:09 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 13:31:11 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23china-xi-jinping-congress-header-4pm/merlin_215322810_b695b97e-5e27-4061-9df3-4852537986ad-moth.jpg" width="151"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>New members of the Politburo Standing Committee being introduced at the Great Hall of the People in Beijing, on Sunday.</media:description>
@@ -52,7 +52,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/uk-prime-minister-race-sunak-johnson.html" rel="standout"></atom:link>
       <description>Conservative Party lawmakers have so far put more weight behind Rishi Sunak to be their next leader, but Boris Johnson is still in the fight to reclaim Downing Street.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 12:53:54 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 13:40:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
@@ -67,13 +67,32 @@
       <media:description>Rishi Sunak in July at a Conservative Party event in Leeds, England.</media:description>
     </item>
     <item>
+      <title>‘We Heard It, We Saw It, Then We Opened Fire’</title>
+      <link>https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html" rel="standout"></atom:link>
+      <description>With an intense, hastily assembled effort, the Ukrainian military is pioneering successful techniques in the difficult art of anti-drone warfare.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 13:41:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-drones-photo1/23ukraine-drones-photo1-moth.jpg" width="151"></media:content>
+      <media:credit>Vadim Sarakhan/Reuters</media:credit>
+      <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
+    </item>
+    <item>
       <title>Frontline Fight Intensifies Even as Russia Targets Infrastructure</title>
       <link>https://www.nytimes.com/live/2022/10/23/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/23/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/23/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>With winter on the way, Russia and Ukraine are locked in heavy exchanges of fire all along the front in urgent attempts to make gains.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 12:18:40 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 13:36:08 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-header-1am/23ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A resident clearing debris from an apartment damaged by Russian bombardment in the city of Nikopol, Ukraine, on Friday.</media:description>
@@ -106,7 +125,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/russian-superyachts-find-safe-haven-in-turkey-raising-concerns-in-washington.html" rel="standout"></atom:link>
       <description>Turkey’s welcoming ports are symptoms of a much larger problem: evasion of U.S. sanctions against Russia.</description>
       <dc:creator>Elif Ince, Michael Forsythe and Carlotta Gall</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 10:14:23 +0000</pubDate>
+      <pubDate>Sun, 23 Oct 2022 13:38:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Imperial Yachts</category>
@@ -258,47 +277,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00-UK-RWANDA_1/00-UK-RWANDA_1-moth.jpg" width="151"></media:content>
       <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
       <media:description>Migrants who were picked up at sea while trying to cross the English Channel. Thousands of people have made that journey in small boats this year seeking asylum.</media:description>
-    </item>
-    <item>
-      <title>Brazilian Official Granted Power to Order Removal of Misinformation Online</title>
-      <link>https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html" rel="standout"></atom:link>
-      <description>Brazilian authorities granted the country’s elections chief broad power to order the takedown of online content in a bid to combat soaring misinformation ahead of this month’s election.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 02:39:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21brazil-elections/21brazil-elections-moth.jpg" width="151"></media:content>
-      <media:credit>Dado Galdieri for The New York Times</media:credit>
-      <media:description>Alexandre de Moraes, a Supreme Court justice in Brazil who leads the nation’s electoral court, will now have broad power to order tech companies to remove content.</media:description>
-    </item>
-    <item>
-      <title>‘We Heard It, We Saw It, Then We Opened Fire’</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html" rel="standout"></atom:link>
-      <description>With an intense, hastily assembled effort, the Ukrainian military is pioneering successful techniques in the difficult art of anti-drone warfare.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 12:19:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-drones-photo1/23ukraine-drones-photo1-moth.jpg" width="151"></media:content>
-      <media:credit>Vadim Sarakhan/Reuters</media:credit>
-      <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
     </item>
     <item>
       <title>Republicans’ Persistent 2020 Election Doubts</title>
@@ -766,6 +744,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00ukraine-heat-01-promo/00ukraine-heat-01-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Brazilian Official Granted Power to Order Removal of Misinformation Online</title>
+      <link>https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/americas/brazil-online-content-misinformation.html" rel="standout"></atom:link>
+      <description>Brazilian authorities granted the country’s elections chief broad power to order the takedown of online content in a bid to combat soaring misinformation ahead of this month’s election.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 02:39:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21brazil-elections/21brazil-elections-moth.jpg" width="151"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Alexandre de Moraes, a Supreme Court justice in Brazil who leads the nation’s electoral court, will now have broad power to order tech companies to remove content.</media:description>
     </item>
     <item>
       <title>Boris Johnson and Rishi Sunak Are Top Contenders for UK Prime Minister</title>

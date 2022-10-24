@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 18:09:56 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 18:08:49 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 18:30:15 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 18:26:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/us/politics/supreme-court-graham-thomas-testimony.html" rel="standout"></atom:link>
       <description>The justice’s order was an “administrative stay” that will almost certainly not be the Supreme Court’s last word on the matter.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 18:08:38 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 18:26:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
@@ -33,24 +33,34 @@
       <media:description>The decision temporarily shielded Senator Lindsey Graham from having to answer questions in front of a Georgia grand jury.</media:description>
     </item>
     <item>
-      <title>Rishi Sunak Becomes the Front Runner for U.K. Prime Minister</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html" rel="standout"></atom:link>
-      <description>Mr. Sunak’s warnings about inflation and his fiscal conservatism may have cost him the post in September. But now his accurate assessments are easing his path to Britain’s top job.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 13:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/business/23uk-sunak-1/23uk-sunak-1-moth.jpg" width="151"></media:content>
-      <media:credit>Hannah Mckay/Reuters</media:credit>
-      <media:description>Rishi Sunak at a Conservative Party event in London in August. </media:description>
+      <title>Their America Is Vanishing. Like Trump, They Insist They Were Cheated.</title>
+      <link>https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html" rel="standout"></atom:link>
+      <description>The white majority is fading, the economy is changing and there’s a pervasive sense of loss in districts where Republicans fought the outcome of the 2020 election.</description>
+      <dc:creator>Michael H. Keller and David D. Kirkpatrick</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 22:12:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Bend County (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, K P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffith, H Morgan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehls, Troy E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/00objectors-districts-promo/merlin_215132934_5bcd963d-62b9-4d81-ad7d-d60322ef1f90-moth.jpg" width="151"></media:content>
+      <media:credit>Annie Mulligan for The New York Times</media:credit>
+      <media:description>Downtown Richmond, Texas.</media:description>
     </item>
     <item>
       <title>Math Scores Fell in Nearly Every State, and Reading Dipped on National Exam</title>
@@ -135,36 +145,6 @@
       <media:description>New York has long had some of the nation’s strongest abortion protections.</media:description>
     </item>
     <item>
-      <title>Their America Is Vanishing. Like Trump, They Insist They Were Cheated.</title>
-      <link>https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html" rel="standout"></atom:link>
-      <description>The white majority is fading, the economy is changing and there’s a pervasive sense of loss in districts where Republicans fought the outcome of the 2020 election.</description>
-      <dc:creator>Michael H. Keller and David D. Kirkpatrick</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 22:12:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort Bend County (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, K P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffith, H Morgan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehls, Troy E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/00objectors-districts-promo/merlin_215132934_5bcd963d-62b9-4d81-ad7d-d60322ef1f90-moth.jpg" width="151"></media:content>
-      <media:credit>Annie Mulligan for The New York Times</media:credit>
-      <media:description>Downtown Richmond, Texas.</media:description>
-    </item>
-    <item>
       <title>Where Russians Retreated, Ukrainians Find Devastation</title>
       <link>https://www.nytimes.com/2022/10/24/world/europe/ukraine-devastation-russian-retreat.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/europe/ukraine-devastation-russian-retreat.html</guid>
@@ -193,6 +173,30 @@
       <media:description>Anton Krasovsky in St. Petersburg, Russia, in June. </media:description>
     </item>
     <item>
+      <title>Kanye West Tests Adidas and His Other Corporate Partners</title>
+      <link>https://www.nytimes.com/2022/10/24/arts/music/kanye-west-adidas-balenciaga-yeezy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/arts/music/kanye-west-adidas-balenciaga-yeezy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/arts/music/kanye-west-adidas-balenciaga-yeezy.html" rel="standout"></atom:link>
+      <description>The antisemitic outbursts and provocations by the artist now known as Ye have raised questions about how much offensive behavior companies are willing to tolerate from a proven moneymaker.</description>
+      <dc:creator>Ben Sisario, Vanessa Friedman, Jessica Testa and Ellen Barry</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 18:19:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">adidas AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Balenciaga (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anti-Defamation League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Def Jam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeezy (Fashion Label)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/arts/00kanye-lead1/00kanye-lead1-moth.jpg" width="151"></media:content>
+      <media:credit>Nina Westervelt for The New York Times</media:credit>
+      <media:description>Kanye West, now known as Ye, in New York last month. After several weeks of outbursts on social media and in interviews, several brands and designers have been distancing themselves from him.</media:description>
+    </item>
+    <item>
       <title>Why the Family of an NFL Player Is Suing a Real Housewives Star</title>
       <link>https://www.nytimes.com/2022/10/24/sports/football/nfl-osborne-girardi-real-housewives.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/sports/football/nfl-osborne-girardi-real-housewives.html</guid>
@@ -216,30 +220,13 @@
       <media:description>Photos of Chuck Osborne, who played football at the University of Arizona and in the N.F.L., are displayed in the home of his mother, Kathleen Bajgrowicz.</media:description>
     </item>
     <item>
-      <title>At Least 2 Killed in Shooting at St. Louis High School</title>
-      <link>https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html" rel="standout"></atom:link>
-      <description>At least seven others were injured in the shooting, at Central Visual and Performing Arts High School, the authorities said. The gunman died after exchanging gunfire with the police.</description>
-      <dc:creator>Johnny Diaz and Remy Tumin</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 17:28:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St. Louis Public Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St. Louis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24xp-stlouis-2-1-1e58-copy-dup/24xp-stlouis-2-1-1e58-moth.jpg" width="151"></media:content>
-      <media:credit>Jeff Roberson/Associated Press</media:credit>
-      <media:description>At least two people, an adult woman and a teenage girl, were killed when a gunman opened fired at Central Visual and Performing Arts High School in St. Louis on Monday, the police said.</media:description>
-    </item>
-    <item>
       <title>Hasidic School to Pay $8 Million After Admitting to Federal Fraud</title>
       <link>https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html" rel="standout"></atom:link>
       <description>The Central United Talmudical Academy, which operates the largest all-boys yeshiva in New York State, acknowledged illegally diverting money from federal food aid and other programs.</description>
       <dc:creator>Brian M. Rosenthal and Eliza Shapiro</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 16:55:09 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 18:19:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
@@ -250,6 +237,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/nyregion/24yeshiva-fraud2/24yeshiva-fraud2-moth.jpg" width="151"></media:content>
       <media:credit>Jonah Markowitz for The New York Times</media:credit>
       <media:description>The operators of the Central United Talmudical Academy in Brooklyn admitted in federal court to diverting government money in a wide-ranging fraud.</media:description>
+    </item>
+    <item>
+      <title>Will Aaron Judge Leave the Yankees as a Free Agent?</title>
+      <link>https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html" rel="standout"></atom:link>
+      <description>Judge’s 62 home runs were the talk of baseball, but he and his team fell apart in the A.L.C.S. The big question now: Will Judge leave as a free agent?</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 17:51:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boone, Aaron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cashman, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinbrenner, Hal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/23/sports/24mlb-yankees-obit-JUDGETOP/23yankees-astros-judge-9thinning-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Aaron Judge grounded out to end Game 4 of the American League Championship Series on Sunday and had to watch Ryan Pressly and the Houston Astros celebrate in Yankee Stadium.</media:description>
     </item>
     <item>
       <title>Madhur Jaffrey’s Undefinable Roles</title>
@@ -491,6 +497,23 @@
       <media:credit>Illustration by Joan Wong; Photographs by Getty Images</media:credit>
     </item>
     <item>
+      <title>At Least 2 Killed in Shooting at St. Louis High School</title>
+      <link>https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html" rel="standout"></atom:link>
+      <description>At least seven others were injured in the shooting, at Central Visual and Performing Arts High School, the authorities said. The gunman died after exchanging gunfire with the police.</description>
+      <dc:creator>Johnny Diaz and Remy Tumin</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 18:21:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St. Louis Public Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St. Louis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24xp-stlouis-2-1-1e58/24xp-stlouis-2-1-1e58-moth.jpg" width="151"></media:content>
+      <media:credit>Jeff Roberson/Associated Press</media:credit>
+      <media:description>At least two people, an adult woman and a teenage girl, were killed when a gunman opened fired at Central Visual and Performing Arts High School in St. Louis on Monday, the police said.</media:description>
+    </item>
+    <item>
       <title>Officer Pleads Guilty to Manslaughter in George Floyd’s Death</title>
       <link>https://www.nytimes.com/2022/10/24/us/george-floyd-officer-kueng-thao.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/george-floyd-officer-kueng-thao.html</guid>
@@ -511,25 +534,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24FLOYD1/24FLOYD1-moth.jpg" width="151"></media:content>
       <media:credit>David Joles/Star Tribune, via Associated Press</media:credit>
       <media:description>J. Alexander Kueng, left, arriving at court in St. Paul, Minn., in July.</media:description>
-    </item>
-    <item>
-      <title>Will Aaron Judge Leave the Yankees as a Free Agent?</title>
-      <link>https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/sports/baseball/aaron-judge-yankees.html" rel="standout"></atom:link>
-      <description>Judge’s 62 home runs were the talk of baseball, but he and his team fell apart in the A.L.C.S. The big question now: Will Judge leave as a free agent?</description>
-      <dc:creator>James Wagner</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 17:51:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boone, Aaron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cashman, Brian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Aaron (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinbrenner, Hal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/23/sports/24mlb-yankees-obit-JUDGETOP/23yankees-astros-judge-9thinning-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Aaron Judge grounded out to end Game 4 of the American League Championship Series on Sunday and had to watch Ryan Pressly and the Houston Astros celebrate in Yankee Stadium.</media:description>
     </item>
     <item>
       <title>Brazil’s Polls Were Wrong. Now the Right Wants to Criminalize Them.</title>

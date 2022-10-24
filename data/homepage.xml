@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 09:41:36 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 08:29:18 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 10:01:47 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 09:48:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -55,6 +55,53 @@
       <media:description>Not a single state was able to improve test scores for math.</media:description>
     </item>
     <item>
+      <title>Bring Back Competitive Admissions? Some NYC Middle Schools May Not.</title>
+      <link>https://www.nytimes.com/2022/10/24/nyregion/nyc-middle-school-admissions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/nyregion/nyc-middle-school-admissions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/nyregion/nyc-middle-school-admissions.html" rel="standout"></atom:link>
+      <description>After a pandemic moratorium, city leaders are letting school superintendents decide whether to bring back some admissions requirements that critics say feed racial disparities.</description>
+      <dc:creator>Troy Closson</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Banks, David C (1962- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23ny-school-admissions-1-6de6/23ny-school-admissions-1-6de6-moth.jpg" width="151"></media:content>
+      <media:credit>Brittainy Newman for The New York Times</media:credit>
+      <media:description>The New York City schools chancellor, David C. Banks, said he would allow middle schools to resume using selective admissions, but many may not.</media:description>
+    </item>
+    <item>
+      <title>In Tim Ryan’s Ohio Senate Race, the D Is Often Silent</title>
+      <link>https://www.nytimes.com/2022/10/24/us/politics/tim-ryan-ohio-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/politics/tim-ryan-ohio-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/politics/tim-ryan-ohio-senate.html" rel="standout"></atom:link>
+      <description>Mr. Ryan, the Ohio Democrat who is challenging J.D. Vance, has turned the state into perhaps the country’s unlikeliest Senate battleground.</description>
+      <dc:creator>Matt Flegenheimer</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, Timothy J (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Sherrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weingarten, Randi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Leadership Fund</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23pol-ryan-1-1b71/23pol-ryan-1-1b71-moth.jpg" width="151"></media:content>
+      <media:credit>Gaelen Morse for The New York Times</media:credit>
+      <media:description>Representative Tim Ryan is in contention in a state that Donald Trump twice carried by eight points and Democrats had effectively written off.</media:description>
+    </item>
+    <item>
       <title>Fears Over Fate of Democracy Leave Many Voters Frustrated and Resigned</title>
       <link>https://www.nytimes.com/2022/10/23/us/politics/voting-democracy-wisconsin-senate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/politics/voting-democracy-wisconsin-senate.html</guid>
@@ -86,90 +133,112 @@
       <media:description>Allyse Barba speaking with Mandela Barnes, the Democratic candidate for the Senate from Wisconsin, at an event in La Crosse. Ms. Barba does not believe voting will make a difference in Wisconsin.</media:description>
     </item>
     <item>
-      <title>Why Am I Seeing That Political Ad? Check Your ‘Trump Resistance’ Score.</title>
-      <link>https://www.nytimes.com/2022/10/23/technology/voter-targeting-trump-score.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/technology/voter-targeting-trump-score.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/technology/voter-targeting-trump-score.html" rel="standout"></atom:link>
-      <description>To help campaigns target ads, voter-profiling firms score millions of Americans on issues like guns, vaccines and QAnon.</description>
-      <dc:creator>Natasha Singer</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 09:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/business/20voter-score/20voter-score-moth.jpg" width="151"></media:content>
-      <media:credit>Tim Enthoven</media:credit>
-    </item>
-    <item>
-      <title>Pelosi and Sanders Press Democrats’ Case, and More News From the Sunday Talk Shows</title>
-      <link>https://www.nytimes.com/2022/10/23/us/politics/democrats-midterms-sanders-pelosi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/politics/democrats-midterms-sanders-pelosi.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/us/politics/democrats-midterms-sanders-pelosi.html" rel="standout"></atom:link>
-      <description>Democratic Party leaders turned toward inflation and the economy after a summer focus on abortion. Representative Nancy Mace, a Republican, said the G.O.P. would seek spending cuts.</description>
-      <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 19:18:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <title>Tom Brady and Ron DeSantis Are Said to Be on Texting Terms</title>
+      <link>https://www.nytimes.com/2022/10/24/us/politics/tom-brady-ron-desantis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/politics/tom-brady-ron-desantis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/politics/tom-brady-ron-desantis.html" rel="standout"></atom:link>
+      <description>The Republican nominee for Wisconsin governor, Tim Michels, told supporters recently that while DeSantis was watching a Packers game at Lambeau Field, he was texting the Buccaneers quarterback.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brady, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michels, Tim (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Bay Packers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lambeau Field</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mace, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuellar, Henry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hobbs, Kathleen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lake, Kari A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Michael S (1971- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23pol-sundayshows-1/23pol-sundayshows-1-moth.jpg" width="151"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Speaker Nancy Pelosi and Senator Bernie Sanders of Vermont emphasized Social Security and Medicare as important voter issues in the primary elections.</media:description>
-    </item>
-    <item>
-      <title>Zeldin Agrees to Debate Hochul This Week in N.Y. Governor’s Race</title>
-      <link>https://www.nytimes.com/2022/10/23/briefing/hochul-zeldin-debate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/briefing/hochul-zeldin-debate.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/briefing/hochul-zeldin-debate.html" rel="standout"></atom:link>
-      <description>Gov. Kathy Hochul and Representative Lee Zeldin will hold a single televised debate on Tuesday. Mr. Zeldin had long pushed for several debates.</description>
-      <dc:creator>Grace Ashford</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 22:31:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/us/23nydebate-briefing/merlin_210691578_cbc01d82-4480-4c11-a980-a7fee981e54f-moth.jpg" width="151"></media:content>
-      <media:credit>Jeenah Moon for The New York Times, Alyssa Schukar for The New York Times</media:credit>
-      <media:description>Gov. Kathy Hochul of New York, left, and Representative Lee Zeldin will hold a televised debate on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>For Trump’s Backers in Congress, ‘Devil Terms’ Help Rally Voters</title>
-      <link>https://www.nytimes.com/2022/10/22/us/politics/republican-election-objectors-rhetoric.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/us/politics/republican-election-objectors-rhetoric.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/us/politics/republican-election-objectors-rhetoric.html" rel="standout"></atom:link>
-      <description>In vilifying tweets and speeches, G.O.P. lawmakers who contested the election have far outpaced other Republicans and Democrats in fueling polarization.</description>
-      <dc:creator>Jennifer Valentino-DeVries and Steve Eder</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 16:13:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Mary E (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/00objectors-rhetoric-promo/00objectors-rhetoric-promo-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bundchen, Gisele</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24brady-desantis-1/24brady-desantis-1-moth.jpg" width="151"></media:content>
+      <media:credit>Julio Aguilar/Getty Images and Phelan M. Ebenhack/Associated Press</media:credit>
+      <media:description>Tim Michels, the Republican candidate for governor in Wisconsin, played host to Gov. Ron DeSantis of Florida at a recent Packers game. Mr. Michels said: “I say, ‘Who are you texting with?’ He says, ‘I’m texting with Tom Brady.’”</media:description>
+    </item>
+    <item>
+      <title>Lindsey Graham and the ‘Speech or Debate’ Clause, Explained</title>
+      <link>https://www.nytimes.com/2022/10/24/us/lindsey-graham-speech-debate-clause-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/lindsey-graham-speech-debate-clause-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/lindsey-graham-speech-debate-clause-supreme-court.html" rel="standout"></atom:link>
+      <description>The senator, seeking to avoid testifying in a Georgia inquiry into election interference, has appealed to the Supreme Court. But what exactly is the clause behind his argument?</description>
+      <dc:creator>Eliza Fawcett</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 07:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/us/22graham-clause/21graham-georgia-hfo-moth.jpg" width="151"></media:content>
+      <media:credit>Sarahbeth Maney/The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham, Republican of South Carolina, has argued that the Constitution shields him from having to face a grand jury’s questions.</media:description>
+    </item>
+    <item>
+      <title>Their America Is Vanishing. Like Trump, They Insist They Were Cheated.</title>
+      <link>https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/us/politics/republican-election-objectors-demographics.html" rel="standout"></atom:link>
+      <description>The white majority is fading, the economy is changing and there’s a pervasive sense of loss in districts where Republicans fought the outcome of the 2020 election.</description>
+      <dc:creator>Michael H. Keller and David D. Kirkpatrick</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 22:12:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, K P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffith, H Morgan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehls, Troy E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/00objectors-districts-promo/merlin_215132934_5bcd963d-62b9-4d81-ad7d-d60322ef1f90-moth.jpg" width="151"></media:content>
+      <media:credit>Annie Mulligan for The New York Times</media:credit>
+      <media:description>Downtown Richmond, Texas.</media:description>
+    </item>
+    <item>
+      <title>The One Where Matthew Perry Writes an Addiction Memoir</title>
+      <link>https://www.nytimes.com/2022/10/23/arts/television/matthew-perry-friends-lovers-and-the-big-terrible-thing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/arts/television/matthew-perry-friends-lovers-and-the-big-terrible-thing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/arts/television/matthew-perry-friends-lovers-and-the-big-terrible-thing.html" rel="standout"></atom:link>
+      <description>In “Friends, Lovers and the Big Terrible Thing,” the actor gets serious about sobriety, mortality, colostomy bags and pickleball.</description>
+      <dc:creator>Elisabeth Egan</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perry, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Friends, Lovers, and the Big Terrible Thing (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Friends (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/07/books/00MATTHEWPERRY1/00MATTHEWPERRY1-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Groskopf for The New York Times</media:credit>
+      <media:description>By the time he was 49, Matthew Perry writes in his new book, he had spent more than half of his life in treatment centers or sober living facilities.</media:description>
+    </item>
+    <item>
+      <title>A Lonely Protest in Beijing Inspires Young Chinese to Find Their Voice</title>
+      <link>https://www.nytimes.com/2022/10/24/business/xi-jinping-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/business/xi-jinping-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/business/xi-jinping-protests.html" rel="standout"></atom:link>
+      <description>As beginner dissenters, they’re timid and scared. But they are experiencing a quiet political awakening, unhappy about censorship, repression and “zero Covid.”</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/24Newworld/24Newworld-moth.jpg" width="151"></media:content>
     </item>
     <item>
       <title>Xi Jinping Now Holds Near-Absolute Power in China, Creating Risks</title>
@@ -199,9 +268,9 @@
       <link>https://www.nytimes.com/2022/10/23/business/china-gdp-economy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/business/china-gdp-economy.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/23/business/china-gdp-economy.html" rel="standout"></atom:link>
-      <description>China said its output was up 3.9 percent from July through September, better than in the spring but still far short of Beijing’s target for the year.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 03:12:48 +0000</pubDate>
+      <description>China said its economy grew 3.9 percent in the third quarter. But investors unnerved by Xi Jinping’s power grab — and his state-heavy agenda — sent Chinese shares tumbling.</description>
+      <dc:creator>Keith Bradsher and Alexandra Stevenson</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:48:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
@@ -211,42 +280,24 @@
       <media:description>A Beijing vegetable market last month. China on Monday reported a modest rebound in economic activity for the quarter ending in September.</media:description>
     </item>
     <item>
-      <title>How Ukraine’s Army is Pioneering Anti-Drone Warfare</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html" rel="standout"></atom:link>
-      <description>With an intense, hastily assembled effort, the Ukrainian military is pioneering successful techniques in the difficult art of anti-drone warfare.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 03:47:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-drones-photo1/23ukraine-drones-photo1-moth.jpg" width="151"></media:content>
-      <media:credit>Vadim Sarakhan/Reuters</media:credit>
-      <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
-    </item>
-    <item>
-      <title>Trump Organization’s Tax Fraud Trial to Begin on Monday</title>
-      <link>https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html" rel="standout"></atom:link>
-      <description>The Trump Organization’s trial on tax fraud and other charges begins Monday in Manhattan, raising questions about the future of the former president’s family business.</description>
-      <dc:creator>Ben Protess, William K. Rashbaum and Jonah E. Bromwich</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 21:08:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/nyregion/24trumptrial1/24trumptrial1-moth.jpg" width="151"></media:content>
-      <media:credit>Emil Lippe for The New York Times</media:credit>
-      <media:description>Jury selection in the trial of former president Donald J. Trump’s family begins on Monday.</media:description>
+      <title>Cultural Bereavement: Naming the Grief Refugees May Feel</title>
+      <link>https://www.nytimes.com/2022/10/22/well/family/bereavement-culture-refugee-immigrant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/well/family/bereavement-culture-refugee-immigrant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/well/family/bereavement-culture-refugee-immigrant.html" rel="standout"></atom:link>
+      <description>There is a name for the specific type of grief that both refugees and migrants experience. It’s called “cultural bereavement.”</description>
+      <dc:creator>Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 09:00:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/well/06WELL-CULTURAL-BEREAVEMENT3/06WELL-CULTURAL-BEREAVEMENT3-moth.jpg" width="151"></media:content>
+      <media:credit>Theo Stroomer for The New York Times</media:credit>
+      <media:description>Tamara Plieshkova reunited with her granddaughter in Colorado after escaping the war in Ukraine in September.</media:description>
     </item>
     <item>
       <title>ALCS: Yankees Season Ends as Astros Head to World Series</title>
@@ -269,100 +320,25 @@
       <media:description>The Houston Astros are the third team to sweep a division series and a league championship series in the same season. The others were the 2014 Kansas City Royal and the 2007 Colorado Rockies.</media:description>
     </item>
     <item>
-      <title>NLCS: Bryce Harper Leads Phillies to World Series</title>
-      <link>https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series.html" rel="standout"></atom:link>
-      <description>Harper’s two-run homer in the bottom of the eighth inning erased a one-run deficit and put Philadelphia back in the Fall Classic for the first time since 2009.</description>
-      <dc:creator>Scott Miller</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 05:02:10 +0000</pubDate>
+      <title>NLCS: Bryce Harper Is Building His Legacy With Phillies</title>
+      <link>https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html" rel="standout"></atom:link>
+      <description>Harper’s two-run home run in the eighth inning gave this city something few expected: the 2022 N.L. pennant.</description>
+      <dc:creator>Tyler Kepner</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 05:15:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizens Bank Park (Philadelphia, Pa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia Phillies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Padres</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheeler, Zack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23mlb-nlcs-g5-harpersub-1-b281/23mlb-nlcs-g5-harpersub-1-b281-moth.jpg" width="151"></media:content>
-      <media:credit>Eric Hartline/USA Today Sports, via Reuters</media:credit>
-      <media:description>Bryce Harper’s two-run home run in the eighth inning put Philadelphia ahead to stay in Game 5 of the National League Championship Series on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Ralph Fiennes Is Playing Robert Moses in ‘Straight Line Crazy’</title>
-      <link>https://www.nytimes.com/2022/10/22/style/ralph-fiennes-robert-moses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/style/ralph-fiennes-robert-moses.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/style/ralph-fiennes-robert-moses.html" rel="standout"></atom:link>
-      <description>He’s playing New York’s own Caesar, Robert Moses, in a stage production at the Shed.</description>
-      <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiennes, Ralph</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Straight Line Crazy (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shed (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moses, Robert</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/fashion/22FIENNES-6/merlin_215065242_87d162b7-a43b-45d3-8364-3ad1a477c47f-moth.jpg" width="151"></media:content>
-      <media:credit>Erik Tanner for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A ‘Tripledemic’? Flu and Other Infections Return as Covid Cases Rise</title>
-      <link>https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html" rel="standout"></atom:link>
-      <description>Flu cases are higher than usual for this time of year and are expected to soar in the coming weeks. A third virus, R.S.V., is straining pediatric hospitals in some states.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 07:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Syncytial Virus (RSV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/science/00virus-flu-01/00virus-flu-01-moth.jpg" width="151"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>A young girl receiving a Covid test at Esperanza Health Center in Chicago in September.</media:description>
-    </item>
-    <item>
-      <title>Building Your Personal Brand Has Its Drawbacks. Burnout, for One.</title>
-      <link>https://www.nytimes.com/2022/10/20/business/influencer-burn-out-jobs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/business/influencer-burn-out-jobs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/business/influencer-burn-out-jobs.html" rel="standout"></atom:link>
-      <description>Younger workers embraced the idea of a personal brand as a way to get ahead, and carve out some power and security in their careers. But posting through it has its drawbacks.</description>
-      <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 19:35:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/business/23personal-branding-illo-print/23personal-branding-illo-print-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Eddie Guy</media:credit>
-    </item>
-    <item>
-      <title>The New York State Sheep and Wool Festival Draws Younger Fans</title>
-      <link>https://www.nytimes.com/2022/10/22/style/ny-sheep-wool-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/style/ny-sheep-wool-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/style/ny-sheep-wool-festival.html" rel="standout"></atom:link>
-      <description>The New York State Sheep and Wool Festival, long home to 4-H clubs and livestock hawkers, is drawing new attendees.</description>
-      <dc:creator>Rose Adams</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 13:50:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Knitting and Knit Goods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wool and Woolen Goods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handicrafts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhinebeck (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/fashion/22WOOL-FEST-STYLE-1/22WOOL-FEST-STYLE-1-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Inhea Kang for The New York Times</media:credit>
-      <media:description>Sabrina Brokenborough wore head-to-ankle avant-garde knitwear of her own design to the New York State Sheep and Wool Festival.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamels, Cole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomson, Rob (1963- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23kepner-harper-1-680a/23kepner-harper-1-680a-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Tim Nwachukwu/Getty Images</media:credit>
+      <media:description>Bryce Harper was a phenom as a teenager, and signed a $330 million deal with Philadelphia in 2019. He is delivering on all expectations.</media:description>
     </item>
     <item>
       <title>The Way Los Angeles Is Trying to Solve Homelessness Is ‘Absolutely Insane’</title>
@@ -571,91 +547,89 @@
       <media:credit>Getty Images </media:credit>
     </item>
     <item>
-      <title>Blunder in Affirmative Action Case May Cost Harvard $15 Million</title>
-      <link>https://www.nytimes.com/2022/10/23/us/harvard-affirmative-action-litigation-cost.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/us/harvard-affirmative-action-litigation-cost.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/us/harvard-affirmative-action-litigation-cost.html" rel="standout"></atom:link>
-      <description>A missed insurance notice opened a window onto the cost of litigating challenges to race-conscious admissions programs to be heard this month by the Supreme Court.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Sun, 23 Oct 2022 07:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affirmative Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Students for Fair Admissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blum, Edward J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zurich American Insurance</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/politics/00dc-harvard/merlin_203942787_b8707f03-6b7c-4056-905d-3d4d3aaa1c2d-moth.jpg" width="151"></media:content>
-      <media:credit>Kayana Szymczak for The New York Times</media:credit>
-      <media:description>The Supreme Court will hear arguments in the affirmative action case involving Harvard on Oct. 31.</media:description>
+      <title>Trump Organization’s Tax Fraud Trial to Begin on Monday</title>
+      <link>https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/nyregion/donald-trump-organization-fraud-trial.html" rel="standout"></atom:link>
+      <description>The Trump Organization’s trial on tax fraud and other charges begins Monday in Manhattan, raising questions about the future of the former president’s family business.</description>
+      <dc:creator>Ben Protess, William K. Rashbaum and Jonah E. Bromwich</dc:creator>
+      <pubDate>Sun, 23 Oct 2022 21:08:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/nyregion/24trumptrial1/24trumptrial1-moth.jpg" width="151"></media:content>
+      <media:credit>Emil Lippe for The New York Times</media:credit>
+      <media:description>Jury selection in the trial of former president Donald J. Trump’s family begins on Monday.</media:description>
     </item>
     <item>
-      <title>Roslyn Moves Inland and Breaks Up After Lashing Mexican Coast</title>
-      <link>https://www.nytimes.com/article/hurricane-roslyn-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/hurricane-roslyn-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/article/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
-      <description>The storm, which made landfall as a Category 3 hurricane, brought coastal flooding and dangerous winds to the country’s Pacific Coast, killing at least two people.</description>
-      <dc:creator>Amanda Holpuch</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 08:29:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nayarit (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zacatecas (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jalisco (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/22/multimedia/22xp-roslyn-1/22xp-roslyn-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alfredo Estrella/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Hurricane Roslyn flooded streets in Puerto Vallarta, in Jalisco State in Mexico, on Sunday.</media:description>
+      <title>What to Know About Harvey Weinstein’s Los Angeles Trial</title>
+      <link>https://www.nytimes.com/2022/10/24/us/harvey-weinstein-trial-los-angeles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/harvey-weinstein-trial-los-angeles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/harvey-weinstein-trial-los-angeles.html" rel="standout"></atom:link>
+      <description>The former Hollywood producer was convicted in New York in 2020 of rape and criminal sexual assault. He faces 11 separate charges in Los Angeles.</description>
+      <dc:creator>Livia Albeck-Ripka and Lauren Herstik</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Jennifer Siebel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Young, Lauren</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Miriam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beverly Hills (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hollywood (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/us/24weintstein-trial/24weintstein-trial-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Etienne Laurent/Getty Image</media:credit>
+      <media:description>Former film producer Harvey Weinstein appears in court at the Clara Shortridge Foltz Criminal Justice Center on October 4, 2022 in Los Angeles, California.</media:description>
     </item>
     <item>
-      <title>Getting People Back on Trains, After the Pandemic Turned Many to Cars</title>
-      <link>https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/canada/passenger-trains-construction-pandemic.html" rel="standout"></atom:link>
-      <description>While the federal government is committed to a multibillion-dollar improvement to train service, an already long schedule may face delays.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 10:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22CANADA-LETTER-TRAINS2/22CANADA-LETTER-TRAINS2-moth.jpg" width="151"></media:content>
-      <media:credit>Carlos Osorio/Reuters</media:credit>
-      <media:description>The federal government has said it is committed to a new passenger rail line through Ontario and Quebec.</media:description>
+      <title>Starbucks Showdown in Boston Points to New Phase of Union Campaign</title>
+      <link>https://www.nytimes.com/2022/10/24/business/economy/starbucks-union-campaign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/business/economy/starbucks-union-campaign.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/business/economy/starbucks-union-campaign.html" rel="standout"></atom:link>
+      <description>The company moved to contain the labor push after it took off nationally. Now, with strikes and other tactics, organizers seek to regain momentum.</description>
+      <dc:creator>Noam Scheiber</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coffeehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Workers United</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Workers United</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/24JPstarbucks-union-print/00starbucks-union01-moth.jpg" width="151"></media:content>
+      <media:credit> M. Scott Brauer/Bloomberg</media:credit>
+      <media:description>Workers at a Starbucks in Boston were on strike for more than two months this summer.</media:description>
     </item>
     <item>
-      <title>Sex Discrimination Case in Hawaii Could Change High School Sports Across the U.S.</title>
-      <link>https://www.nytimes.com/2022/10/22/sports/title-ix-lawsuit-hawaii.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/sports/title-ix-lawsuit-hawaii.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/sports/title-ix-lawsuit-hawaii.html" rel="standout"></atom:link>
-      <description>It is rare for Title IX cases to go to trial. In Hawaii, a looming case could be a landmark stress test for the 50-year-old law.</description>
-      <dc:creator>David W. Chen</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 21:29:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interscholastic Athletics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Title IX (Gender Discrimination Legislation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mink, Patsy T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honolulu (Hawaii)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/sports/00titleix-hawaii-Badis1/00titleix-hawaii-Badis1-moth.jpg" width="151"></media:content>
-      <media:credit>Marie Eriel Hobro for The New York Times</media:credit>
-      <media:description>Ashley Badis played water polo at James Campbell High School, but her team’s season was jeopardized because the school didn’t hire a coach. Her dad stepped in.</media:description>
+      <title>U.S. Executives Are Flocking to Saudi Davos in the Desert</title>
+      <link>https://www.nytimes.com/2022/10/24/world/middleeast/saudi-davos-in-desert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/middleeast/saudi-davos-in-desert.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/world/middleeast/saudi-davos-in-desert.html" rel="standout"></atom:link>
+      <description>Some top American business leaders are headed to the Saudi business conference. But Biden administration officials, angry over the kingdom’s stance on oil production and ties with Russia, are staying away.</description>
+      <dc:creator>Kate Kelly</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 09:22:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23saudi-us01sub/23saudi-us01sub-moth.jpg" width="151"></media:content>
+      <media:credit>Tasneem Alsultan for The New York Times</media:credit>
+      <media:description>Guests arriving in 2019 for the Future Investment Initiative conference, nicknamed “Davos in the Desert,” in the Saudi capital, Riyadh.</media:description>
     </item>
     <item>
       <title>Work Burnout: How to Spot Symptoms and What to Do</title>

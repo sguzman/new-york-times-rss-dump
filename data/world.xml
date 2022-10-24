@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 23:05:42 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 23:02:11 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 23:23:07 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 23:22:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/rishi-sunak-uk-prime-minister.html" rel="standout"></atom:link>
       <description>After a period of chaos, Mr. Sunak, a Conservative, faces serious political and economic headwinds. He will be the first person of color and first Hindu to be prime minister.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 22:00:16 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 23:14:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mordaunt, Penny</category>
@@ -35,15 +35,21 @@
       <media:description>Rishi Sunak, center, outside Conservative Party&#39; headquarters in London on Monday.</media:description>
     </item>
     <item>
-      <title>Ukraine Says Russian Troops Will Fight for Key City as Proxy Government Flees</title>
-      <link>https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news" rel="standout"></atom:link>
-      <description>There were growing signs that the occupation government in the southern city of Kherson was preparing the city for fighting ahead of a possible Ukrainian counteroffensive.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 23:01:06 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ukraine-briefing-promo-1200pm/24ukraine-briefing-promo-1200pm-moth.jpg" width="151"></media:content>
+      <title>Russian Officials Flee Kherson as Russian Troops Dig in for a Battle</title>
+      <link>https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html" rel="standout"></atom:link>
+      <description>In Kherson, the first Ukrainian city to fall after the Russian invasion, occupation forces appear to be preparing to fight advancing Ukrainian troops.</description>
+      <dc:creator>Marc Santora and Eric Nagourney</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 23:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ukraine-ledeall-1/merlin_215397543_e450d5e4-3313-4e74-a5ae-a5788440ea0a-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>In a heavily shelled schoolyard, Ukrainian troops searched for explosives and booby traps, in the Kherson region on Monday.</media:description>
     </item>
     <item>
       <title>Where Russians Retreated, Ukrainians Find Devastation</title>
@@ -60,6 +66,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kupiansk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+    </item>
+    <item>
+      <title>Rishi Sunak’s Ascent Is a Breakthrough for Diversity, With Privilege</title>
+      <link>https://www.nytimes.com/2022/10/24/world/europe/uk-rishi-sunak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/europe/uk-rishi-sunak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/uk-rishi-sunak.html" rel="standout"></atom:link>
+      <description>Rishi Sunak’s ascent to the prime minister’s office is a significant milestone for Britain’s Indian diaspora. But for many, his immense personal wealth has made him less relatable.</description>
+      <dc:creator>Megan Specia and Isabella Kwai</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 23:22:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24uk-sunak-1/24uk-sunak-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Celebrating Diwali in northwest London on Monday. As many as 1.5 million people of Indian descent live in England and Wales, making them the largest ethnic group after white Britons.</media:description>
     </item>
     <item>
       <title>Venezuelan Migrants Stranded After US Border Policy Change</title>
@@ -82,18 +109,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24venezuela-border/24venezuela-border-moth.jpg" width="151"></media:content>
       <media:credit>Alejandro Cegarra for The New York Times</media:credit>
       <media:description>Venezuelan migrants on a hill near the border with United States in Ciudad Juárez, Mexico. The United States has started turning back many Venezuelans reaching the border. </media:description>
-    </item>
-    <item>
-      <title>Rishi Sunak Will Become the U.K.’s Next Prime Minister on Tuesday</title>
-      <link>https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister" rel="standout"></atom:link>
-      <description>The former chancellor of the Exchequer is set to become the first person of color to lead Britain. He will face a range of dire economic challenges and promised to bring his “party and country together.”</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 22:53:01 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24uk-politics-header2-10am-1-b46d/24uk-politics-header2-10am-1-b46d-moth.jpg" width="151"></media:content>
-      <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
-      <media:description>Rishi Sunak, center, with members of the 1922 committee in Parliament on Monday after he was announced as the Conservative Party’s new leader.</media:description>
     </item>
     <item>
       <title>Brazil’s Polls Were Wrong. Now the Right Wants to Criminalize Them.</title>
@@ -138,20 +153,6 @@
       <media:description>A demonstration in Addis Ababa in support of the Ethiopia armed forces this past weekend.</media:description>
     </item>
     <item>
-      <title>For Ukrainian Runners, a Brutal Race Made Sense When Little Else Did</title>
-      <link>https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html" rel="standout"></atom:link>
-      <description>Backyard ultramarathons are grueling, hourslong races. The international team competition, held on Oct. 15, included runners from dozens of nations racing on their home turf, including Ukraine.</description>
-      <dc:creator>Jared Beasley</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 17:44:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultramarathon Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/sports/22backyard-ultra-1/22backyard-ultra-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alexey Furman for The New York Times</media:credit>
-      <media:description>Runners on the Ukrainian team competing in the Backyard Ultra Satellite Team Championships.</media:description>
-    </item>
-    <item>
       <title>South African Leader Unveils Anticorruption Plans, but Doubts Follow</title>
       <link>https://www.nytimes.com/2022/10/24/world/africa/south-africa-corruption-ramaphosa.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/africa/south-africa-corruption-ramaphosa.html</guid>
@@ -169,6 +170,43 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24safrica-1/24safrica-1-moth.jpg" width="151"></media:content>
       <media:credit>Nardus Engelbrecht/Associated Press</media:credit>
       <media:description>President Cyril Ramaphosa of South Africa came to power after the scandal-plagued Zuma years and was seen as someone who could right the ship, an analyst said.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says Russian Troops Will Fight for Key City as Proxy Government Flees</title>
+      <link>https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>There were growing signs that the occupation government in the southern city of Kherson was preparing the city for fighting ahead of a possible Ukrainian counteroffensive.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 23:13:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ukraine-briefing-promo-1200pm/24ukraine-briefing-promo-1200pm-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Rishi Sunak Will Become the U.K.’s Next Prime Minister on Tuesday</title>
+      <link>https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister" rel="standout"></atom:link>
+      <description>The former chancellor of the Exchequer is set to become the first person of color to lead Britain. He will face a range of dire economic challenges and promised to bring his “party and country together.”</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 23:13:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24uk-politics-header2-10am-1-b46d/24uk-politics-header2-10am-1-b46d-moth.jpg" width="151"></media:content>
+      <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
+      <media:description>Rishi Sunak, center, with members of the 1922 committee in Parliament on Monday after he was announced as the Conservative Party’s new leader.</media:description>
+    </item>
+    <item>
+      <title>For Ukrainian Runners, a Brutal Race Made Sense When Little Else Did</title>
+      <link>https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/sports/backyard-ultra-ukraine.html" rel="standout"></atom:link>
+      <description>Backyard ultramarathons are grueling, hourslong races. The international team competition, held on Oct. 15, included runners from dozens of nations racing on their home turf, including Ukraine.</description>
+      <dc:creator>Jared Beasley</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 17:44:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultramarathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/sports/22backyard-ultra-1/22backyard-ultra-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alexey Furman for The New York Times</media:credit>
+      <media:description>Runners on the Ukrainian team competing in the Backyard Ultra Satellite Team Championships.</media:description>
     </item>
     <item>
       <title>US Executives Are Flocking to Saudi Davos in the Desert</title>
@@ -191,26 +229,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23saudi-us01sub/23saudi-us01sub-moth.jpg" width="151"></media:content>
       <media:credit>Tasneem Alsultan for The New York Times</media:credit>
       <media:description>Guests arriving in 2019 for the Future Investment Initiative conference, nicknamed “Davos in the Desert,” in the Saudi capital, Riyadh.</media:description>
-    </item>
-    <item>
-      <title>Rishi Sunak Becomes the Front Runner for U.K. Prime Minister</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html" rel="standout"></atom:link>
-      <description>Mr. Sunak’s warnings about inflation and his fiscal conservatism may have cost him the post in September. But now his accurate assessments are easing his path to Britain’s top job.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 13:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/business/23uk-sunak-1/23uk-sunak-1-moth.jpg" width="151"></media:content>
-      <media:credit>Hannah Mckay/Reuters</media:credit>
-      <media:description>Rishi Sunak at a Conservative Party event in London in August. </media:description>
     </item>
     <item>
       <title>Xi Jinping Now Holds Near-Absolute Power in China, Creating Risks</title>
@@ -259,45 +277,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23israel-right01/23israel-right01-moth.jpg" width="151"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Itamar Ben-Gvir during a night walk with supporters on Thursday in Jerusalem.</media:description>
-    </item>
-    <item>
-      <title>Hassles of Cross-Border Trains Hamper EU’s Green Ambitions</title>
-      <link>https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html" rel="standout"></atom:link>
-      <description>One man is on a mission to find and suggest fixes for all of the flaws making international rail travel in Europe surprisingly hard. Getting more people on trains is key to meeting E.U. climate goals.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 18:46:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22europe-trains-dispatch01/22europe-trains-dispatch01-moth.jpg" width="151"></media:content>
-      <media:credit>Emile Ducke for The New York Times</media:credit>
-      <media:description>At the railway station in Rumburk, Czech Republic, on the border with Germany. “We need to get more people on trains,” said Jon Worth, the self-appointed monitor of Europe’s railroad system.</media:description>
-    </item>
-    <item>
-      <title>Russian Officials Flee Kherson as Russian Troops Dig in for a Battle</title>
-      <link>https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/russia-ukraine-kherson-war.html" rel="standout"></atom:link>
-      <description>In Kherson, the first Ukrainian city to fall after the Russian invasion, occupation forces appear to be preparing to fight advancing Ukrainian troops.</description>
-      <dc:creator>Marc Santora and Eric Nagourney</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 23:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ukraine-ledeall-1/merlin_215397543_e450d5e4-3313-4e74-a5ae-a5788440ea0a-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>In a heavily shelled schoolyard, Ukrainian troops searched for explosives and booby traps, in the Kherson region on Monday.</media:description>
     </item>
     <item>
       <title>How Rich Is Rishi Sunak, Britain’s Incoming Prime Minister?</title>
@@ -546,6 +525,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-moth.jpg" width="151"></media:content>
       <media:credit>Letzte Generation, via Associated Press</media:credit>
       <media:description>After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. </media:description>
+    </item>
+    <item>
+      <title>Rishi Sunak Becomes the Front Runner for U.K. Prime Minister</title>
+      <link>https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html" rel="standout"></atom:link>
+      <description>Mr. Sunak’s warnings about inflation and his fiscal conservatism may have cost him the post in September. But now his accurate assessments are easing his path to Britain’s top job.</description>
+      <dc:creator>Eshe Nelson</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 13:17:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/business/23uk-sunak-1/23uk-sunak-1-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>Rishi Sunak at a Conservative Party event in London in August. </media:description>
     </item>
     <item>
       <title>Boris Johnson’s Statement on Withdrawing From Race</title>
@@ -1069,6 +1068,28 @@
       <media:description>Tamara Plieshkova reunited with her granddaughter in Colorado after escaping the war in Ukraine in September.</media:description>
     </item>
     <item>
+      <title>Hassles of Cross-Border Trains Hamper EU’s Green Ambitions</title>
+      <link>https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/europe-trains-climate-goals.html" rel="standout"></atom:link>
+      <description>One man is on a mission to find and suggest fixes for all of the flaws making international rail travel in Europe surprisingly hard. Getting more people on trains is key to meeting E.U. climate goals.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 18:46:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22europe-trains-dispatch01/22europe-trains-dispatch01-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>At the railway station in Rumburk, Czech Republic, on the border with Germany. “We need to get more people on trains,” said Jon Worth, the self-appointed monitor of Europe’s railroad system.</media:description>
+    </item>
+    <item>
       <title>Airline Quits U.K. Plan to Deport Asylum Seekers to Rwanda</title>
       <link>https://www.nytimes.com/2022/10/22/world/europe/uk-rwanda-asylum-charter-airline.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/uk-rwanda-asylum-charter-airline.html</guid>
@@ -1088,25 +1109,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00-UK-RWANDA_1/00-UK-RWANDA_1-moth.jpg" width="151"></media:content>
       <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
       <media:description>Migrants who were picked up at sea while trying to cross the English Channel. Thousands of people have made that journey in small boats this year seeking asylum.</media:description>
-    </item>
-    <item>
-      <title>Russia Hits Ukraine’s Power Infrastructure </title>
-      <link>https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/russia-ukraine-war-strikes.html" rel="standout"></atom:link>
-      <description>Ukrainian officials confirmed missile strikes in at least half a dozen regions, and the country’s state energy company imposed restrictions in several areas.</description>
-      <dc:creator>Michael Schwirtz and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 22:42:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/obituaries/22ukraine-ledeall-1/22ukraine-ledeall-1-moth.jpg" width="151"></media:content>
-      <media:credit>Ivor Prickett for The New York Times</media:credit>
-      <media:description>Damage from part of an intercepted Russian missile in the center of Zaporizhzhia, Ukraine, this week.</media:description>
     </item>
   </channel>
 </rss>

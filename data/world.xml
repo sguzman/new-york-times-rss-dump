@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 20:36:26 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 20:35:50 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 20:52:39 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 20:50:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister" rel="standout"></atom:link>
       <description>The former chancellor of the Exchequer is set to become the first person of color to lead Britain. He will face a range of dire economic challenges and promised to bring his “party and country together.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 20:28:22 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 20:42:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24uk-politics-header2-10am-1-b46d/24uk-politics-header2-10am-1-b46d-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
       <media:description>Rishi Sunak, center, with members of the 1922 committee in Parliament on Monday after he was announced as the Conservative Party’s new leader.</media:description>
@@ -283,6 +283,32 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-drones-photo1/23ukraine-drones-photo1-moth.jpg" width="151"></media:content>
       <media:credit>Vadim Sarakhan/Reuters</media:credit>
       <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Rishi Sunak to Lead Britain</title>
+      <link>https://www.nytimes.com/2022/10/24/briefing/rishi-sunak-xi-markets-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/briefing/rishi-sunak-xi-markets-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/briefing/rishi-sunak-xi-markets-china.html" rel="standout"></atom:link>
+      <description>Plus Chinese markets react to a stronger Xi Jinping and young Chinese pursue quiet dissent.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 20:50:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25ambriefing-asia-nl-PROMO/25ambriefing-asia-nl-rishi-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Aberto Pezzali/Associated Press</media:credit>
     </item>
     <item>
       <title>Brittney Griner Doesn’t Expect ‘Miracles to Happen’ With Her Appeal</title>
@@ -738,7 +764,7 @@
       <atom:link href="https://www.nytimes.com/article/hurricane-roslyn-mexico.html" rel="standout"></atom:link>
       <description>The storm, which made landfall as a Category 3 hurricane, brought coastal flooding and dangerous winds to the country’s Pacific Coast, killing at least three people.</description>
       <dc:creator>Amanda Holpuch</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 20:35:50 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 20:38:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -1095,33 +1121,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21iran-prison-image2/21iran-prison-image2-moth.jpg" width="151"></media:content>
       <media:credit>Majid Asgaripour/Wana News Agency, via Reuters</media:credit>
       <media:description>The aftermath of the Oct. 15 fire in Evin Prison, on Monday.</media:description>
-    </item>
-    <item>
-      <title>Giorgia Meloni Gets Go-Ahead for New Italian Government</title>
-      <link>https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/giorgia-meloni-new-italian-government.html" rel="standout"></atom:link>
-      <description>The hard-right leader will be sworn in on Saturday as the country’s first female prime minister amid questions about her coalition’s commitment to Europe.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 20:21:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattarella, Sergio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21italy-meloni_1/21italy-meloni_1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Antonio Masiello/Getty Images</media:credit>
-      <media:description>Giorgia Meloni speaking to the media in Rome on Friday after receiving a mandate from President Sergio Mattarella to form a government.</media:description>
     </item>
   </channel>
 </rss>

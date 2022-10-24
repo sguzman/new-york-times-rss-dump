@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 16:39:47 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 16:36:19 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 17:03:01 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 17:01:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -212,8 +212,8 @@
       <description>She lost her only son, a former N.F.L. player. A settlement would have provided some solace, but even that was taken away.</description>
       <dc:creator>Jenny Vrentas and Morgan Lieberman</dc:creator>
       <pubDate>Mon, 24 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain=""></category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
@@ -223,9 +223,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Girardi, Erika (Erika Jayne)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McKee, Ann</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Girardi, Thomas V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chuck Osborne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21cte-girardi1-1-0c70/21cte-girardi1-1-0c70-moth.jpg" width="151"></media:content>
       <media:description>Photos of Chuck Osborne, who played football at the University of Arizona and in the N.F.L., are displayed in the home of his mother, Kathleen Bajgrowicz.</media:description>
+    </item>
+    <item>
+      <title>Hasidic School to Pay $8 Million After Admitting to Federal Fraud</title>
+      <link>https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/nyregion/hasidic-yeshiva-fraud-central-united-talmudical-academy.html" rel="standout"></atom:link>
+      <description>The Central United Talmudical Academy, which operates the largest all-boys yeshiva in New York State, acknowledged illegally diverting money from federal food aid and other programs.</description>
+      <dc:creator>Brian M. Rosenthal and Eliza Shapiro</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 16:55:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central United Talmudical Academy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hasidism</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/nyregion/24yeshiva-fraud2/24yeshiva-fraud2-moth.jpg" width="151"></media:content>
+      <media:credit>Jonah Markowitz for The New York Times</media:credit>
+      <media:description>The operators of the Central United Talmudical Academy in Brooklyn admitted in federal court to diverting government money in a wide-ranging fraud.</media:description>
     </item>
     <item>
       <title>A Lonely Protest in Beijing Inspires Young Chinese to Find Their Voice</title>
@@ -244,46 +263,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/24Newworld/24Newworld-moth.jpg" width="151"></media:content>
-    </item>
-    <item>
-      <title>Astros Favored Over Phillies to Win World Series</title>
-      <link>https://www.nytimes.com/2022/10/24/sports/baseball/astros-phillies-world-series-favorites.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/sports/baseball/astros-phillies-world-series-favorites.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/sports/baseball/astros-phillies-world-series-favorites.html" rel="standout"></atom:link>
-      <description>Houston and Philadelphia will face off in a matchup of teams that have caught fire in the postseason. Game 1 is set for Friday in Houston.</description>
-      <dc:creator>Benjamin Hoffman</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 15:22:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Series</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houston Astros</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia Phillies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altuve, Jose</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24mlb-worldseries-odds-1-9f33/24mlb-worldseries-odds-1-9f33-moth.jpg" width="151"></media:content>
-      <media:credit>Johnny Milano for The New York Times</media:credit>
-      <media:description>Jose Altuve, Yuli Gurriel and the Houston Astros are back in the World Series for the fourth time in six seasons.</media:description>
-    </item>
-    <item>
-      <title>NLCS: Bryce Harper Is Building His Legacy With Phillies</title>
-      <link>https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/sports/baseball/bryce-harper-phillies-world-series-home-run.html" rel="standout"></atom:link>
-      <description>Harper’s two-run home run in the eighth inning gave this city something few expected: the 2022 N.L. pennant.</description>
-      <dc:creator>Tyler Kepner</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 05:15:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harper, Bryce (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizens Bank Park (Philadelphia, Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia Phillies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Diego Padres</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamels, Cole</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, Ryan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomson, Rob (1963- )</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23kepner-harper-1-680a/23kepner-harper-1-680a-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Tim Nwachukwu/Getty Images</media:credit>
-      <media:description>Bryce Harper was a phenom as a teenager, and signed a $330 million deal with Philadelphia in 2019. He is delivering on all expectations.</media:description>
     </item>
     <item>
       <title>Madhur Jaffrey’s Undefinable Roles</title>
@@ -525,13 +504,27 @@
       <media:credit>Illustration by Joan Wong; Photographs by Getty Images</media:credit>
     </item>
     <item>
+      <title>At Least 2 Killed in Shooting at St. Louis High School</title>
+      <link>https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/us/st-louis-high-school-shooting.html" rel="standout"></atom:link>
+      <description>At least seven others were injured in the shooting, at Central Visual and Performing Arts High School, the authorities said. The gunman died after exchanging gunfire with the police.</description>
+      <dc:creator>Johnny Diaz and Remy Tumin</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 16:59:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St. Louis Public Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St. Louis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+    </item>
+    <item>
       <title>Officer Pleads Guilty to Manslaughter in George Floyd’s Death</title>
       <link>https://www.nytimes.com/2022/10/24/us/george-floyd-officer-kueng-thao.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/george-floyd-officer-kueng-thao.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/24/us/george-floyd-officer-kueng-thao.html" rel="standout"></atom:link>
       <description>J. Alexander Kueng was a rookie Minneapolis police officer when he held Mr. Floyd down while a fellow officer fatally knelt on his neck.</description>
       <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 15:30:06 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 16:41:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
@@ -565,24 +558,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00brazil-polls1/00brazil-polls1-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>Voting in the first round of elections in Sao Paulo earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Hints of Russians’ Return to International Sports Rekindle Debate Over Their Exclusion</title>
-      <link>https://www.nytimes.com/2022/10/24/sports/olympics/paris-russia-ban-ioc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/sports/olympics/paris-russia-ban-ioc.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/sports/olympics/paris-russia-ban-ioc.html" rel="standout"></atom:link>
-      <description>Thomas Bach, the leader of the International Olympic Committee, has said that sport needs to find a means for building peace and communication. His member organizations are saying, “Not yet.”</description>
-      <dc:creator>Matthew Futterman</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 11:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Ski Federation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20oly-russia-1-1-a680/20oly-russia-1-1-a680-moth.jpg" width="151"></media:content>
-      <media:credit>Jae C. Hong/Associated Press</media:credit>
-      <media:description>Russia’s team competing at the Beijing Games in February as the Russian Olympic Committee.</media:description>
     </item>
     <item>
       <title>A Prosecutor’s Change of Heart in a Capital Case at the Supreme Court</title>

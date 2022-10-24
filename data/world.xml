@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 16:47:22 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Oct 2022 16:45:47 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 17:12:43 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 17:06:45 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister" rel="standout"></atom:link>
       <description>The former chancellor of the Exchequer is set to become the first person of color to lead Britain. He will face a range of dire economic challenges and promised to bring his “party and country together.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 16:29:25 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 17:03:50 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24uk-politics-header2-10am-1-b46d/24uk-politics-header2-10am-1-b46d-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
       <media:description>Rishi Sunak, center, with members of the 1922 committee in Parliament on Monday after he was announced as the Conservative Party’s new leader.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/24/world/-russia-ukraine-war-news" rel="standout"></atom:link>
       <description>There were growing signs that Russia’s occupation government in Kherson was proceeding with plans to prepare the city for fighting ahead of a possible Ukrainian counteroffensive.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 16:12:27 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 16:57:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ukraine-briefing-promo-1200pm/24ukraine-briefing-promo-1200pm-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -78,6 +78,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00brazil-polls1/00brazil-polls1-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>Voting in the first round of elections in Sao Paulo earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Ethiopian Government and Tigray Rebels Are Set to Begin Peace Talks</title>
+      <link>https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html" rel="standout"></atom:link>
+      <description>Delegations from both sides have traveled to South Africa for the first formal negotiations since the civil war erupted nearly two years ago.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 16:18:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tigray People&#39;s Liberation Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obasanjo, Olusegun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mlambo-Ngcuka, Phumzile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naledi Pandor</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ethiopia-top-sub/24ethiopia-top-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Tigrayan rebels marched thousands of captured Ethiopian government soldiers through the city of Mekelle in June 2021. The conflict has intensified recently.</media:description>
     </item>
     <item>
       <title>Rishi Sunak Becomes the Front Runner for U.K. Prime Minister</title>
@@ -272,43 +294,24 @@
       <media:description>A broken window at a hospital in March in Mariupol, Ukraine. Russian officials have made clear that their goal is to replace any childhood attachment to home with a love for Russia.</media:description>
     </item>
     <item>
-      <title>Ukraine War Amputees Find New Limbs, and Hope</title>
-      <link>https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html" rel="standout"></atom:link>
-      <description>It did not take long for amputees to begin coming off the Ukrainian battlefield. Our photographer captured their fight to lead ordinary lives again.</description>
-      <dc:creator>David Guttenfelder and Eric Nagourney</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 11:15:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amputation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00UkraineWarWounded01-promo/00UkraineWarWounded01-moth.jpg" width="151"></media:content>
-      <media:credit>David Guttenfelder for The New York Times</media:credit>
-      <media:description>Fellow soldiers, their loved ones, and hospital staff. gather in the hallway with curiosity and to show support for Semyon, 27, as he takes his first steps on his new leg prosthetic leg in the hallway of a hospital in the town of Truscavets on August 26, 2022. By his side is his wife Vika, 24. Semyon, who is a radio operator and signalman for the 11 anti-aircraft misslie battery. lost his leg to a Russian mortar barrage in Ukraine’s Kharkiv region. He says that his unit was shelled 43 times in 20 minutes between 6:20-6:40 am on that day. Was born in Reni, in the Odesa region and has been a professional combatant for the Ukrainian military since 2019.</media:description>
-    </item>
-    <item>
-      <title>Ethiopian Government and Tigray Rebels Are Set to Begin Peace Talks</title>
-      <link>https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/world/africa/ethiopia-tigray-peace-talks.html" rel="standout"></atom:link>
-      <description>Delegations from both sides have traveled to South Africa for the first formal negotiations since the civil war erupted nearly two years ago.</description>
-      <dc:creator>Abdi Latif Dahir</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 16:18:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tigray People&#39;s Liberation Front</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obasanjo, Olusegun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mlambo-Ngcuka, Phumzile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naledi Pandor</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24ethiopia-top-sub/24ethiopia-top-sub-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Tigrayan rebels marched thousands of captured Ethiopian government soldiers through the city of Mekelle in June 2021. The conflict has intensified recently.</media:description>
+      <title>Rishi Sunak will face difficult economic tests immediately.</title>
+      <link>https://www.nytimes.com/2022/10/24/world/europe/rishi-sunak-will-face-difficult-economic-tests-immediately.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/europe/rishi-sunak-will-face-difficult-economic-tests-immediately.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/rishi-sunak-will-face-difficult-economic-tests-immediately.html" rel="standout"></atom:link>
+      <description>As prime minister, Mr. Sunak will face a vastly different economic backdrop to the one he experienced as finance minister.</description>
+      <dc:creator>Eshe Nelson</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 17:03:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24uk-politics-econ-image2/merlin_215329956_1be48b81-323f-479a-a0dd-4ce0c3526134-moth.jpg" width="151"></media:content>
+      <media:credit>Sam Bush for The New York Times</media:credit>
+      <media:description>Canary Wharf, a finaincial center in London. The government is under pressure to show how it will keep borrowing in check, in an effort to restore Britain’s fiscal credibility in markets.</media:description>
     </item>
     <item>
       <title>What Will Happen Next to Become U.K. Prime Minister?</title>
@@ -452,13 +455,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monet, Claude</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Gogh, Vincent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Potsdam (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum Barberini</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Potsdam (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Last Generation</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-moth.jpg" width="151"></media:content>
       <media:credit>Letzte Generation, via Associated Press</media:credit>
       <media:description>After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. </media:description>
@@ -884,6 +884,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/arts/21zar5/21zar5-moth.jpg" width="151"></media:content>
       <media:credit>Elliott Verdier for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Ukraine War Amputees Find New Limbs, and Hope</title>
+      <link>https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/ukraine-war-amputees.html" rel="standout"></atom:link>
+      <description>It did not take long for amputees to begin coming off the Ukrainian battlefield. Our photographer captured their fight to lead ordinary lives again.</description>
+      <dc:creator>David Guttenfelder and Eric Nagourney</dc:creator>
+      <pubDate>Sat, 22 Oct 2022 11:15:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amputation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00UkraineWarWounded01-promo/00UkraineWarWounded01-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>Fellow soldiers, their loved ones, and hospital staff. gather in the hallway with curiosity and to show support for Semyon, 27, as he takes his first steps on his new leg prosthetic leg in the hallway of a hospital in the town of Truscavets on August 26, 2022. By his side is his wife Vika, 24. Semyon, who is a radio operator and signalman for the 11 anti-aircraft misslie battery. lost his leg to a Russian mortar barrage in Ukraine’s Kharkiv region. He says that his unit was shelled 43 times in 20 minutes between 6:20-6:40 am on that day. Was born in Reni, in the Odesa region and has been a professional combatant for the Ukrainian military since 2019.</media:description>
     </item>
     <item>
       <title>Cultural Bereavement: Naming the Grief Refugees May Feel</title>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 06:36:23 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 05:59:14 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 07:03:17 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 07:01:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/rishi-sunak-wealth-worth.html" rel="standout"></atom:link>
       <description>Just how rich is the soon-to-be prime minister of Britain?</description>
       <dc:creator>Yonette Joseph</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 03:24:44 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 07:01:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murty, Akshata</category>
@@ -207,7 +207,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/24/world/uk-prime-minister" rel="standout"></atom:link>
       <description>The former chancellor of the Exchequer is set to become the first person of color to lead Britain. He will face a range of dire economic challenges and promised to bring his “party and country together.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 05:59:14 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 07:01:48 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24uk-politics-header2-10am-1-b46d/24uk-politics-header2-10am-1-b46d-moth.jpg" width="151"></media:content>
       <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
       <media:description>Rishi Sunak, center, with members of the 1922 committee in Parliament on Monday after he was announced as the Conservative Party’s new leader.</media:description>
@@ -270,6 +270,32 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23china-congress-ledeall01/23china-congress-ledeall01-moth.jpg" width="151"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>President Xi Jinping, left, with new members of the Politburo Standing Committee at the Great Hall of the People in Beijing on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Why People Are Flocking to a Symbol of Taiwan’s Authoritarian Past</title>
+      <link>https://www.nytimes.com/2022/10/25/world/asia/taiwan-china-pelosi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/asia/taiwan-china-pelosi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/world/asia/taiwan-china-pelosi.html" rel="standout"></atom:link>
+      <description>At a museum dedicated to Taiwan’s not-so-distant authoritarian past, Taiwanese see China’s present, and a dark vision of one possible future under autocratic rule.</description>
+      <dc:creator>Amy Chang Chien, John Liu and Chris Horton</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Nationalist Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Progressive Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chiang Ching-kuo (1910-88)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chiang Kai-shek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaohsiung (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/04/world/00Taiwan-Museum-01/00Taiwan-Museum-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>The Jing-Mei White Terror Memorial Park in Taiwan has seen a surge of visitors since Speaker Nancy Pelosi toured the site in August.</media:description>
     </item>
     <item>
       <title>Your Tuesday Briefing</title>
@@ -1053,27 +1079,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22CANADA-LETTER-TRAINS2/22CANADA-LETTER-TRAINS2-moth.jpg" width="151"></media:content>
       <media:credit>Carlos Osorio/Reuters</media:credit>
       <media:description>The federal government has said it is committed to a new passenger rail line through Ontario and Quebec.</media:description>
-    </item>
-    <item>
-      <title>Zar Amir Ebrahimi, an Iranian Exile, Channels Trauma in ‘Holy Spider’</title>
-      <link>https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/movies/zar-amir-ebrahimi-holy-spider.html" rel="standout"></atom:link>
-      <description>Zar Amir Ebrahimi, who had to flee Iran after an intimate tape was leaked, has been transfixed by the protests erupting there as her film “Holy Spider” is released in the U.S.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 09:43:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Holy Spider (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ebrahimi, Zar Amir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbasi, Ali (Film Director)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/arts/21zar5/21zar5-moth.jpg" width="151"></media:content>
-      <media:credit>Elliott Verdier for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

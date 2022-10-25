@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 10:38:14 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 09:08:19 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 10:50:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 10:40:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -162,6 +162,23 @@
       <media:description>The gas leak at the Nord Stream 2 gas pipeline shortly after the explosions on Sept. 26. </media:description>
     </item>
     <item>
+      <title>Why Natural Gas Prices in Europe Are Plunging </title>
+      <link>https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html" rel="standout"></atom:link>
+      <description>A combination of full storage, lower demand and mild weather, among other factors, has eased concerns of a spike in heating and power prices — for now.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 10:19:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/00europe-naturalgas/00europe-naturalgas-moth.jpg" width="151"></media:content>
+      <media:credit>Clara Vannucci for The New York Times</media:credit>
+      <media:description>A regasification facility for liquefied natural gas in Porto Venere, Italy.</media:description>
+    </item>
+    <item>
       <title>Western Officials Warn Russia Could Use a Dirty Bomb as a Pretext</title>
       <link>https://www.nytimes.com/2022/10/24/us/politics/russia-dirty-bomb-west-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/us/politics/russia-dirty-bomb-west-ukraine.html</guid>
@@ -287,21 +304,22 @@
       <media:credit>Mary Haasdyk</media:credit>
     </item>
     <item>
-      <title>Geez, Even Fargo Has Gone Upscale</title>
-      <link>https://www.nytimes.com/2022/10/24/travel/fargo-upscales.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/travel/fargo-upscales.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/travel/fargo-upscales.html" rel="standout"></atom:link>
-      <description>Visitors to the North Dakota town expecting a scene right out of the movie might be surprised by the James Beard-nominated chefs, Pride flags, hipster boutiques and craft breweries. Oh, and a museum dedicated to the bison.</description>
-      <dc:creator>Danielle Braff</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 09:00:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fargo (ND)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fargo (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Dakota</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/travel/00fargo-top/00fargo-top-moth.jpg" width="151"></media:content>
-      <media:credit>Dan Koeck for The New York Times</media:credit>
-      <media:description>The city of Fargo has poured millions into revitalizing its downtown.</media:description>
+      <title>Brunswick Stew Is the Perfect Soup for Right Now</title>
+      <link>https://www.nytimes.com/2022/10/21/dining/brunswick-stew.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/dining/brunswick-stew.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/dining/brunswick-stew.html" rel="standout"></atom:link>
+      <description>Soul-warming, savory and sweet, this dish with a deep history is perfect for right now.</description>
+      <dc:creator>Eric Kim</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 17:24:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Eric (Author)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/dining/26brunswick8/20brunswick8-moth.jpg" width="151"></media:content>
+      <media:credit>Jennifer Chase for The New York Times</media:credit>
+      <media:description>Chicken is most commonly used today, though some stew experts throw in beef chuck or pork shoulder for flavor and fat.</media:description>
     </item>
     <item>
       <title>Rishi Sunak Won’t Save Britain</title>
@@ -310,7 +328,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/opinion/rishi-sunak-uk-prime-minister.html" rel="standout"></atom:link>
       <description>The country’s next prime minister is out of touch.</description>
       <dc:creator>Kimi Chaddah</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 05:00:04 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 10:40:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>

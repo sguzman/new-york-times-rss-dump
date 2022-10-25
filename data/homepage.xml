@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 16:42:20 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 16:35:04 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 17:06:02 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 17:04:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,11 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/us/politics/blue-states-midterm-landscape.html" rel="standout"></atom:link>
       <description>“Reality is setting in”: With two weeks to go, Republicans are competing in Democratic bastions like New York, California, Oregon and even Rhode Island.</description>
       <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:58:26 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 15:58:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25pol-bluestate-blues-1-2d5d/25pol-bluestate-blues-1-2d5d-moth.jpg" width="151"></media:content>
       <media:credit>Philip Keith for The New York Times</media:credit>
       <media:description>Allan Fung, a Republican congressional candidate in Rhode Island, at a campaign event on Monday.</media:description>
@@ -58,6 +62,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+    </item>
+    <item>
+      <title>Cortez Masto, the Senate’s Most At-Risk Democrat, Fights to Hang On in Nevada</title>
+      <link>https://www.nytimes.com/2022/10/25/us/elections/cortez-masto-nevada-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/us/elections/cortez-masto-nevada-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/us/elections/cortez-masto-nevada-senate.html" rel="standout"></atom:link>
+      <description>Widely considered the most endangered Democratic incumbent in the nation, Senator Catherine Cortez Masto is battling for survival in a race that may determine the Senate majority.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 17:04:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masto, Catherine Cortez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laxalt, Adam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/us/politics/00dc-cortezmasto-1/merlin_214671759_3291541e-bbdd-4518-b830-03d074ed105c-moth.jpg" width="151"></media:content>
+      <media:credit>Saeed Rahbaran for The New York Times</media:credit>
+      <media:description>Senator Catherine Cortez Masto, Democrat of Nevada, at an event in Las Vegas this month. She became the nation’s first Latina senator in 2016.</media:description>
     </item>
     <item>
       <title>How Rich Is Rishi Sunak, Britain’s New Prime Minister?</title>
@@ -325,23 +348,23 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; photographs by Mark Makela, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Why I Keep Coming Back to Reconstruction</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html" rel="standout"></atom:link>
-      <description>Du Bois helps us look past the ephemera of our politics to focus on what matters most.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 13:47:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <title>Crime: Red Delusions About Purple Reality</title>
+      <link>https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html" rel="standout"></atom:link>
+      <description>No, Democrats aren’t responsible for rising crime.</description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Mon, 24 Oct 2022 23:00:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reconstruction Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Du Bois, W E B</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/25bouie-1/25bouie-1-moth.jpg" width="151"></media:content>
-      <media:credit>James E. Purdy, via National Portrait Gallery</media:credit>
-      <media:description>It was W.E.B. Du Bois who defined the postwar struggle between the forces of “abolition-democracy” and reaction.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/24krugman1/24krugman1-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Rourke/Associated Press</media:credit>
     </item>
     <item>
       <title>Trumpism Beyond Trump</title>
@@ -601,18 +624,25 @@
       <media:credit>River Cousin</media:credit>
     </item>
     <item>
-      <title>‘Guillermo del Toro’s Cabinet of Curiosities’ Review: 7 Tricks, 1 Treat</title>
-      <link>https://www.nytimes.com/2022/10/24/arts/television/guillermo-del-toro-cabinet-of-curiosities-review-netflix.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/arts/television/guillermo-del-toro-cabinet-of-curiosities-review-netflix.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/arts/television/guillermo-del-toro-cabinet-of-curiosities-review-netflix.html" rel="standout"></atom:link>
-      <description>Guillermo del Toro’s horror anthology for Netflix doesn’t hand out many scares.</description>
-      <dc:creator>Mike Hale</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 18:10:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Guillermo del Toro&#39;s Cabinet of Curiosities (TV Program)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/arts/24cabinet/24cabinet-moth.jpg" width="151"></media:content>
-      <media:credit>Ken Woroner/Netflix </media:credit>
-      <media:description>F. Murray Abraham in the episode “The Autopsy,” which benefits from his melancholy performance as a coroner who discovers something unexpected.</media:description>
+      <title>Rupert Holmes, on Creating a Victorian-Flavored Escape in Upstate NY</title>
+      <link>https://www.nytimes.com/2022/10/25/realestate/rupert-holmes-upstate-ny-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/realestate/rupert-holmes-upstate-ny-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/realestate/rupert-holmes-upstate-ny-home.html" rel="standout"></atom:link>
+      <description>The artist you know from ‘The Piña Colada Song’ has a new play about Ruth Bader Ginsburg and a new novel coming out next year — but still no plans to live in the city.</description>
+      <dc:creator>Joanne Kaufman</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 09:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Rupert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Furniture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lighting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bay Street Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cold Spring (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/realestate/25ATHOME-HOLMES/25ATHOME-HOLMES-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Ryan for The New York Times</media:credit>
     </item>
     <item>
       <title>How to Solve Hard Crosswords</title>

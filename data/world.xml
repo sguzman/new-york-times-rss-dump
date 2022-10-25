@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 21:20:03 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 21:18:46 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 21:35:12 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 21:30:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Russia and Ukraine accused each other of planning to use a bomb to spread radioactive material, raising fears in the West that Russia might use such an attack as a pretext to launch a nuclear weapon.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 21:12:15 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 21:21:01 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/05/us/politics/25ukraine-briefing-griner-setup-1/25ukraine-briefing-griner-setup-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner in Khimki, outside Moscow, in August. She has been sentenced to nine years after Russian officials said she was carrying hashish oil in her luggage.</media:description>
@@ -279,6 +279,30 @@
       <media:description>President Cyril Ramaphosa of South Africa came to power after the scandal-plagued Zuma years and was seen as someone who could right the ship, an analyst said.</media:description>
     </item>
     <item>
+      <title>Sunak Faces Political Test of His Career: Unify Party, Fix the Economy</title>
+      <link>https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-uk-economy-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-uk-economy-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-uk-economy-politics.html" rel="standout"></atom:link>
+      <description>The Conservative Party is fractured and Britain’s public finances are battered. That will test the political skills of a leader who has been involved in national politics for only seven years.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 21:30:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mordaunt, Penny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-ledeall-01/25uk-politics-ledeall-01-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Kitwood/Getty Images</media:credit>
+      <media:description>Prime Minister Rishi Sunak of Britain speaks outside 10 Downing Street after taking office on Tuesday.</media:description>
+    </item>
+    <item>
       <title>Your Wednesday Briefing: Tensions Rise in the West Bank</title>
       <link>https://www.nytimes.com/2022/10/25/briefing/your-wednesday-briefing-tensions-rise-in-the-west-bank.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/briefing/your-wednesday-briefing-tensions-rise-in-the-west-bank.html</guid>
@@ -293,7 +317,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">adidas AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Party (Australia)</category>
@@ -1028,24 +1051,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-briefing-irkutsk-plane/23ukraine-briefing-irkutsk-plane-moth.jpg" width="151"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Irkutsk, Russia, after a fighter jet crashed into a residential area on Sunday.</media:description>
-    </item>
-    <item>
-      <title>How Ukraine’s Army Is Pioneering Anti-Drone Warfare</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/ukraine-russia-drones-iran.html" rel="standout"></atom:link>
-      <description>With an intense, hastily assembled effort, the Ukrainian military is pioneering successful techniques in the difficult art of anti-drone warfare.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 03:47:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23ukraine-drones-photo1/23ukraine-drones-photo1-moth.jpg" width="151"></media:content>
-      <media:credit>Vadim Sarakhan/Reuters</media:credit>
-      <media:description>Police officers in Kyiv, Ukraine, trying to shoot down a drone during an attack on Oct. 17. The drone was believed to be an Iranian-made Shahed-136, purchased by Russia in August.</media:description>
     </item>
   </channel>
 </rss>

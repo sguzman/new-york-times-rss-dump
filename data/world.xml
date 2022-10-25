@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 15:45:15 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 15:45:06 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 16:07:23 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 16:07:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak" rel="standout"></atom:link>
       <description>Prime Minister Rishi Sunak asked Jeremy Hunt to stay on as Britain’s top finance minister, and also kept his predecessor’s foreign and defense secretaries in place.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:45:06 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 16:07:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-charles-sunak-02/25uk-politics-charles-sunak-02-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Aaron Chown</media:credit>
       <media:description>King Charles III, left, welcoming Rishi Sunak during an audience at Buckingham Palace, London, where he invited the newly elected leader of the Conservative Party to become prime minister and form a new government, on Tuesday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Griner, an American basketball star convicted in Russia on drug charges, is expected to be sent to a penal colony after her appeal was rejected.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:39:26 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 15:46:04 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/05/us/politics/25ukraine-briefing-griner-setup-1/25ukraine-briefing-griner-setup-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner in Khimki, outside Moscow, in August. She has been sentenced to nine years after Russian officials said she was carrying hashish oil in her luggage.</media:description>
@@ -87,7 +87,7 @@
       <media:description>Celebrating Diwali in northwest London on Monday. As many as 1.5 million people of Indian descent live in England and Wales, making them the largest ethnic group after white Britons.</media:description>
     </item>
     <item>
-      <title>Deadly Israeli Raid Targets New Palestinian Militia</title>
+      <title>Deadly Israeli Raid in Nablus Targets New Palestinian Militia</title>
       <link>https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html" rel="standout"></atom:link>
@@ -259,6 +259,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24safrica-1/24safrica-1-moth.jpg" width="151"></media:content>
       <media:credit>Nardus Engelbrecht/Associated Press</media:credit>
       <media:description>President Cyril Ramaphosa of South Africa came to power after the scandal-plagued Zuma years and was seen as someone who could right the ship, an analyst said.</media:description>
+    </item>
+    <item>
+      <title>Rishi Sunak Is the Youngest UK Prime Minister of Modern Times</title>
+      <link>https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-age-uk-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-age-uk-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/rishi-sunak-age-uk-prime-minister.html" rel="standout"></atom:link>
+      <description>Mr. Sunak is 42 and started out in Parliament in 2015.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 16:07:13 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-youth-topart/25uk-politics-youth-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Rishi Sunak was appointed as chancellor of the Exchequer in 2020 under former Prime Minister Boris Johnson.</media:description>
     </item>
     <item>
       <title>Rishi Sunak Keeps Jeremy Hunt as UK Chancellor</title>
@@ -608,7 +620,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/science/partial-solar-eclipse.html" rel="standout"></atom:link>
       <description>The event was visible from Europe, northern Africa, the Middle East and Asia.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:30:25 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 15:53:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>

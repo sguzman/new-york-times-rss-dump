@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 10:40:02 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 10:39:33 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 10:52:05 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 10:51:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,10 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak" rel="standout"></atom:link>
       <description>Mr. Sunak, the new Conservative Party leader, will deliver a speech outside No. 10 Downing Street. He is Britain’s third prime minister in less than four months.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 10:39:33 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-header-01-1-e5e3/25uk-politics-header-01-1-e5e3-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
-      <media:description>Rishi Sunak, the new Conservative Party leader, will succeed Liz Truss as Britain’s prime minister on Tuesday.</media:description>
+      <pubDate>Tue, 25 Oct 2022 10:51:58 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-charles-sunak-02/25uk-politics-charles-sunak-02-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Aaron Chown</media:credit>
+      <media:description>King Charles III, left, welcoming Rishi Sunak during an audience at Buckingham Palace, London, where he invited the newly elected leader of the Conservative Party to become prime minister and form a new government, on Tuesday.</media:description>
     </item>
     <item>
       <title>Russian Court Begins Hearing Brittney Griner’s Appeal</title>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The fate of Griner, an American basketball star sentenced to nine years on drug charges, has become entangled in the worsening U.S.-Russia relationship.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 10:37:44 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 10:49:18 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/05/us/politics/25ukraine-briefing-griner-setup-1/25ukraine-briefing-griner-setup-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner in Khimki, outside Moscow, in August. She has been sentenced to nine years after Russian officials said she was carrying hashish oil in her luggage.</media:description>
@@ -276,6 +276,25 @@
       <media:description>President Xi Jinping, left, with new members of the Politburo Standing Committee at the Great Hall of the People in Beijing on Sunday.</media:description>
     </item>
     <item>
+      <title>Airstrike Kills at Least 80 During Outdoor Concert in Myanmar</title>
+      <link>https://www.nytimes.com/2022/10/25/world/asia/myanmar-coup-concert-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/asia/myanmar-coup-concert-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/world/asia/myanmar-coup-concert-killed.html" rel="standout"></atom:link>
+      <description>The bombing was the deadliest aerial attack mounted by the military regime since it seized power in a coup last year.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 10:48:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25myanmar-01/25myanmar-01-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Destroyed wooden structures near Aung Bar Lay Village, Kachin State, in Myanmar, on Monday. Airstrikes by Myanmar’s military have killed scores of people since the coup last year.</media:description>
+    </item>
+    <item>
       <title>Old U.K. Ritual Now Has 2 New Participants: King Charles and Rishi Sunak</title>
       <link>https://www.nytimes.com/2022/10/25/world/europe/uk-king-charles-rishi-sunak.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/uk-king-charles-rishi-sunak.html</guid>
@@ -451,7 +470,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/world/europe/brittney-griner-russia-appeal.html" rel="standout"></atom:link>
       <description>If the appeals court near Moscow won’t overrule Ms. Griner’s verdict, it will come into force and she will be sent to a penal colony.</description>
       <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 10:30:29 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 10:49:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
@@ -1062,29 +1081,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/00xp-meancovid-1-22a3/00xp-meancovid-1-22a3-moth.jpg" width="151"></media:content>
       <media:credit>Kaiti Sullivan for The New York Times</media:credit>
       <media:description>Lucy Nguyen participates in a group scream at the Zionsville Youth Soccer Fields in Whitestown, Indiana.</media:description>
-    </item>
-    <item>
-      <title>How Tumultuous Forces of Brexit Divided U.K.’s Conservative Party</title>
-      <link>https://www.nytimes.com/2022/10/22/world/europe/uk-brexit-conservatives.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/world/europe/uk-brexit-conservatives.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/world/europe/uk-brexit-conservatives.html" rel="standout"></atom:link>
-      <description>Some experts link Liz Truss’s downfall to the ripple effect of Britain’s departure from the European Union and the bitter, ideologically opposed factions it created in her party.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 12:54:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22brexit-conservatives1/22brexit-conservatives1-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Turner for The New York Times</media:credit>
-      <media:description>Brexit supporters gathering in front of a statue of Winston Churchill in London on Jan. 21, 2020, to celebrate Britain leaving the European Union.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 16:05:03 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 16:04:53 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 16:22:17 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 16:10:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -187,11 +187,12 @@
       <pubDate>Tue, 25 Oct 2022 12:51:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychedelic and Hallucinogenic Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psilocybin Mushrooms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/science/25SCI-PSYCHEDELICS-PATENTS-01/25SCI-PSYCHEDELICS-PATENTS-01-moth.jpg" width="151"></media:content>
       <media:credit>Tom Jamieson for The New York Times</media:credit>
       <media:description>George Goldsmith, co-founder and executive chairman of Compass Pathways in London.</media:description>
@@ -284,6 +285,22 @@
       <media:description>Alix Ross, left, and Elijah Funk of the brand Online Ceramics in their Los Angeles office.</media:description>
     </item>
     <item>
+      <title>Stroke and John Fetterman: What Society Should Know About the Brain’s Ability to Heal</title>
+      <link>https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html" rel="standout"></atom:link>
+      <description>What society can learn from John Fetterman’s stroke.</description>
+      <dc:creator>Jill Bolte Taylor</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hemorrhagic Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.</media:description>
+    </item>
+    <item>
       <title>The John Fetterman-Mehmet Oz Debate: The Midterms in Miniature</title>
       <link>https://www.nytimes.com/2022/10/25/opinion/fetterman-oz-debate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/fetterman-oz-debate.html</guid>
@@ -308,35 +325,23 @@
       <media:credit>Illustration by Sam Whitney/The New York Times; photographs by Mark Makela, via Getty Images</media:credit>
     </item>
     <item>
-      <title>Rishi Sunak Won’t Save Britain</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/rishi-sunak-uk-prime-minister.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/rishi-sunak-uk-prime-minister.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/rishi-sunak-uk-prime-minister.html" rel="standout"></atom:link>
-      <description>The country’s next prime minister is out of touch.</description>
-      <dc:creator>Kimi Chaddah</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 10:40:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/15chaddah-image/15chaddah-image-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Henry Nicholls/Reuters</media:credit>
-    </item>
-    <item>
-      <title>Stroke and John Fetterman: What Society Should Know About the Brain’s Ability to Heal</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html" rel="standout"></atom:link>
-      <description>What society can learn from John Fetterman’s stroke.</description>
-      <dc:creator>Jill Bolte Taylor</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <title>Why I Keep Coming Back to Reconstruction</title>
+      <link>https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/reconstruction-civil-war-du-bois.html" rel="standout"></atom:link>
+      <description>Du Bois helps us look past the ephemera of our politics to focus on what matters most.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 13:47:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hemorrhagic Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-moth.jpg" width="151"></media:content>
-      <media:credit>Maddie McGarvey for The New York Times</media:credit>
-      <media:description>Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reconstruction Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Du Bois, W E B</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/25bouie-1/25bouie-1-moth.jpg" width="151"></media:content>
+      <media:credit>James E. Purdy, via National Portrait Gallery</media:credit>
+      <media:description>It was W.E.B. Du Bois who defined the postwar struggle between the forces of “abolition-democracy” and reaction.</media:description>
     </item>
     <item>
       <title>Trumpism Beyond Trump</title>

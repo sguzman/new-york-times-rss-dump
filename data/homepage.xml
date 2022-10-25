@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 14:16:47 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 14:07:28 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 14:41:51 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 14:32:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -24,11 +24,12 @@
       <pubDate>Tue, 25 Oct 2022 12:20:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/world/24uk-sunak-1/24uk-sunak-1-moth.jpg" width="151"></media:content>
@@ -69,26 +70,21 @@
       <media:description>Britain’s new prime minister, Rishi Sunak, outside 10 Downing Street on Tuesday.</media:description>
     </item>
     <item>
-      <title>Three Inquiries, but No Answers to Who Blew Holes in Nord Stream Pipelines</title>
-      <link>https://www.nytimes.com/2022/10/25/world/europe/nord-stream-pipeline-explosions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/nord-stream-pipeline-explosions.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/nord-stream-pipeline-explosions.html" rel="standout"></atom:link>
-      <description>Denmark, Germany and Sweden are all investigating the ruptured pipeline sites, but they remain tight-lipped over who might have caused the damage and why.</description>
-      <dc:creator>Melissa Eddy</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 13:19:25 +0000</pubDate>
+      <title>Why Natural Gas Prices in Europe Are Plunging </title>
+      <link>https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/business/europe-gas-prices-winter.html" rel="standout"></atom:link>
+      <description>A combination of full storage, lower demand and mild weather, among other factors, has eased concerns of a spike in heating and power prices — for now.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 10:19:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Expressen (Newspaper)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/00nordstream-explosion-1/00nordstream-explosion-1-moth.jpg" width="151"></media:content>
-      <media:credit>Danish Defence, via Agence France-Presse/Getty Images</media:credit>
-      <media:description>The gas leak at the Nord Stream 2 gas pipeline shortly after the explosions on Sept. 26. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/business/00europe-naturalgas/00europe-naturalgas-moth.jpg" width="151"></media:content>
+      <media:credit>Clara Vannucci for The New York Times</media:credit>
+      <media:description>A regasification facility for liquefied natural gas in Porto Venere, Italy.</media:description>
     </item>
     <item>
       <title>As Republicans Campaign on Crime, Racism Is a New Battlefront</title>
@@ -97,7 +93,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/us/politics/crime-ads-racism-republicans.html" rel="standout"></atom:link>
       <description>Running ads portraying Black candidates as soft on crime — or as “different” or “dangerous” — Republicans have shed quiet defenses of such tactics for unabashed defiance.</description>
       <dc:creator>Jonathan Weisman</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 13:47:35 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 14:32:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -249,28 +245,22 @@
       <media:description>Prosecutors are particularly focused on one aide who could provide insight into former President Donald J. Trump’s intentions as he parried the Justice Department’s attempts to reclaim documents from him.</media:description>
     </item>
     <item>
-      <title>After Hollywood’s #MeToo Reckoning, a Fear It Was Only Short-Lived</title>
-      <link>https://www.nytimes.com/2022/10/24/business/media/hollywood-metoo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/business/media/hollywood-metoo.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/business/media/hollywood-metoo.html" rel="standout"></atom:link>
-      <description>The movement led to increased diversity and representation in the entertainment industry, but now there is worry that executives have turned their attention elsewhere.</description>
-      <dc:creator>Brooks Barnes</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 13:34:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <title>James Corden and the Dangers of Likability</title>
+      <link>https://www.nytimes.com/2022/10/25/arts/television/james-corden-apology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/arts/television/james-corden-apology.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/arts/television/james-corden-apology.html" rel="standout"></atom:link>
+      <description>No one knows what an egg yolk omelet is, but we all know that TV hosts should be relatable. Or should they? That didn’t do Ellen DeGeneres any favors.</description>
+      <dc:creator>Jason Zinoman</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 14:18:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Academy of Motion Picture Arts and Sciences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lin, Dan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women in Film</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Time&#39;s Up</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/business/00hollywood/00hollywood-moth.jpg" width="151"></media:content>
-      <media:credit>Mary Haasdyk</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corden, James (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Late Late Show with James Corden (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McNally, Keith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Balthazar (Manhattan, NY, Restaurant)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/arts/25corden-notebook1/25corden-notebook1-moth.jpg" width="151"></media:content>
+      <media:credit>Rebecca Smeyne for The New York Times</media:credit>
+      <media:description>James Corden at a Tony Awards party in 2019. He presents himself as an ordinary bloke but is actually a Broadway star well known in Britain before arriving in the United States.</media:description>
     </item>
     <item>
       <title>Brunswick Stew Is the Perfect Soup for Right Now</title>
@@ -349,76 +339,6 @@
       <media:description>It was W.E.B. Du Bois who defined the postwar struggle between the forces of “abolition-democracy” and reaction.</media:description>
     </item>
     <item>
-      <title>Stroke and John Fetterman: What Society Should Know About the Brain’s Ability to Heal</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/brain-stroke-recovery-fetterman.html" rel="standout"></atom:link>
-      <description>What society can learn from John Fetterman’s stroke.</description>
-      <dc:creator>Jill Bolte Taylor</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hemorrhagic Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/25taylor-image2/25taylor-image2-moth.jpg" width="151"></media:content>
-      <media:credit>Maddie McGarvey for The New York Times</media:credit>
-      <media:description>Lt. Gov. John Fetterman of Pennsylvania campaigning in Greensburg, Pa., in May.</media:description>
-    </item>
-    <item>
-      <title>A Pro-Life Pastor Defends a Woman’s Right to Choose</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/abortion-sermon-black-church.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/abortion-sermon-black-church.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/abortion-sermon-black-church.html" rel="standout"></atom:link>
-      <description>A pastor in St. Louis explains in a sermon what’s at stake for the Black population in the abortion debate.</description>
-      <dc:creator>Clinton L. Stancil, Kirk Semple and Kristopher Knight</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
-    </item>
-    <item>
-      <title>A Step-by-Step Guide to Becoming a Trump Enabler</title>
-      <link>https://www.nytimes.com/2022/10/25/opinion/ezra-klein-podcast-mark-leibovich.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/opinion/ezra-klein-podcast-mark-leibovich.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/opinion/ezra-klein-podcast-mark-leibovich.html" rel="standout"></atom:link>
-      <description>The journalist Mark Leibovich details the story behind the “sycophants” who bowed to the ex-president.</description>
-      <dc:creator>‘The Ezra Klein Show’</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leibovich, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Thank You for Your Servitude: Donald Trump&#39;s Washington and the Price of Submission (Book)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/opinion/25eks-leibovich-image/25eks-leibovich-image-moth.jpg" width="151"></media:content>
-      <media:credit>Ralph Answang</media:credit>
-    </item>
-    <item>
-      <title>Crime: Red Delusions About Purple Reality</title>
-      <link>https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/opinion/rising-crime-democrats.html" rel="standout"></atom:link>
-      <description>No, Democrats aren’t responsible for rising crime.</description>
-      <dc:creator>Paul Krugman</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 23:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/24krugman1/24krugman1-moth.jpg" width="151"></media:content>
-      <media:credit>Matt Rourke/Associated Press</media:credit>
-    </item>
-    <item>
       <title>Trumpism Beyond Trump</title>
       <link>https://www.nytimes.com/2022/10/25/briefing/trumpism-desantis-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/briefing/trumpism-desantis-midterms.html</guid>
@@ -488,6 +408,24 @@
       <media:credit>Getty Images</media:credit>
     </item>
     <item>
+      <title>Ashton B. Carter, Defense Secretary Under Obama, Dies at 68</title>
+      <link>https://www.nytimes.com/2022/10/25/us/ashton-b-carter-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/us/ashton-b-carter-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/us/ashton-b-carter-dead.html" rel="standout"></atom:link>
+      <description>Trained as a physicist, he opened the U.S. military to transgender service members and removed barriers to women in combat roles.</description>
+      <dc:creator>Clay Risen</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 14:26:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Ashton B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/obituaries/25Carter-01/25Carter-01-moth.jpg" width="151"></media:content>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <media:description>Ashton B. Carter in 2016, near the end of his term as secretary of defense.</media:description>
+    </item>
+    <item>
       <title>Venezuelan Migrants Stranded After US Border Policy Change</title>
       <link>https://www.nytimes.com/2022/10/24/world/americas/venezuela-migrants-biden-mexico.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/world/americas/venezuela-migrants-biden-mexico.html</guid>
@@ -544,25 +482,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25westbank-raid01/25westbank-raid01-moth.jpg" width="151"></media:content>
       <media:credit>Majdi Mohammed/Associated Press</media:credit>
       <media:description>Mourners carrying the bodies of Palestinians who were among those killed in an overnight Israeli raid in the occupied West Bank city of Nablus on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Leslie Jordan, ‘Will &amp; Grace’ Actor and Instagram Star, Dies at 67</title>
-      <link>https://www.nytimes.com/2022/10/24/arts/television/leslie-jordan-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/arts/television/leslie-jordan-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/arts/television/leslie-jordan-dead.html" rel="standout"></atom:link>
-      <description>Shows like “Will &amp; Grace” made him a familiar face, then the pandemic brought new fame. He was killed in a car crash in Hollywood.</description>
-      <dc:creator>Neil Genzlinger</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 21:51:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Leslie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/obituaries/24jordan-02/24jordan-02-moth.jpg" width="151"></media:content>
-      <media:credit>Chris Haston/NBC Universal via Getty Images</media:credit>
-      <media:description>Leslie Jordan, center, in a scene from the hit sitcom “Will &amp; Grace.” He won an Emmy as the tart-tongued socialite Beverley Leslie.</media:description>
     </item>
     <item>
       <title>Home Remedies for Cold and Flu Symptoms</title>

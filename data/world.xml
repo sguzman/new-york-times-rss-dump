@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 09:27:32 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Oct 2022 09:26:29 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2022 09:45:04 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2022 09:39:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>U.K. Live Updates: ‘Brighter Days Lie Ahead,’ Truss Says as Sunak Prepares to Take Over as Prime Minister</title>
+      <title>U.K. Live Updates: ‘Brighter Days Lie Ahead,’ Truss Says; Sunak Prepares to Take Over as Prime Minister</title>
       <link>https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/uk-prime-minister-rishi-sunak" rel="standout"></atom:link>
-      <description>The new Conservative Party leader will meet with King Charles III and deliver a speech outside No. 10 Downing Street. He will be Britain’s third prime minister in less than four months.</description>
+      <description>Sunak, the new Conservative Party leader, will meet with King Charles III and deliver a speech outside No. 10 Downing Street. He will be Britain’s third prime minister in less than four months.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:26:29 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 09:34:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-header-01-1-e5e3/25uk-politics-header-01-1-e5e3-moth-v2.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/EPA, via Shutterstock</media:credit>
       <media:description>Rishi Sunak, the new Conservative Party leader, will succeed Liz Truss as Britain’s prime minister on Tuesday.</media:description>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/25/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The American basketball star was sentenced to nine years in prison, and her case has been dragged into the political maelstrom between Moscow and Washington.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 09:08:30 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 09:30:47 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/05/us/politics/25ukraine-briefing-griner-setup-1/25ukraine-briefing-griner-setup-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Kirill Kudryavtsev</media:credit>
       <media:description>Brittney Griner in Khimki, outside Moscow, in August. She has been sentenced to nine years after Russian officials said she was carrying hashish oil in her luggage.</media:description>
@@ -277,6 +277,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/world/23china-congress-ledeall01/23china-congress-ledeall01-moth.jpg" width="151"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>President Xi Jinping, left, with new members of the Politburo Standing Committee at the Great Hall of the People in Beijing on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Old U.K. Ritual Now Has 2 New Participants: King Charles and Rishi Sunak</title>
+      <link>https://www.nytimes.com/2022/10/25/world/europe/uk-king-charles-rishi-sunak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/uk-king-charles-rishi-sunak.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/uk-king-charles-rishi-sunak.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II welcomed 15 British prime ministers during her seven-decade reign. Rishi Sunak will be the first to start his time as leader under King Charles III.</description>
+      <dc:creator>Peter Robins</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 09:32:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-charles-d1/25uk-politics-charles-d1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Kirsty O&#39;Connor</media:credit>
+      <media:description>King Charles III</media:description>
     </item>
     <item>
       <title>Three Inquiries, but No Answers to Who Blew Holes in Nord Stream Pipelines</title>
@@ -543,7 +561,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/24/science/partial-solar-eclipse.html" rel="standout"></atom:link>
       <description>The event will be visible from Europe, northern Africa, the Middle East and Asia on Tuesday.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 21:50:36 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 09:39:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
@@ -1067,23 +1085,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/22/world/22brexit-conservatives1/22brexit-conservatives1-moth.jpg" width="151"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
       <media:description>Brexit supporters gathering in front of a statue of Winston Churchill in London on Jan. 21, 2020, to celebrate Britain leaving the European Union.</media:description>
-    </item>
-    <item>
-      <title>Scare Tactics</title>
-      <link>https://www.nytimes.com/2022/10/22/briefing/scary-movies-halloween.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/22/briefing/scary-movies-halloween.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/22/briefing/scary-movies-halloween.html" rel="standout"></atom:link>
-      <description>It’s Halloween season, time for two-pound bags of fun-size candy and scary movies that haunt your dreams.</description>
-      <dc:creator>Melissa Kirsch</dc:creator>
-      <pubDate>Sat, 22 Oct 2022 10:52:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Ring (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">It Follows (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Smile (2022) (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Sinner (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Vow (TV Program)</category>
     </item>
   </channel>
 </rss>

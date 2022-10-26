@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 13:41:52 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 13:25:05 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 14:07:16 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 14:05:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -94,29 +94,16 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
     </item>
     <item>
-      <title>Tech Stocks Tumble as Growth Falters</title>
-      <link>https://www.nytimes.com/2022/10/26/business/dealbook/tech-stocks-tumble-microsoft-google-alphabet-meta-apple-chips.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/business/dealbook/tech-stocks-tumble-microsoft-google-alphabet-meta-apple-chips.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/business/dealbook/tech-stocks-tumble-microsoft-google-alphabet-meta-apple-chips.html" rel="standout"></atom:link>
-      <description>Disappointing earnings from Microsoft, Alphabet and Texas Instruments reveal the big challenges facing technology giants.</description>
-      <dc:creator>Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Vivian Giang, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 12:04:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Ashton B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26DB-Pichai-1-8a73/26DB-Pichai-1-8a73-moth.jpg" width="151"></media:content>
-      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Course-correcting on tap.</media:description>
+      <title>Stock Market Falls as Investors Fret About Tech Growth</title>
+      <link>https://www.nytimes.com/2022/10/26/business/stock-market-tech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/business/stock-market-tech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/business/stock-market-tech.html" rel="standout"></atom:link>
+      <description>Weak economic growth, rising inflation and a strong dollar are taking a toll on the tech giants that have an outsize impact on the stock market.</description>
+      <dc:creator>Isabella Simonetti</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 13:50:24 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/business/26techstocks/26techstocks-moth.jpg" width="151"></media:content>
+      <media:credit>John Taggart for The New York Times</media:credit>
+      <media:description>The tech-heavy Nasdaq index is under pressure after a series of disappointing corporate earnings reports.</media:description>
     </item>
     <item>
       <title>A Social Media Status Update</title>
@@ -127,6 +114,7 @@
       <dc:creator>Kevin Roose</dc:creator>
       <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26themorning-promo/26themorning-lead-1-d069-moth.jpg" width="151"></media:content>
       <media:credit>Jenny Kane/Associated Press</media:credit>
       <media:description>Social media companies are having a troubling year.</media:description>
@@ -148,50 +136,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/business/25ALPHABET-EARNINGS-1/25ALPHABET-EARNINGS-1-moth.jpg" width="151"></media:content>
       <media:credit>Laura Morton for The New York Times</media:credit>
       <media:description>The headquarters of Google and its parent company Alphabet Inc. in Mountain View, Calif.</media:description>
-    </item>
-    <item>
-      <title>A Secret, Failed Oil Deal: How the U.S.-Saudi Relationship Ruptured</title>
-      <link>https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html" rel="standout"></atom:link>
-      <description>After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.</description>
-      <dc:creator>Mark Mazzetti, Edward Wong and Adam Entous</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 05:32:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdulaziz bin Salman, Prince of Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/us/politics/25DC-SAUDI_1/25DC-SAUDI_1-moth.jpg" width="151"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden arriving in Saudi Arabia in July. The administration thought it had secured a promise from the Saudis to keep oil flowing in a bid to stabilize prices.</media:description>
-    </item>
-    <item>
-      <title>NYU vs. Chicago Men’s Soccer: A Match Between Two Women Coaches</title>
-      <link>https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html" rel="standout"></atom:link>
-      <description>N.Y.U.’s Kim Wyant inspired Julianne Sitch to coach the University of Chicago. They will face off in a match in which both men’s teams are coached by women.</description>
-      <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 09:00:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Chicago</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific-12 Conference</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyant, Kim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sitch, Julianne</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/sports/26soccer-nyu-coaches-Wyant4/26soccer-nyu-coaches-Wyant4-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>“It’s amazing to play for her,” Nicholas Suter, one of N.Y.U.’s captains, said of Coach Kim Wyant. “It was one of the perks of coming here.”</media:description>
     </item>
     <item>
       <title>Shunned by the West, Russia and Myanmar Form a Partnership of Unequals</title>
@@ -245,6 +189,50 @@
       <media:description>Chancellor Olaf Scholz of Germany, right; Prime Minister Denys Shmyhal of Ukraine, center; and Ursula von der Leyen, president of the European Commission, at a conference in Berlin on Tuesday on the reconstruction of Ukraine. Germany has pushed back against the idea that it is isolating itself.</media:description>
     </item>
     <item>
+      <title>A Secret, Failed Oil Deal: How the U.S.-Saudi Relationship Ruptured</title>
+      <link>https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html" rel="standout"></atom:link>
+      <description>After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.</description>
+      <dc:creator>Mark Mazzetti, Edward Wong and Adam Entous</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 05:32:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdulaziz bin Salman, Prince of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/us/politics/25DC-SAUDI_1/25DC-SAUDI_1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden arriving in Saudi Arabia in July. The administration thought it had secured a promise from the Saudis to keep oil flowing in a bid to stabilize prices.</media:description>
+    </item>
+    <item>
+      <title>NYU vs. Chicago Men’s Soccer: A Match Between Two Women Coaches</title>
+      <link>https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/sports/soccer/nyu-chicago-women-soccer-coaches.html" rel="standout"></atom:link>
+      <description>N.Y.U.’s Kim Wyant inspired Julianne Sitch to coach the University of Chicago. They will face off in a match in which both men’s teams are coached by women.</description>
+      <dc:creator>David Waldstein</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 14:03:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Chicago</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific-12 Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyant, Kim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sitch, Julianne</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/sports/26soccer-nyu-coaches-Wyant4/26soccer-nyu-coaches-Wyant4-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>“It’s amazing to play for her,” Nicholas Suter, one of N.Y.U.’s captains, said of Coach Kim Wyant. “It was one of the perks of coming here.”</media:description>
+    </item>
+    <item>
       <title>How Elon Musk Became a Geopolitical Chaos Agent</title>
       <link>https://www.nytimes.com/2022/10/26/technology/elon-musk-geopolitics-china-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/technology/elon-musk-geopolitics-china-ukraine.html</guid>
@@ -286,6 +274,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+    </item>
+    <item>
+      <title>What Is the Future of Kanye West’s Music? </title>
+      <link>https://www.nytimes.com/2022/10/26/arts/music/kanye-west-music-industry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/arts/music/kanye-west-music-industry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/arts/music/kanye-west-music-industry.html" rel="standout"></atom:link>
+      <description>As corporate partners cut ties with the artist now known as Ye following weeks of antisemitic statements, many wonder if the recording catalog that was his bedrock will withstand the backlash.</description>
+      <dc:creator>Joe Coscarelli and Ben Sisario</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 13:32:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/arts/25kanye-music1/25kanye-music1-moth.jpg" width="151"></media:content>
+      <media:credit>Amy Harris/Invision, via Associated Press</media:credit>
+      <media:description>While Ye once dominated the pop world with inescapable songs like “Jesus Walks,” “Gold Digger” and “Stronger,” he has not had a major hit in years. </media:description>
     </item>
     <item>
       <title>Ina Garten Makes Risotto With a Longtime Fan</title>

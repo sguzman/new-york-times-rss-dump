@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 10:36:14 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 10:00:10 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 10:46:15 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -135,7 +135,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific-12 Conference</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyant, Kim</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sitch, Julianne</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/sports/26soccer-nyu-coaches-Wyant4/26soccer-nyu-coaches-Wyant4-moth.jpg" width="151"></media:content>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/sports/26soccer-nyu-coaches-Wyant4/26soccer-nyu-coaches-Wyant4-moth-v2.jpg" width="151"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>“It’s amazing to play for her,” Nicholas Suter, one of N.Y.U.’s captains, said of Coach Kim Wyant. “It was one of the perks of coming here.”</media:description>
     </item>
@@ -319,69 +319,68 @@
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
     </item>
     <item>
-      <title>The 2022 Midterms: Is Wisconsin the Future of America? </title>
-      <link>https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html" rel="standout"></atom:link>
-      <description>In Wisconsin, aggressive and methodical gerrymandering has allowed Republicans to cement their political power. Can Democrats ever make inroads?</description>
-      <dc:creator>‘The Run-Up’ Team</dc:creator>
-      <pubDate>Thu, 20 Oct 2022 12:20:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <title>A Social Media Status Update</title>
+      <link>https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html" rel="standout"></atom:link>
+      <description>Top social media apps are struggling after a decade of dominance.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26themorning-promo/26themorning-lead-1-d069-moth.jpg" width="151"></media:content>
+      <media:credit>Jenny Kane/Associated Press</media:credit>
+      <media:description>Social media companies are having a troubling year.</media:description>
+    </item>
+    <item>
+      <title>Can Congress Force Trump to Testify?</title>
+      <link>https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html" rel="standout"></atom:link>
+      <description>The Jan. 6 committee has voted to subpoena former President Donald J. Trump. It’s a momentous move, but it’s not without precedent.</description>
+      <dc:creator>Michael Barbaro, Asthaa Chaturvedi, Luke Vander Ploeg, John Ketchum, Dan Powell, Marion Lozano and Chris Wood</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 10:08:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Scott K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vos, Robin J</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/podcasts/19run-up-episode7-image-audioapp/19run-up-episode7-image-audioapp-moth-v2.jpg" width="151"></media:content>
-      <media:credit>ilbusca/ Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/podcasts/26daily-1/26DAILY-trump-subpoena-audio-app-moth-v6.jpg" width="151"></media:content>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <media:description>The Jan. 6 committee’s decision last week has raised a question: Does former President Donald J. Trump have to comply with a congressional subpoena?</media:description>
     </item>
     <item>
-      <title>Facing Surgery? Here’s How to Prepare.</title>
-      <link>https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html" rel="standout"></atom:link>
-      <description>The best way to navigate a surgery recommendation is to ask a lot of questions.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 00:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by Joan Wong; Photographs by Getty Images</media:credit>
+      <title>Some good news on energy</title>
+      <link>https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html" rel="standout"></atom:link>
+      <description>Renewable sources made up the vast majority of new generating capacity last year, a new report found. But the world’s energy transition still needs to speed up.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 15:07:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/climate/25cli-newsletter-solar/25cli-newsletter-solar-moth.jpg" width="151"></media:content>
+      <media:credit>Bing Guan/Reuters</media:credit>
+      <media:description>The Ivanpah Solar Electric Generating System in the Mojave Desert near Nipton, Calif.</media:description>
     </item>
     <item>
-      <title>We Were Three</title>
-      <link>https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html" rel="standout"></atom:link>
-      <description>A story of lies, family, America and what Covid revealed, as well as what it destroyed.</description>
-      <dc:creator>Nancy Updike, Jenelle Pifer, Julie Snyder and Sophie Allison of Soccer Mommy</dc:creator>
-      <pubDate>Thu, 13 Oct 2022 12:37:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rochester (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-tragedy</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-moth.jpg" width="151"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Do You Have Messy Handwriting? We Want to See It.</title>
-      <link>https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html" rel="standout"></atom:link>
-      <description>Is your penmanship a mess? Can you often not read your own handwriting? Share something you wrote and later found hard to decipher.</description>
-      <dc:creator>Isabella Paoletto</dc:creator>
-      <pubDate>Fri, 21 Oct 2022 13:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handwriting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-moth.jpg" width="151"></media:content>
-      <media:credit>Getty Images </media:credit>
+      <title>Taylor Swift’s ‘Midnights’: Let’s Discuss</title>
+      <link>https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html" rel="standout"></atom:link>
+      <description>The blockbuster singer-songwriter’s 10th studio album finds her at a crossroads: Will she continue to reckon with her past, or forge another new path forward?</description>
+      <pubDate>Tue, 25 Oct 2022 16:08:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Midnights (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antonoff, Jack</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25popcast-1-0c2b/25popcast-1-0c2b-moth.jpg" width="151"></media:content>
+      <media:credit>Eduardo Munoz/Reuters</media:credit>
     </item>
     <item>
       <title>More Than 104,000 NYC Students Were Homeless Last Year</title>

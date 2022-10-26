@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 22:20:32 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 22:09:42 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 22:35:56 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 22:35:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -125,7 +125,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/26/world/russia-ukraine-war-news/the-us-looks-to-reorient-ties-with-saudi-arabia-over-an-oil-production-cut-that-could-benefit-russia" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 22:02:25 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 22:35:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/16/world/26ukraine-briefing-saudi-ukraine-1/26ukraine-briefing-saudi-ukraine-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Biden and the U.S. secretary of state, Antony J. Blinken, during a meeting in Jeddah, Saudi Arabia, in July.</media:description>
@@ -394,69 +394,63 @@
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
     </item>
     <item>
-      <title>A Social Media Status Update</title>
-      <link>https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html" rel="standout"></atom:link>
-      <description>Top social media apps are struggling after a decade of dominance.</description>
-      <dc:creator>Kevin Roose</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26themorning-promo/26themorning-lead-1-d069-moth.jpg" width="151"></media:content>
-      <media:credit>Jenny Kane/Associated Press</media:credit>
-      <media:description>Social media companies are having a troubling year.</media:description>
+      <title>Your Wednesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know at the end of the day.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 22:12:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/science/26evening-briefing-nl/26evening-briefing-nl-moth.jpg" width="151"></media:content>
+      <media:credit>Feisal Omar/Reuters</media:credit>
+      <media:description>Scientists say that climate change has led to more intense flooding, wildfires and drought.</media:description>
     </item>
     <item>
-      <title>The Trump Subpoena</title>
-      <link>https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/podcasts/the-daily/jan-6-committee-trump-subpoena.html" rel="standout"></atom:link>
-      <description>The Jan. 6 committee has voted to subpoena former President Donald J. Trump. It’s a momentous move, but it’s not without precedent.</description>
-      <dc:creator>Michael Barbaro, Asthaa Chaturvedi, Luke Vander Ploeg, John Ketchum, Dan Powell, Marion Lozano and Chris Wood</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 12:05:19 +0000</pubDate>
+      <title>If These Poll Results Keep Up, Expect Anything on Election Night</title>
+      <link>https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html" rel="standout"></atom:link>
+      <description>The current range of numbers could translate to a Democratic hold in the Senate, or an overall Republican rout.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 14:07:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/podcasts/26daily-1/26DAILY-trump-subpoena-audio-app-moth-v6.jpg" width="151"></media:content>
-      <media:credit>Brittany Greeson for The New York Times</media:credit>
-      <media:description>The Jan. 6 committee’s decision last week has raised a question: Does former President Donald J. Trump have to comply with a congressional subpoena?</media:description>
-    </item>
-    <item>
-      <title>Some good news on energy</title>
-      <link>https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html" rel="standout"></atom:link>
-      <description>Renewable sources made up the vast majority of new generating capacity last year, a new report found. But the world’s energy transition still needs to speed up.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:07:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/climate/25cli-newsletter-solar/25cli-newsletter-solar-moth.jpg" width="151"></media:content>
-      <media:credit>Bing Guan/Reuters</media:credit>
-      <media:description>The Ivanpah Solar Electric Generating System in the Mojave Desert near Nipton, Calif.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
     </item>
     <item>
-      <title>Taylor Swift’s ‘Midnights’: Let’s Discuss</title>
-      <link>https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html" rel="standout"></atom:link>
-      <description>The blockbuster singer-songwriter’s 10th studio album finds her at a crossroads: Will she continue to reckon with her past, or forge another new path forward?</description>
-      <pubDate>Tue, 25 Oct 2022 16:08:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Midnights (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antonoff, Jack</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25popcast-1-0c2b/25popcast-1-0c2b-moth.jpg" width="151"></media:content>
-      <media:credit>Eduardo Munoz/Reuters</media:credit>
+      <title>Not the Daughter She Wanted</title>
+      <link>https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html" rel="standout"></atom:link>
+      <description>When it comes to whom she loves, an immigrant daughter can’t make her mother happy. But she holds on to hope, as her mother always taught her to do.</description>
+      <pubDate>Wed, 26 Oct 2022 20:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2016/07/17/fashion/26MODERNLOVE-image/17MODERNLOVE-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+    <item>
+      <title>How Is Your Company Responding to Labor Organizing? We Want to Hear.</title>
+      <link>https://www.nytimes.com/2022/10/26/business/labor-management-callout.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/business/labor-management-callout.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/business/labor-management-callout.html" rel="standout"></atom:link>
+      <description>Employers are taking a variety of approaches to union campaigns.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 17:20:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/business/00labor-management-callout-promo/00labor-management-callout-promo-moth.png" width="151"></media:content>
+      <media:credit>DeSean McClinton-Holland for The New York Times; Tony Luong for The New York Times</media:credit>
     </item>
     <item>
       <title>Michigan Jury Convicts Men of Supporting Plot to Kidnap Governor</title>

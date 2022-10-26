@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 10:34:58 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 10:05:45 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 10:50:48 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/26/world/-russia-ukraine-war-news" rel="standout"></atom:link>
       <description>President Biden told Russia it would be a “serious mistake” to use tactical nuclear weapons. His comments reflect growing worry among allies that Moscow may be searching for a pretext for a radiological attack.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 10:05:45 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 10:40:50 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/obituaries/26ukraine-briefing-header/26ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A woman cycled past a destroyed house on Tuesday after receiving humanitarian aid in the village of Khreshchenivka, which was liberated from Russian forces in early October.</media:description>
@@ -177,6 +177,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25westbank-raid01/25westbank-raid01-moth.jpg" width="151"></media:content>
       <media:credit>Majdi Mohammed/Associated Press</media:credit>
       <media:description>Mourners carrying the bodies of Palestinians who were among those killed in an overnight Israeli raid in the occupied West Bank city of Nablus on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>A Social Media Status Update</title>
+      <link>https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/social-media-twitter.html" rel="standout"></atom:link>
+      <description>Top social media apps are struggling after a decade of dominance.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 10:40:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26themorning-promo/26themorning-lead-1-d069-moth.jpg" width="151"></media:content>
+      <media:credit>Jenny Kane/Associated Press</media:credit>
+      <media:description>Social media companies are having a troubling year.</media:description>
     </item>
     <item>
       <title>A 23-Million-Year-Old Fossil Is Carried Away by Parties Unknown</title>
@@ -976,25 +989,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/24/multimedia/24themorning-promo/24themorning-lead2-1-b5aa-moth.jpg" width="151"></media:content>
       <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Scenes From Tuesday’s Partial Solar Eclipse</title>
-      <link>https://www.nytimes.com/2022/10/24/science/partial-solar-eclipse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/24/science/partial-solar-eclipse.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/24/science/partial-solar-eclipse.html" rel="standout"></atom:link>
-      <description>The event was visible from Europe, northern Africa, the Middle East and Asia.</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:53:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Astronomical Society</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/24/world/24xp-eclipse3/24xp-eclipse3-moth.jpg" width="151"></media:content>
-      <media:credit>Owen Humphreys/Press Association, via Associated Press</media:credit>
-      <media:description>The eclipse seen over Cullercoats Watch House on the eastern coast of England on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

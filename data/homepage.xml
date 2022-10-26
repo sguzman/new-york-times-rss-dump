@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 04:08:41 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 03:56:51 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 04:33:45 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 04:20:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/us/politics/us-saudi-oil-deal.html" rel="standout"></atom:link>
       <description>After Saudi leaders pushed to slash oil production despite a visit by President Biden, American officials have been left fuming that they were duped.</description>
       <dc:creator>Mark Mazzetti, Edward Wong and Adam Entous</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 03:47:13 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 04:20:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -82,7 +82,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/nyregion/takeaways-hochul-zeldin-debate.html" rel="standout"></atom:link>
       <description>Representative Lee Zeldin conveyed a sense of outrage over crime and the economy, as Gov. Kathy Hochul emphasized his views on abortion and his ties to Donald Trump.</description>
       <dc:creator>Luis Ferré-Sadurní and Michael Gold</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 02:05:06 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 04:09:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
@@ -391,63 +391,69 @@
       <media:credit>Ralph Answang</media:credit>
     </item>
     <item>
-      <title>Your Tuesday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/10/25/briefing/democrats-midterm-elections-adidas-kanye-west.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/briefing/democrats-midterm-elections-adidas-kanye-west.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/briefing/democrats-midterm-elections-adidas-kanye-west.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 22:00:08 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25evening-briefing-promo/25evening-briefing-nl-fung-1-19ef-moth.jpg" width="151"></media:content>
-      <media:credit>Philip Keith for The New York Times</media:credit>
-      <media:description>Republican Congressional candidate Allan Fung on the campaign trail.</media:description>
+      <title>The 2022 Midterms: Is Wisconsin the Future of America? </title>
+      <link>https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/podcasts/run-up-wisconsin-midterm-elections.html" rel="standout"></atom:link>
+      <description>In Wisconsin, aggressive and methodical gerrymandering has allowed Republicans to cement their political power. Can Democrats ever make inroads?</description>
+      <dc:creator>‘The Run-Up’ Team</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:20:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Scott K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vos, Robin J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/podcasts/19run-up-episode7-image-audioapp/19run-up-episode7-image-audioapp-moth-v2.jpg" width="151"></media:content>
+      <media:credit>ilbusca/ Getty Images</media:credit>
     </item>
     <item>
-      <title>Some good news on energy</title>
-      <link>https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html" rel="standout"></atom:link>
-      <description>Renewable sources made up the vast majority of new generating capacity last year, a new report found. But the world’s energy transition still needs to speed up.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:07:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/climate/25cli-newsletter-solar/25cli-newsletter-solar-moth.jpg" width="151"></media:content>
-      <media:credit>Bing Guan/Reuters</media:credit>
-      <media:description>The Ivanpah Solar Electric Generating System in the Mojave Desert near Nipton, Calif.</media:description>
+      <title>Facing Surgery? Here’s How to Prepare.</title>
+      <link>https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/well/live/prepare-for-surgery.html" rel="standout"></atom:link>
+      <description>The best way to navigate a surgery recommendation is to ask a lot of questions.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 00:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/well/20Well-NL-Preparing-For-Surgery/20Well-NL-Preparing-For-Surgery-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Joan Wong; Photographs by Getty Images</media:credit>
     </item>
     <item>
-      <title>Taylor Swift’s ‘Midnights’: Let’s Discuss</title>
-      <link>https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/arts/music/popcast-taylor-swift-midnights.html" rel="standout"></atom:link>
-      <description>The blockbuster singer-songwriter’s 10th studio album finds her at a crossroads: Will she continue to reckon with her past, or forge another new path forward?</description>
-      <pubDate>Tue, 25 Oct 2022 16:08:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Midnights (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antonoff, Jack</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25popcast-1-0c2b/25popcast-1-0c2b-moth.jpg" width="151"></media:content>
-      <media:credit>Eduardo Munoz/Reuters</media:credit>
+      <title>We Were Three</title>
+      <link>https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/11/podcasts/we-were-three.html" rel="standout"></atom:link>
+      <description>A story of lies, family, America and what Covid revealed, as well as what it destroyed.</description>
+      <dc:creator>Nancy Updike, Jenelle Pifer, Julie Snyder and Sophie Allison of Soccer Mommy</dc:creator>
+      <pubDate>Thu, 13 Oct 2022 12:37:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rochester (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-sad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-negative-tragedy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/11/podcasts/we-were-three-promo-art/we-were-three-promo-art-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>When You’re Sick at Home</title>
-      <link>https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html" rel="standout"></atom:link>
-      <description>Your guide to eating well, even when you’re feeling low.</description>
-      <dc:creator>Nikita Richardson</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 20:48:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Russell for The New York Times</media:credit>
-      <media:description>The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.</media:description>
+      <title>Do You Have Messy Handwriting? We Want to See It.</title>
+      <link>https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html" rel="standout"></atom:link>
+      <description>Is your penmanship a mess? Can you often not read your own handwriting? Share something you wrote and later found hard to decipher.</description>
+      <dc:creator>Isabella Paoletto</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handwriting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images </media:credit>
     </item>
     <item>
       <title>Justice Dept. Seeks to Force Trump White House Lawyers to Testify in Jan. 6 Inquiry</title>

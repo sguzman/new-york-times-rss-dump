@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 04:32:29 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 04:20:04 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 05:02:41 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 04:44:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -177,6 +177,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25westbank-raid01/25westbank-raid01-moth.jpg" width="151"></media:content>
       <media:credit>Majdi Mohammed/Associated Press</media:credit>
       <media:description>Mourners carrying the bodies of Palestinians who were among those killed in an overnight Israeli raid in the occupied West Bank city of Nablus on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2022/10/26/briefing/rishi-sunak-germany-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/rishi-sunak-germany-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/rishi-sunak-germany-ukraine.html" rel="standout"></atom:link>
+      <description>Tensions are flaring between Germany and its allies.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 04:41:20 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26ambriefing-europe-nl-scholz-promo/26ambriefing-europe-nl-scholz-1-494a-moth.jpg" width="151"></media:content>
+      <media:credit>Piroschka Van De Wouw/Reuters</media:credit>
+      <media:description>Chancellor Olaf Scholz of Germany said criticism of its policy on military aid to Ukraine was unfounded.</media:description>
     </item>
     <item>
       <title>Biden Says Russian Use of a Nuclear Weapon Would Be a ‘Serious Mistake’</title>
@@ -956,26 +968,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/multimedia/23xp-monet-1-b505/23xp-monet-1-b505-moth.jpg" width="151"></media:content>
       <media:credit>Letzte Generation, via Associated Press</media:credit>
       <media:description>After throwing mashed potatoes at a painting by Claude Monet, on exhibit in Potsdam, Germany, the climate protesters each glued a hand to the wall on Sunday. </media:description>
-    </item>
-    <item>
-      <title>Rishi Sunak Becomes the Front Runner for U.K. Prime Minister</title>
-      <link>https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/23/world/europe/britain-rishi-sunak-prime-minister.html" rel="standout"></atom:link>
-      <description>Mr. Sunak’s warnings about inflation and his fiscal conservatism may have cost him the post in September. But now his accurate assessments are easing his path to Britain’s top job.</description>
-      <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Mon, 24 Oct 2022 13:17:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/business/23uk-sunak-1/23uk-sunak-1-moth.jpg" width="151"></media:content>
-      <media:credit>Hannah Mckay/Reuters</media:credit>
-      <media:description>Rishi Sunak at a Conservative Party event in London in August. </media:description>
     </item>
   </channel>
 </rss>

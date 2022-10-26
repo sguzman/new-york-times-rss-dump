@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 16:37:30 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Oct 2022 16:32:41 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 16:52:31 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2022 16:50:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -211,16 +211,18 @@
       <atom:link href="https://www.nytimes.com/2022/10/26/technology/musk-twitter-delaware-judge-mccormick.html" rel="standout"></atom:link>
       <description>Kathaleen St. J. McCormick, the chief judge of Delaware’s Chancery Court, gave Mr. Musk until Friday to acquire Twitter. She is also the judge in at least one other case involving the billionaire.</description>
       <dc:creator>Lauren Hirsch</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 07:00:10 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 16:38:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts of Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>The Case of Mexico’s 43 Missing Students Was Solved. Then It Fell Apart</title>
@@ -361,31 +363,23 @@
       <media:credit>Isabel Seliger</media:credit>
     </item>
     <item>
-      <title>Newsom vs. DeSantis Is Our Inevitable Culture War</title>
-      <link>https://www.nytimes.com/2022/10/26/opinion/newsom-desantis-culture-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/opinion/newsom-desantis-culture-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/opinion/newsom-desantis-culture-war.html" rel="standout"></atom:link>
-      <description>Our future peace may depend on the outcome of the conflict between Gavin Newsom’s California and Ron DeSantis’s Florida.</description>
-      <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 15:47:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chait, Jonathan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daleiden, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">French, David A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Divided We Fall: America&#39;s Secession Threat and How to Restore Our Nation (Book)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/26douthat-image/26douthat-image-moth.jpg" width="151"></media:content>
-      <media:credit>Illustration by The New York Times; photos by Justin Sullivan and Joe Raedle via Getty Images</media:credit>
+      <title>Most Parents Don’t Favor Abstinence-Only Sex Ed. Why Is the Government Still Funding It?</title>
+      <link>https://www.nytimes.com/2022/10/26/opinion/abstinence-only.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/opinion/abstinence-only.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/opinion/abstinence-only.html" rel="standout"></atom:link>
+      <description>It’s 2022, after all.</description>
+      <dc:creator>Jessica Grose</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 16:30:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pew Research Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abstinence (Sexual)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/opinion/26grose-image/26grose-image-moth.jpg" width="151"></media:content>
+      <media:credit>Eleanor Davis</media:credit>
     </item>
     <item>
       <title>The Left-Right Divide Might Help Democrats Avoid a Total Wipeout</title>
@@ -479,7 +473,7 @@
       <media:credit>Eduardo Munoz/Reuters</media:credit>
     </item>
     <item>
-      <title>Jury Convicts Men Accused of Supporting Plot to Kidnap Michigan Governor</title>
+      <title>Michigan Jury Convicts Men Accused of Attempting to Kidnap Governor</title>
       <link>https://www.nytimes.com/2022/10/26/us/michigan-wolverine-watchmen-trial.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/us/michigan-wolverine-watchmen-trial.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/26/us/michigan-wolverine-watchmen-trial.html" rel="standout"></atom:link>
@@ -496,16 +490,23 @@
       <media:description>The defendants were accused of helping Adam Fox, who was convicted in federal court of conspiring to kidnap the governor, whose Covid-19 restrictions the men considered tyrannical.</media:description>
     </item>
     <item>
-      <title>Stock Market Falls as Investors Fret About Tech Growth</title>
-      <link>https://www.nytimes.com/2022/10/26/business/stock-market-tech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/business/stock-market-tech.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/business/stock-market-tech.html" rel="standout"></atom:link>
-      <description>Weak economic growth, rising inflation and a strong dollar have taken a toll on the tech giants that have an outsize impact on the stock market.</description>
-      <dc:creator>Isabella Simonetti</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 15:50:15 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/business/26techstocks/26techstocks-moth.jpg" width="151"></media:content>
-      <media:credit>John Taggart for The New York Times</media:credit>
-      <media:description>The tech-heavy Nasdaq index is under pressure after a series of disappointing corporate earnings reports.</media:description>
+      <title>Wisconsin Man Found Guilty of Killing 6 in Christmas Parade Attack</title>
+      <link>https://www.nytimes.com/2022/10/26/us/darrell-brooks-wisconsin-parade-verdict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/us/darrell-brooks-wisconsin-parade-verdict.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/us/darrell-brooks-wisconsin-parade-verdict.html" rel="standout"></atom:link>
+      <description>Darrell E. Brooks was convicted of first-degree intentional homicide after driving his car in a rampage through a parade in Waukesha, Wis., in 2021.</description>
+      <dc:creator>Julie Bosman</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 16:50:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waukesha, Wis, Holiday Parade Attack (2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brooks, Darrell E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Waukesha (Wis)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/us/hfo-brooks-verdict/hfo-brooks-verdict-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Mathis for The New York Times</media:credit>
+      <media:description>A man placed flowers as a memorial to those killed at a holiday parade in Waukesha, Wis., in November 2021.</media:description>
     </item>
     <item>
       <title>Mark Meadows Ordered to Testify in Georgia Election Investigation</title>

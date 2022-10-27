@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 04:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2022 04:32:20 +0000</lastBuildDate>
     <pubDate>Thu, 27 Oct 2022 03:50:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
@@ -345,31 +345,23 @@
       <media:credit>Isabel Seliger</media:credit>
     </item>
     <item>
-      <title>Your Wednesday Evening Briefing</title>
-      <link>https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/briefing/climate-pledges-un-report-russia-ukraine.html" rel="standout"></atom:link>
-      <description>Here’s what you need to know at the end of the day.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 22:12:47 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/science/26evening-briefing-nl/26evening-briefing-nl-moth.jpg" width="151"></media:content>
-      <media:credit>Feisal Omar/Reuters</media:credit>
-      <media:description>Scientists say that climate change has led to more intense flooding, wildfires and drought.</media:description>
-    </item>
-    <item>
-      <title>If These Poll Results Keep Up, Expect Anything on Election Night</title>
-      <link>https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/upshot/polling-midterm-elections-analysis.html" rel="standout"></atom:link>
-      <description>The current range of numbers could translate to a Democratic hold in the Senate, or an overall Republican rout.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 14:07:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <title>An Alternate History of the 2022 Midterms</title>
+      <link>https://www.nytimes.com/2022/10/26/us/politics/state-of-play-democrats-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/us/politics/state-of-play-democrats-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/us/politics/state-of-play-democrats-midterm-elections.html" rel="standout"></atom:link>
+      <description>In the campaign’s final days, Democratic strategists are already back-seat driving, second-guessing and what-iffing.</description>
+      <dc:creator>Blake Hounshell</dc:creator>
+      <pubDate>Wed, 26 Oct 2022 23:00:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26OnPoliticsl-bernie-1-1159/26OnPoliticsl-bernie-1-1159-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Senator Bernie Sanders wrote recently that “while the abortion issue must remain on the front burner, it would be political malpractice for Democrats to ignore the state of the economy.”</media:description>
     </item>
     <item>
       <title>Not the Daughter She Wanted</title>
@@ -384,24 +376,35 @@
       <media:credit>Brian Rea</media:credit>
     </item>
     <item>
-      <title>How Is Your Company Responding to Labor Organizing? We Want to Hear.</title>
-      <link>https://www.nytimes.com/2022/10/26/business/labor-management-callout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/business/labor-management-callout.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/business/labor-management-callout.html" rel="standout"></atom:link>
-      <description>Employers are taking a variety of approaches to union campaigns.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 17:20:59 +0000</pubDate>
+      <title>When You’re Sick at Home</title>
+      <link>https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html" rel="standout"></atom:link>
+      <description>Your guide to eating well, even when you’re feeling low.</description>
+      <dc:creator>Nikita Richardson</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 20:48:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Russell for The New York Times</media:credit>
+      <media:description>The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.</media:description>
+    </item>
+    <item>
+      <title>Do You Have Messy Handwriting? We Want to See It.</title>
+      <link>https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/style/do-you-have-messy-handwriting-we-want-to-see-it.html" rel="standout"></atom:link>
+      <description>Is your penmanship a mess? Can you often not read your own handwriting? Share something you wrote and later found hard to decipher.</description>
+      <dc:creator>Isabella Paoletto</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handwriting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/business/00labor-management-callout-promo/00labor-management-callout-promo-moth.png" width="151"></media:content>
-      <media:credit>DeSean McClinton-Holland for The New York Times; Tony Luong for The New York Times</media:credit>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/fashion/21PENMANSHIP-CALLOUT-1/21PENMANSHIP-CALLOUT-1-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images </media:credit>
     </item>
     <item>
       <title>Kanye West Fallout Imperils Season for Donda Academy Basketball</title>

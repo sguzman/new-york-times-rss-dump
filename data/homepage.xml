@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 22:01:37 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 21:38:57 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 22:21:58 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 22:14:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,27 +104,44 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/business/placeholder-promo/placeholder-promo-moth-v2.png" width="151"></media:content>
     </item>
     <item>
-      <title>US Mortgage Rates Soar Past 7% for the First Time Since 2002</title>
-      <link>https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html" rel="standout"></atom:link>
-      <description>The average rate on 30-year mortgages — the most popular kind among Americans — rose to the highest level since 2002, tracking the Federal Reserve’s aggressive campaign of rate increases.</description>
-      <dc:creator>Tara Siegel Bernard</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 19:34:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Home Loan Mortgage Corp (Freddie Mac)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mortgage Bankers Assn of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn of Realtors</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/00mortgage-rates/00mortgage-rates-moth.jpg" width="151"></media:content>
-      <media:credit>Philip Cheung for The New York Times</media:credit>
-      <media:description>Rates on 30-year fixed-rate mortgages, the most popular kind among U.S. home buyers, rose to 7.08 percent on Thursday.</media:description>
+      <title>Amazon Earnings: Return to Profitability But Slow Growth Signaled Ahead</title>
+      <link>https://www.nytimes.com/2022/10/27/technology/amazon-amzn-q3-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/technology/amazon-amzn-q3-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/technology/amazon-amzn-q3-earnings.html" rel="standout"></atom:link>
+      <description>The e-commerce giant, which also turned a profit in its latest quarter, indicated sales in the holiday period might rise at their lowest level since 2001.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 20:39:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/27AMAZON-earnings/27AMAZON-earnings-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Amazon’s quarterly results set it apart from other tech giants like Microsoft and Meta, which sent worrying signs about the economy with their earnings reports.</media:description>
+    </item>
+    <item>
+      <title>Apple Earnings: iPhone Powers Growth, but Signs Point to a Slowdown</title>
+      <link>https://www.nytimes.com/2022/10/27/technology/apple-aapl-iphone-q4-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/technology/apple-aapl-iphone-q4-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/technology/apple-aapl-iphone-q4-earnings.html" rel="standout"></atom:link>
+      <description>Consumers showed enthusiasm for the latest version of the phone, but the company said sales in the current quarter are not as strong.</description>
+      <dc:creator>Tripp Mickle</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 22:14:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/27APPLE-earnings-1/27APPLE-earnings-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Tim Cook, Apple’s chief executive, has guided the company through years of growth.</media:description>
     </item>
     <item>
       <title>Making Sense of the Week’s Climate News</title>
@@ -295,6 +312,24 @@
       <media:description>Dr. Nikki Zite, a professor at a University of Tennessee OB-GYN residency program, worries that top-tier candidates will not apply there because abortions cannot be performed in the state.</media:description>
     </item>
     <item>
+      <title>The $4,990 Ice Bath</title>
+      <link>https://www.nytimes.com/2022/10/27/style/cold-plunge-ice-bath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/style/cold-plunge-ice-bath.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/style/cold-plunge-ice-bath.html" rel="standout"></atom:link>
+      <description>Cold-plunge enthusiasts are spending big on home tubs and spa classes. Is it worth it?</description>
+      <dc:creator>Allie Jones</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 14:35:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saunas and Sweat Lodges</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goop.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jenner, Kendall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paltrow, Gwyneth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+    </item>
+    <item>
       <title>Republicans Have No Inflation Plan</title>
       <link>https://www.nytimes.com/2022/10/27/opinion/columnists/republicans-biden-inflation-policy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/columnists/republicans-biden-inflation-policy.html</guid>
@@ -455,7 +490,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/science/mars-meteorites-impacts-seismic.html" rel="standout"></atom:link>
       <description>Scientists thought the InSight spacecraft had recorded some major marsquakes, but with another NASA mission’s help, they found what had really shaken up the red planet.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 21:08:40 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 21:08:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars InSight (Spacecraft)</category>

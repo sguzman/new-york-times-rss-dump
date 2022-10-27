@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 18:20:59 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 18:20:05 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 18:35:53 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 18:27:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -55,7 +55,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn of Realtors</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/00mortgage-rates/00mortgage-rates-moth.jpg" width="151"></media:content>
       <media:credit>Philip Cheung for The New York Times</media:credit>
-      <media:description>Rates on 30-year fixed-rate mortgages, the most popular kind among U.S. home buyers, rose to 7.08 percent.</media:description>
+      <media:description>Rates on 30-year fixed-rate mortgages, the most popular kind among U.S. home buyers, rose to 7.08 percent on Thursday.</media:description>
     </item>
     <item>
       <title>Why Russia Stole Potemkin’s Bones From Ukraine</title>
@@ -64,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-potemkin-bones.html" rel="standout"></atom:link>
       <description>The 18th-century military commander and lover of Catherine the Great helped conquer Ukraine and looms large in the version of history the Kremlin uses to justify the war.</description>
       <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 18:16:40 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 18:27:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bones</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
@@ -242,9 +242,9 @@
       <link>https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html" rel="standout"></atom:link>
-      <description>Demand for semiconductors was off the charts last year. But a sharp slowdown, coupled with new U.S. restrictions against China, has created obstacles.</description>
+      <description>Demand for semiconductors was off the charts last year. But a sharp slowdown coupled with new U.S. restrictions against China have created obstacles.</description>
       <dc:creator>Don Clark</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 18:14:58 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 18:26:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
@@ -346,6 +346,26 @@
       <media:description>Rebound symptoms are common, said one doctor. “It doesn’t mean that things are going south,” he said. “It’s just the natural way the disease goes.”</media:description>
     </item>
     <item>
+      <title>Republicans Have No Inflation Plan</title>
+      <link>https://www.nytimes.com/2022/10/27/opinion/columnists/republicans-biden-inflation-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/columnists/republicans-biden-inflation-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/columnists/republicans-biden-inflation-policy.html" rel="standout"></atom:link>
+      <description>In fact, G.O.P. policies would make inflation worse.</description>
+      <dc:creator>Paul Krugman</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 18:23:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27krugman1/27krugman1-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
       <title>What Kanye West’s Antisemitism Reveals</title>
       <link>https://www.nytimes.com/2022/10/26/opinion/kanye-west-antisemitism.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/opinion/kanye-west-antisemitism.html</guid>
@@ -379,37 +399,25 @@
       <media:credit>Ben Wiseman</media:credit>
     </item>
     <item>
-      <title>Teachers Are Arming Themselves. This Sheriff Wants Them to Get Trained.</title>
-      <link>https://www.nytimes.com/2022/10/27/opinion/school-shootings-should-teachers-be-armed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/school-shootings-should-teachers-be-armed.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/school-shootings-should-teachers-be-armed.html" rel="standout"></atom:link>
-      <description>In response to school shootings, teachers are choosing to concealed carry in school. In Utah, Sheriff Mike Smith decided to train them how.</description>
-      <dc:creator>‘First Person’</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 15:49:36 +0000</pubDate>
+      <title>Nikolas Cruz, the Parkland Shooter, Deserved the Death Penalty</title>
+      <link>https://www.nytimes.com/2022/10/27/opinion/parkland-death-penalty-justice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/parkland-death-penalty-justice.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/parkland-death-penalty-justice.html" rel="standout"></atom:link>
+      <description>Retribution can help restore a moral balance.</description>
+      <dc:creator>Robert Blecker</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sheriffs</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27fp-sheriff-smith-image/27fp-sheriff-smith-image-moth.jpg" width="151"></media:content>
-      <media:credit>Skynesher / Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Protesters So Ill, They Couldn’t Get Arrested</title>
-      <link>https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html" rel="standout"></atom:link>
-      <description>Long Covid brought attention to M.E./C.F.S., a long-ignored illness whose sufferers are too sick to accelerate research by making trouble the way AIDS activists once did.</description>
-      <dc:creator>Zeynep Tufekci</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 16:26:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Long Covid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Fatigue Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27tufekci2/27tufekci2-moth.jpg" width="151"></media:content>
-      <media:credit>Sarah Blesener for The New York Times</media:credit>
-      <media:description>Therese Russo</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Nikolas</category>
+      <category domain="">Retributive Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parkland, Fla, Shooting (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sentences (Criminal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/opinion/26blecker-image/26blecker-image-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Mike Stocker, via Getty Images</media:credit>
+      <media:description>Hui Wang, whose son, Peter, was killed by Nikolas Cruz at Marjory Stoneman Douglas High School in Parkland, Fla., after the jury rejected a death sentence for Mr. Cruz.</media:description>
     </item>
     <item>
       <title>The Climate’s Improved Future</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 14:07:03 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 14:04:09 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 14:25:04 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 14:23:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,6 +60,29 @@
       <media:description>Outside a securities firm in Tokyo. Last week, the Japanese yen fell to its weakest level against the dollar since 1990, down more than 23 percent for the year.</media:description>
     </item>
     <item>
+      <title>U.S. Mortgage Rates Soar Past 7%</title>
+      <link>https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/business/us-mortgage-rates.html" rel="standout"></atom:link>
+      <description>The average rate on 30-year mortgages — the most popular kind among Americans — rose to the highest level since 2002, tracking the Federal Reserve’s aggressive campaign of rate increases.</description>
+      <dc:creator>Tara Siegel Bernard</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 14:23:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Home Loan Mortgage Corp (Freddie Mac)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mortgage Bankers Assn of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn of Realtors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/00mortgage-rates/00mortgage-rates-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Cheung for The New York Times</media:credit>
+      <media:description>Rates on 30-year fixed-rate mortgages, the most popular kind among U.S. home buyers, rose to 7.08 percent.</media:description>
+    </item>
+    <item>
       <title>European Central Bank Raises Interest Rates Again</title>
       <link>https://www.nytimes.com/2022/10/27/business/european-central-bank-rates-inflation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/business/european-central-bank-rates-inflation.html</guid>
@@ -78,25 +101,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/business/27ecb-rates/27ecb-rates-moth.jpg" width="151"></media:content>
       <media:credit>Michael Probst/Associated Press</media:credit>
       <media:description>The European Central Bank, which sets monetary policy for the 19 countries that use the euro, raised interest rates by three-quarters of a percentage point on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Shell Reports Earnings of $9.45 Billion, Its Second-Highest Profit</title>
-      <link>https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html" rel="standout"></atom:link>
-      <description>The two European companies reported earnings totaling nearly $20 billion, partly on higher energy prices as Russia’s war in Ukraine continues.</description>
-      <dc:creator>Stanley Reed</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 13:51:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shell Plc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Beurden, Ben</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Total SA</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27shell-1-e67f/27shell-1-e67f-moth.jpg" width="151"></media:content>
-      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
-      <media:description>Shell, the London-based energy giant, more than doubled the profit it made a year ago.</media:description>
     </item>
     <item>
       <title>War in Ukraine Likely to Speed, Not Slow, Shift to Clean Energy, I.E.A. Says</title>
@@ -156,6 +160,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mykolaiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-mykolaiv-promo/27ukraine-mykolaiv-promo-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
@@ -384,8 +390,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/podcasts/the-daily/midterm-elections-new-york.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/27/podcasts/the-daily/midterm-elections-new-york.html" rel="standout"></atom:link>
       <description>Two weeks before Election Day, races across the state have gotten too close for Democrats’ comfort.</description>
-      <dc:creator>Michael Barbaro, Stella Tan, Sydney Harper, MJ Davis Lin, Marion Lozano and Chris Wood</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 10:00:09 +0000</pubDate>
+      <dc:creator>Michael Barbaro, Stella Tan, Sydney Harper, MJ Davis Lin, Marion Lozano, Dan Powell and Chris Wood</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 14:14:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>

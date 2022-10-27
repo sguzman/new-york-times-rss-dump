@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 22:02:35 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 21:54:28 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 22:19:44 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 22:16:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -273,6 +273,28 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/26/multimedia/26iran-protests02-1-0a42/26iran-protests02-1-0a42-moth.jpg" width="151"></media:content>
       <media:credit>Afp Via Getty Images</media:credit>
       <media:description>This image, posted on Twitter, shows an unveiled woman standing on top of a vehicle as thousands make their way toward Aichi Cemetery in Saghez, Mahsa Amini’s hometown.</media:description>
+    </item>
+    <item>
+      <title>Memorials for 2 Young Women Killed in Iran Galvanize Protests</title>
+      <link>https://www.nytimes.com/2022/10/27/world/middleeast/iran-protests-mahsa-amini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/middleeast/iran-protests-mahsa-amini.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/world/middleeast/iran-protests-mahsa-amini.html" rel="standout"></atom:link>
+      <description>For a second day in a row, tens of thousands of demonstrators protested across Iran against the country’s authoritarian clerical rule. The government response on Thursday was again deadly.</description>
+      <dc:creator>Farnaz Fassihi and Cora Engelbrecht</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 22:16:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakarami, Nika (2005-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27iran-1/27iran-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>via Reuters</media:credit>
+      <media:description>A video distributed on social media on Wednesday showing people marching toward the cemetery where Mahsa Amini, who died after being detained by Iran’s morality police, is buried.</media:description>
     </item>
     <item>
       <title>Your Friday Briefing: The U.S. Economy Grew, Slowly</title>
@@ -1105,18 +1127,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-youth-topart/25uk-politics-youth-topart-moth.jpg" width="151"></media:content>
       <media:credit>Tolga Akmen/Agence France-Presse — Getty Images</media:credit>
       <media:description>Rishi Sunak was appointed as chancellor of the Exchequer in 2020 under former Prime Minister Boris Johnson.</media:description>
-    </item>
-    <item>
-      <title>Rishi Sunak Keeps Jeremy Hunt as UK Chancellor</title>
-      <link>https://www.nytimes.com/2022/10/25/world/europe/jeremy-hunt-sunak-uk-chancellor-finance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/jeremy-hunt-sunak-uk-chancellor-finance.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/jeremy-hunt-sunak-uk-chancellor-finance.html" rel="standout"></atom:link>
-      <description>Mr. Hunt became Britain’s top finance official after his predecessor’s plan for tax cuts and borrowing caused financial turmoil.</description>
-      <dc:creator>Matthew Mpoke Bigg and Mark Landler</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 15:00:43 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-hunt-HFO-topart-1-9b49/25uk-politics-hunt-HFO-topart-1-9b49-moth.jpg" width="151"></media:content>
-      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Jeremy Hunt was appointed as chancellor of the Exchequer by Liz Truss, Rishi Sunak’s predecessor, days before she resigned.</media:description>
     </item>
   </channel>
 </rss>

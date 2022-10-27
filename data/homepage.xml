@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 16:39:14 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 16:35:03 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 16:54:16 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 16:53:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/business/economy/us-economy-gdp.html" rel="standout"></atom:link>
       <description>Gross domestic product increased 0.6 percent after two quarters of decline, but key components continue to show an economic slowdown.</description>
       <dc:creator>Ben Casselman</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 14:28:29 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 16:51:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
@@ -127,23 +127,26 @@
       <media:description>President Macky Sall of Senegal welcomed the German chancellor, Olaf Scholz, in May.</media:description>
     </item>
     <item>
-      <title>Putin Wants to Divide Ukrainians. Mykolaiv Is a Test Case.</title>
-      <link>https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html" rel="standout"></atom:link>
-      <description>In a battered city on Ukraine’s southern coast, salt water runs from the taps and electricity is sporadic. Residents curse Russia, but also express frustration with their own leaders.</description>
-      <dc:creator>Andrew E. Kramer and Finbarr O’Reilly</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 12:00:28 +0000</pubDate>
+      <title>Why Russia Stole Potemkin’s Bones From Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-potemkin-bones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-potemkin-bones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/ukraine-russia-potemkin-bones.html" rel="standout"></atom:link>
+      <description>The 18th-century military commander and lover of Catherine the Great helped conquer Ukraine and looms large in the version of history the Kremlin uses to justify the war.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 16:53:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mykolaiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-mykolaiv-promo/27ukraine-mykolaiv-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine II, Empress of Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-potemkin-01/27ukraine-potemkin-01-moth.jpg" width="151"></media:content>
+      <media:credit>Fine Art Images/Heritage Images, via Getty Images</media:credit>
+      <media:description>A portrait of Prince Grigory Aleksandrovich Potemkin.</media:description>
     </item>
     <item>
       <title>Pentagon’s Strategy Says China and Russia Pose More Dangerous Challenges</title>
@@ -282,7 +285,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/health/abortion-training-residency-programs.html" rel="standout"></atom:link>
       <description>Many residency programs for obstetricians and gynecologists are in a risky position, caught between state abortion bans and accreditation requirements.</description>
       <dc:creator>Jan Hoffman</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 15:06:57 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 16:45:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
@@ -360,6 +363,10 @@
       <description>In response to school shootings, teachers are choosing to concealed carry in school. In Utah, Sheriff Mike Smith decided to train them how.</description>
       <dc:creator>‘First Person’</dc:creator>
       <pubDate>Thu, 27 Oct 2022 15:49:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sheriffs</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27fp-sheriff-smith-image/27fp-sheriff-smith-image-moth.jpg" width="151"></media:content>
       <media:credit>Skynesher / Getty Images</media:credit>
     </item>
@@ -377,7 +384,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Fatigue Syndrome</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="">myalgic encephalomyelitis/chronic fatigue syndrome</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27tufekci2/27tufekci2-moth.jpg" width="151"></media:content>
       <media:credit>Sarah Blesener for The New York Times</media:credit>
       <media:description>Therese Russo</media:description>
@@ -491,7 +497,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/world/middleeast/israel-lebanon-gas-deal.html" rel="standout"></atom:link>
       <description>The U.S.-brokered deal has stirred fierce debate in Israel between some who view it as an achievement and others as a dangerous capitulation.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 16:31:06 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 16:44:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>

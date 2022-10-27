@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 20:35:19 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 20:34:18 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 20:49:30 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 20:47:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/27/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Russian leader’s annual address at a foreign policy conference included a familiar litany of criticisms of the West.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 20:34:18 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 20:47:18 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/obituaries/26ukraine-briefing-carousel-02/26ukraine-briefing-sectionfront-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A destroyed tank near abandoned Russian positions on Tuesday, in a part of Ukraine’s Kherson region that was liberated in early October.</media:description>
@@ -76,8 +76,8 @@
       <dc:creator>Vivian Wang</dc:creator>
       <pubDate>Thu, 27 Oct 2022 16:10:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Xiaodong</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Xiaodong</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Peking University</category>
@@ -134,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/world/middleeast/israel-lebanon-gas-deal.html" rel="standout"></atom:link>
       <description>The U.S.-brokered deal has stirred fierce debate in Israel between some who view it as an achievement and others as a dangerous capitulation.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 17:40:35 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 20:43:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
@@ -274,6 +274,24 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/26/multimedia/26iran-protests02-1-0a42/26iran-protests02-1-0a42-moth.jpg" width="151"></media:content>
       <media:credit>Afp Via Getty Images</media:credit>
       <media:description>This image, posted on Twitter, shows an unveiled woman standing on top of a vehicle as thousands make their way toward Aichi Cemetery in Saghez, Mahsa Amini’s hometown.</media:description>
+    </item>
+    <item>
+      <title>Iraqi Parliament Approves New Government After Yearlong Delay</title>
+      <link>https://www.nytimes.com/2022/10/27/world/middleeast/iraq-new-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/middleeast/iraq-new-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/world/middleeast/iraq-new-government.html" rel="standout"></atom:link>
+      <description>The installation of a new prime minister and cabinet ends a long-running political deadlock, but perpetuates a system plagued by corruption and dysfunction.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 20:46:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadhimi, Mustafa al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Sudani, Mohammed Shia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maliki, Nuri Kamal al-</category>
     </item>
     <item>
       <title>U.S. Program Aims to Keep Sensitive Weapons in Ukraine</title>
@@ -1074,25 +1092,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/multimedia/25uk-politics-hunt-HFO-topart-1-9b49/25uk-politics-hunt-HFO-topart-1-9b49-moth.jpg" width="151"></media:content>
       <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jeremy Hunt was appointed as chancellor of the Exchequer by Liz Truss, Rishi Sunak’s predecessor, days before she resigned.</media:description>
-    </item>
-    <item>
-      <title>Deadly Israeli Raid in Nablus Targets New Palestinian Militia</title>
-      <link>https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/world/middleeast/israel-palestinians-west-bank-raid.html" rel="standout"></atom:link>
-      <description>At least six Palestinians were killed in a night of violence in the West Bank, raising tensions further ahead of elections in Israel next week.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 17:30:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25westbank-raid01/25westbank-raid01-moth.jpg" width="151"></media:content>
-      <media:credit>Majdi Mohammed/Associated Press</media:credit>
-      <media:description>Mourners carrying the bodies of Palestinians who were among those killed in an overnight Israeli raid in the occupied West Bank city of Nablus on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

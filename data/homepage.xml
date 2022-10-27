@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Oct 2022 14:25:04 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Oct 2022 14:23:39 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 14:40:01 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 14:28:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/business/economy/us-economy-gdp.html" rel="standout"></atom:link>
       <description>Gross domestic product increased 0.6 percent after two quarters of decline, but key components continue to show an economic slowdown.</description>
       <dc:creator>Ben Casselman</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 13:49:04 +0000</pubDate>
+      <pubDate>Thu, 27 Oct 2022 14:28:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
@@ -255,27 +255,51 @@
       <media:description>Alvin L. Bragg, the Manhattan district attorney, was overwhelmingly elected after pledging during his campaign to stop seeking jail time for certain low-level crimes.</media:description>
     </item>
     <item>
-      <title>Tech’s Biggest Companies Are Sending Worrying Signals About the Economy</title>
-      <link>https://www.nytimes.com/2022/10/26/technology/economy-facebook-google.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/technology/economy-facebook-google.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/technology/economy-facebook-google.html" rel="standout"></atom:link>
-      <description>A series of quarterly earnings reports is showing that even Silicon Valley’s most powerful companies are feeling the impact of inflation and rising interest rates.</description>
-      <dc:creator>Tripp Mickle</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 01:36:49 +0000</pubDate>
+      <title>Chip Makers, Once in High Demand, Confront Sudden Challenges</title>
+      <link>https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/technology/chip-makers-challenges.html" rel="standout"></atom:link>
+      <description>Demand for semiconductors was off the charts last year. But a sharp slowdown coupled with new U.S. restrictions against China have created obstacles.</description>
+      <dc:creator>Don Clark</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 14:23:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Applied Materials Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hynix Semiconductor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lam Research Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27chips-01-1-d8fc/27chips-01-1-d8fc-moth.jpg" width="151"></media:content>
+      <media:credit>Steve Helber/Associated Press</media:credit>
+      <media:description>A Micron plant. U.S. chip makers have pledged huge expansions in domestic manufacturing, betting on a growing need for their products and the prospects of federal subsidies.</media:description>
+    </item>
+    <item>
+      <title>Biden Hopes to Amplify Contrast With Republicans on Economic Policy</title>
+      <link>https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html" rel="standout"></atom:link>
+      <description>Visiting Syracuse, N.Y., which has benefited from recent legislation, the president will point to his administration’s efforts to lower costs for families.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 13:57:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/business/26BIGTECH-microsoft/merlin_174848253_d02fd49e-58c5-4e18-884c-6a84b3a1e7c5-moth.jpg" width="151"></media:content>
-      <media:credit>Elaine Thompson/Associated Press</media:credit>
-      <media:description>Microsoft is one of several big tech companies saying that their businesses are cooling.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure Investment and Jobs Act (2021)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27dc-biden-1-f7ab/27dc-biden-1-f7ab-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Biden has struggled in recent weeks to persuade voters to view inflation as an issue that shows the contrast between him and Republicans, rather than a referendum on his presidency and policies.</media:description>
     </item>
     <item>
       <title>Covid, Flu and RSV Are Increasing Hospitalizations in NYC</title>
@@ -355,21 +379,16 @@
       <media:credit>Mark J. Rebilas/USA Today Sports, via Reuters</media:credit>
     </item>
     <item>
-      <title>Russians Know the Reality of War, and Many of Them Still Support Putin</title>
-      <link>https://www.nytimes.com/2022/10/27/opinion/russia-putin-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/russia-putin-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/russia-putin-war.html" rel="standout"></atom:link>
-      <description>It’s not as strange as it might seem.</description>
-      <dc:creator>Gulnaz Sharafutdinova</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 11:59:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/opinion/27sharafutinova-image/27sharafutinova-image-moth.jpg" width="151"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>A woman holding a poster that says “U.S., NATO, Hands Off Ukraine” in front of the United States Embassy in Moscow.</media:description>
+      <title>Protesters So Ill, They Couldn’t Get Arrested</title>
+      <link>https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/opinion/me-cfs-long-covid.html" rel="standout"></atom:link>
+      <description>Long Covid brought attention to M.E./C.F.S., a long-ignored illness whose sufferers are too sick to accelerate research by making trouble the way AIDS activists once did.</description>
+      <dc:creator>Zeynep Tufekci</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 11:03:24 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/opinion/27tufekci2/27tufekci2-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Blesener for The New York Times</media:credit>
+      <media:description>Therese Russo</media:description>
     </item>
     <item>
       <title>The Climate’s Improved Future</title>
@@ -452,6 +471,25 @@
       <media:description>Kanye West in Paris this month. </media:description>
     </item>
     <item>
+      <title>Shell Reports Earnings of $9.45 Billion, Its Second-Highest Profit</title>
+      <link>https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/business/shell-earnings-profit-oil-gas.html" rel="standout"></atom:link>
+      <description>The two European companies reported earnings totaling nearly $20 billion, partly on higher energy prices as Russia’s war in Ukraine continues.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 13:51:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shell Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Beurden, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Total SA</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27shell-1-e67f/27shell-1-e67f-moth.jpg" width="151"></media:content>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>Shell, the London-based energy giant, more than doubled the profit it made a year ago.</media:description>
+    </item>
+    <item>
       <title>China’s Chest-Thumping Nationalism Now Goes Too Far, Movement’s Godfather Says</title>
       <link>https://www.nytimes.com/2022/10/27/world/asia/china-nationalism-wang-xiaodong.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/asia/china-nationalism-wang-xiaodong.html</guid>
@@ -470,27 +508,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27china-profile-nationalist-01/27china-profile-nationalist-01-moth.jpg" width="151"></media:content>
       <media:credit>Gilles Sabrié for The New York Times</media:credit>
       <media:description>Wang Xiaodong in a Beijing bookstore in September.</media:description>
-    </item>
-    <item>
-      <title>Biden Hopes to Amplify Contrast With Republicans on Economic Policy</title>
-      <link>https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/us/politics/biden-inflation-syracuse.html" rel="standout"></atom:link>
-      <description>Visiting Syracuse, N.Y., which has benefited from recent legislation, the president will point to his administration’s efforts to lower costs for families.</description>
-      <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 13:57:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure Investment and Jobs Act (2021)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27dc-biden-1-f7ab/27dc-biden-1-f7ab-moth.jpg" width="151"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Biden has struggled in recent weeks to persuade voters to view inflation as an issue that shows the contrast between him and Republicans, rather than a referendum on his presidency and policies.</media:description>
     </item>
     <item>
       <title>It Takes a Lot of Elephant Brains to Solve This Mystery</title>

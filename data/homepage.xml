@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 17:33:27 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 17:21:19 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 17:48:28 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 17:43:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/business/dealbook/elon-musk-twitter-employee-payouts.html" rel="standout"></atom:link>
       <description>The social network’s new owner has just a few days to determine whether to pay millions to employees, or get rid of them.</description>
       <dc:creator>Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 14:45:49 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 17:36:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
@@ -96,24 +96,22 @@
       <pubDate>Fri, 28 Oct 2022 17:20:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, Jerry Lee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great Balls of Fire (Song)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Whole Lotta Shakin Goin On (Song)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sun Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercury Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great Balls of Fire (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Whole Lotta Shakin&#39; Goin&#39; On (Song)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/16/obituaries/00lewis_jerry_lee2/merlin_107592586_33db2236-9b00-4c6b-9292-ab058d17b42f-moth.jpg" width="151"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Jerry Lee Lewis in 1957. His incendiary performing style captured the essence of rock rebellion.</media:description>
     </item>
     <item>
       <title>Exxon and Chevron Rack Up Giant Profits</title>
-      <link>https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html" rel="standout"></atom:link>
-      <description>A fourth straight quarter of robust results came on the back of high oil and natural gas prices.</description>
+      <link>https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-profit-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-profit-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-profit-biden.html" rel="standout"></atom:link>
+      <description>Exxon Mobil and Chevron reported another round of strong profits. But they face political fire over gasoline prices, even as they fear a new downturn.</description>
       <dc:creator>Clifford Krauss</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 11:58:32 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 17:43:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -126,9 +124,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/business/28oil-alt/28oil-alt-moth.jpg" width="151"></media:content>
-      <media:credit>Kathleen Flynn/Reuters</media:credit>
-      <media:description>An Exxon Mobil refinery in Baton Rouge, La.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/business/28oil01/28-oil01-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <media:description>The high commodity prices and record profits through much of the year have increased political pressure on oil companies to increase production.</media:description>
     </item>
     <item>
       <title>The 2022 race for the House, in four districts, and four polls.</title>
@@ -246,7 +245,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html" rel="standout"></atom:link>
       <description>For countless Ukrainian children, the war has brought long-term physical and psychological injuries. Those who have suffered serious physical harm or the loss of a parent now face a challenging path forward.</description>
       <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:28:59 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 17:42:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>

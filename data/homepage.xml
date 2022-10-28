@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 16:53:17 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 16:50:14 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 17:05:51 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 17:04:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -85,6 +85,26 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/business/28twitter-trump-1/28twitter-trump-1-moth.jpg" width="151"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Elon Musk has said he believes the decision to ban former President Donald J. Trump was wrong.</media:description>
+    </item>
+    <item>
+      <title>Jerry Lee Lewis, a Rock ’n’ Roll Original, Dies at 87</title>
+      <link>https://www.nytimes.com/2022/10/28/arts/music/jerry-lee-lewis-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/arts/music/jerry-lee-lewis-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/arts/music/jerry-lee-lewis-dead.html" rel="standout"></atom:link>
+      <description>With his pounding piano, his impassioned vocals and his incendiary performing style, Mr. Lewis lived up to his nickname, the Killer.</description>
+      <dc:creator>William Grimes</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 17:01:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, Jerry Lee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great Balls of Fire (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Whole Lotta Shakin Goin On (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sun Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercury Records</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/16/obituaries/00lewis_jerry_lee2/merlin_107592586_33db2236-9b00-4c6b-9292-ab058d17b42f-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Jerry Lee Lewis in 1957. His incendiary performing style captured the essence of rock rebellion.</media:description>
     </item>
     <item>
       <title>Exxon and Chevron Rack Up Giant Profits</title>
@@ -253,27 +273,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-briefing-sobchak/28ukraine-briefing-sobchak-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Yuri Kadobnov</media:credit>
       <media:description>Ksenia Sobchak with President Vladimir V. Putin at the Kremlin in 2018, a day after he won the presidential election, in which she had also been a candidate. </media:description>
-    </item>
-    <item>
-      <title>Many UFO Reports Are Just Spy Drones or Airborne Trash</title>
-      <link>https://www.nytimes.com/2022/10/28/us/politics/ufo-military-reports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/us/politics/ufo-military-reports.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/us/politics/ufo-military-reports.html" rel="standout"></atom:link>
-      <description>Forget space aliens or hypersonic technology; classified assessments show that many episodes have ordinary explanations.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:19:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unidentified Flying Objects (UFO)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/28/us/28dc-UFO-photo/28xp-UFO-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Department of Defense, via Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>A video image by Navy pilots of an “unidentified aerial phenomena.”</media:description>
     </item>
     <item>
       <title>For Rishi Sunak, Family Wealth From Outsourcing Adds to a Secretive Fortune</title>
@@ -604,25 +603,19 @@
       <media:credit>Max Guther</media:credit>
     </item>
     <item>
-      <title>Book Review: ‘Ted Kennedy,’ by John A. Farrell</title>
-      <link>https://www.nytimes.com/2022/10/27/books/review/ted-kennedy-a-life-john-a-farrell.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/books/review/ted-kennedy-a-life-john-a-farrell.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/books/review/ted-kennedy-a-life-john-a-farrell.html" rel="standout"></atom:link>
-      <description>John A. Farrell’s “Ted Kennedy” is a sympathetic take on a complex life.</description>
-      <dc:creator>Thomas Mallon</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 20:36:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ted Kennedy: A Life (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farrell, John A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Edward M</category>
+      <title>Book Review: ‘The Seven Moons of Maali Almeida,’ by Shehan Karunatilaka</title>
+      <link>https://www.nytimes.com/2022/10/28/books/review/shehan-karunatilaka-seven-moons-maali-almeida.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/books/review/shehan-karunatilaka-seven-moons-maali-almeida.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/books/review/shehan-karunatilaka-seven-moons-maali-almeida.html" rel="standout"></atom:link>
+      <description>“The Seven Moons of Maali Almeida,” which won the 2022 Booker Prize, is an account of wartime Sri Lanka by the ghost of a photojournalist.</description>
+      <dc:creator>Randy Boyagoda</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 09:00:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 1980</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chappaquiddick (Mass)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/books/review/25Mallon1/25Mallon1-moth.jpg" width="151"></media:content>
-      <media:credit>George Tames/The New York Times</media:credit>
-      <media:description>Ted Kennedy, 1968</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karunatilaka, Shehan</category>
+      <category domain=""></category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/books/review/28karunatilaka-review/28karunatilaka-review-moth.jpg" width="151"></media:content>
+      <media:credit>Sena Vidanagama/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Colombo, Sri Lanka, in the 1990s. “The Seven Moons of Maali Almeida” examines life in Sri Lanka during its civil war.</media:description>
     </item>
     <item>
       <title>How to Solve Hard Crosswords</title>

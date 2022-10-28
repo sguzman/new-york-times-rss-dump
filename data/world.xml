@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 16:22:47 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 16:14:56 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 16:41:59 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 16:36:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html" rel="standout"></atom:link>
       <description>For countless Ukrainian children, the war has brought long-term physical and psychological injuries. Those who have suffered serious physical harm or the loss of a parent now face a challenging path forward.</description>
       <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:03:02 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 16:28:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/28/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Battles are raging in the south and the east as thick sludge complicates movement for both sides.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:14:56 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 16:36:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/-28ukraine-briefing-sectionfront-02/-28ukraine-briefing-sectionfront-02-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
@@ -250,6 +250,19 @@
       <media:description>A portrait of Prince Grigory Aleksandrovich Potemkin.</media:description>
     </item>
     <item>
+      <title>Russia’s Defense Minister Says Draft Is Complete, and No More Are Planned</title>
+      <link>https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html" rel="standout"></atom:link>
+      <description>Announced by Mr. Putin in September, the draft sent shock waves across Russia.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 16:33:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28ukraine-briefing-shoigu-01-1-da7f/28ukraine-briefing-shoigu-01-1-da7f-moth.jpg" width="151"></media:content>
+      <media:credit>Kirill Braga/Reuters</media:credit>
+      <media:description>Russian reservists training at a shooting range in the Volgograd region, Russia, last week.</media:description>
+    </item>
+    <item>
       <title>A Beginner’s Guide to the U.S. Midterm Elections</title>
       <link>https://www.nytimes.com/article/midterm-elections-basics-explained.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/midterm-elections-basics-explained.html</guid>
@@ -311,7 +324,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html" rel="standout"></atom:link>
       <description>Ksenia Sobchak entered Lithuania this week.</description>
       <dc:creator>Anatoly Kurmanaev</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:14:53 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 16:32:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobchak, Kseniya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -344,7 +357,6 @@
       <pubDate>Thu, 27 Oct 2022 23:38:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization for Security and Co-operation in Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization for Security and Cooperation in Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -1139,26 +1151,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/us/politics/25dc-NUKES_1/25dc-NUKES_1-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Ukrainian officials have accused Russia of secretly building dirty bombs at the Zaporizhzhia nuclear power plant.</media:description>
-    </item>
-    <item>
-      <title>Brittney Griner’s Prison Term Is Upheld by Russian Court</title>
-      <link>https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/brittney-griner-appeal-russia.html" rel="standout"></atom:link>
-      <description>The W.N.B.A. athlete is facing nine years in a Russian prison on a drug charge. A prisoner swap may be her only path home.</description>
-      <dc:creator>Ivan Nechepurenko, Neil MacFarquhar and Jonathan Abrams</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 01:02:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griner, Brittney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25ukraine-ledeall1/merlin_215445333_547a7cee-5b3d-4db2-89b4-993101fd6244-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Alexander Zemlianichenko</media:credit>
-      <media:description>Brittney Griner speaking with her lawyers in a courtroom in July. Addressing the court on Tuesday, she protested her unusually long sentence.</media:description>
     </item>
   </channel>
 </rss>

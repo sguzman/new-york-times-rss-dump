@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 13:18:49 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 13:13:21 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 13:48:31 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 13:40:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,9 +32,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murthy, N R Narayana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-1/28sunak-wealth-1-moth.jpg" width="151"></media:content>
-      <media:credit>Dan Kitwood/Getty Images</media:credit>
-      <media:description>Prime Minister Rishi Sunak of Britain.</media:description>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
+      <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
     </item>
     <item>
       <title>Mud Slows Ukraine’s Advance, but Fighting Remains Intense</title>
@@ -43,8 +43,8 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/28/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>Battles are raging in the south and the east as thick sludge complicates movement for both sides.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 13:13:21 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-briefing-header/28ukraine-briefing-header-moth.jpg" width="151"></media:content>
+      <pubDate>Fri, 28 Oct 2022 13:40:28 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-briefing-header/28ukraine-briefing-header-moth-v2.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A Ukrainian soldier giving candy to a child on Wednesday in a village in the Kherson region liberated from Russian forces earlier this month.</media:description>
     </item>
@@ -246,6 +246,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equality and Human Rights Commission (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>A Beginner’s Guide to the U.S. Midterm Elections</title>
+      <link>https://www.nytimes.com/article/midterm-elections-basics-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/midterm-elections-basics-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/article/midterm-elections-basics-explained.html" rel="standout"></atom:link>
+      <description>What’s at stake, and how does it work? Let’s start with the basics.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 13:28:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/28xp-midterm-beginner-lede-01/20daily-midterm-audio-app-moth-v7.jpg" width="151"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>State races could have a huge effect on issues like abortion rights and voting.</media:description>
     </item>
     <item>
       <title>Xi Jinping vs. the People</title>
@@ -1141,37 +1165,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-politics-ledeall-01/25uk-politics-ledeall-01-moth.jpg" width="151"></media:content>
       <media:credit>Dan Kitwood/Getty Images</media:credit>
       <media:description>Prime Minister Rishi Sunak of Britain speaks outside 10 Downing Street after taking office on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Your Wednesday Briefing: Tensions Rise in the West Bank</title>
-      <link>https://www.nytimes.com/2022/10/25/briefing/your-wednesday-briefing-tensions-rise-in-the-west-bank.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/briefing/your-wednesday-briefing-tensions-rise-in-the-west-bank.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/briefing/your-wednesday-briefing-tensions-rise-in-the-west-bank.html" rel="standout"></atom:link>
-      <description>Plus Myanmar’s junta kills dozens and Brittney Griner faces nine years in a Russian penal colony.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Tue, 25 Oct 2022 21:18:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kachin State (Myanmar)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">adidas AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Party (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/world/102622ambriefing-asia-promo/102622ambriefing-asia-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Mourners attended the funeral of Palestinians killed in an overnight Israeli raid, in the occupied West Bank city of Nablus on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

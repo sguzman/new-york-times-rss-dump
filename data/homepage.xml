@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 12:42:09 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 12:40:38 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 13:07:21 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 13:03:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html" rel="standout"></atom:link>
       <description>The world’s richest man closed his blockbuster purchase of the social media service, thrusting Twitter into a new era.</description>
       <dc:creator>Kate Conger and Lauren Hirsch</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 12:39:08 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 12:39:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -108,7 +108,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorsey, Jack</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/27/multimedia/278DB-Musk-1-607c/278DB-Musk-1-607c-moth.jpg" width="151"></media:content>
       <media:credit>Suzanne Cordeiro/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Chief Twit is in the house.</media:description>
+    </item>
+    <item>
+      <title>Intruder Assaults Nancy Pelosi’s Husband in Their San Francisco Home</title>
+      <link>https://www.nytimes.com/2022/10/28/us/politics/nancy-pelosi-husband-assaulted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/us/politics/nancy-pelosi-husband-assaulted.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/us/politics/nancy-pelosi-husband-assaulted.html" rel="standout"></atom:link>
+      <description>Paul Pelosi was hospitalized after the assault, a spokesman for Ms. Pelosi said. The House speaker was not in San Francisco at the time.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 13:01:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/00xp-pelosi-TOP-art/00xp-pelosi-TOP-art-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <media:description>Paul Pelosi, the husband of Speaker Nancy Pelosi, in March.</media:description>
     </item>
     <item>
       <title>Xi Jinping vs. the People</title>
@@ -123,25 +139,28 @@
       <media:credit>Noel Celis/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
-      <title>Bad News for the Fed As Inflation and Wages Continue to Climb Rapidly</title>
-      <link>https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html" rel="standout"></atom:link>
-      <description>The Federal Reserve’s preferred inflation measure showed that price gains remained fast in September, and a gauge of wages it watches closely is climbing quickly.</description>
-      <dc:creator>Jeanna Smialek and Ben Casselman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 12:40:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <title>Exxon and Chevron Rack Up Giant Profits</title>
+      <link>https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/business/energy-environment/exxon-chevron-quarterly-earnings.html" rel="standout"></atom:link>
+      <description>A fourth straight quarter of robust results came on the back of high oil and natural gas prices.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 11:58:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28dc-fed-1-e318/28dc-fed-1-e318-moth.jpg" width="151"></media:content>
-      <media:credit>Scott McIntyre for The New York Times</media:credit>
-      <media:description>Fed policymakers have been raising interest rates this year to try to cool down consumer demand, hoping to slow rapid inflation. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/business/28oil-alt/28oil-alt-moth.jpg" width="151"></media:content>
+      <media:credit>Kathleen Flynn/Reuters</media:credit>
+      <media:description>An Exxon Mobil refinery in Baton Rouge, La.</media:description>
     </item>
     <item>
       <title>With Recession Looming, Big European Economies Still Show Some Growth</title>
@@ -170,7 +189,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/business/gautam-adani-coal-climate.html" rel="standout"></atom:link>
       <description>The business decisions of Gautam Adani could go a long way in determining whether India helps the world avert a climate catastrophe.</description>
       <dc:creator>Emily Schmall and Hari Kumar</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 11:58:31 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 12:43:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adani, Gautam S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -199,14 +218,15 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davids, Sharice</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Titus, Dina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herrell, Yvette</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cartwright, Matthew A (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herrell, Yvette</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/us/embed-oct-district-polls-societal-economic-issues-promo/embed-oct-district-polls-societal-economic-issues-promo-moth.png" width="151"></media:content>
     </item>
     <item>
@@ -216,7 +236,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/us/politics/trump-republican-ads-midterms.html" rel="standout"></atom:link>
       <description>After wielding a bullhorn to shape Republican primaries, the former president has let other groups dominate the airwaves and cover the high cost of commercials.</description>
       <dc:creator>Michael C. Bender</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 07:00:08 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 07:00:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
@@ -319,7 +339,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/nyregion/nyc-salary-transparency-job-postings.html" rel="standout"></atom:link>
       <description>A new city law going into effect on Tuesday will require companies with at least four employees to post salary ranges for openings, even if the jobs involve remote or hybrid work.</description>
       <dc:creator>Matthew Haag</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 12:06:47 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 12:06:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
@@ -330,49 +350,26 @@
       <media:description>Starting in November a new law in New York City will require job postings in the city to include a salary range. </media:description>
     </item>
     <item>
-      <title>‘No Jobs Available’: The Feast or Famine Careers of America’s Port Drivers.</title>
-      <link>https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html" rel="standout"></atom:link>
-      <description>Consumer demand has cooled, leaving fewer containers to pick up on the West Coast. For Marshawn Jackson, a truck driver paid by the delivery, that means a hard scrabble to make ends meet.</description>
-      <dc:creator>Peter S. Goodman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Beach (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/business/28dray-1/28dray-1-moth.jpg" width="151"></media:content>
-      <media:credit>Brandon Pavan for The New York Times</media:credit>
-      <media:description>Mr. Jackson with his truck in a parking lot in Ontario, Calif.</media:description>
-    </item>
-    <item>
-      <title>For Rail Workers, Anger Persists Over Sick Leave</title>
-      <link>https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/business/railroad-workers-strike-threat.html" rel="standout"></atom:link>
-      <description>A tentative new contract brokered by the White House offered employees one day off, leaving some dissatisfied and raising the risk of another impasse.</description>
-      <dc:creator>Peter S. Goodman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of American Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brotherhood of Maintenance of Way Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paid Time Off</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/business/00railworkers-1/00railworkers-1-moth.jpg" width="151"></media:content>
-      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <title>For Rishi Sunak, Family Wealth From Outsourcing Adds to a Secretive Fortune</title>
+      <link>https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html" rel="standout"></atom:link>
+      <description>Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.</description>
+      <dc:creator>Jane Bradley</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 08:21:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infosys Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murty, Akshata</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murthy, N R Narayana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-1/28sunak-wealth-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Kitwood/Getty Images</media:credit>
+      <media:description>Prime Minister Rishi Sunak of Britain.</media:description>
     </item>
     <item>
       <title>The Rising Tide of Global Sadness</title>
@@ -488,26 +485,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
     </item>
     <item>
-      <title>For Rishi Sunak, Family Wealth From Outsourcing Adds to a Secretive Fortune</title>
-      <link>https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/rishi-sunak-family-wealth.html" rel="standout"></atom:link>
-      <description>Britain’s new prime minister married into an $800 million stake in Infosys, a company that does not fit neatly into his party’s views on immigration.</description>
-      <dc:creator>Jane Bradley</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 08:21:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infosys Technologies Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murty, Akshata</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murthy, N R Narayana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-1/28sunak-wealth-1-moth.jpg" width="151"></media:content>
-      <media:credit>Dan Kitwood/Getty Images</media:credit>
-      <media:description>Prime Minister Rishi Sunak of Britain.</media:description>
+      <title>‘No Jobs Available’: The Feast or Famine Careers of America’s Port Drivers.</title>
+      <link>https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/business/supply-chain-shipping-jobs.html" rel="standout"></atom:link>
+      <description>Consumer demand has cooled, leaving fewer containers to pick up on the West Coast. For Marshawn Jackson, a truck driver paid by the delivery, that means a hard scrabble to make ends meet.</description>
+      <dc:creator>Peter S. Goodman</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Beach (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/business/28dray-1/28dray-1-moth.jpg" width="151"></media:content>
+      <media:credit>Brandon Pavan for The New York Times</media:credit>
+      <media:description>Mr. Jackson with his truck in a parking lot in Ontario, Calif.</media:description>
     </item>
     <item>
       <title>Because of Bolsonaro, Millions of Brazilians Distrust Elections</title>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 02:48:51 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 02:34:06 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 03:35:08 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 03:17:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html" rel="standout"></atom:link>
       <description>The world’s richest man closed his blockbuster purchase of the social media service, thrusting Twitter into a new era.</description>
       <dc:creator>Kate Conger and Lauren Hirsch</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 02:30:33 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 03:17:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/us/politics/polls-swing-district-house-republicans-democrats.html" rel="standout"></atom:link>
       <description>Swing-district polls by The New York Times and Siena College show how the midterm races are being shaped by larger, surprising forces, beyond the traditional red and blue divide.</description>
       <dc:creator>Shane Goldmacher and Nate Cohn</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 23:59:42 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 03:09:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/nyregion/hochul-governor-zeldin-democratic.html" rel="standout"></atom:link>
       <description>Democrats and their allies are pouring millions of dollars into late-stage ads and get-out-the-vote efforts to help Gov. Kathy Hochul as she fends off her Republican challenger, Lee Zeldin.</description>
       <dc:creator>Luis Ferré-Sadurní and Nicholas Fandos</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 21:57:20 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 03:07:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
@@ -168,7 +168,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/27/us/climate-change-news-explained.html" rel="standout"></atom:link>
       <description>Recent headlines describe how war, government policies and other factors are affecting assessments of climate change. Is a chaotic future likely? Is there cause for optimism? Both can be true.</description>
       <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 02:11:57 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 02:54:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
@@ -461,9 +461,9 @@
       <link>https://www.nytimes.com/2022/10/27/us/oklahoma-house-fire.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/us/oklahoma-house-fire.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/27/us/oklahoma-house-fire.html" rel="standout"></atom:link>
-      <description>The episode, in a city near Tulsa, is being investigated as a homicide.</description>
+      <description>The deaths, in a city near Tulsa, are being investigated as homicide.</description>
       <dc:creator>Vimal Patel</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 02:15:07 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 03:06:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>

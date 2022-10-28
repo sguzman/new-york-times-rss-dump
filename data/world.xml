@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 08:55:14 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 08:33:26 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 09:05:03 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 09:00:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -274,6 +274,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/world/26china-police-1/26china-police-1-moth.jpg" width="151"></media:content>
       <media:credit>Bart Maat/EPA, via Shutterstock</media:credit>
       <media:description>The China embassy in The Hague. Dutch authorities are investigating reports that other Chinese-run offices are intimidating Chinese nationals. </media:description>
+    </item>
+    <item>
+      <title>Because of Bolsonaro, Millions of Brazilians Distrust Elections</title>
+      <link>https://www.nytimes.com/2022/10/28/world/americas/bolsonaro-supporters-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/americas/bolsonaro-supporters-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/world/americas/bolsonaro-supporters-election.html" rel="standout"></atom:link>
+      <description>President Jair Bolsonaro has attacked Brazil’s electronic voting system. Now, ahead of Sunday’s elections, many of his supporters believe there will be fraud.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brasilia (Brazil)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28brazil-bolsonaro-supporters-1/28brazil-bolsonaro-supporters-1-moth.jpg" width="151"></media:content>
+      <media:credit>Maria Magdalena Arrellaga for The New York Times</media:credit>
+      <media:description>Mr. Bolsonaro’s supporters focus their attention on a series of anecdotal apparent abnormalities in the voting process and results, as well as many conspiracy theories.</media:description>
     </item>
     <item>
       <title>Yu-Gi-Oh! Creator Kazuki Takahashi Died Trying to Save Others</title>
@@ -1099,31 +1116,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/world/102622ambriefing-asia-promo/102622ambriefing-asia-promo-moth.jpg" width="151"></media:content>
       <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
       <media:description>Mourners attended the funeral of Palestinians killed in an overnight Israeli raid, in the occupied West Bank city of Nablus on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Who Are Rishi Sunak’s Top Cabinet Ministers?</title>
-      <link>https://www.nytimes.com/2022/10/25/world/europe/sunak-cabinet-appointments.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/world/europe/sunak-cabinet-appointments.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/world/europe/sunak-cabinet-appointments.html" rel="standout"></atom:link>
-      <description>The new prime minister named people with high-level experience, several of them to posts they have held before, sending a message of stability after a period of upheaval.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 08:44:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raab, Dominic (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braverman, Suella</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallace, Ben</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gove, Michael Andrew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cleverly, James</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/world/25uk-cabinet-promo/25uk-cabinet-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Dan Kitwood/Getty Images</media:credit>
-      <media:description>Prime Minister Rishi Sunak of Britain appointed cabinet members on Tuesday, mostly drawing on lawmakers who have held prominent positions in the past.</media:description>
     </item>
   </channel>
 </rss>

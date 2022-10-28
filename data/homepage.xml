@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Oct 2022 20:34:39 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Oct 2022 20:31:47 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 20:44:23 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 20:39:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/technology/twitter-far-right-followers.html" rel="standout"></atom:link>
       <description>It’s unclear if the activity was driven by Elon Musk’s takeover of the company.</description>
       <dc:creator>Sheera Frenkel and Stuart A. Thompson</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 19:43:10 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 20:39:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -117,6 +117,41 @@
       <media:description>Jerry Lee Lewis in 1957. His incendiary performing style captured the essence of rock rebellion.</media:description>
     </item>
     <item>
+      <title>Scarred by War, Ukraine’s Children Face Years of Trauma</title>
+      <link>https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html" rel="standout"></atom:link>
+      <description>For countless Ukrainian children, the war has brought long-term physical and psychological injuries. Those who have suffered serious physical harm or the loss of a parent now face a challenging path forward.</description>
+      <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 20:17:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-children-trauma01-promo/28ukraine-children-trauma01-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Maryna Ponomariova, 6, whose left leg had to be amputated below the knee after a devastating attack on her home in Kherson, is now learning to walk again with the help of Nazar Borozniuk at Ohmadyt Children’s Hospital in Kviv, Ukraine, earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Ksenia Sobchak, a Kremlin Critic, Leaves Russia</title>
+      <link>https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html" rel="standout"></atom:link>
+      <description>Ksenia Sobchak entered Lithuania this week.</description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 16:32:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobchak, Kseniya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-briefing-sobchak/28ukraine-briefing-sobchak-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Yuri Kadobnov</media:credit>
+      <media:description>Ksenia Sobchak with President Vladimir V. Putin at the Kremlin in 2018, a day after he won the presidential election, in which she had also been a candidate. </media:description>
+    </item>
+    <item>
       <title>Bad News for the Fed As Inflation and Wages Continue to Climb Rapidly</title>
       <link>https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/fedeal-reserve-inflation-wages.html</guid>
@@ -207,41 +242,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/fashion/28DEPOT-SKELETON-TOP/28DEPOT-SKELETON-TOP-moth.jpg" width="151"></media:content>
       <media:credit>Bryan Anselm for The New York Times</media:credit>
       <media:description>Nicknamed Skelly, the product has roughly 164 plastic bones, or about 80 percent of the 206 in an adult human body.</media:description>
-    </item>
-    <item>
-      <title>Scarred by War, Ukraine’s Children Face Years of Trauma</title>
-      <link>https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ukraine-children-war.html" rel="standout"></atom:link>
-      <description>For countless Ukrainian children, the war has brought long-term physical and psychological injuries. Those who have suffered serious physical harm or the loss of a parent now face a challenging path forward.</description>
-      <dc:creator>Megan Specia and Brendan Hoffman</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 20:17:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-children-trauma01-promo/28ukraine-children-trauma01-moth.jpg" width="151"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Maryna Ponomariova, 6, whose left leg had to be amputated below the knee after a devastating attack on her home in Kherson, is now learning to walk again with the help of Nazar Borozniuk at Ohmadyt Children’s Hospital in Kviv, Ukraine, earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Ksenia Sobchak, a Kremlin Critic, Leaves Russia</title>
-      <link>https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/ksenia-sobchak-kremlin-critic-russia.html" rel="standout"></atom:link>
-      <description>Ksenia Sobchak entered Lithuania this week.</description>
-      <dc:creator>Anatoly Kurmanaev</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 16:32:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobchak, Kseniya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28ukraine-briefing-sobchak/28ukraine-briefing-sobchak-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Yuri Kadobnov</media:credit>
-      <media:description>Ksenia Sobchak with President Vladimir V. Putin at the Kremlin in 2018, a day after he won the presidential election, in which she had also been a candidate. </media:description>
     </item>
     <item>
       <title>World Series Preview: Philadelphia Has an Edge on Houston</title>

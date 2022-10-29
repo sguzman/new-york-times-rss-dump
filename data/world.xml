@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 20:02:04 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 20:00:35 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 20:20:03 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 20:20:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon" rel="standout"></atom:link>
       <description>Another 150 were reported injured when they were crushed during a Halloween celebration in Seoul on Saturday night.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 20:00:35 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 20:20:00 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-top-sub/29skoreal-stampede-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
       <media:description>A person being transported by ambulance from the popular nightlife district of Itaewon in Seoul on Sunday.</media:description>
@@ -124,7 +124,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Russian Defense Ministry said Moscow was halting participation in the United Nations-brokered agreement after what it said was a Ukrainian attack on its Black Sea Fleet in Crimea.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 19:59:02 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 20:18:30 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/29ukraine-briefing-header/29ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Steel tank barricades known as hedgehogs in Kyiv on Friday.</media:description>
@@ -280,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/29/world/europe/grain-deal-russia-ukraine.html" rel="standout"></atom:link>
       <description>The process required the collaboration of the two warring nations, along with Turkey and the United Nations.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 18:25:46 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 20:18:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/21/world/21ukraine-briefing-grain3/merlin_203942733_c128d082-d8a4-4dce-9451-94c1ae3e44f5-moth.jpg" width="151"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
@@ -605,14 +605,15 @@
       <description>The report, signed by Senator Richard Burr, foreshadows a new wave of political wrangling over Covid’s origins if Republicans gain control of the House or Senate.</description>
       <dc:creator>Benjamin Mueller and Carl Zimmer</dc:creator>
       <pubDate>Fri, 28 Oct 2022 00:13:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burr, Richard M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/science/LABLEAK-01/LABLEAK-01-moth.jpg" width="151"></media:content>
       <media:credit>Thomas Peter/Reuters</media:credit>

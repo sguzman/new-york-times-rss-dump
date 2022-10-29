@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 09:46:45 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 09:37:38 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 10:03:52 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 10:01:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>In the weeks since dozens of aerial attacks severely damaged 30 percent of the national power grid, workers have been racing to make repairs.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 09:37:38 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 10:01:02 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/29ukraine-briefing-header/29ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Steel tank barricades known as hedgehogs in Kyiv, on Friday.</media:description>
@@ -254,6 +254,18 @@
       <media:description>A polling station in May in Belfast, Northern Ireland. Sinn Fein’s victory that month was a watershed in the country’s politics.</media:description>
     </item>
     <item>
+      <title>One in Five Canadians Is Now an Immigrant, and the Nation Approves</title>
+      <link>https://www.nytimes.com/2022/10/29/world/canada/canada-immigration-support.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/canada/canada-immigration-support.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/canada/canada-immigration-support.html" rel="standout"></atom:link>
+      <description>Even as immigration has become increasingly divisive in many Western countries, particularly the United States, polls indicate that most Canadians support it.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 10:00:02 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28canadaletter-top/merlin_210693846_78595108-25b6-4fd4-a14f-ea95349b1be2-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>Immigrants now make up a record portion of Canada’s population.</media:description>
+    </item>
+    <item>
       <title>Ukraine’s Army Advances Toward Kherson, as Mud Season Arrives</title>
       <link>https://www.nytimes.com/2022/10/28/world/europe/ukraine-russia-kherson-bakhmut-sobchak.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/world/europe/ukraine-russia-kherson-bakhmut-sobchak.html</guid>
@@ -286,7 +298,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/28/world/europe/russia-draft-war.html" rel="standout"></atom:link>
       <description>Announced by Mr. Putin in September, the draft sent shock waves across Russia.</description>
       <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 21:27:49 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 09:57:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28ukraine-briefing-shoigu-01-1-da7f/28ukraine-briefing-shoigu-01-1-da7f-moth.jpg" width="151"></media:content>
       <media:credit>Kirill Braga/Reuters</media:credit>
@@ -1132,22 +1144,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26themorning-promo/26themorning-lead-1-d069-moth.jpg" width="151"></media:content>
       <media:credit>Jenny Kane/Associated Press</media:credit>
       <media:description>Social media companies are having a troubling year.</media:description>
-    </item>
-    <item>
-      <title>A 23-Million-Year-Old Fossil Is Carried Away by Parties Unknown</title>
-      <link>https://www.nytimes.com/2022/10/26/world/australia/new-zealand-whale-fossil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/world/australia/new-zealand-whale-fossil.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/world/australia/new-zealand-whale-fossil.html" rel="standout"></atom:link>
-      <description>The whale fossil, a cherished local attraction, was taken from a riverbank in broad daylight by two men with a rock saw and chisel, residents say.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 09:59:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Island (New Zealand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/world/26NZ-FOSSIL/26NZ-FOSSIL-moth.jpg" width="151"></media:content>
-      <media:credit>Bryan Le Dantec /Getty Images</media:credit>
-      <media:description>The town of Westport, on New Zealand’s remote West Coast, about 60 miles from where the fossil was taken.</media:description>
     </item>
   </channel>
 </rss>

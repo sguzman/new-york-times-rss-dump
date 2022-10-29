@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 08:21:22 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 08:04:35 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 08:37:15 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 08:31:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>In the weeks since dozens of aerial attacks severely damaged 30 percent of the national power grid, workers have been racing to make repairs.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 08:04:35 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 08:31:04 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/29ukraine-briefing-header/29ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Steel tank barricades known as hedgehogs in Kyiv, on Friday.</media:description>
@@ -42,6 +42,25 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/11/world/29oz-isis/11syria-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A scene at Al-Hol detention camp in Kurdish-controlled northern Syria in 2019. Around 55,000 people, mostly women and children, live there in difficult conditions.</media:description>
+    </item>
+    <item>
+      <title>At Least 45 Dead as Nalgae Makes Landfall in the Philippines</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/philippines-storm-nalgae.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/philippines-storm-nalgae.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/philippines-storm-nalgae.html" rel="standout"></atom:link>
+      <description>Severe Tropical Storm Nalgae made landfall early Saturday and was expected to continue bringing strong winds and torrential rain to large areas of the country through the weekend.</description>
+      <dc:creator>Jason Gutierrez and John Yoon</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 08:26:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maguindanao (Philippines)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29philippines-landslide/29philippines-landslide-moth.jpg" width="151"></media:content>
+      <media:credit>Philippines Marines Battalion Landing Team 5, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>The aftermath of a landslide, which was set off by the heavy rains of Nalgae, on Friday in the town of Parang in the Philippines.</media:description>
     </item>
     <item>
       <title>Scarred by War, Ukraine’s Children Face Years of Trauma</title>
@@ -234,25 +253,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadhimi, Mustafa al-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maliki, Nuri Kamal al-</category>
-    </item>
-    <item>
-      <title>Putin Wants to Divide Ukrainians. Mykolaiv Is a Test Case.</title>
-      <link>https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html" rel="standout"></atom:link>
-      <description>In a battered city on Ukraine’s southern coast, salt water runs from the taps and electricity is sporadic. Residents curse Russia, but also express frustration with their own leaders.</description>
-      <dc:creator>Andrew E. Kramer and Finbarr O’Reilly</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 12:00:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mykolaiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-mykolaiv-promo/27ukraine-mykolaiv-promo-moth.jpg" width="151"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
     </item>
     <item>
       <title>Ukraine’s Army Advances Toward Kherson, as Mud Season Arrives</title>
@@ -742,6 +742,25 @@
       <media:description>President Joe Biden met with Defense Department leaders on Wednesday as the White House signaled Russia remained committed to its war in Ukraine.</media:description>
     </item>
     <item>
+      <title>Putin Wants to Divide Ukrainians. Mykolaiv Is a Test Case.</title>
+      <link>https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/ukraine-mykolaiv-russia.html" rel="standout"></atom:link>
+      <description>In a battered city on Ukraine’s southern coast, salt water runs from the taps and electricity is sporadic. Residents curse Russia, but also express frustration with their own leaders.</description>
+      <dc:creator>Andrew E. Kramer and Finbarr O’Reilly</dc:creator>
+      <pubDate>Thu, 27 Oct 2022 12:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mykolaiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-mykolaiv-promo/27ukraine-mykolaiv-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+    </item>
+    <item>
       <title>War in Ukraine Likely to Speed, Not Slow, Shift to Clean Energy, I.E.A. Says</title>
       <link>https://www.nytimes.com/2022/10/27/climate/global-clean-energy-iea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/climate/global-clean-energy-iea.html</guid>
@@ -1134,34 +1153,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/business/00musk-geopolitics-1/00musk-geopolitics-1-moth.jpg" width="151"></media:content>
       <media:credit>Pool photo by Mark Schiefelbein</media:credit>
       <media:description>Elon Musk, center, met the Chinese Premier Li Keqiang in Beijing in 2019. Mr. Musk has been criticized for statements regarding China’s interest in Taiwan.</media:description>
-    </item>
-    <item>
-      <title>Read Your Way Through Istanbul</title>
-      <link>https://www.nytimes.com/2022/10/26/books/books-istanbul.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/books/books-istanbul.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/books/books-istanbul.html" rel="standout"></atom:link>
-      <description>Istanbul is unfathomable: old and new, real and surreal, melancholic and absurd. Elif Shafak, one of its foremost novelists, reveals its secrets.</description>
-      <dc:creator>Elif Shafak</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 09:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ottoman Empire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ali, Sabahattin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Bellaigue, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doerr, Anthony</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Enard, Mathias</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hughes, Bettany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kemal, Yasar (1992/93-2015)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pamuk, Orhan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sonmez, Burhan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Cloud Cuckoo Land (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Istanbul: A Tale of Three Cities (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Madonna in a Fur Coat (Book)</category>
-      <category domain="">literaryguides</category>
     </item>
   </channel>
 </rss>

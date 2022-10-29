@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 15:47:29 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 15:45:33 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 16:03:09 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 16:01:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,7 +95,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Russian defense ministry said Moscow was halting participation in the United Nations-brokered agreement after what it said was a Ukrainian attack on its Black Sea Fleet in Crimea.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 15:45:33 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 16:01:24 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/29ukraine-briefing-header/29ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Steel tank barricades known as hedgehogs in Kyiv, on Friday.</media:description>
@@ -256,6 +256,20 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/00meloni-msi-new-top-sub/00meloni-msi-new-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Gianni Cipriano for The New York Times</media:credit>
       <media:description>Supporters of Giorgia Meloni at her final campaign rally in Rome before the election in September.</media:description>
+    </item>
+    <item>
+      <title>Dozens of South Koreans Injured in Halloween Stampede</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/korea-halloween-stampede-itaewon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/korea-halloween-stampede-itaewon.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/korea-halloween-stampede-itaewon.html" rel="standout"></atom:link>
+      <description>Images showed firefighters carrying what looked like bodies covered with white sheets on stretchers to ambulances in the popular Itaewon neighborhood in Seoul.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 16:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
     </item>
     <item>
       <title>Garden Varieties</title>
@@ -1146,27 +1160,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/us/politics/26DC-disino_1/26DC-disino_1-moth.jpg" width="151"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
       <media:description>A priest blessed new military enlistees at a recruiting office in Moscow this month. By framing Ukraine as the potential nuclear aggressor, Russia can ratchet up tensions over escalating the war without incurring the wrath of its population or further undermining support for President Vladimir V. Putin.</media:description>
-    </item>
-    <item>
-      <title>Van Gogh and Monet Museum Protests Spark a Debate About Tactics</title>
-      <link>https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/climate/art-climate-protests-monet.html" rel="standout"></atom:link>
-      <description>The van Gogh and Monet paintings targeted in recent climate protests were unharmed. But a debate about tactics rages.</description>
-      <dc:creator>Cara Buckley</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 13:01:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Last Generation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louvre Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum Barberini</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Gallery (London)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26CLI-PROTESTS-01-1-c9f4/26CLI-PROTESTS-01-1-c9f4-moth.jpg" width="151"></media:content>
-      <media:credit>Letzte Generation, via Getty Images</media:credit>
-      <media:description>Climate activists poured mashed potatoes on the protective glass shielding a Monet painting in Potsdam, Germany, on Sunday.</media:description>
     </item>
   </channel>
 </rss>

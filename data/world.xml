@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 23:01:07 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 22:58:41 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 23:21:10 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 23:12:05 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon" rel="standout"></atom:link>
       <description>Another 150 were reported injured when they were crushed during a Halloween celebration in Seoul on Saturday night.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 22:58:41 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2022 23:12:05 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-top-sub/29skoreal-stampede-top-sub-moth.jpg" width="151"></media:content>
       <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
       <media:description>A person being transported by ambulance from the popular nightlife district of Itaewon in Seoul on Sunday.</media:description>
@@ -242,6 +242,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
+    </item>
+    <item>
+      <title>Survivor of Seoul Halloween Crowd Surge Describes Chaotic Scene</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/survivor-south-korea-stampede.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/survivor-south-korea-stampede.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/survivor-south-korea-stampede.html" rel="standout"></atom:link>
+      <description>One teenager and her friend were engulfed by the crowd but managed to crawl out, were pulled into a tavern by adults, then escaped by inching along alley walls.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 23:06:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/reader-center/29korea-crowdsurge-survivor358/29korea-crowdsurge-survivor358-moth.jpg" width="151"></media:content>
+      <media:credit>Lee Jin-Man/Associated Press</media:credit>
+      <media:description>Injured people are helped after deadly crowd surge on Saturday.</media:description>
     </item>
     <item>
       <title>Russia Withdraws From Grain Deal After Drone Attack on Black Sea Fleet</title>
@@ -1119,25 +1136,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/07/16/world/26ukraine-briefing-saudi-ukraine-1/26ukraine-briefing-saudi-ukraine-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Biden and the U.S. secretary of state, Antony J. Blinken, during a meeting in Jeddah, Saudi Arabia, in July.</media:description>
-    </item>
-    <item>
-      <title>WHO Lists Top Fungi Health Threats</title>
-      <link>https://www.nytimes.com/2022/10/26/health/who-fungi-infections-superbugs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/health/who-fungi-infections-superbugs.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/health/who-fungi-infections-superbugs.html" rel="standout"></atom:link>
-      <description>The pathogens cause infections that kill millions of people each year and often go undiagnosed. Even when identified, a growing number of infections is resistant to the current crop of drugs.</description>
-      <dc:creator>Andrew Jacobs</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 21:15:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Resistance (Microbial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Candida Auris (Fungus)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mucormycosis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/science/26WHO-FUNGI-01/26WHO-FUNGI-01-moth.jpg" width="151"></media:content>
-      <media:credit>Centers for Disease Control and Prevention</media:credit>
-      <media:description>Cultured Candida auris, right, and cultured Candida albicans.</media:description>
     </item>
   </channel>
 </rss>

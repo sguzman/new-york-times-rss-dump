@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Oct 2022 00:25:52 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Oct 2022 00:25:49 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 00:51:18 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2022 00:50:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Elon Musk Starts Putting His Imprint on Twitter</title>
+      <link>https://www.nytimes.com/2022/10/28/business/twitter-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/business/twitter-elon-musk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/business/twitter-elon-musk.html" rel="standout"></atom:link>
+      <description>The billionaire began as Twitter’s new owner by announcing a content moderation council and meeting employees, as some of the social media service’s users celebrated.</description>
+      <dc:creator>Kate Conger, Lauren Hirsch and Ryan Mac</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 23:38:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Stock Exchange</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28twitter-musk-1-bcc0/28twitter-musk-1-bcc0-moth.jpg" width="151"></media:content>
+      <media:credit>Odd Andersen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Elon Musk closed his $44 billion deal to buy the social media service on Thursday night.</media:description>
+    </item>
     <item>
       <title>Will Elon Musk Be Able to Keep Twitter’s Advertisers Happy?</title>
       <link>https://www.nytimes.com/2022/10/28/technology/musk-twitter-advertisers-general-motors.html</link>
@@ -55,7 +74,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anti-Defamation League</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28twitter-antisemitism-1/28twitter-antisemitism-1-moth.jpg" width="151"></media:content>
       <media:credit>Philip Pacheco/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Elon Musk in 2019. Mr. Musk said in a tweet on Friday that the company would not be making major content decisions or reinstating banned accounts until a “content moderation council” had been formed.</media:description>
+      <media:description>Mr. Musk has promised to loosen content moderation rules on Twitter in the name of “free speech.”</media:description>
     </item>
     <item>
       <title>The Rev. Calvin O. Butts III, Dynamic Harlem Pastor, Dies at 73</title>
@@ -392,6 +411,22 @@
       <media:description>Shoppers in New York this week. Friday’s Personal Consumption Expenditures report underlined that for now, demand remains strong.</media:description>
     </item>
     <item>
+      <title>Ex-Capitol Police Officer Found Guilty of Obstruction in Jan. 6 Case</title>
+      <link>https://www.nytimes.com/2022/10/28/us/jan-6-capital-officer-convicted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/us/jan-6-capital-officer-convicted.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/us/jan-6-capital-officer-convicted.html" rel="standout"></atom:link>
+      <description>A jury found that the man, Michael A. Riley, 51, had deleted Facebook messages in which he offered advice to a Jan. 6 rioter about how to avoid getting caught, prosecutors said.</description>
+      <dc:creator>Vimal Patel</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 00:25:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitol Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Capitol Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riley, Michael A (US Capitol Police Officer)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28xp-obstruction/28xp-obstruction-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Williams/Roll Call, via Getty Images</media:credit>
+      <media:description>Officer Michael Riley outside Capitol Police headquarters after being named Officer of the Month for February 2011 by the National Law Enforcement Officers Memorial Fund. He was convicted Friday of obstruction of justice in connection with the Jan. 6 riot.</media:description>
+    </item>
+    <item>
       <title>Kanye West Faces Costly Fallout </title>
       <link>https://www.nytimes.com/article/kanye-west-timeline.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/kanye-west-timeline.html</guid>
@@ -423,25 +458,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/00wall-verdict-1-ae17/00wall-verdict-1-ae17-moth.jpg" width="151"></media:content>
       <media:credit>John Minchillo/Associated Press</media:credit>
       <media:description>Timothy Shea was a central figure in raising $25 million for a barrier separating the United States from Mexico.</media:description>
-    </item>
-    <item>
-      <title>Menendez Inquiry Said to Involve Company That Certifies Halal Meat</title>
-      <link>https://www.nytimes.com/2022/10/28/nyregion/menendez-inquiry-halal-meat-company.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/nyregion/menendez-inquiry-halal-meat-company.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/nyregion/menendez-inquiry-halal-meat-company.html" rel="standout"></atom:link>
-      <description>Federal agents have been asking about IS EG Halal, a New Jersey firm that Egypt made its sole certifier for meat exports from America, an inquiry that appears to include Senator Robert Menendez of New Jersey.</description>
-      <dc:creator>Tracey Tully, Benjamin Weiser and William K. Rashbaum</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 00:21:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halal Foods and Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menendez, Robert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">IS EG Halal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/nyregion/28menendez-nj/28menendez-nj-moth.jpg" width="151"></media:content>
-      <media:credit>Bryan Anselm for The New York Times</media:credit>
-      <media:description>Senator Robert Menendez said on Friday he stands ready to help prosecutors “when and if they ask.”</media:description>
     </item>
     <item>
       <title>How to Help Someone With Depression</title>
@@ -511,7 +527,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/25/arts/music/natalia-lafourcade-de-todas-las-flores.html" rel="standout"></atom:link>
       <description>After years of recording homages to Latin American greats, the Mexican singer-songwriter re-emerges with an LP that features new collaborators, including Marc Ribot.</description>
       <dc:creator>Ed Morales</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 18:01:10 +0000</pubDate>
+      <pubDate>Wed, 26 Oct 2022 18:01:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lafourcade, Natalia</category>

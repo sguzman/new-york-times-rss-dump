@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 10:45:22 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 10:00:05 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 11:02:20 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 10:38:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -229,7 +229,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-explainer-top/29brazil-explainer-top-moth.jpg" width="151"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>Voting in the first round of presidential elections earlier this month in São Paulo.</media:description>
+      <media:description>A voter in the first round of presidential elections this month in São Paulo.</media:description>
     </item>
     <item>
       <title>World Series: Astros Framber Valdez Gets Over Failures in Game 2 Win</title>
@@ -366,6 +366,26 @@
       <media:credit>Getty Images </media:credit>
     </item>
     <item>
+      <title>Death Toll in Somalia Attack Rises to at Least 100</title>
+      <link>https://www.nytimes.com/2022/10/30/world/africa/somalia-shabab-terrorist-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/africa/somalia-shabab-terrorist-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/africa/somalia-shabab-terrorist-attack.html" rel="standout"></atom:link>
+      <description>The twin explosions were the deadliest terrorist attack in the country in five years and underscored the growing threat posed by the terrorist group Al Shabab.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 10:38:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mogadishu (Somalia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shabab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohamud, Hassan Sheikh</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30somalia/30somalia-moth.jpg" width="151"></media:content>
+      <media:credit>Hassan Ali Elmi/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Destroyed buildings in Mogadishu, Somalia, on Sunday, a day after twin car explosions targeted the Ministry of Education.</media:description>
+    </item>
+    <item>
       <title>Should a Park Include a Burial Ground? Residents of Newburgh, N.Y., Can’t Agree.</title>
       <link>https://www.nytimes.com/2022/10/26/arts/design/newburgh-african-american-burial-ground-olmsted-park.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/arts/design/newburgh-african-american-burial-ground-olmsted-park.html</guid>
@@ -441,29 +461,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/sports/26marathon-lynch-1/26marathon-lynch-1-moth.jpg" width="151"></media:content>
       <media:credit>Getty Images</media:credit>
       <media:description>Nnenna Lynch in 2016.</media:description>
-    </item>
-    <item>
-      <title>Swarms of Insects Can Create Electrical Charges, Study Finds</title>
-      <link>https://www.nytimes.com/2022/10/26/science/bees-locusts-electricity-charge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/science/bees-locusts-electricity-charge.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/science/bees-locusts-electricity-charge.html" rel="standout"></atom:link>
-      <description>Large groups of insects can create an electrical charge in the atmosphere comparable to that of storm clouds, a new study finds.</description>
-      <dc:creator>Oliver Whang</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 21:39:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grasshoppers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iScience (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/01/multimedia/26tb-electric-bugs-01-1-ffb4/26tb-electric-bugs-01-1-ffb4-moth.jpg" width="151"></media:content>
-      <media:credit>Ben Curtis/Associated Press</media:credit>
-      <media:description>A farmer’s daughter waves her shawl to chase away swarms of desert locusts from the family’s crops in Kenya in January 2020.</media:description>
     </item>
     <item>
       <title>RSV: What to Know About Symptoms, Transmission and Treatment</title>
@@ -543,23 +540,18 @@
       <media:credit>Byron Eggenschwiler</media:credit>
     </item>
     <item>
-      <title>‘Oh, I’ll Show You’: Paul Taylor and Alex Katz’s Long Collaboration</title>
-      <link>https://www.nytimes.com/2022/10/28/arts/dance/paul-taylor-alex-katz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/arts/dance/paul-taylor-alex-katz.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/arts/dance/paul-taylor-alex-katz.html" rel="standout"></atom:link>
-      <description>There were egos and clashes, but the choreographer and painter made 16 dances together over more than 50 years, work spotlighted in the Taylor company’s season.</description>
-      <dc:creator>Brian Seibert</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 13:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor, Paul, Dance Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Alex (1927- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Scudorama (Dance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sunset (Dance)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/arts/30TAYLOR-KATZ1b/30TAYLOR-KATZ1b-moth.jpg" width="151"></media:content>
-      <media:credit>Julieta Cervantes for The New York Times</media:credit>
-      <media:description>Eran Bugge and fellow dancers rehearsing “Diggity,” one of four classic Paul Taylor-Alex Katz collaborations to be featured during the Paul Taylor Dance Company’s two-week season at Lincoln Center.</media:description>
+      <title>An ‘Aggressive Love for Life’ Regardless of Life’s Challenges</title>
+      <link>https://www.nytimes.com/2022/10/28/style/barbara-torasso-bradley-carbone-wedding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/style/barbara-torasso-bradley-carbone-wedding.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/style/barbara-torasso-bradley-carbone-wedding.html" rel="standout"></atom:link>
+      <description>Months after Bradley Carbone met Barbara Torasso, he broke his neck snowboarding. A long recovery brought them closer together.</description>
+      <dc:creator>Tammy La Gorce</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 04:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/fashion/28VOWS-STANDARD/merlin_214328613_a4c3b4c5-6672-4f4f-8ec0-ef4e257c7c55-moth.jpg" width="151"></media:content>
+      <media:credit>Natalie Keyssar for The New York Times</media:credit>
+      <media:description>Bradley Carbone and Barbara Torasso celebrated their union with 300 friends and family at the Boom Boom Room on Sept. 26. “The thread that runs through this relationship is, we do everything as fully as possible,” Mr. Carbone said.</media:description>
     </item>
     <item>
       <title>How to Solve Hard Crosswords</title>

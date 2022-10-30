@@ -3,28 +3,33 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 00:56:21 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 00:44:58 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 01:34:28 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 01:33:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>At Least 149 Killed as Halloween Crowd Surge Turns Deadly in South Korea</title>
-      <link>https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon</guid>
-      <atom:link href="https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon" rel="standout"></atom:link>
-      <description>Another 150 were reported injured when they were crushed during a Halloween celebration in Seoul on Saturday night.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 00:10:36 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-top-sub/29skoreal-stampede-top-sub-moth.jpg" width="151"></media:content>
+      <title>At Least 149 Killed in Halloween Crowd Surge in Seoul</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html" rel="standout"></atom:link>
+      <description>As many as 100,000 people were celebrating in a popular nightlife district in the center of the South Korean capital.</description>
+      <dc:creator>Choe Sang-Hun, Chang Che and John Yoon</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 00:06:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-ledeall-01/29skoreal-stampede-ledeall-01-moth.jpg" width="151"></media:content>
       <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A person being transported by ambulance from the popular nightlife district of Itaewon in Seoul on Sunday.</media:description>
+      <media:description>Medical workers early Sunday transporting a victim of the Halloween crush in the Itaewon district of Seoul.</media:description>
     </item>
     <item>
       <title>With Western Weapons, Ukraine Is Turning the Tables in an Artillery War</title>
@@ -47,6 +52,42 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29ukraine-front-1/29ukraine-front-1-moth.jpg" width="151"></media:content>
       <media:credit>Finbarr O’Reilly for The New York Times</media:credit>
       <media:description>A team of Ukrainian soldiers armed a drone with bombs on Friday during a mission that destroyed a Russian armored personnel carrier on the front lines in the country’s southern Kherson region.</media:description>
+    </item>
+    <item>
+      <title>Brazil Confronts a Momentous Bolsonaro vs. Lula Election</title>
+      <link>https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html" rel="standout"></atom:link>
+      <description>Brazilians head to the polls on Sunday in an election between two political heavyweights that could have global repercussions.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 21:50:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Workers&#39; Party (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-election-1/29brazil-election-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Brazil’s far-right president, Jair Bolsonaro, is seeking a second term as he faces off against a leftist opponent and a former president, Luiz Inácio Lula da Silva.</media:description>
+    </item>
+    <item>
+      <title>Saudi Halloween: Once-Banned Holiday Now Haunted by Masked Monsters</title>
+      <link>https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html" rel="standout"></atom:link>
+      <description>Only a few years ago, a Halloween party meant arrest. Now, a government-sponsored “horror weekend” means sold-out costume shops and scary clowns. “Saudi is changing,” said a young man going as a wizard.</description>
+      <dc:creator>Vivian Nereim and Tamir Kalifa</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 17:44:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/us/politics/29saudi-halloween1/29saudi-halloween1-moth.jpg" width="151"></media:content>
+      <media:description>Mufleh al-Qahtani and Mubarak al-Qahtani in their car after buying Halloween costumes in Riyadh, the Saudi capital.</media:description>
     </item>
     <item>
       <title>Two Explosions Rock Busy Intersection in Mogadishu</title>
@@ -85,46 +126,13 @@
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
     </item>
     <item>
-      <title>Saudi Halloween: Once-Banned Holiday Now Haunted by Masked Monsters</title>
-      <link>https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/middleeast/halloween-saudi-arabia.html" rel="standout"></atom:link>
-      <description>Only a few years ago, a Halloween party meant arrest. Now, a government-sponsored “horror weekend” means sold-out costume shops and scary clowns. “Saudi is changing,” said a young man going as a wizard.</description>
-      <dc:creator>Vivian Nereim and Tamir Kalifa</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 17:44:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/us/politics/29saudi-halloween1/29saudi-halloween1-moth.jpg" width="151"></media:content>
-      <media:description>Mufleh al-Qahtani and Mubarak al-Qahtani in their car after buying Halloween costumes in Riyadh, the Saudi capital.</media:description>
-    </item>
-    <item>
-      <title>Bolsonaro vs. Lula: What to Know About Brazil’s Runoff Election </title>
-      <link>https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html" rel="standout"></atom:link>
-      <description>The vote comes after a long and ugly campaign that pits two major political figures against each other in race that has tested the country’s democracy.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 17:14:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-explainer-top/29brazil-explainer-top-moth.jpg" width="151"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>Voting in the first round of presidential elections earlier this month in São Paulo.</media:description>
-    </item>
-    <item>
       <title>Russia Says It’s Suspending Participation in Grain Deal With Ukraine</title>
       <link>https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news</guid>
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The Russian Defense Ministry said Moscow was halting participation in the United Nations-brokered agreement after what it said was a Ukrainian attack on its Black Sea Fleet in Crimea.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 22:04:26 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 01:20:31 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/29ukraine-briefing-header/29ukraine-briefing-header-moth.jpg" width="151"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Steel tank barricades known as hedgehogs in Kyiv on Friday.</media:description>
@@ -147,23 +155,6 @@
       <media:description>Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.</media:description>
     </item>
     <item>
-      <title>Australians Come Home After Years  in ISIS Detention Camp</title>
-      <link>https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html" rel="standout"></atom:link>
-      <description>Dozens more Australians, many of them children, are still being held in Syria, but there is hope that the government will soon sponsor more releases.</description>
-      <dc:creator>Natasha Frost and Livia Albeck-Ripka</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 17:42:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Al Hol Detention Camp (Syria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/11/world/29oz-isis/11syria-moth.jpg" width="151"></media:content>
-      <media:credit>Ivor Prickett for The New York Times</media:credit>
-      <media:description>A scene at Al-Hol detention camp in Kurdish-controlled northern Syria in 2019. Around 55,000 people, mostly women and children, live there in difficult conditions.</media:description>
-    </item>
-    <item>
       <title>At Least 45 Dead as Nalgae Makes Landfall in the Philippines</title>
       <link>https://www.nytimes.com/2022/10/29/world/asia/philippines-storm-nalgae.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/philippines-storm-nalgae.html</guid>
@@ -183,24 +174,33 @@
       <media:description>The aftermath of a landslide, which was set off by the heavy rains of Nalgae, on Friday in the town of Parang in the Philippines.</media:description>
     </item>
     <item>
-      <title>Brazil Confronts a Momentous Bolsonaro vs. Lula Election</title>
-      <link>https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/americas/brazil-bolsonaro-lula-presidential-election.html" rel="standout"></atom:link>
-      <description>Brazilians head to the polls on Sunday in an election between two political heavyweights that could have global repercussions.</description>
-      <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Sat, 29 Oct 2022 21:50:58 +0000</pubDate>
+      <title>Bolsonaro vs. Lula: What to Know About Brazil’s Runoff Election </title>
+      <link>https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/americas/brazil-presidential-election-explained.html" rel="standout"></atom:link>
+      <description>The vote comes after a long and ugly campaign that pits two major political figures against each other in race that has tested the country’s democracy.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 17:14:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Workers&#39; Party (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-election-1/29brazil-election-1-moth.jpg" width="151"></media:content>
-      <media:credit>Dado Galdieri for The New York Times</media:credit>
-      <media:description>Brazil’s far-right president, Jair Bolsonaro, is seeking a second term as he faces off against a leftist opponent and a former president, Luiz Inácio Lula da Silva.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-explainer-top/29brazil-explainer-top-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Voting in the first round of presidential elections earlier this month in São Paulo.</media:description>
+    </item>
+    <item>
+      <title>At Least 149 Killed as Halloween Crowd Surge Turns Deadly in South Korea</title>
+      <link>https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/29/world/korea-halloween-stampede-itaewon" rel="standout"></atom:link>
+      <description>Another 150 were reported injured when they were crushed during a Halloween celebration in Seoul on Saturday night.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 01:33:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-top-sub/29skoreal-stampede-top-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A person being transported by ambulance from the popular nightlife district of Itaewon in Seoul on Sunday.</media:description>
     </item>
     <item>
       <title>Scarred by War, Ukraine’s Children Face Years of Trauma</title>
@@ -242,23 +242,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
-    </item>
-    <item>
-      <title>At Least 149 Killed in Halloween Crowd Surge in Seoul</title>
-      <link>https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html" rel="standout"></atom:link>
-      <description>As many as 100,000 people were celebrating in a popular nightlife district in the center of the South Korean capital.</description>
-      <dc:creator>Choe Sang-Hun, Chang Che and John Yoon</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 00:06:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29skoreal-stampede-ledeall-01/29skoreal-stampede-ledeall-01-moth.jpg" width="151"></media:content>
-      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Medical workers early Sunday transporting a victim of the Halloween crush in the Itaewon district of Seoul.</media:description>
     </item>
     <item>
       <title>Survivor of Seoul Halloween Crowd Surge Describes Chaotic Scene</title>
@@ -366,6 +349,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28canadaletter-top/merlin_210693846_78595108-25b6-4fd4-a14f-ea95349b1be2-moth.jpg" width="151"></media:content>
       <media:credit>Ian Willms for The New York Times</media:credit>
       <media:description>Immigrants now make up a record portion of Canada’s population.</media:description>
+    </item>
+    <item>
+      <title>Australians Come Home After Years  in ISIS Detention Camp</title>
+      <link>https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/australia/isis-detention-australians-return.html" rel="standout"></atom:link>
+      <description>Dozens more Australians, many of them children, are still being held in Syria, but there is hope that the government will soon sponsor more releases.</description>
+      <dc:creator>Natasha Frost and Livia Albeck-Ripka</dc:creator>
+      <pubDate>Sat, 29 Oct 2022 17:42:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Al Hol Detention Camp (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/11/world/29oz-isis/11syria-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A scene at Al-Hol detention camp in Kurdish-controlled northern Syria in 2019. Around 55,000 people, mostly women and children, live there in difficult conditions.</media:description>
     </item>
     <item>
       <title>Ukraine’s Army Advances Toward Kherson, as Mud Season Arrives</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 09:46:31 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 09:45:56 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 10:01:35 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 10:00:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/south-korea-stampede-itaewon" rel="standout"></atom:link>
       <description>“I saw this sea of bodies come rushing toward us,” one woman said. The Halloween crowd surge in a nightlife district killed at least 153 people.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 09:26:59 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 10:00:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-carousel-81/30korea-crowdsurge-carousel-81-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A man bowed to the memorial for the victims of stempede in Itaewon, Seoul, on Oct. 30th, 2022, in Seoul, South Korea.</media:description>
@@ -255,6 +255,21 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
+    </item>
+    <item>
+      <title>The Family of a Victim of the Seoul Crowd Surge Tried Her Phone for Hours </title>
+      <link>https://www.nytimes.com/2022/10/30/world/asia/victim-family-wait.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/asia/victim-family-wait.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/asia/victim-family-wait.html" rel="standout"></atom:link>
+      <description>Shin Su-Bin was out celebrating Halloween with friends when her father saw reports of the deadly crush.</description>
+      <dc:creator>Lee Su-Hyun</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 10:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-victims-family-01/merlin_215700363_a602064c-dde4-4e22-96dc-9434242e3b7a-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Hannam Community Center on Sunday. People have been going to the center to find out about their loved ones after the crowd surge in the Itaewon neighborhood of Seoul.</media:description>
     </item>
     <item>
       <title>The Crowd Crush is Seoul Was Like a ‘Tsunami Wave’</title>
@@ -1102,23 +1117,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/science/27cli-energy-09/27cli-energy-09-moth.jpg" width="151"></media:content>
       <media:credit>Martin Meissner/Associated Press</media:credit>
       <media:description>Sheep grazing in front of a coal-fired power plant and wind turbines near Luetzerath, Germany, in October, 2022.</media:description>
-    </item>
-    <item>
-      <title>Australian Judge Orders New Trial in Rape Case That Shook Capital</title>
-      <link>https://www.nytimes.com/2022/10/26/world/asia/mistrial-bruce-lehrmann-brittany-higgins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/world/asia/mistrial-bruce-lehrmann-brittany-higgins.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/26/world/asia/mistrial-bruce-lehrmann-brittany-higgins.html" rel="standout"></atom:link>
-      <description>A former parliamentary staffer is accused of raping a colleague in the defense minister’s office. The judge said a juror had brought an article on sexual assault cases into the jury room against her instructions.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 04:29:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Higgins, Brittany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/26-oz-mistrial-1/26-OZ-HIGGINS-moth.jpg" width="151"></media:content>
-      <media:credit>Mick Tsikas/Australian Associated Press, via AP</media:credit>
-      <media:description>Bruce Lehrmann, 27, is charged with sexually assaulting a fellow parliamentary staffer, Brittany Higgins, in 2019.</media:description>
     </item>
   </channel>
 </rss>

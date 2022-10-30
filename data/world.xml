@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 11:29:49 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 11:29:40 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 11:48:22 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 11:48:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/south-korea-stampede-itaewon" rel="standout"></atom:link>
       <description>A crowd surge during a Halloween celebration in a nightlife district killed at least 153 people. Witnesses say police presence was scant, even though people were thronging the streets.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 11:29:40 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 11:43:39 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-carousel-81/30korea-crowdsurge-carousel-81-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A man bowed to the memorial for the victims of stempede in Itaewon, Seoul, on Oct. 30th, 2022, in Seoul, South Korea.</media:description>
@@ -250,6 +250,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
+    </item>
+    <item>
+      <title>Downtown Comebacks</title>
+      <link>https://www.nytimes.com/2022/10/30/briefing/downtown-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/briefing/downtown-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/briefing/downtown-america.html" rel="standout"></atom:link>
+      <description>The pandemic tested and reshaped the hearts of American cities.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 11:48:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/30-THE-MORNING-NL-PROMO/30-THE-MORNING-NL-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Downtown Chicago in August.</media:description>
     </item>
     <item>
       <title>Tensions Over Racism Rock Australian Netball</title>
@@ -1099,18 +1116,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26xp-mexico-city/26xp-mexico-city-moth.jpg" width="151"></media:content>
       <media:credit>ALFREDO ESTRELLA/Agence France-Presse — Getty Images</media:credit>
       <media:description>Mexico City (and most of the rest of Mexico) would stop springing forward and falling back under a measure passed Wednesday by the country’s Senate.</media:description>
-    </item>
-    <item>
-      <title>Putin begins a high-profile address amid fears that he is escalating the war.</title>
-      <link>https://www.nytimes.com/2022/10/27/world/europe/putin-will-give-a-high-profile-speech-amid-fears-he-is-escalating-the-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/putin-will-give-a-high-profile-speech-amid-fears-he-is-escalating-the-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/putin-will-give-a-high-profile-speech-amid-fears-he-is-escalating-the-war.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Anatoly Kurmanaev</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 14:30:11 +0000</pubDate>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-briefing-putin-speech/27ukraine-briefing-putin-speech-moth.jpg" width="151"></media:content>
-      <media:credit>Pool photo by Maksim Blinov</media:credit>
-      <media:description>President Vladimir V. Putin of Russia speaking at the Valdai Discussion Club meeting in Sochi, Russia, last October.</media:description>
     </item>
   </channel>
 </rss>

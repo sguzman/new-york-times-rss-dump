@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 12:03:37 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 12:01:03 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 12:24:38 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 12:18:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/south-korea-stampede-itaewon" rel="standout"></atom:link>
       <description>A crowd surge during a Halloween celebration in a nightlife district killed at least 153 people. Witnesses say police presence was scant, even though people were thronging the streets.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 12:01:03 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 12:15:05 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-carousel-81/30korea-crowdsurge-carousel-81-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A man bowed to the memorial for the victims of stempede in Itaewon, Seoul, on Oct. 30th, 2022, in Seoul, South Korea.</media:description>
@@ -85,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters will choose between two of the most influential political titans in the country’s modern history in a vote for the counry’s next president.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 11:59:26 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 12:18:36 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-election-1/29brazil-election-1-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Brazil’s far-right president, Jair Bolsonaro, is seeking a second term as he faces off against a leftist opponent and a former president, Luiz Inácio Lula da Silva.</media:description>
@@ -126,9 +126,9 @@
     </item>
     <item>
       <title>At Least 151 Killed in Halloween Crowd Surge in Seoul</title>
-      <link>https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead-.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/seoul-south-korea-dead.html" rel="standout"></atom:link>
       <description>As many as 100,000 people were celebrating in a popular nightlife district in the center of the South Korean capital.</description>
       <dc:creator>Choe Sang-Hun, Chang Che and John Yoon</dc:creator>
       <pubDate>Sun, 30 Oct 2022 02:23:10 +0000</pubDate>
@@ -267,6 +267,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/30-THE-MORNING-NL-PROMO/30-THE-MORNING-NL-1-moth-v2.jpg" width="151"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>Downtown Chicago in August.</media:description>
+    </item>
+    <item>
+      <title>Halloween Is a Recent Arrival in South Korea, but a Tradition in Itaewon</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/itaewon-halloween-south-korea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/itaewon-halloween-south-korea.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/itaewon-halloween-south-korea.html" rel="standout"></atom:link>
+      <description>As Seoul has grown more cosmopolitan, and an increasing number of South Koreans have lived abroad and returned, Halloween has become a more popular occasion.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 12:11:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-halloween/30korea-crowdsurge-halloween-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Halloween revelers in Itaewon in 2018.</media:description>
     </item>
     <item>
       <title>Tensions Over Racism Rock Australian Netball</title>
@@ -1099,23 +1111,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/climate/00cli-africagas1/00cli-africagas1-moth.jpg" width="151"></media:content>
       <media:credit>Andreas Rinke/Reuters</media:credit>
       <media:description>President Macky Sall of Senegal welcomed the German chancellor, Olaf Scholz, in May.</media:description>
-    </item>
-    <item>
-      <title>Mexico’s Senate Votes to Eliminate Daylight Saving Time</title>
-      <link>https://www.nytimes.com/2022/10/27/world/americas/mexico-daylight-saving-time.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/americas/mexico-daylight-saving-time.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/americas/mexico-daylight-saving-time.html" rel="standout"></atom:link>
-      <description>The measure, if signed by the president, would not affect the northern region of the country along the U.S. border.</description>
-      <dc:creator>April Rubin and Eduardo Medina</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 08:38:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Daylight Saving Time</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/26/multimedia/26xp-mexico-city/26xp-mexico-city-moth.jpg" width="151"></media:content>
-      <media:credit>ALFREDO ESTRELLA/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Mexico City (and most of the rest of Mexico) would stop springing forward and falling back under a measure passed Wednesday by the country’s Senate.</media:description>
     </item>
   </channel>
 </rss>

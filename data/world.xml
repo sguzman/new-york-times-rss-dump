@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 18:25:17 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 18:19:45 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 18:38:12 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 18:35:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters are choosing between two of the most influential political titans in the country’s modern history in a vote with major implications for Brazil and the world.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 18:19:45 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 18:35:14 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/XX-spanish-home-page-asset-1-706b/XX-spanish-home-page-asset-1-706b-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri para The New York Times</media:credit>
     </item>
@@ -280,6 +280,26 @@
       <media:description>Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.</media:description>
     </item>
     <item>
+      <title>How a Festive Night in Seoul Turned Deadly</title>
+      <link>https://www.nytimes.com/2022/10/30/world/asia/south-korea-itaewon-crowd-crush-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/asia/south-korea-itaewon-crowd-crush-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/asia/south-korea-itaewon-crowd-crush-victims.html" rel="standout"></atom:link>
+      <description>There were few police officers around as a mass of revelers swelled. From within the crowd came calls to “push, push” and a big shove, according to witnesses. Then, they began to fall.</description>
+      <dc:creator>Choe Sang-Hun, John Yoon, Paul Mozur, Victoria Kim, Lee Su-Hyun and Jin Yu Young</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 18:30:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30skorea-ledeall-01/30skorea-ledeall-01-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>A memorial on Sunday for the victims of the crowd surge in the Itaewon district of Seoul, the South Korean capital.</media:description>
+    </item>
+    <item>
       <title>For Many Disabled People, a Battle to Stay in Australia or New Zealand</title>
       <link>https://www.nytimes.com/2022/10/30/world/asia/migrant-disability-australia-new-zealand.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/asia/migrant-disability-australia-new-zealand.html</guid>
@@ -406,6 +426,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-halloween/30korea-crowdsurge-halloween-moth.jpg" width="151"></media:content>
       <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
       <media:description>Halloween revelers in Itaewon in 2018.</media:description>
+    </item>
+    <item>
+      <title>What to know about Brazil’s pivotal election.</title>
+      <link>https://www.nytimes.com/2022/10/30/world/americas/what-to-know-about-brazils-pivotal-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/americas/what-to-know-about-brazils-pivotal-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/americas/what-to-know-about-brazils-pivotal-election.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 16:15:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-election-explainer-VERSIONED-1-ca4d/30brazil-election-explainer-VERSIONED-1-ca4d-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Election officials carried out an audit of electronic voting machines at the Regional Electoral Court in São Paulo on Saturday.</media:description>
     </item>
     <item>
       <title>Tensions Over Racism Rock Australian Netball</title>
@@ -1074,45 +1106,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadhimi, Mustafa al-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maliki, Nuri Kamal al-</category>
-    </item>
-    <item>
-      <title>With Economy Reeling From Ukraine War, Egypt Secures $3 Billion I.M.F. Loan</title>
-      <link>https://www.nytimes.com/2022/10/27/world/middleeast/with-economy-reeling-from-ukraine-war-egypt-secures-3-billion-imf-loan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/middleeast/with-economy-reeling-from-ukraine-war-egypt-secures-3-billion-imf-loan.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/middleeast/with-economy-reeling-from-ukraine-war-egypt-secures-3-billion-imf-loan.html" rel="standout"></atom:link>
-      <description>The local currency had tumbled against the dollar, and food and energy prices soared in the wake of Russia’s February invasion of Ukraine, adding to the struggles of millions of Egyptians.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 18:09:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27egypt-economy-sub-01/27egypt-economy-sub-01-moth.jpg" width="151"></media:content>
-      <media:credit>Khaled Desouki/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A bustling street market in the center Cairo on Monday.</media:description>
-    </item>
-    <item>
-      <title>U.S. Program Aims to Keep Sensitive Weapons in Ukraine</title>
-      <link>https://www.nytimes.com/2022/10/27/us/politics/weapons-aid-ukraine-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/us/politics/weapons-aid-ukraine-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/us/politics/weapons-aid-ukraine-russia.html" rel="standout"></atom:link>
-      <description>Portable, lethal and high-tech munitions like Stinger and Javelin missiles are a focus of a monitoring program operating from the embassy in Kyiv.</description>
-      <dc:creator>Lara Jakes and John Ismay</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 23:44:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/us/politics/27dc-weapons_1/27dc-weapons_1-moth.jpg" width="151"></media:content>
-      <media:credit>Lynsey Addario for The New York Times</media:credit>
-      <media:description>An American volunteer teaching Ukrainian soldiers how to use a Javelin at a base outside Zaporizhzhia in South Eastern Ukraine.</media:description>
     </item>
   </channel>
 </rss>

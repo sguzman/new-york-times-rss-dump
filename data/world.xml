@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 15:24:26 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 15:19:26 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 15:36:55 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 15:29:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters are choosing between two of the most influential political titans in the country’s modern history in a vote with major implications for Brazil and the world.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 15:19:26 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 15:29:15 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/XX-spanish-home-page-asset-1-706b/XX-spanish-home-page-asset-1-706b-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri para The New York Times</media:credit>
     </item>
@@ -116,7 +116,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/russia-ukraine-war-news" rel="standout"></atom:link>
       <description>The top E.U. diplomat accused Russia of threatening a key export route for food, while Turkish officials sought to revive a deal they helped broker.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 14:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 15:24:29 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30ukraine-briefing-header-1am/30ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A resident who survived seven months under Russian occupation, in a village in the Kherson region of Ukraine, on Saturday.</media:description>
@@ -249,6 +249,33 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
+    </item>
+    <item>
+      <title>Palestinian Voters Debate Staying Home for Israeli Election</title>
+      <link>https://www.nytimes.com/2022/10/30/world/middleeast/israel-election-palestinians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/middleeast/israel-election-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/middleeast/israel-election-palestinians.html" rel="standout"></atom:link>
+      <description>As Israel prepares to go to the polls again, some of the voters who helped propel an Arab party into the governing coalition for the first time are worried about a lack of results.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 15:29:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bedouins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Negev Desert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ramallah (West Bank)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/Palestinian-voters01/Palestinian-voters01-moth.jpg" width="151"></media:content>
+      <media:credit>Mahmoud Illean/Associated Press</media:credit>
+      <media:description>An Israeli Arab voting in last year’s election. A million Palestinians are eligible to vote in Israel, 17 percent of the electorate.</media:description>
     </item>
     <item>
       <title>A Mother Mourns a Daughter Lost in the Seoul Crowd Surge</title>
@@ -1090,29 +1117,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/00israel-lebanon-01/00israel-lebanon-01-moth.jpg" width="151"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>Lebanese patrol boats in the Mediterranean Sea on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Pentagon’s Strategy Says China and Russia Pose Very Different Challenges</title>
-      <link>https://www.nytimes.com/2022/10/27/us/politics/biden-military-russia-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/us/politics/biden-military-russia-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/us/politics/biden-military-russia-china.html" rel="standout"></atom:link>
-      <description>A new document describes the military’s response to a new era in broad terms and guides Pentagon policy and budget decisions, but it lacks details.</description>
-      <dc:creator>Eric Schmitt, David E. Sanger and William J. Broad</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 20:59:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/us/politics/27DC-PENTAGON-STRATEGY_2/merlin_201292029_4abcfb96-1556-4ae5-a1af-ceec43b85a45-moth.jpg" width="151"></media:content>
-      <media:credit>Kenny Holston for The New York Times</media:credit>
-      <media:description>U.S. troops in Fort Bragg, N.C., prepared to deploy to Eastern Europe in early February in response to the crisis in Ukraine. </media:description>
     </item>
   </channel>
 </rss>

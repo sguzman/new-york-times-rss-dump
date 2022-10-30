@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 14:05:04 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 14:03:57 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 14:18:47 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 14:15:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/south-korea-stampede-itaewon" rel="standout"></atom:link>
       <description>A crowd surge during a Halloween celebration in a nightlife district killed at least 153 people. Witnesses say police presence was scant, even though people were thronging the streets.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 14:03:57 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 14:13:46 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-carousel-81/30korea-crowdsurge-carousel-81-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A man bowed to the memorial for the victims of stempede in Itaewon, Seoul, on Oct. 30th, 2022, in Seoul, South Korea.</media:description>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters are choosing between two of the most influential political titans in the country’s modern history in a vote for the country’s next president.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 13:46:17 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 14:15:34 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/29/world/29brazil-election-1/29brazil-election-1-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Brazil’s far-right president, Jair Bolsonaro, is seeking a second term as he faces off against a leftist opponent and a former president, Luiz Inácio Lula da Silva.</media:description>
@@ -266,6 +266,18 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30brazil-cannibalism-2/30brazil-cannibalism-2-moth.jpg" width="151"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>Jair Bolsonaro, then a congressman, and his son, Flávio, who filmed an interview in 2016 in which Mr. Bolsonaro said he would “eat an Indian.”</media:description>
+    </item>
+    <item>
+      <title>Why Did So Many More Women Than Men Die in the Itaewon Halloween Disaster?</title>
+      <link>https://www.nytimes.com/2022/10/29/world/asia/women-victims-korea-crowd-crush.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/29/world/asia/women-victims-korea-crowd-crush.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/29/world/asia/women-victims-korea-crowd-crush.html" rel="standout"></atom:link>
+      <description>Evidence that women may face greater risks in crowd crushes is inconclusive, an expert said.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 14:13:27 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-women/30korea-women-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
+      <media:description>There were several factors that could have led to higher fatalities in women.</media:description>
     </item>
     <item>
       <title>Expedition Finds Cameras Left by Yukon Mountaineers in 1937</title>
@@ -1110,19 +1122,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27china-foxconn-01/27china-foxconn-01-moth.jpg" width="151"></media:content>
       <media:credit>Gilles Sabrie for The New York Times</media:credit>
       <media:description>Workers walking out for a lunch break outside the Foxconn plant in Zhengzhou, China, in 2015.</media:description>
-    </item>
-    <item>
-      <title>The Climate’s Improved Future</title>
-      <link>https://www.nytimes.com/2022/10/27/briefing/un-report-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/briefing/un-report-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/briefing/un-report-climate-change.html" rel="standout"></atom:link>
-      <description>The world has made real progress on climate change.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 10:32:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/multimedia/27themorning-promo/27themorning-lead-2-1-dd33-moth.jpg" width="151"></media:content>
-      <media:credit>Walker Pickering for The New York Times</media:credit>
-      <media:description>Wind turbines in Western, Neb.</media:description>
     </item>
   </channel>
 </rss>

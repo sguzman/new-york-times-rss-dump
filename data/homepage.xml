@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 19:42:54 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 19:26:15 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 20:02:57 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 19:59:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -142,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/30/business/musk-tweets-hillary-clinton-pelosi-husband.html" rel="standout"></atom:link>
       <description>The tweet on Sunday posted an article that made baseless allegations about the attack on House Speaker Nancy Pelosi’s husband.</description>
       <dc:creator>Kurtis Lee</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 17:55:33 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 19:52:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
@@ -223,7 +223,7 @@
       <atom:link href="https://www.nytimes.com/2022/10/30/world/asia/india-bridge-collapse.html" rel="standout"></atom:link>
       <description>The bridge, in the state of Gujarat, was reopened recently after renovation.</description>
       <dc:creator>Sameer Yasir</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 19:26:15 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 19:59:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gujarat State (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -257,9 +257,9 @@
       <link>https://www.nytimes.com/2022/10/30/opinion/lets-pretend-for-a-minute-that-theres-just-biden-to-worry-about.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/opinion/lets-pretend-for-a-minute-that-theres-just-biden-to-worry-about.html</guid>
       <atom:link href="https://www.nytimes.com/2022/10/30/opinion/lets-pretend-for-a-minute-that-theres-just-biden-to-worry-about.html" rel="standout"></atom:link>
-      <description>If the elections were merely a referendum on two years of unified Democratic control, what would we see?</description>
+      <description>Looking at the midterms as a referendum.</description>
       <dc:creator>Ezra Klein</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 13:04:25 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 13:04:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -320,23 +320,6 @@
       <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
     </item>
     <item>
-      <title>Downtown Comebacks</title>
-      <link>https://www.nytimes.com/2022/10/30/briefing/downtown-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/briefing/downtown-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/30/briefing/downtown-america.html" rel="standout"></atom:link>
-      <description>The pandemic tested and reshaped the hearts of American cities.</description>
-      <dc:creator>German Lopez</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 11:48:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/30-THE-MORNING-NL-PROMO/30-THE-MORNING-NL-1-moth-v2.jpg" width="151"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Downtown Chicago in August.</media:description>
-    </item>
-    <item>
       <title>The Sunday Read: ‘Why We Take Animal Voyages’</title>
       <link>https://www.nytimes.com/2022/10/30/podcasts/the-daily/animal-voyages.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/podcasts/the-daily/animal-voyages.html</guid>
@@ -352,38 +335,48 @@
       <media:description>Yuki, whose name means “snow” in Japanese, at the Philadelphia Zoo.</media:description>
     </item>
     <item>
-      <title>Some good news on energy</title>
-      <link>https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/25/climate/energy-transition-solar-wind.html" rel="standout"></atom:link>
-      <description>Renewable sources made up the vast majority of new generating capacity last year, a new report found. But the world’s energy transition still needs to speed up.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Wed, 26 Oct 2022 22:37:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/climate/25cli-newsletter-solar/25cli-newsletter-solar-moth.jpg" width="151"></media:content>
-      <media:credit>Bing Guan/Reuters</media:credit>
-      <media:description>The Ivanpah Solar Electric Generating System in the Mojave Desert near Nipton, Calif.</media:description>
+      <title>Not the Daughter She Wanted</title>
+      <link>https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/26/podcasts/modern-love-not-the-daughter-she-wanted.html" rel="standout"></atom:link>
+      <description>When it comes to whom she loves, an immigrant daughter can’t make her mother happy. But she holds on to hope, as her mother always taught her to do.</description>
+      <pubDate>Wed, 26 Oct 2022 20:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/fashion/26MODERNLOVE-image/17MODERNLOVE-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
     </item>
     <item>
-      <title>Elon Owns Twitter + Apple’s Developer Tax + Meta’s Dismal Earning Report</title>
-      <link>https://www.nytimes.com/2022/10/28/podcasts/emergency-pod-elon-musk-owns-twitter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/podcasts/emergency-pod-elon-musk-owns-twitter.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/28/podcasts/emergency-pod-elon-musk-owns-twitter.html" rel="standout"></atom:link>
-      <description>The world’s richest man just closed the deal, promising that the company won’t become a ‘hellscape’, appointing himself ‘Chief Twit’ and promptly firing top executives.</description>
-      <dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Corey Schreppel, Dan Powell, Marion Lozano and Elisheba Ittoop</dc:creator>
-      <pubDate>Fri, 28 Oct 2022 12:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/podcasts/28Hard-fork-episode-4-elon-twitter-image-audio-app/28Hard-fork-episode-4-elon-twitter-image-audio-app-moth-v3.png" width="151"></media:content>
-      <media:credit>Photo Illustration: The New York Times; Photo: Jim Wilson/The New York Times</media:credit>
+      <title>When You’re Sick at Home</title>
+      <link>https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/25/dining/when-youre-sick-at-home.html" rel="standout"></atom:link>
+      <description>Your guide to eating well, even when you’re feeling low.</description>
+      <dc:creator>Nikita Richardson</dc:creator>
+      <pubDate>Tue, 25 Oct 2022 20:48:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/25/dining/25wte-sickdays-NL1/merlin_99139654_5714558b-8ab9-4613-80c5-e01372fc9bbd-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Russell for The New York Times</media:credit>
+      <media:description>The smoked brisket pho from Lucy’s Vietnamese in Brooklyn makes for a perfect recovery meal.</media:description>
+    </item>
+    <item>
+      <title>World Cup Dreams, Gone in an Instant</title>
+      <link>https://www.nytimes.com/2022/10/28/sports/soccer/world-cup-injuries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/28/sports/soccer/world-cup-injuries.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/28/sports/soccer/world-cup-injuries.html" rel="standout"></atom:link>
+      <description>For hundreds of the world’s best players, injury is the fear shadowing every step, every turn, every tackle as the World Cup looms.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Fri, 28 Oct 2022 15:15:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester United (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayern Munich (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kante, N&#39;Golo (1991- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/multimedia/28rory-varane-1-5bd3/28rory-varane-1-5bd3-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Hambury/EPA, via Shutterstock</media:credit>
+      <media:description>Manchester United defender Raphaël Varane is one of a handful of France players who will, or could, miss the World Cup through an untimely injury.</media:description>
     </item>
     <item>
       <title>New York to Pay $26 Million to Men Wrongly Convicted of Killing Malcolm X</title>

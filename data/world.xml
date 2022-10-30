@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 15:04:11 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 15:00:25 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 15:24:26 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 15:19:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/29/world/south-korea-stampede-itaewon" rel="standout"></atom:link>
       <description>A crowd surge during a Halloween celebration in a nightlife district killed at least 153 people. Witnesses say police presence was scant, even though people were thronging the streets.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 14:52:36 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 15:15:07 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/world/30korea-crowdsurge-carousel-81/30korea-crowdsurge-carousel-81-moth.jpg" width="151"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>A man bowed to the memorial for the victims of stempede in Itaewon, Seoul, on Oct. 30th, 2022, in Seoul, South Korea.</media:description>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters are choosing between two of the most influential political titans in the country’s modern history in a vote with major implications for Brazil and the world.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 15:00:25 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 15:19:26 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/XX-spanish-home-page-asset-1-706b/XX-spanish-home-page-asset-1-706b-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri para The New York Times</media:credit>
     </item>
@@ -249,6 +249,19 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/28/world/28sunak-wealth-4/28sunak-wealth-4-moth.jpg" width="151"></media:content>
       <media:credit>Mark Cuthbert/UK Press, via Getty Images</media:credit>
       <media:description>Mr. Sunak and his wife, Akshata Murty, during a reception to celebrate the British Asian Trust at the British Museum in February.</media:description>
+    </item>
+    <item>
+      <title>A Mother Mourns a Daughter Lost in the Seoul Crowd Surge</title>
+      <link>https://www.nytimes.com/2022/10/30/world/asia/victim-mother-mourns-daughter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/asia/victim-mother-mourns-daughter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/asia/victim-mother-mourns-daughter.html" rel="standout"></atom:link>
+      <description>Park Ga-young was a 19-year-old university student from a small town in South Korea who dreamed of studying fashion design in Canada.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 15:15:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
     </item>
     <item>
       <title>How Cannibalism Became a Top Issue in Brazil’s Election</title>
@@ -436,24 +449,20 @@
       <description>The residents of tiny Piombino understand the need to replace Russian gas imports. They just want a huge regasification vessel anchored somewhere else.</description>
       <dc:creator>Gaia Pianigiani</dc:creator>
       <pubDate>Sat, 29 Oct 2022 19:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Piombino (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francesco Ferrari</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ferrari, Francesco (Mayor)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brothers of Italy (Italian Political Party)</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/00italy-gas-top-01/00italy-gas-top-01-moth.jpg" width="151"></media:content>
       <media:credit>Chiara Negrello for The New York Times</media:credit>
       <media:description>The site in Piombino, Italy, where a 1,000-foot ship is to dock to prepare liquefied natural gas for onshore use.</media:description>
@@ -1104,26 +1113,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/us/politics/27DC-PENTAGON-STRATEGY_2/merlin_201292029_4abcfb96-1556-4ae5-a1af-ceec43b85a45-moth.jpg" width="151"></media:content>
       <media:credit>Kenny Holston for The New York Times</media:credit>
       <media:description>U.S. troops in Fort Bragg, N.C., prepared to deploy to Eastern Europe in early February in response to the crisis in Ukraine. </media:description>
-    </item>
-    <item>
-      <title>Foxconn’s Big iPhone Plant Hit by China’s Latest Covid Lockdown</title>
-      <link>https://www.nytimes.com/2022/10/27/world/asia/chinas-latest-covid-lockdown-affects-a-major-iphone-factory.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/asia/chinas-latest-covid-lockdown-affects-a-major-iphone-factory.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/asia/chinas-latest-covid-lockdown-affects-a-major-iphone-factory.html" rel="standout"></atom:link>
-      <description>An outbreak in Zhengzhou has sent an unknown number of workers at the city’s Foxconn plant into quarantine. It’s a bad time of year for output of iPhones to slow down.</description>
-      <dc:creator>Chang Che and Amy Chang Chien</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 21:06:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foxconn Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27china-foxconn-01/27china-foxconn-01-moth.jpg" width="151"></media:content>
-      <media:credit>Gilles Sabrie for The New York Times</media:credit>
-      <media:description>Workers walking out for a lunch break outside the Foxconn plant in Zhengzhou, China, in 2015.</media:description>
     </item>
   </channel>
 </rss>

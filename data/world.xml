@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2022 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 17:23:04 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Oct 2022 17:16:08 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 17:37:13 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 17:33:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/live/2022/10/30/world/brazil-presidential-election" rel="standout"></atom:link>
       <description>Voters are choosing between two of the most influential political titans in the country’s modern history in a vote with major implications for Brazil and the world.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 30 Oct 2022 17:16:08 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2022 17:33:19 +0000</pubDate>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/XX-spanish-home-page-asset-1-706b/XX-spanish-home-page-asset-1-706b-moth.jpg" width="151"></media:content>
       <media:credit>Dado Galdieri para The New York Times</media:credit>
     </item>
@@ -160,26 +160,25 @@
       <description>On the eve of Chancellor Olaf Scholz’s first trip to Beijing, concerns are growing that economic dependence on China is leaving his country vulnerable — again.</description>
       <dc:creator>Katrin Bennhold and Erika Solomon</dc:creator>
       <pubDate>Sun, 30 Oct 2022 07:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BASF SE</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">COSCO Group (China Ocean Shipping Co)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daimler AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baerbock, Annalena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rottgen, Norbert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/00germany-china-top-Scholz/00germany-china-top-Scholz-moth.jpg" width="151"></media:content>
       <media:credit>Clemens Bilan/EPA, via Shutterstock</media:credit>
       <media:description>As Chancellor Olaf Scholz of Germany prepares for his first visit to Beijing on Thursday, the country’s intelligence chiefs and allies are warning him against pursuing business as usual with China.</media:description>
@@ -279,6 +278,23 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27israel-netanyahu-sub/27israel-netanyahu-sub-moth.jpg" width="151"></media:content>
       <media:credit>Amit Elkayam for The New York Times</media:credit>
       <media:description>Benjamin Netanyahu in his bulletproof vehicle this month during a campaign stop in Netivot, Israel.</media:description>
+    </item>
+    <item>
+      <title>Brazil’s Runoff Faces ‘Spiritual Warfare’ for Evangelical Voters</title>
+      <link>https://www.nytimes.com/2022/10/30/world/americas/brazil-election-evangelicals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/30/world/americas/brazil-election-evangelicals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/30/world/americas/brazil-election-evangelicals.html" rel="standout"></atom:link>
+      <description>Evangelical Christians make up 30 percent of the population and are a crucial voting bloc for President Jair Bolsonaro.</description>
+      <dc:creator>Flávia Milhorance</dc:creator>
+      <pubDate>Sun, 30 Oct 2022 17:33:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-religion02-1-c4b2/30brazil-religion02-1-c4b2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>Evangelical Christians praying during a service in São Paulo in 2021.</media:description>
     </item>
     <item>
       <title>A Mother Mourns a Daughter Lost in the Seoul Crowd Surge</title>
@@ -1099,23 +1115,6 @@
       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/27/world/27ukraine-potemkin-01/27ukraine-potemkin-01-moth.jpg" width="151"></media:content>
       <media:credit>Fine Art Images/Heritage Images, via Getty Images</media:credit>
       <media:description>A portrait of Prince Grigory Aleksandrovich Potemkin.</media:description>
-    </item>
-    <item>
-      <title>UK Tells Schools They Can’t Ban Afro Hairstyles</title>
-      <link>https://www.nytimes.com/2022/10/27/world/europe/uk-schools-afro-hair.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2022/10/27/world/europe/uk-schools-afro-hair.html</guid>
-      <atom:link href="https://www.nytimes.com/2022/10/27/world/europe/uk-schools-afro-hair.html" rel="standout"></atom:link>
-      <description>School rules about what styles are allowed that mostly affect Black and mixed-race children are likely to be illegal, a government rights commission said.</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Thu, 27 Oct 2022 21:44:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equality and Human Rights Commission (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
     </item>
   </channel>
 </rss>
